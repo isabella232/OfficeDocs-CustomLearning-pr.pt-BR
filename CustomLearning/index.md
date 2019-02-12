@@ -1,15 +1,15 @@
 ---
-author: karuang
+author: karuanag
 ms.author: karuanag
 title: Visão geral de aprendizado personalizado para solução de código aberto do Office 365
 ms.date: 02/10/2019
 description: Saiba como o aprendizado personalizado para o Office 365 pode acelerar uso e adoção do Office 365 em sua organização. Nossas soluções incluem uma web part do SharePoint Online personalizada e um site de treinamento de comunicação com SharePoint Online moderno facilmente é provisionado para seu locatário do Office 365.
-ms.openlocfilehash: 987e780cdfc86d60ddce4aede5919719127dc177
-ms.sourcegitcommit: 2d9b688171432fdf15c805f2abc415bb115d97d7
+ms.openlocfilehash: c47021a356bf9562e5f04c74f7b705f294518901
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "29886104"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29951225"
 ---
 # <a name="custom-learning-for-office-365"></a>Sinalizador de aprendizagem do Office 365
 
@@ -35,9 +35,9 @@ Selecione, instalar e configurar esse pacote de site de comunicação do SharePo
 
 ![Sinalizador de aprendizagem para o Web Part do Office 365](media/clo365customplaylist.png)
 
-## <a name="4-easy-steps"></a>4 etapas simples
+## <a name="3-easy-steps"></a>3 etapas simples
 
-Permite a [Introdução](getstarted.md) criando uma solução de treinamento simples com o Microsoft atualizado conteúdo.
+Permite a [Introdução](prereqs.md) criando uma solução de treinamento simples com o Microsoft atualizado conteúdo.
 
 1. Selecione o direito de solução para você
 2. Personalizar sua & de instalação completa seu conteúdo

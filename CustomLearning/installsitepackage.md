@@ -1,16 +1,25 @@
-# <a name="install-the-custom-learning-site-package"></a>Instalar o sinalizador Site pacote de aprendizagem
+---
+author: karuanag
+ms.author: karuanag
+title: Provisionar a experiência de site
+ms.date: 02/10/2019
+description: Provisionar o aprendizado personalizado para o site do Office 365
+ms.openlocfilehash: 567d8be831d5a6a4ed7ea74712d00f5996354cb2
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29951195"
+---
+# <a name="provision-the-custom-learning-site"></a>Provisionar o sinalizador Site de aprendizagem
 
-## <a name="prerequisite-for-installation"></a>Pré-requisito para instalação
-
-- Para instalar o pacote de site de aprendizado personalizado para seu locatário, você precisará ter permissões administrativas do Office 365.  Se você não tiver essas permissões, você pode trabalhar com o administrador do Office 365 ou instale a Web Part sozinha para um conjunto de sites individuais.
-- Convém considerar a instalação do pacote em um local de teste para se familiarizar com o conteúdo.  Se você tomar essa abordagem, que será necessário reinstalar o pacote no seu locatário de produção e recrie todas as personalizações que você concluiu durante o teste. 
-- Atualizações do conteúdo de treinamento de Web Part não terão efeito suas personalizações de página.
-- Oferecemos suporte para SharePoint Online somente. A web part não é o suporte para instalação em qualquer versão do SharePoint no local.
-
-## <a name="add-the-custom-learning-site-to-your-tenant"></a>Adicionar o site de aprendizado personalizado ao seu locatário 
-
-**1. adicionar estas instruções de pacote**
-
+1. Vá para http://provisioning.sharepointpnp.com e entrar usando suas credenciais para o destino de inquilinos planeja usar para a instalação. ![pnphome.png](media/pnphome.png)
+1. Marque os consentimento em nome de sua organização e selecione aceitar.
+1. Selecione o aprendizado personalizado para o Office 365 da Galeria de soluções. 
+1. Selecione Adicionar ao seu locatário 
+1. Ajuste seleções padrão na página provisionamento conforme necessário e selecione provisão quando estiver pronto para instalar o CLO365 em seu ambiente de locatário.  
+1. O processo de provisionamento levará até 15 minutos. Você será notificado por email (para o endereço de email de notificação que você inseriu na página provisionamento) quando o site está pronto para acesso. 
+1. Uma vez conectado ao CLO365 no seu locatário, favorito o site e copie a url para referência futura.  
 
 
 ## <a name="next-steps"></a>Próximas etapas
