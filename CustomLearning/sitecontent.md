@@ -1,47 +1,55 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Navegar no conteúdo do site e padrão
+title: Explorar o site e o conteúdo padrão
 ms.date: 02/10/2019
-description: Navegar no conteúdo do site e padrão
-ms.openlocfilehash: 1d8698b89741f6bfc9c4347c5d5b670e0680d81f
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+description: Explorar o site de aprendizado personalizado e o conteúdo padrão
+ms.openlocfilehash: 9672d001188634f6a319daf1f539b444b1ae33d0
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29951205"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989632"
 ---
-# <a name="browse-the-site-and-default-content"></a>Navegar no conteúdo do site e padrão
+# <a name="explore-the-site-and-default-content"></a>Explorar o site e o conteúdo padrão
 
 ![Seis etapas simples](media/clo365homepage.png)
 
-Agora que você instalou CLO365, é hora de fazer um tour do site. 
+### <a name="tour-the-site"></a>Tour pelo site 
 
-1. Navegue até a Home page e selecione o treinamento do Office 365. Isso exibirá a todo o conteúdo disponível dentro da Web part.
+Navegue até a página inicial e selecione treinamento do Office 365. Cada página no site do SharePoint Online é configurada para hospedar a Web Part do Microsoft Learning. Isso permite que a página exiba todo o conteúdo disponível na Web Part.
 
-![Web Part](media/webpart.PNG)
+![WebPart](media/webpart.PNG)
 
-2. Na barra de menu, aponte para o treinamento do Office 365 e selecione Introdução ao OneDrive. Nesse caso, a Web part filtra o conteúdo para mostrar somente OneDrive conteúdo, conforme mostrado na ilustração a seguir.
+Na barra de menus, selecione o item de navegação **treinamento do Office 365** e selecione **introdução ao onedrive**. Nesse caso, a Web Part filtra o conteúdo para mostrar apenas o conteúdo do OneDrive.
 
-{Inserir imagem}
+Repita essas etapas para as outras duas opções de menu, **comece** a usar o Microsoft Teams e comece a usar o **SharePoint Online** para revisar o conteúdo e testar a navegação.
 
-3. Repita essas etapas para as outras duas opções de menu, começar com equipes e introdução ao SharePoint Online para examinar seu conteúdo e testar o painel de navegação.
-
-{Inserir imagem} 
-
-4. Navegue de volta para a Home page e selecione Iniciar com seis etapas simples. Isso leva você à lista de reprodução de seis etapas simples conforme mostrado na ilustração a seguir.  
+Navegue de volta para a Home Page e selecione **Iniciar com seis etapas simples**. Isso leva você para a seis lista de reprodução simples de etapas.
 
 > [!TIP]
-> As seis etapas simples são derivadas de uma equipe de pesquisa da Microsoft. Essas são as etapas que pesquisadores Microsoft determinamos para ser mais adesivo, que significa que se os usuários passam por essas etapas, seu uso do Office 365 aumentará e eles se tornará funcionários mais produtivos. E o que é bom para todas as pessoas.
+> As seis etapas simples são derivadas de uma equipe de pesquisa da Microsoft. Estas são as etapas que os pesquisadores da Microsoft descobriram ser a mais adesiva, o que significa que os usuários passam por essas etapas, o uso do Office 365 aumentará e se tornará funcionários mais produtivos. E isso é bom para todos.
 
-Vá para iniciar com seis etapas de simples
-- Na Home page, clique em Iniciar com seis etapas simples. 
-- Você verá a página de treinamento do Office com a web part de aprendizado personalizado roteada para o início com a lista de reprodução seis etapas simples.  
+### <a name="go-to-start-with-six-simple-steps"></a>Vá para começar com seis etapas simples
+- Na Home Page, clique em iniciar com seis etapas simples. 
+- Você vê a página de treinamento do Office com a Web Part de aprendizado personalizada encaminhada para a lista de reprodução de etapas de início com seis etapas simples.  
 
-![Lista de reprodução de seis etapas](media/clo365sixsteps.png)
+![Lista de seis etapas](media/clo365sixsteps.png)
 
-Agora a seu site está configurado com o conteúdo correto seja exibido em cada página. Se você gostaria de personalizar o conteúdo de treinamento do site, consulte Custom aprendizagem para o guia do administrador do Office 365 para personalização. 
+### <a name="view-a-list-of-playlists-for-a-category"></a>Exibir uma lista de playlists para uma categoria
+
+Na página treinamento do Office 365, selecione treinamento do Excel para acessar uma lista de playlists de treinamento do Excel.
+
+![content_excel. png](media/content_excel.png)
+
+### <a name="view-a-playlist"></a>Exibir uma lista de reprodução
+
+Clique em **Bem-vindo ao Excel** para exibir a lista de reprodução
+
+![content_exwel. png](media/content_exwel.png)
+
+Agora, o site está configurado com o conteúdo correto exibido em cada página. 
 
 ## <a name="next-steps"></a>Próximas etapas
-[Personalizar o conteúdo do site](customization.md)
-[direcionar a adoção](driveadoption.md) 
+- [Personalizar conteúdo do site](customization.md)
+- [Adoção de drive](driveadoption.md) 

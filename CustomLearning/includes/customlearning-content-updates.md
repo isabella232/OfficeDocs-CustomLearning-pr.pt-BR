@@ -8,6 +8,59 @@
 
 | Publicado em |Título do tópico | Alteração |
 |------|------------|--------|
-| 1/28/2019 | [Diretrizes para a criação de equipes e canais](/Office365/CustomLearning/embeds/adopt-teams-channels) | adicionado |
-| 1/28/2019 | [Visão geral do sinalizador soluções pela Microsoft de aprendizagem](/Office365/CustomLearning/index) | adicionado |
-| 1/30/2019 | [Visão geral do sinalizador soluções pela Microsoft de aprendizagem](/CustomLearning/index) | modificado |
+| 1/28/2019 | [Diretrizes para a criação de equipes e canais](/Office365/CustomLearning/embeds/adopt-teams-channels) | adicioná |
+| 1/28/2019 | [Visão geral das soluções de aprendizado personalizadas da Microsoft](/Office365/CustomLearning/index) | adicioná |
+| 1/30/2019 | [Visão geral das soluções de aprendizado personalizadas da Microsoft](/CustomLearning/index) | modificado |
+
+
+## <a name="week-of-february-04-2019"></a>Semana de 04 de fevereiro de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 2/4/2019 | [# Day na vida com o Office 365-café da manhã](/Office365/CustomLearning/ditl_coffee) | modificado |
+| 2/4/2019 | [# Day na vida com o Office 365 – colaborando com colegas](/Office365/CustomLearning/ditl_collab) | adicioná |
+| 2/4/2019 | [# Day na vida com o Office 365 – em seu](/Office365/CustomLearning/ditl_commute) | adicioná |
+| 2/4/2019 | [# Day na vida com o Office 365 – conectando-se na empresa](/Office365/CustomLearning/ditl_connect) | adicioná |
+| 2/4/2019 | [# Day na vida com o Office 365 – reunião no escritório](/Office365/CustomLearning/ditl_meeting) | adicioná |
+| 2/4/2019 | [N º de links úteis para administradores usando o aprendizado personalizado para o Office 365](/Office365/CustomLearning/embeds/for_admins) | adicioná |
+| 2/4/2019 | [Visão geral do aprendizado personalizado para o Office 365 pela Microsoft](/Office365/CustomLearning/index) | modificado |
+| 2/4/2019 | [Práticas recomendadas do programa # Champion – especialista em adoção do serviço](/Office365/CustomLearning/champ_education) | adicioná |
+| 2/4/2019 | [Práticas recomendadas do # Champion Program – coletar comentários](/Office365/CustomLearning/champ_feedback) | adicioná |
+| 2/4/2019 | [Práticas recomendadas de programa do # Champion-encontre campeões](/Office365/CustomLearning/champ_findthem) | adicioná |
+| 2/4/2019 | [Práticas recomendadas para o programa # Champion](/Office365/CustomLearning/champ_getstarted) | adicioná |
+| 2/4/2019 | [Práticas recomendadas para o programa # Champion-guia de adoção do usuário final da Microsoft 365](/Office365/CustomLearning/champ_o365guide) | adicioná |
+| 2/4/2019 | [Práticas recomendadas para o programa # Champion-ingressar no programa campeões do Office 365](/Office365/CustomLearning/champ_o365program) | adicioná |
+| 2/4/2019 | [Práticas recomendadas do # Champion Program – orientações do mundo real](/Office365/CustomLearning/champ_realworldguides) | adicioná |
+| 2/4/2019 | [Práticas recomendadas para o programa # Champion](/Office365/CustomLearning/champ_whyadopt) | adicioná |
+
+
+## <a name="week-of-february-11-2019"></a>Semana de 11 de fevereiro de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 2/11/2019 | [# Forças da adoção do portal de aprendizado personalizado](/Office365/CustomLearning/driveadoption) | modificado |
+| 2/11/2019 | [Visão geral de aprendizagem personalizada para a solução de fonte aberta do Office 365](/Office365/CustomLearning/index) | modificado |
+| 2/12/2019 | [Perguntas frequentes sobre o aprendizado personalizado para as soluções do Office 365](/Office365/CustomLearning/faq) | adicioná |
+| 2/12/2019 | [Feedback e suporte](/Office365/CustomLearning/feedback) | modificado |
+| 2/12/2019 | [Visão geral de aprendizagem personalizada para a solução de fonte aberta do Office 365](/Office365/CustomLearning/index) | modificado |
+| 2/12/2019 | [ProVisionar a experiência do site](/Office365/CustomLearning/installsitepackage) | modificado |
+| 2/12/2019 | [Pré-requisitos para instalação](/Office365/CustomLearning/prereqs) | adicioná |
+| 2/12/2019 | [Pré-requisitos e decisões](/Office365/CustomLearning/servicedecisions) | renomeado |
+| 2/12/2019 | [Procurar o site e o conteúdo padrão](/Office365/CustomLearning/sitecontent) | modificado |
+| 2/12/2019 | [Personalizar a experiência de treinamento](/Office365/CustomLearning/sitesetup) | adicioná |
+| 2/13/2019 | [Adicionar Administrador ao catálogo de aplicativos do SharePoint Online](/Office365/CustomLearning/addappadmin) | adicioná |
+| 2/13/2019 | [Personalizar a experiência de treinamento](/Office365/CustomLearning/customization) | modificado |
+| 2/13/2019 | [Personalizar e compartilhar listas de reprodução](/Office365/CustomLearning/customplaylist) | modificado |
+| 2/13/2019 | [Visão geral de aprendizagem personalizada para a solução de fonte aberta do Office 365](/Office365/CustomLearning/index) | modificado |
+| 2/13/2019 | [ProVisionar a experiência do site](/Office365/CustomLearning/installsitepackage) | modificado |
+| 2/13/2019 | [Instalando a Web Part de solução de aprendizado personalizada](/Office365/CustomLearning/installwebpart) | modificado |
+| 2/13/2019 | [Pré-requisitos para instalação](/Office365/CustomLearning/prereqs) | modificado |
+| 2/13/2019 | [Pré-requisitos e decisões](/Office365/CustomLearning/servicedecisions) | modificado |
+| 2/13/2019 | [Procurar o site e o conteúdo padrão](/Office365/CustomLearning/sitecontent) | modificado |
+| 2/13/2019 | [ProVisionar o site de aprendizado personalizado](/Office365/CustomLearning/installsitepackage) | modificado |
+| 2/13/2019 | [Explorar o site e o conteúdo padrão](/Office365/CustomLearning/sitecontent) | modificado |
+| 2/14/2019 | [Personalizar a experiência de treinamento](/Office365/CustomLearning/customization) | modificado |
+| 2/15/2019 | [Visão geral](/Office365/CustomLearning/custom_overview) | adicioná |
+| 2/15/2019 | [Personalizar a experiência de treinamento](/Office365/CustomLearning/customization) | modificado |
