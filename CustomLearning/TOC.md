@@ -1,5 +1,6 @@
 # [Introdução](index.md)
-## [ProVisionar aprendizado personalizado](installsitepackage.md)
+## [Opções de configuração de aprendizagem personalizadas](custom_setupoptions.md)
+## [ProVisionar aprendizado personalizado](custom_provision.md)
 ## [Explorar o site de aprendizado personalizado](sitecontent.md)
 ## [Configuração de Web Part autônoma](custom_manualsetup.md)
 # [Personalizar a experiência de aprendizagem](custom_overview.md)
