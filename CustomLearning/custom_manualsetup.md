@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Configuração de Web Part autônoma
 ms.date: 02/10/2019
 description: Aprendizagem personalizada para a configuração da Web Part manual do Office 365
-ms.openlocfilehash: 650e6c12ebe8ca7fedc6edc107b5822c48ead99a
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.openlocfilehash: f5d94d673f491d5b5778ef73d518914dbd4cdbb9
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411871"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523055"
 ---
 # <a name="stand-alone-web-part-setup"></a>Configuração de Web Part autônoma
 
@@ -58,11 +58,23 @@ Parte dessa solução inclui consentimento de controle de telemetria anônimo, q
 
 Se você não estiver executando uma instalação manual e quiser desativar o rastreamento de telemetria, um script `TelemetryOptOut.ps1` separado foi incluído e, quando executado, o rastreamento de telemetria será desabilitado.
 
-## <a name="step-6---initialize-web-part-custom-configuration"></a>Etapa 6-inicializar a configuração personalizada da Web Part
-Após o script do PowerShell ser executado com êxito, navegue `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`até. Isso inicializa o item de lista **CustomConfig** que configura o aprendizado personalizado para seu primeiro uso.
+## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>Validar o êxito do provisionamento e inicializar a lista CustomConfig
 
-A configuração já está concluída. Para saber mais sobre como personalizar o site de aprendizado personalizado e a Web Part para seu ambiente, consulte [Customize The Training Experience](custom_overview.md).
+Depois que o script do PowerShell for executado com êxito, navegue até o site, inicialize o item de lista **CustomConfig** que configura o aprendizado personalizado para seu primeiro uso e validar o site está funcionando.
 
-### <a name="next-steps"></a>Próximas etapas
+1. Acesse `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Abrir **CustomLearningAdmin. aspx** Inicializa o item de lista **CustomConfig** que configura o aprendizado personalizado para o primeiro uso. Você verá uma página parecida com esta:
+
+![CG-adminapppage. png](media/cg-adminapppage.png)
+
+## <a name="add-owners-to-site"></a>Adicionar proprietários ao site
+Como administrador de locatários, é improvável que você seja a pessoa que personaliza o site, portanto, você precisará atribuir alguns proprietários ao site. Os proprietários têm privilégios administrativos no site para que eles possam modificar as páginas do site e remarcar o site. Eles também podem ocultar e mostrar o conteúdo fornecido por meio da Web Part de aprendizado personalizado. Além disso, eles terão a capacidade de criar uma lista de reprodução personalizada e atribuí-las às subcategorias personalizadas.  
+
+1. No menu **configurações** do SharePoint, clique em **permissões do site**.
+2. Clique em **configurações de permissão avançadas**.
+3. Clique em **aprendizagem personalizada para proprietários do Office 365**.
+4. Clique em **novo** > **Adicionar usuários a este grupo**e adicione as pessoas que você deseja que sejam proprietários. 
+5. Adicione um link para [explorar o site](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore) na mensagem de compartilhamento e clique em **compartilhar**.
+
+### <a name="next-steps"></a>Próximos passos
 - [Personalizar](custom_overview.md) a experiência de treinamento da sua organização.
 

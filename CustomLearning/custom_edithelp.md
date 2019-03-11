@@ -4,23 +4,23 @@ ms.author: pkrebs
 title: Personalizar o site de aprendizado personalizado
 ms.date: 02/15/2019
 description: Saiba mais sobre a variedade de personalizações disponíveis com o aprendizado personalizado para o Office 365
-ms.openlocfilehash: 998c99a9154440872b40acb8c894862ca6e0e2c6
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: e6f8ad87fcdb6cf50df2de2487d5eda6c689fd03
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103806"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30522975"
 ---
 # <a name="customize-the-site"></a>Personalizar o site
 
 O site de aprendizado personalizado é baseado em um modelo de comunicação do SharePoint, portanto, é fácil modificar o site para atender às necessidades da sua organização. Você pode alterar o nome, o logotipo, os itens de menu e o conteúdo das páginas do site. 
 
 > [!TIP]
-> Reúna comentários de seus funcionários e complete periodicamente personalizações adicionais.  Adicione listas de reprodução, páginas da Web de destino a funções específicas ou ative o novo conteúdo de treinamento ao iniciar novos serviços. 
+> Reúna comentários de seus funcionários e atualize periodicamente o site. Por exemplo, você pode atualizar o calendário de eventos de treinamento à medida que novos eventos são disponibilizados. Ao iniciar novos serviços, você pode Reexibir conteúdo e criar listas de reprodução de treinamento direcionadas para o lançamento dos novos serviços. 
 
-## <a name="customize-web-pages"></a>Personalizar páginas da Web
+## <a name="customize-the-site-and-web-pages"></a>Personalizar o site e páginas da Web
 
-O site de aprendizado personalizado é totalmente personalizável. Se você não estiver familiarizado com a criação de páginas em sites modernos do SharePoint Online, sugerimos que você leia o artigo [personalizar seu site do SharePoint](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) no support.Office.com. 
+O site de aprendizado personalizado é totalmente personalizável. Se você não estiver familiarizado com como personalizar seu site ou página da Web do SharePoint, sugerimos que você leia o artigo [personalizar seu site do SharePoint](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) no support.Office.com. 
 
 ### <a name="customize-ask-questions-and-get-help"></a>Personalizar perguntas de pergunta e obter ajuda
 

@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Explorar o site e o conteúdo padrão
 ms.date: 02/10/2019
 description: Explorar o site de aprendizado personalizado e o conteúdo padrão
-ms.openlocfilehash: c575afbe566100f8873ce1a174b7f389019c8daf
-ms.sourcegitcommit: c358dcc2d69cc3db8fd24a1011550edebe0721fe
+ms.openlocfilehash: 1dc8a0e27cad6843799ec4dfed3c324327c20741
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 03/10/2019
-ms.locfileid: "30518143"
+ms.locfileid: "30523035"
 ---
 # <a name="explore-the-custom-learning-site"></a>Explorar o site de aprendizado personalizado
 
@@ -19,7 +19,7 @@ ms.locfileid: "30518143"
 
 1.  Abra o navegador da Web e navegue até office.com ou o local de entrada da sua organização. 
 2.  Entre com seu nome de usuário e senha.
-3.  Navegue até o local do site usando a URL fornecida pelo administrador de locatários ou selecione SharePoint na home page do Office 365. 
+3.  Navegue até o local do site usando a URL fornecida pelo administrador de locatários ou selecione SharePoint na home page do Office 365 e, em seguida, selecione o site. 
 
 ![CG-Introducing. png](media/cg-introducing.png)
 

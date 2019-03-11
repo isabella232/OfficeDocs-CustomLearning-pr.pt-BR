@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Visão geral
 ms.date: 02/18/2019
 description: Visão geral do aprendizado personalizado para o Office 365 para administradores
-ms.openlocfilehash: 98187038b66252523c74d88dd9bfd0f217591bc5
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: 6aee3a93a5109b37e43a7118bd98ca31e8b9ac1f
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30087530"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523015"
 ---
 # <a name="customize-the-learning-experience"></a>Personalizar a experiência de aprendizagem
 
@@ -32,20 +32,23 @@ O aprendizado personalizado para o Office 365 (aprendizado personalizado para cu
 
 ## <a name="requirements-and-permissions"></a>Requisitos e permissões
 
-Antes de começar a usar este guia, verifique se a aprendizagem personalizada foi configurada pelo administrador de locatários do SharePoint. Se você não tiver certeza sobre a configuração, entre em contato com o administrador de locatários do SharePoint para verificar se o aprendizado personalizado foi instalado. Além disso, certifique-se de obter a URL do site do SharePoint de aprendizado personalizado. Se você for o administrador de locatários e o aprendizado personalizado não tiverem sido instalados, consulte o guia de instalação do aprendizado personalizado do Office 365. 
+Antes de começar a usar este guia, verifique se a aprendizagem personalizada foi configurada pelo administrador de locatários do SharePoint. Se você não tiver certeza sobre a configuração, entre em contato com o administrador de locatários do SharePoint para verificar se o aprendizado personalizado foi provisionado. Além disso, certifique-se de obter a URL do site do SharePoint de aprendizado personalizado. Se você for o administrador de locatários e o aprendizado personalizado não foram provisionados, consulte proVisionar o [aprendizado personalizado](custom_provision.md). 
 
-### <a name="permissions-to-install-custom-learning"></a>Permissões para instalar o aprendizado personalizado
+### <a name="permissions-to-provision-custom-learning"></a>Permissões para provisionar o aprendizado personalizado
 
-- Administrador global do Office 365
-- Administrador do SharePoint
+- Administrador de locatários, também conhecido como administrador global do Office 365
+- Administrador do conjunto de sites do SharePoint com permissões de proprietário no site
 
 ### <a name="permissions-to-use-custom-learning-administration-features"></a>Permissões para usar recursos personalizados de administração de aprendizado
 
-- Office 365 SharePoint Administrator/permissões de proprietário de site do SharePoint
-- Administrador do conjunto de sites do SharePoint/permissões de proprietário do site do SharePoint
+- Administrador de Conjunto de Sites
+- Proprietário do SharePoint ou permissões de membro
 
 ### <a name="permissions-to-use-the-custom-learning-site-as-a-user"></a>Permissões para usar o site de aprendizado personalizado como usuário
 
 - Office 365 permissões de usuário/permissões de visitante de site do SharePoint ou mais
 
+## <a name="get-started-with-customization"></a>Introdução à personalização
+Quando tiver certeza de que tem as permissões necessárias para personalizar o site e a Web Part, é hora de começar a usar o processo de personalização. 
 
+- Para começar, consulte [vá para o site de aprendizado personalizado](custom_goto.md).

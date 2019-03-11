@@ -1,7 +1,7 @@
 # [Introdução](index.md)
 ## [Opções de configuração de aprendizagem personalizadas](custom_setupoptions.md)
 ## [ProVisionar aprendizado personalizado](custom_provision.md)
-## [Explorar o site de aprendizado personalizado](sitecontent.md)
+## [Explorar o site de aprendizado personalizado](custom_exploresite.md)
 ## [Configuração de Web Part autônoma](custom_manualsetup.md)
 # [Personalizar a experiência de aprendizagem](custom_overview.md)
 ## [Vá para o site de aprendizado personalizado](custom_goto.md)
@@ -22,5 +22,6 @@
 # [Adoção de drive](driveadoption.md)
 # [Feedback e suporte](feedback.md)
 # [Perguntas Frequentes](faq.md)
+# [Perguntas frequentes sobre o parceiro](custom_partner.md)
 # [Atualização manual para aprendizagem personalizada](custom_upgrade.md)
 

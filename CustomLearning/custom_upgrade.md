@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Atualização de aprendizagem personalizada
 ms.date: 02/10/2019
 description: Aprendizagem personalizada para a configuração da Web Part manual do Office 365
-ms.openlocfilehash: f9729c922b374cc6b775737fa7c7c76a4719534c
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.openlocfilehash: 72ac6f7a135697b816f2decbf010ec439562598f
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411891"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523065"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>Atualização manual para aprendizagem personalizada
 
@@ -102,13 +102,12 @@ Com os aprimoramentos da nova Web Part, a forma de vincular a uma lista de repro
 Para garantir que as listas de reprodução funcionem corretamente, qualquer lista de reprodução que tenha sido criada com a versão anterior da Web Part precisará ser recriada. Antes de excluir as listas de reprodução, faça uma lista das listas de reprodução e dos ativos associados para que você possa recriá-las facilmente com a nova Web Part de aprendizado personalizado. Faça uma cópia de uma lista de reprodução e, em seguida, exclua-a. Você pode usar o campo JSONData para fazer uma cópia do conteúdo de uma lista de reprodução antes de excluir. Isso facilitará a criação mais tarde.
 
 
-• No site de aprendizado personalizado, clique em configurações > conteúdo do site. • Selecione uma lista de reprodução, selecione as reticências, selecione Editar e copie o conteúdo do campo JSONData e salve no bloco de notas ou em um documento separado para referência posterior. Selecione cancelar.
-• Selecione a lista de reprodução, selecione as reticências e, em seguida, selecione Excluir.
-• Agora você está pronto para recriar a lista de reprodução com a nova Web Part.
-Para obter instruções sobre como usar a nova Web Part de aprendizagem personalizada para o https://docs.microsoft.com/en-us/office365/customlearning/custom_overviewOffice 365, consulte.
+1. No site de aprendizado personalizado, clique em**conteúdo do site**de **configurações** > . 
+2. Selecione uma lista de reprodução, selecione as reticências, selecione **Editar**e copie o conteúdo do campo **JSONData** e salve no bloco de notas ou em um documento separado para referência posterior. Selecione **Cancelar**.
+3. Selecione a lista de reprodução, selecione as reticências e, em seguida, selecione **excluir**.
+4. Agora você está pronto para recriar a lista de reprodução com a nova Web Part.
+Para obter instruções sobre como usar a Web Part de aprendizagem personalizada para o Office 365, consulte [personalizar a experiência de aprendizado (custom_overview. MD).
 
-## <a name="step-8---chan"></a>Etapa 8-canal
-
-### <a name="next-steps"></a>Próximas etapas
+### <a name="next-steps"></a>Próximos passos
 - [Personalizar](custom_overview.md) a experiência de treinamento da sua organização.
 
