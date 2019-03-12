@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Configuração de Web Part autônoma
 ms.date: 02/10/2019
 description: Aprendizagem personalizada para a configuração da Web Part manual do Office 365
-ms.openlocfilehash: f5d94d673f491d5b5778ef73d518914dbd4cdbb9
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: c4f5d4c006d5f890428f8c49bf70ce0d41a6874f
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523055"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543741"
 ---
 # <a name="stand-alone-web-part-setup"></a>Configuração de Web Part autônoma
 
@@ -22,7 +22,7 @@ O aprendizado personalizado oferece uma configuração manual de Web Part autôn
 - Navegue até a página do site CustomLearningAdmin. aspx para carregar a Web Part de administração para inicializar a configuração de conteúdo personalizado.
 
 > [!NOTE]
-> Se você estiver procurando uma maneira rápida e fácil de configurar o aprendizado personalizado, confira proVisionar o [aprendizado personalizado](installsitepackage.md).
+> Se você estiver procurando uma maneira rápida e fácil de configurar o aprendizado personalizado, confira proVisionar o [aprendizado personalizado](custom_provision.md).
 
 ## <a name="prerequisites"></a>Pré-requisitos
 Para garantir uma configuração manual bem-sucedida da Web Part de aprendizado personalizada, os pré-requisitos a seguir devem ser atendidos. 
@@ -44,13 +44,18 @@ Para configurar o aprendizado personalizado para o Office 365, você carrega o a
 ## <a name="step-3---provisionidentify-a-modern-communication-site"></a>Etapa 3-proVisionar/identificar um site de comunicação moderna
 Identifique um site de comunicação existente do SharePoint ou provisione um novo em seu locatário do SharePoint Online. Para obter mais informações sobre como provisionar um site de comunicação, consulte [criar um site de comunicação no SharePoint Online](https://support.office.com/en-us/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) e siga as etapas para criar um site de comunicação.
 
-## <a name="step-4---set-permissions-for-the-site"></a>Etapa 4-definir permissões para o site
+## <a name="step-4---add-the-custom-learning-for-office-365-app-to-the-site"></a>Etapa 4: Adicionar o aplicativo de aprendizado personalizado para o Office 365 ao site
+
+1. No site do SharePoint, clique no menu sistema e, em seguida, clique em **Adicionar um aplicativo**. 
+2. Em **seus aplicativos**, clique em **da sua organização**e, em seguida, clique em **aprendizado personalizado para o Office 365**. 
+
+## <a name="step-5---set-permissions-for-the-site"></a>Etapa 5-definir permissões para o site
 Verifique se as seguintes permissões estão definidas para o site:
 - **Administrador do conjunto de sites ou parte do grupo proprietários** -permissões necessárias para inicializar o item de lista CustomConfig que configura o aprendizado personalizado para seu primeiro uso. 
 - **Grupo de membros** – permissons necessário para administrar o aprendizado personalizado, incluindo ocultar e Mostrar conteúdo e administrar playlists personalizadas
 - **Grupo de visitantes** -permissões necessárias para exibir o conteúdo do site. 
 
-## <a name="step-5--execute-powershell-configuration-script"></a>Etapa 5: executar o script de configuração do PowerShell
+## <a name="step-6--execute-powershell-configuration-script"></a>Etapa 6: executar o script de configuração do PowerShell
 Um script `CustomLearningConfiguration.ps1` do PowerShell é incluído, que você precisará executar para criar três [Propriedades de locatário](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) que a solução usa. Além disso, o script cria duas [páginas de aplicativo de parte única](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) na biblioteca de páginas do site para hospedar as Web Parts de administrador e usuário em um local conhecido.
 
 ### <a name="disabling-telemetry-collection"></a>Desabilitando a coleção de teleMetria
@@ -62,7 +67,7 @@ Se você não estiver executando uma instalação manual e quiser desativar o ra
 
 Depois que o script do PowerShell for executado com êxito, navegue até o site, inicialize o item de lista **CustomConfig** que configura o aprendizado personalizado para seu primeiro uso e validar o site está funcionando.
 
-1. Acesse `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Abrir **CustomLearningAdmin. aspx** Inicializa o item de lista **CustomConfig** que configura o aprendizado personalizado para o primeiro uso. Você verá uma página parecida com esta:
+- Acesse `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Abrir **CustomLearningAdmin. aspx** Inicializa o item de lista **CustomConfig** que configura o aprendizado personalizado para o primeiro uso. Você verá uma página parecida com esta:
 
 ![CG-adminapppage. png](media/cg-adminapppage.png)
 

@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: ProVisionar o site de aprendizado personalizado
 ms.date: 02/10/2019
 description: ProVisionar o aprendizado personalizado para o site do Office 365 por meio do mecanismo de provisionamento do SharePoint
-ms.openlocfilehash: 9b51bc284560e391b1fb81a34feb3cc2f5901bd2
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: 8fd6aa71aac7e0688e4c100c6ea40beabce5da73
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523045"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543751"
 ---
 # <a name="provision-custom-learning"></a>ProVisionar aprendizado personalizado 
 
@@ -17,9 +17,9 @@ Com o serviço de provisionamento do SharePoint Online, um administrador de loca
 
 ## <a name="prerequisites"></a>Pré-requisitos
  
-Para configurar com êxito o aprendizado personalizado com o serviço de provisionamento do serviço de [provisionamento do SharePoint Online](https://provisioning.sharepointpnp.com), a pessoa que está fazendo o provisionamento deve atender aos seguintes pré-requisitos: 
+Para configurar com êxito a aprendizagem personalizada com o serviço de provisionamento, a pessoa que está fazendo o provisionamento deve atender aos seguintes pré-requisitos: 
  
-- O aprendizado personalizado de provisionamento de pessoa deve ser um locatário Administratorof o locatário onde o aprendizado personalizado será provisionado.  
+- O aprendizado personalizado de provisionamento de pessoa deve ser um administrador de locatários do locatário onde o aprendizado personalizado será provisionado.  
 - Um catálogo de aplicativos do locatário deve estar disponível na opção aplicativos do centro de administração do SharePoint. Se sua organização não tiver um catálogo de aplicativos de locatário do SharePoint, consulte a [documentação do SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) para criar um.  
 - O aprendizado personalizado de provisionamento de pessoa deve ser um proprietário de conjunto de sites do catálogo de aplicativos do locatário. Se a pessoa que estiver Provisionando o aprendizado personalizado não for um proprietário do conjunto de sites do catálogo de aplicativos, [Complete estas instruções](addappadmin.md) e continue. 
 
@@ -33,11 +33,11 @@ Para configurar com êxito o aprendizado personalizado com o serviço de provisi
 
 ![no](media/inst_perms.png)
 
-3. Selecione **aprendizagem personalizada para o Office 365** na Galeria de soluções.
+3. Role para baixo na página, selecione a guia **soluções** e, em seguida, selecione **aprendizado personalizado para o Office 365**. 
 
 ![no](media/inst_select.png)
 
-4. Na página inicial da solução, selecione **Adicionar ao seu locatário**
+4. Selecione **Adicionar ao seu locatário**
 
 ![inst_select. png](media/inst_add.png)
 
@@ -50,7 +50,7 @@ Para configurar com êxito o aprendizado personalizado com o serviço de provisi
 6. Selecione **** provisionar quando estiver pronto para instalar o aprendizado personalizado no seu ambiente de locatário.  O processo de provisionamento levará até 15 minutos. Você será notificado por email (para o endereço de email de notificação que você inseriu na página de provisionamento) quando o site estiver pronto para o Access. 
 
 > [!IMPORTANT]
-> O administrador de locatários que provisiona o site de aprendizado personalizado deve ir para o site e, em seguida, abrir CustomLearningAdmin. aspx para inicializar as propriedades personalizadas de administração de aprendizado. No momento, o administrador de locatários também deve atribuir proprietários ao site. 
+> O administrador de locatários que provisiona o site de aprendizado personalizado deve ir para o site e, em seguida, abrir **CustomLearningAdmin. aspx** para inicializar as propriedades personalizadas de administração de aprendizado. No momento, o administrador de locatários também deve atribuir proprietários ao site. 
 
 ## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>Validar o êxito do provisionamento e inicializar a lista CustomConfig
 

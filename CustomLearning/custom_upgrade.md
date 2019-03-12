@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Atualização de aprendizagem personalizada
 ms.date: 02/10/2019
 description: Aprendizagem personalizada para a configuração da Web Part manual do Office 365
-ms.openlocfilehash: 72ac6f7a135697b816f2decbf010ec439562598f
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: 1dd9fd47b608a20ae0b1dc1937e48524547cc938
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523065"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543771"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>Atualização manual para aprendizagem personalizada
 
@@ -45,7 +45,12 @@ Para configurar o aprendizado personalizado para o Office 365, você carrega o a
 5. Na pasta onde você salvou o arquivo ZIP, selecione a pasta **WebPart** e, em seguida, selecione **customlearning. sppkg.**
 6. Clique em **Implantar**.
 
-## <a name="step-5--execute-powershell-configuration-script"></a>Etapa 5: executar o script de configuração do PowerShell
+## <a name="step-3---add-the-custom-learning-for-office-365-app-to-the-site"></a>Etapa 3: Adicionar o aplicativo de aprendizado personalizado para o Office 365 ao site
+
+1. No site do SharePoint, clique no menu sistema e, em seguida, clique em **Adicionar um aplicativo**. 
+2. Em **seus aplicativos**, clique em **da sua organização**e, em seguida, clique em **aprendizado personalizado para o Office 365**. 
+
+## <a name="step-4---execute-powershell-configuration-script"></a>Etapa 4-executar o script de configuração do PowerShell
 Um script `CustomLearningConfiguration.ps1` do PowerShell está incluído no download do zip no github. Você precisa executar o script para criar três [Propriedades de locatário](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) que a solução usa. Além disso, o script cria duas [páginas de aplicativo de parte única](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) na biblioteca de páginas do site para hospedar as Web Parts de administrador e usuário em um local conhecido. Essas páginas de aplicativos são:
 
 - CustomAdministration. aspx
@@ -57,18 +62,10 @@ Um script `CustomLearningConfiguration.ps1` do PowerShell está incluído no dow
 ### <a name="disabling-telemetry-collection"></a>Desabilitando a coleção de teleMetria
 O aprendizado personalizado inclui consentimento de controle de telemetria anônimo, que por padrão é definido como ativado. Se quiser desativar o rastreamento de telemetria, altere o `CustomlearningConfiguration.ps1` script para definir a `$optInTelemetry` variável como. `$false`
 
-## <a name="step-6---initialize-web-part-custom-configuration"></a>Etapa 6-inicializar a configuração personalizada da Web Part
+## <a name="step-5---initialize-web-part-custom-configuration"></a>Etapa 5-inicializar a configuração personalizada da Web Part
 Após o script do PowerShell ser executado com êxito, navegue `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`até. Abrir **CustomLearningAdmin. aspx** Inicializa o item de lista **CustomConfig** que configura o aprendizado personalizado para o primeiro uso. Você verá uma página parecida com esta:
 
 ![CG-adminapppage. png](media/cg-adminapppage.png)
-
-## <a name="add-owners-to-site"></a>Adicionar proprietários ao site
-Como administrador de locatários, é improvável que você seja a pessoa que personaliza o site, portanto, você precisará atribuir alguns proprietários ao site. Os proprietários têm privilégios administrativos no site para que eles possam modificar as páginas do site e remarcar o site. Eles também podem ocultar e mostrar o conteúdo fornecido por meio da Web Part de aprendizado personalizado. Eles também terão a capacidade de criar uma lista de reprodução personalizada e atribuí-las às subcategorias personalizadas.  
-
-1. No menu **configurações** do SharePoint, clique em **permissões do site**.
-2. Clique em **configurações de permissão avançadas**.
-3. Clique em **aprendizagem personalizada para proprietários do Office 365**.
-4. Clique em **novo** > **Adicionar usuários a este grupo**, adicione as pessoas que você deseja que sejam proprietários e clique em **compartilhar**.
 
 A atualização já está concluída. Para saber mais sobre como personalizar o site de aprendizado personalizado e a Web Part para seu ambiente, consulte [Customize The Training Experience](custom_overview.md).
 
