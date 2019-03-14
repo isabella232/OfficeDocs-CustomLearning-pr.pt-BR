@@ -4,16 +4,16 @@ ms.author: karuanag
 title: Pré-requisitos e decisões
 ms.date: 02/10/2019
 description: Decisões e informações de pré-requisitos para instalação e configuração de aprendizado personalizado
-ms.openlocfilehash: b498ba308a87cad7000a041676feeac44326d327
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: b7864d13e6ccd9c3b41e445ea491aed3b3471aff
+ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "29989702"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30408830"
 ---
 ## <a name="service-decisions"></a>Decisões de serviço
 
-Depois que seus pré-requisitos são atendidos e antes da instalação, você deve tomar as seguintes decisões sobre o implemenation do CLO365:
+Após garantir que os pré-requisitos para o aprendizado personalizado tenham sido atendidos, você precisará tomar as seguintes decisões sobre o seu implemenation de aprendizado personalizado:
 
 1. **Você já tem um portal de treinamento em sua empresa com uma interface moderna?**
 
