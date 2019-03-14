@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: ProVisionar o site de aprendizado personalizado
 ms.date: 02/10/2019
 description: ProVisionar o aprendizado personalizado para o site do Office 365 por meio do mecanismo de provisionamento do SharePoint
-ms.openlocfilehash: 8fd6aa71aac7e0688e4c100c6ea40beabce5da73
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 868708f9f096c84d5ebc5f9bc4e21e558da84d2b
+ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543751"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30577857"
 ---
 # <a name="provision-custom-learning"></a>ProVisionar aprendizado personalizado 
 
@@ -56,7 +56,7 @@ Para configurar com êxito a aprendizagem personalizada com o serviço de provis
 
 Quando o provisionamento é concluído, o administrador de locatários que provisionou o site recebe um email do serviço de provisionamento PnP. O email contém um link para o site. Neste ponto, o administrador de locatário deve ir para o site usando o link fornecido no email e configurar o site para o primeiro uso:
 
-1. Acesse `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Abrir **CustomLearningAdmin. aspx** Inicializa o item de lista **CustomConfig** que configura o aprendizado personalizado para o primeiro uso. Você verá uma página parecida com esta:
+- Acesse `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Abrir **CustomLearningAdmin. aspx** Inicializa o item de lista **CustomConfig** que configura o aprendizado personalizado para o primeiro uso. Você verá uma página parecida com esta:
 
 ![CG-adminapppage. png](media/cg-adminapppage.png)
 
@@ -67,7 +67,7 @@ Como administrador de locatários, é improvável que você seja a pessoa que pe
 2. Clique em **configurações de permissão avançadas**.
 3. Clique em **aprendizagem personalizada para proprietários do Office 365**.
 4. Clique em **novo** > **Adicionar usuários a este grupo**e adicione as pessoas que você deseja que sejam proprietários. 
-5. Adicione um link para [explorar o site](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore) na mensagem de compartilhamento e clique em **compartilhar**.
+5. Adicione um link para [explorar o site](custom_exploresite.md) na mensagem de compartilhamento e clique em **compartilhar**.
 
 ### <a name="next-steps"></a>Próximos passos
 - Explore o [conteúdo padrão](custom_exploresite.md) fornecido no site e na Web Part.
