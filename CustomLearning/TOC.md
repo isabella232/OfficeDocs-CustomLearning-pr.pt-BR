@@ -24,3 +24,4 @@
 # [Perguntas Frequentes](faq.md)
 # [Perguntas frequentes sobre o parceiro](custom_partner.md)
 # [Atualização manual para aprendizagem personalizada](custom_upgrade.md)
+# [Solucionando problemas de aprendizagem personalizada](custom_troubleshooting.md)
