@@ -5,17 +5,17 @@ title: Vá para o site de aprendizado personalizado para o Office 365
 ms.date: 02/18/2019
 description: Vá para o site de aprendizado personalizado
 ms.openlocfilehash: 3964d77ea207000b2fab0320e5bf2237f6e49e2a
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103756"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056175"
 ---
 # <a name="go-to-the-custom-learning-site"></a>Vá para o site de aprendizado personalizado
 
 O site de aprendizado personalizado para Office 365 está hospedado em seu locatário do Office 365, portanto, você precisará entrar no Office 365 para acessar o site. Se você ainda não tiver entrado no Office 365, entre agora. 
 
-## <a name="sign-in-to-office-365"></a>Entre no Office 365 
+## <a name="sign-in-to-office-365"></a>. 
 
 1.  Abra o navegador da Web e navegue até office.com ou o local de entrada da sua organização. 
 2.  Entre com seu nome de usuário e senha.

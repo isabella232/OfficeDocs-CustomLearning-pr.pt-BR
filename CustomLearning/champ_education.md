@@ -1,22 +1,22 @@
 ---
-título: ''
+Título: ''
 ms.openlocfilehash: 80f12da704ef2ea8304c49a7ede3d36e33375ae1
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733556"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055402"
 ---
-# <a name="validate-your-skills---become-a-service-adoption-specialist"></a>Validar suas habilidades - se tornar um especialista de adoção de serviço
+# <a name="validate-your-skills---become-a-service-adoption-specialist"></a>Validar suas habilidades-tornar-se um especialista de adoção de serviço
 
 ![Curso de especialista de adoção de serviço](media/champs_sascourse.png)
 
-Se a adoção de serviço é uma parte de sua função ou você deseja ir mais aprofundado com treinamento formal sobre esse tópico, que você pode se inscrever no curso online fornecido pela Microsoft em nosso site de parceiro, EdX.org. 
+Se a adoção do serviço fizer parte de sua função ou se você quiser se aprofundar no treinamento formal deste tópico, poderá inscrever-se no curso online fornecido pela Microsoft em nosso site de parceiros, EdX.org. 
 
-Este [curso online de especialista de adoção de serviço](https://aka.ms/AdoptionCert) estará **livre para auditoria**.  Se você gostaria de receber seu certificado EdX para a conclusão de uma taxa de US $99,00 é necessária.  Este curso foi criado por [Karuana Gatimu](https://linkedin.com/in/karuanagatimu) de engenharia de equipes da Microsoft com a entrada de vários especialistas do MVP da Microsoft e Microsoft IT.  As práticas recomendadas contidas tem sido obtidas do observando o setor como um todo e são complementares para um treinamento em gerenciamento de alteração organizacional formal.  
+Este [curso online de especialista em adoção de serviço](https://aka.ms/AdoptionCert) é **gratuito para auditoria**.  Se quiser receber o certificado do EdX para conclusão, é necessário ter uma taxa de $99.  Este curso foi criado pelo [Karuana Gatimu](https://linkedin.com/in/karuanagatimu) da engenharia do Microsoft Teams com entrada de vários especialistas em ti da Microsoft e de ti da Microsoft.  As práticas recomendadas contidas no foram coletadas de observar o setor como um todo e são complementares a uma educação formal de gerenciamento de alterações na organização.  
 
-Orientação prática, ferramentas e conteúdo adicional estão contidos neste curso que permitirá que você validar suas capacidades nesse recurso comercial importante.  
+Orientações práticas, ferramentas e conteúdo adicional estão contidos neste curso que permitirá que você valide seu skils nesse recurso de negócios importante.  
 
 Saiba mais em nosso [comunicado](https://aka.ms/AdoptionCertAnnouncement) sobre a publicação deste curso. 
 
-Ingressar na comunidade de usuários empresariais e aprendizado de profissionais de TI sobre a adoção em nossa online https://aka.ms/DriveAdoption. 
+Junte-se à nossa comunidade online de usuários corporativos e profissionais de https://aka.ms/DriveAdoptionti aprendendo sobre a adoção em. 

@@ -5,11 +5,11 @@ title: Perguntas frequentes sobre o parceiro
 ms.date: 3/9/2019
 description: Como o aprendizado personalizado para o Office 365 se compara às ofertas de parceiros de empresas que oferecem serviços de treinamento corporativo?
 ms.openlocfilehash: 5c1cdaabd3f506417607a80d7c058e61551fc332
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523577"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056347"
 ---
 # <a name="partner-frequently-asked-questions"></a>Perguntas frequentes sobre o parceiro
 

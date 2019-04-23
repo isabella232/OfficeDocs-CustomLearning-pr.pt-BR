@@ -5,11 +5,11 @@ title: Vincular a ativos de aprendizado personalizados
 ms.date: 02/15/2019
 description: Como vincular ativos de aprendizado personalizados
 ms.openlocfilehash: cdde37f370663ca50241833a15e8411921b45a1b
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103726"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056137"
 ---
 # <a name="link-to-custom-learning-content"></a>Link para conteúdo de aprendizado personalizado
 
@@ -32,7 +32,7 @@ Se você criou novas experiências de páginas e aprendizado com a Web Part de a
 5. Feche o painel Propriedades do herói, clique em **publicar**e, em seguida, teste o link. 
 
 ## <a name="link-to-the-custom-learning-web-part"></a>Link para a Web Part de aprendizado personalizado
-O aprendizado personalizado oferece a você, o administrador ou um usuário final, a capacidade de vincular a uma instância da Web Part independente da página que contém a Web Part. Você pode compartilhar o link copiado ou vinculá-lo a partir de outras páginas. O link copiado, quando clicado, mostra a instância de Web Part de aprendizado personalizada na página CustomLLearningViewer. aspx. Vamos ver um exemplo. 
+O aprendizado personalizado oferece a você, o administrador ou um usuário final, a capacidade de vincular a uma instância da Web Part independente da página que contém a Web Part. Você pode compartilhar o link copiado ou vinculá-lo a partir de outras páginas. O link copiado, quando clicado, mostra a instância de Web Part de aprendizado personalizada na página CustomLLearningViewer. aspx. Vejamos um exemplo. 
 
 1. Na Home Page, clique em **treinamento do Office 365**.
 2. Clique em **Microsoft Teams**e, em seguida, clique em **introdução ao Microsoft Teams**.

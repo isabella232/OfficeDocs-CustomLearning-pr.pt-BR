@@ -1,45 +1,45 @@
 ---
-título: ''
+title: ''
 ms.openlocfilehash: 0d5e92e85c686a97f0df10fbef222491ec317c60
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733552"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055381"
 ---
-# <a name="establish-champions-for-user-adoption"></a>Estabelecer campeões para a adoção de usuário 
+# <a name="establish-champions-for-user-adoption"></a>Estabelecer campeões para adoção do usuário 
 
-Gerenciamento de alteração organizacional é a arte de alterar o comportamento de um grupo-alvo de pessoas. Não há um grande volume de ciência e pesquisa essa prática de suporte. Nestes artigos, vamos para ajudá-lo a unidade a adoção dos serviços fundamentais que levará a resultados de negócios da sua empresa.  Seguir nossas práticas recomendadas para reduzir o tempo para a obtenção de valor mensurável do Office 365.  
+O gerenciamento de alterações organizacionais é a arte de alterar o comportamento de um grupo-alvo de pessoas. Há uma grande quantidade de ciência e pesquisa dando suporte a esta prática. Nestes artigos, vamos ajudá-lo a conduzir a adoção de serviços essenciais que levará a resultados de negócios em sua empresa.  Seguindo nossas práticas recomendadas reduzirá o tempo para obter o valor mensurável do Office 365.  
 
-Um programa de campeões é uma parte essencial de adoção acionadoras. Essas pessoas da sua empresa que influenciam fornecem que muito necessário suporte e estímulo aos funcionários que estão adotando a nova tecnologia. Examine essas páginas para obter informado sobre como criar seu plano de adoção e executando o seu próprio programa de campeões. 
+Um programa de defensores é uma parte essencial da condução da adoção. Esses influenciadores em sua empresa oferecem suporte de grande parte para os funcionários que estão adotando a nova tecnologia. Revise estas páginas para obter informações sobre como criar seu plano de adoção e executar seu próprio programa de defensor. 
 
 > [!NOTE]
-> Você pode atualizar ou substituir a lista de reprodução com informações sobre o seu próprio programa para referência em toda a organização.
+> Você pode atualizar ou substituir esta playlist com informações sobre seu próprio programa para referência em toda a organização.
 
-## <a name="who-are-champions-and-what-makes-them-tick"></a>Quem são campeões e o que os torna escala?
+## <a name="who-are-champions-and-what-makes-them-tick"></a>Quem são os campeões e o que os faz em escala?
 
-Campeões não são apenas entusiasmados pela sobre o que eles faça, mas também são entusiasmados compartilhar seus conhecimentos e ajudar seus colegas a saber mais eficientes soluções. Campeões são entusiasmado e frequentemente frustrados com as ferramentas existentes. Eles ajudarão você a vencer o desafio de agitação watercooler!  
+Os especialistas não são apenas apaixonados sobre o que fazem, mas também estão entusiasmados a compartilhar seu conhecimento e ajudar seus colegas a obter soluções mais eficazes. Os campeões são entusiasmados e freqüentemente frustrados com as ferramentas existentes. Eles vão ajudá-lo a vencer o desafio de repercussão Watercooler!  
 
-Podemos se sentir é importante campeões recompensa significativas maneiras. Algumas sugestões são:
+Achamos que é importante recompensar especialistas de maneiras significativas. Algumas sugestões são:
 
-- Permitir bem-sucedida participação no programa de campeões para contribuir para revisão de desempenho dos funcionários
-- Confirmar suas campeões maior sucesso com premiações de vantagens de funcionário e estimativa aproximada do Office  
-- Envolva os representantes com treinamento contínuo e conteúdo que eles podem repassar a outros funcionários 
+- Permitir a associação bem-sucedida no programa Champion para contribuir com a análise de desempenho dos funcionários
+- Reconhecer seus campeões mais bem-sucedidos com recompensas do Office swag e funcionários Perks  
+- Envolva seus campeões com o treinamento e o conteúdo contínuos que podem passar para outros funcionários 
 
-A campeões personalidade não geralmente envolva devido a essas recompensas, mas em vez disso, porque ele cria uma experiência mais consistente e mensurável para eles que contribui para a satisfação do funcionário. 
+A personalidade do campeão geralmente não se envolve devido a essas recompensas, mas, em vez disso, ele cria uma experiência mais significativa e mensurável para eles que contribuem para a satisfação do funcionário. 
 
 ## <a name="why-are-champions-important"></a>Por que os campeões são importantes? 
 
-Aprendizado por meio de colegas de trabalho é entre o método mais eficiente de aprendizagem em um ambiente profissional. Campeões também fornecerão suas informações valiosas do programa de adoção sobre o que é e não está funcionando sobre sua implantação do serviço, o programa de treinamento e sentimento geral sobre as alterações que você estiver implementando.  
+O aprendizado via colegas de trabalho está entre o método mais eficaz de aprendizado em um ambiente profissional. Os campeões também fornecerão um valioso conhecimento do programa de adoção sobre o que é e não está funcionando sobre sua implantação de serviço, programa de treinamento e opiniões gerais sobre as alterações que você está implementando.  
 
-![Porcentagem usando utilidade do método versus de aprendizagem](media/champstats.png)
+![Porcentagem usando método de aprendizado vs utilidade](media/champstats.png)
 
-## <a name="how-will-champions-support-you"></a>Como campeões oferecerá suporte você?
+## <a name="how-will-champions-support-you"></a>Como os líderes oferecerão suporte?
 
-Campeões ajudará a reduzir a sobrecarga de recursos da equipe do projeto principal e ajuda o compromisso de unidade em toda a comunidade. Eles também serão:
+Os campeões ajudarão a reduzir a sobrecarga dos recursos da equipe de projeto principal e ajudarão a conduzir o contrato em toda a Comunidade. Eles também serão:
 
-1. Criar o groundswell um entusiasmo que cresce a adoção das maneiras aprimoradas de trabalho
-1. Crie um círculo de influência entre suas equipes
-1. Traga as novas maneiras de trabalhar vida ser entre equipes
-1. Identificar os desafios de negócios e possíveis soluções
-1. Fornecer seus comentários para a equipe de projeto e os responsáveis
+1. Criar o Groundswell um entusiasmo que cresce a adoção de maneiras aprimoradas de trabalhar
+1. Criar um círculo de influência entre suas equipes
+1. Traga as novas maneiras de trabalhar com a vida entre as equipes
+1. Identificar os desafios de negócios e as soluções possíveis
+1. Fornecer comentários para a equipe e os patrocinadores do projeto

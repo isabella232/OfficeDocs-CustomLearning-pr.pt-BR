@@ -1,8 +1,8 @@
-# <a name="drive-adoption"></a>Incentivar a adoção
+# <a name="drive-adoption"></a>Adoção de drive
 
-Direcionar a adoção de suas experiências de solução de aprendizado personalizado com essas ferramentas e etapas simples. 
+Impulsionar a adoção de suas experiências de solução de aprendizado personalizada com essas etapas e ferramentas simples. 
 
-Sabemos que as soluções de treinamento somente são tão boas quanto o uso que eles recebem em sua organização.  É por isso que criamos essas etapas simples e modelos para ajudá-lo a gerar conscientização e adoção de nossas ferramentas.  
+Entendemos que as soluções de treinamento são apenas tão boas quanto o uso que recebem em sua organização.  É por isso que criamos essas etapas e modelos simples para ajudá-lo a impulsionar a conscientização e a adoção de nossas ferramentas.  
 
 
 

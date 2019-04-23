@@ -5,11 +5,11 @@ title: Vá para o site de aprendizado personalizado para o Office 365
 ms.date: 02/18/2019
 description: Vá para o site de aprendizado personalizado
 ms.openlocfilehash: 220d27d6f12f4edb26e0d46ac76cbcea12270e74
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411861"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055788"
 ---
 # <a name="add-owners-custom-learning-site"></a>Adicionar site de aprendizado personalizado de proprietários
 

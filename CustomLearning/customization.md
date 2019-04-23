@@ -5,11 +5,11 @@ title: Personalizar a experiência de treinamento
 ms.date: 02/10/2019
 description: Saiba mais sobre a variedade de personalizações disponíveis com o aprendizado personalizado para o Office 365
 ms.openlocfilehash: fbb8e5861547f26a3b8419e11f89e5872aeb0b0c
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30059682"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056281"
 ---
 # <a name="customize-the-training-experience"></a>Personalizar a experiência de treinamento
 
@@ -40,13 +40,14 @@ Como ponto de partida para personalizar o site, selecione fazer perguntas e obte
 
 1.  Navegue até a página de administração de aprendizado personalizada no ![site custom_admin. png](media/custom_admin.png)
 1. Selecione a **tecnologia** para ver a lista completa de serviços incluídos na solução
-1. Selecione uma tecnologia e **clique no símbolo de olho** para ocultar esse conteúdo.  Clique no símbolo de olho novamente para mostrar o conteúdo da experiência. ![personalizado](media/custom_techlist.png)
+1. Selecione uma tecnologia e **clique no símbolo de olho** para ocultar esse conteúdo.  Clique no símbolo de olho novamente para mostrar o conteúdo da experiência. 
+![cliente](media/custom_techlist.png)
 
 O mesmo processo pode ser repetido para categorias de playlists dentro da experiência.  Basta selecionar a opção categoria para mostrar/ocultar as playlists. 
 
 ![custom_cat. png](media/custom_cat.png)
 
-### <a name="next-steps"></a>Próximas etapas
+### <a name="next-steps"></a>Próximos passos
 
 - [Personalizar e compartilhar listas de reprodução](customplaylist.md)
 - [Adoção de drive](driveadoption.md) 

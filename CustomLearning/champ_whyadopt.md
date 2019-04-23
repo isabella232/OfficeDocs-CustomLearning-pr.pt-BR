@@ -1,23 +1,23 @@
 ---
-título: ''
+Título: ''
 ms.openlocfilehash: a866c3de0dee75812bd590252d68f769727ad059
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733551"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055293"
 ---
-# <a name="why-put-effort-into-driving-adoption"></a>Por que colocar esforço em orientando a adoção?  
+# <a name="why-put-effort-into-driving-adoption"></a>Por que colocar o empenho em fornecer adoção?  
 
-Ele está em interesse da sua empresa e seus funcionários para obter o máximo de seu investimento do Office 365.  Seus funcionários podem simplificar sua produtividade e seus dados podem ser seguras e protegidas dentro de nossos serviços.  Mas os dias da, "Construa e eles serão vêm." acabaram.  É importante mostrar os funcionários no sentido de contratar maneiras como eles podem aproveitar ao máximo esses serviços.
+É o melhor interesse da sua empresa e seus funcionários obter o máximo do seu investimento no Office 365.  Seus funcionários podem simplificar a produtividade e os dados podem ser seguros e seguros dentro de nossos serviços.  Mas os dias de "criem e eles virão". Há muito tempo.  É importante mostrar aos funcionários como aproveitar como eles podem obter o máximo desses serviços.
 
-Programas de adoção podem aumentar a alfabetização digital dos funcionários, simplificar sua experiência de produtividade e levar a melhores resultados de negócios. Capacitando os funcionários basicamente será capacitar a sua organização a atingir suas metas. 
+Os programas de adoção podem aumentar a alfabetização digital de seus funcionários, simplificar a experiência de produtividade e levar a melhores resultados de negócios. A capacitação de seus funcionários, por fim, capacitará sua organização a atingir seus objetivos. 
 
-## <a name="interview-adoption-best-practices"></a>Entrevista: Práticas recomendadas de adoção
+## <a name="interview-adoption-best-practices"></a>Entrevista: práticas recomendadas de adoção
 
-Assista a este vídeo para obter uma visão sobre por que investir em adoção dos usuários.  
+Assista a este vídeo para obter informações sobre o motivo de investir na adoção do usuário.  
 
-**Adotar & adotará**: discutindo adoção para & Teams Microsoft Office 365 com [Karuana Gatimu](https://linkedin.com/in/karuanagatimu), líder do [programa de campeões do Office 365](https://aka.ms/O365Champions) e [Darryl Webster](https://webster.net.nz/), MVP da Microsoft e assunto da colaboração importam especializado. 
+**Adote o _AMP_ abraçar**: discutir a adoção do Microsoft Teams & Office 365 com o [Karuana Gatimu](https://linkedin.com/in/karuanagatimu), líder do [programa Office 365 campeões](https://aka.ms/O365Champions) e [Darryl Webster](https://webster.net.nz/), Microsoft MVP and Collaboration Subject Teams expert. 
 
 > [!VIDEO https://www.youtube.com/embed/c-j5oF2Kwzk]
 

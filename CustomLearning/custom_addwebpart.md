@@ -5,11 +5,11 @@ title: Adicionar e editar a Web Part de aprendizado personalizada
 ms.date: 02/17/2019
 description: Adicionar a Web Part de aprendizado personalizada a uma página do SharePoint
 ms.openlocfilehash: bfe74baadfc05b698f87865f9a628116d7b07e65
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103846"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055684"
 ---
 # <a name="add-and-edit-the-custom-learning-web-part"></a>Adicionar e editar a Web Part de aprendizado personalizada
 

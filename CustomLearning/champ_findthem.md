@@ -1,29 +1,29 @@
 ---
-título: ''
+Título: ''
 ms.openlocfilehash: 9e05bd63cf1f534bcb912f6d578df4ce95a4660e
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733550"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055342"
 ---
-# <a name="finding-your-champions"></a>Localizando os representantes 
+# <a name="finding-your-champions"></a>Encontrando seus campeões 
 
-É provável que você já sabe quem os representantes são, mesmo se você não tiver um programa formal.  Estas são as pessoas que:
+É provável que você já saiba quem é seus campeões, mesmo se não tiver um programa formal.  São as pessoas que:
 
-Frequentemente são vistas ajudar as pessoas com tecnologia existente gostam de ensino e o aprendizado sobre novas tecnologias pode ser voz sobre as limitações do soluções atuais são muito interesse experimentar novidades, até mesmo antes de outras colegas de trabalho
+Geralmente são vistas a ajudar as pessoas com a tecnologia existente a ensinar e a aprender sobre novas tecnologias podem ser vozes sobre as limitações das soluções atuais estão prestes a experimentar novas coisas, mesmo antes de outros colegas de trabalho
 
 > [!NOTE]
-> Campeões são diferentes das pessoas que gostam de teste do novo software para a tecnologia sozinha. Lidam com campeões muitos **ajudar outros** independentemente do contexto. 
+> Os campeões são diferentes de pessoas que gostam de testar o novo software apenas para a tecnologia. Os campeões prosperam em **ajudar outras pessoas** independentemente do contexto. 
 
 ## <a name="start-small-and-grow"></a>Comece pequeno e cresça
 
-Se sua organização não tiver um programa de campeões atual ou você gostaria de revigorar aquele você ter envia um convite para um pequeno grupo de pessoas conhecidos que se enquadram no perfil acima.  Colete então juntos para discutir os objetivos do novo programa e obter seus comentários. True campeões gostam de ter sua voz heard e sentem que fazem parte da criação de algo.  
+Se sua organização não tiver um programa Champion atual ou se você quiser Reinvigorate-lo, você deve enviar um convite para um pequeno grupo de pessoas conhecidas que se encaixam no perfil acima.  Reúna juntos para discutir os objetivos do novo programa e obter seus comentários. Campeões verdadeiros como ter sua voz ouvidos e sentem-se parte da criação de algo.  
 
 ## <a name="provide-structure"></a>Fornecer estrutura
 
-Programas de campeões bem-sucedida tem um líder e um agendamento regular para reunir e discutir problemas atuais.  Reuniões mensais no mínimo são uma parte importante do criando uma cultura positiva na comunidade e proporcionando a crescimento.  
+Os programas de campeão bem-sucedidos têm um líder e uma programação regular para cumprir e discutir os problemas atuais.  As reuniões mensais no mínimo são uma parte importante da criação de uma cultura positiva na Comunidade e na estimular o crescimento.  
 
-Você também pode usar o Microsoft Teams para criar um hub para programa dos campeões seu trabalho em equipe.  Um exemplo de estrutura da equipe pode ser encontrado [neste](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-adoption-your-first-teams)artigo.
+Você também pode usar o Microsoft Teams para criar um hub para o programa de especialistas em equipe.  Um exemplo para essa estrutura de equipe pode ser encontrado neste [artigo](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-adoption-your-first-teams).
 
-![guias de equipe campeões de trabalho em equipe](media/teams-adoption-tab-example.png)
+![guias da equipe de defensores](media/teams-adoption-tab-example.png)

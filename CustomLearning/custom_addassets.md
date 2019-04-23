@@ -5,11 +5,11 @@ title: Adicionar ativos a uma lista de reprodução
 ms.date: 02/17/2019
 description: Adicionar ativos novos e existentes a uma playlist de aprendizado personalizada
 ms.openlocfilehash: 4f8d977fb449d9124b3fee213f13a329584b1e22
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103506"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055931"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>Adicionar ativos a uma lista de reprodução personalizada
 
@@ -67,7 +67,7 @@ Com a opção **Inserir a URL** , você fornece um título para o ativo e, em se
 
 Ativos existentes consistem em ativos de aprendizado personalizados fornecidos pela Microsoft ou ativos que já foram adicionados ao aprendizado personalizado por sua organização. 
 
-- Na caixa de **pesquisa** , insira uma frase de pesquisa e, em seguida, selecione um ativo nos resultados da pesquisa. Neste exemplo, insira "o que é Excel?" para adicionar um tópico introdutório do Excel à lista de reprodução.
+- Na caixa de **pesquisa** , insira uma frase de pesquisa e, em seguida, selecione um ativo nos resultados da pesquisa. Neste exemplo, insira "o que é o Excel?" para adicionar um tópico introdutório do Excel à lista de reprodução.
 
 ![CG-existplaylistassetsearch. png](media/cg-existplaylistassetsearch.png)
 

@@ -5,11 +5,11 @@ title: Personalizar o site de aprendizado personalizado
 ms.date: 02/15/2019
 description: Saiba mais sobre a variedade de personalizações disponíveis com o aprendizado personalizado para o Office 365
 ms.openlocfilehash: e6f8ad87fcdb6cf50df2de2487d5eda6c689fd03
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30522975"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055362"
 ---
 # <a name="customize-the-site"></a>Personalizar o site
 

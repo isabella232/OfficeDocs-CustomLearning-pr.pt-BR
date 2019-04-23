@@ -5,11 +5,11 @@ title: Personalizar e compartilhar listas de reprodução
 ms.date: 02/10/2019
 description: Criar playlists personalizadas a partir de conteúdo existente ou de novas páginas do SharePoint
 ms.openlocfilehash: d330b6e401c9020eb68877bc8a132350811a2f31
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "29989722"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056365"
 ---
 # <a name="customize-and-share-playlists"></a>Personalizar e compartilhar listas de reprodução
 
@@ -22,7 +22,7 @@ O benefício de adicionar páginas do SharePoint é que você pode criar página
 #### <a name="step-1-create-a-sharepoint-page-for-your-playlist"></a>Etapa 1: criar uma página do SharePoint para sua lista de reprodução
 Neste exemplo, primeiro criaremos uma página do SharePoint para adicionar à lista de reprodução. Criaremos uma página com uma Web Part de vídeo e texto do YouTube.  Estas instruções pressupõem que você esteja usando o serviço do SharePoint Online. 
 
-#### <a name="create-a-new-page"></a>Criar uma nova página
+#### <a name="create-a-new-page"></a>Criar uma página
 1.  Selecione o menu configurações > conteúdo do site > páginas do site > nova página do site do >.
 2.  Na área título, digite usar a caixa de comando Teams
 3.  Selecione a seção adicionar uma nova e, em seguida, selecione duas colunas.
@@ -41,12 +41,14 @@ Neste exemplo, primeiro criaremos uma página do SharePoint para adicionar à li
 
 #### <a name="step-2-create-the-playlist"></a>Etapa 2: criar a lista de reprodução
 
-1. Navegue até a página de **Administração de aprendizado personalizada** em sua experiência de site. ![custom_admin. png](media/custom_admin.png)
+1. Navegue até a página de **Administração de aprendizado personalizada** em sua experiência de site.
+![custom_admin. png](media/custom_admin.png)
 1. Certifique-se de que **categoria** esteja selecionada 
 1. Clique na categoria onde você deseja que sua nova lista de reprodução seja exibida
 1. Ao lado do nome da categoria, clique no símbolo ![de adição custom_addplay. png](media/custom_addplay.png)
 
-1. Preencha os valores conforme mostrado no exemplo abaixo e selecione **criar**. ![custom_details. png](media/custom_details.png)
+1. Preencha os valores conforme mostrado no exemplo abaixo e selecione **criar**. 
+![custom_details. png](media/custom_details.png)
 - **Título** – nome de exibição da lista de reprodução
 - **Descrição** -informações sobre o que será aprendido
 - **Categoria** : selecionada com base na seleção inicial
@@ -65,7 +67,8 @@ Neste exemplo, primeiro criaremos uma página do SharePoint para adicionar à li
 Nesta etapa, você adicionará ativos existentes da Microsoft e da página do SharePoint que você criou na lista de reprodução. 
 
 1. Depois de salvar os detalhes da sua lista de reprodução, você poderá usar a pesquisa de ativos existentes.
-1. **Insira em qualquer termo de pesquisa** para ver uma lista de ativos predefinidos que estão disponíveis a partir de outras listas de reprodução. **Clique no nome** de um ativo para incluí-lo em sua nova lista de reprodução. ![custom_slist. png](media/custom_slist.png)
+1. **Insira em qualquer termo de pesquisa** para ver uma lista de ativos predefinidos que estão disponíveis a partir de outras listas de reprodução. **Clique no nome** de um ativo para incluí-lo em sua nova lista de reprodução.
+![custom_slist. png](media/custom_slist.png)
 
 Você também pode adicionar a página do SharePoint que você criou anteriormente ou criar uma desde o início da experiência.
 
