@@ -5,11 +5,11 @@ title: Solucionando problemas de aprendizagem personalizada
 ms.date: 02/10/2019
 description: Saiba como solucionar problemas de aprendizado personalizado
 ms.openlocfilehash: 7cbd049d4794d14f9e8cc26fd0db5f444812d688
-ms.sourcegitcommit: 64721b7763d988d3b669eeab26fdb8b677ddc486
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "30658190"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055074"
 ---
 # <a name="troubleshoot-custom-learning"></a>Solucionar problemas de aprendizagem personalizada
 
