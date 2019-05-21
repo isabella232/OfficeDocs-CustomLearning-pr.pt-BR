@@ -4,16 +4,16 @@ ms.author: pkrebs
 title: Criar páginas do SharePoint para playlists
 ms.date: 02/10/2019
 description: Criar páginas do SharePoint para playlists
-ms.openlocfilehash: c2de66a0746260e8f6539656ad70052b209c54ba
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.openlocfilehash: 97ef3e7fd37b11011afcc0738245f364a71f5112
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055483"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247528"
 ---
 # <a name="create-sharepoint-pages-for-custom-playlists"></a>Criar páginas do SharePoint para listas de reprodução personalizadas
 
-Um dos recursos exclusivos de aprendizado personalizado é a capacidade de criar listas de reprodução remontadas de ativos da Microsoft e de ativos do SharePoint que você cria. Neste exemplo, criaremos uma página do SharePoint com antecedência da criação de uma lista de reprodução. A capacidade de criar listas de reprodução a partir de páginas do SharePoint oferece uma variedade de oportunidades para criar páginas usando as Web Parts disponíveis na Microsoft ou em sua organização. Por exemplo, uma lista de reprodução pode incluir uma página do SharePoint com vídeos incorporados do YouTube ou um formulário criado a partir de formulários do Office 365 ou um relatório incorporado do Power BI. Neste exemplo, mostraremos como criar uma página com a Web Part de inserção e a Web Part de texto.  
+Um dos recursos exclusivos dos caminhos de aprendizado é a capacidade de criar listas de reprodução remontadas de ativos da Microsoft e de ativos do SharePoint que você cria. Neste exemplo, criaremos uma página do SharePoint com antecedência da criação de uma lista de reprodução. A capacidade de criar listas de reprodução a partir de páginas do SharePoint oferece uma variedade de oportunidades para criar páginas usando as Web Parts disponíveis na Microsoft ou em sua organização. Por exemplo, uma lista de reprodução pode incluir uma página do SharePoint com vídeos incorporados do YouTube ou um formulário criado a partir de formulários do Office 365 ou um relatório incorporado do Power BI. Neste exemplo, mostraremos como criar uma página com a Web Part de inserção e a Web Part de texto.  
 
 ## <a name="create-a-sharepoint-page-for-a-custom-playlist"></a>Criar uma página do SharePoint para uma lista de reprodução personalizada
 
@@ -30,8 +30,8 @@ Um dos recursos exclusivos de aprendizado personalizado é a capacidade de criar
 2. Clique no vídeo para reproduzi-lo, depois Pause-o e, em seguida, clique com o botão direito do mouse nele. 
 3. Clique em **copiar código de inserção**e retorne para a página do SharePoint. 
 4. Clique em **Adicionar código** de incorporação na Web Part de **incorporação** e, em seguida, adicione o código do vídeo do YouTube.
-5. ReTorne à página YouTube e copie o texto da **Descrição** do vídeo. 
-6. ReTorne à página do SharePoint, selecione a Web Part de **texto** e copie o texto do vídeo do YouTube.
+5. Retorne à página YouTube e copie o texto da **Descrição** do vídeo. 
+6. Retorne à página do SharePoint, selecione a Web Part de **texto** e copie o texto do vídeo do YouTube.
 7. Selecione o ícone **Editar Web Part** na área título da página do SharePoint e, em seguida, nomeie a página "introdução à playlist personalizada". 
 8. Em **layout**, selecione **simples**e, em seguida, fechar painel de propriedades da **região de título** . A página agora deve ter a seguinte aparência. 
 

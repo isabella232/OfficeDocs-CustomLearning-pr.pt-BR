@@ -3,20 +3,20 @@ author: pkrebs
 ms.author: pkrebs
 title: Pesquisar
 ms.date: 02/10/2019
-description: Pesquisar em aprendizado personalizado
-ms.openlocfilehash: 0d697c8fb064db482f4eb5db4003ac91164f58ff
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Pesquisar nos caminhos de aprendizado do Microsoft 365
+ms.openlocfilehash: d6675e1df06a27813c4d83e1a95d29aa135596a2
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055032"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247696"
 ---
-# <a name="search-for-custom-learning-content"></a>Pesquisar conteúdo de aprendizado personalizado
+# <a name="search-for-microsoft-365-learning-pathways-content"></a>Pesquisar conteúdo de caminhos de aprendizado do Microsoft 365
 
-O aprendizado personalizado oferece a capacidade de pesquisar conteúdo por subcategoria, lista de reprodução ou ativo. 
+Os caminhos de aprendizado do Microsoft 365 oferecem a capacidade de pesquisar conteúdo por subcategoria, lista de reprodução ou ativo. 
 
 > [!TIP]
-> A pesquisa de aprendizado personalizada tem como escopo o conteúdo de aprendizado personalizado, incluindo o conteúdo fornecido pela Microsoft e qualquer conteúdo adicionado a listas de reprodução ou subcategorias personalizadas. A pesquisa de aprendizado personalizada não inclui as páginas do SharePoint nos resultados da pesquisa.     
+> Os caminhos de aprendizado da Microsoft 365 pesquisa têm escopo para o conteúdo de caminhos de aprendizado, incluindo o conteúdo fornecido pela Microsoft e qualquer conteúdo adicionado a listas de reprodução ou subcategorias personalizadas. As páginas do SharePoint que não estão em uma playlist de cursores de aprendizado não estão incluídas nos resultados da pesquisa.     
 
 - Clique no ícone de **pesquisa** e digite uma frase de pesquisa. 
 

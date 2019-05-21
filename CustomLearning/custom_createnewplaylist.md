@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Criar novas listas de reprodução
 ms.date: 02/18/2019
 description: Como criar novas listas de reprodução
-ms.openlocfilehash: b89e70fbe02e9a890759f832195037dd2ddbd8cf
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.openlocfilehash: 8b855caf2512f6ab4db103c0f28f38176f4def55
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055818"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247586"
 ---
 # <a name="create-a-custom-playlist"></a>Criar uma lista de reprodução personalizada
 
@@ -17,7 +17,7 @@ Ao criar uma lista de reprodução, você primeiro cria a lista de reprodução 
 
 ## <a name="create-a-playlist"></a>Criar uma lista de reprodução 
 
-1. Na **Home** Page de aprendizagem personalizada, clique em **treinamento do Office 365**, selecione o menu do sistema na Web Part e, em seguida, selecione **administrar playlist**. 
+1. Na **Home** Page de cursores de aprendizado da Microsoft 365, clique em **treinamento do Office 365**, selecione o menu do sistema na Web Part e, em seguida, selecione **administrar playlist**. 
 2. Selecione uma subcategoria. Neste exemplo, selecione **primeiro dias**.  
 3. Clique no ícone +.  
 
