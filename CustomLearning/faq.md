@@ -4,14 +4,18 @@ ms.author: karuanag
 title: Perguntas frequentes sobre os caminhos de aprendizado do Microsoft 365
 ms.date: 02/10/2019
 description: Informações de perguntas frequentes para os caminhos de aprendizado do Microsoft 365
-ms.openlocfilehash: 26d6c7140b4d387e13b907033ea53b752f5e20ea
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 66149439f0ca13b319bee3bea9c2773b43e98e25
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334715"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "35636105"
 ---
 # <a name="frequently-asked-questions"></a>Perguntas Frequentes
+
+### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>Recentemente, vi uma postagem de blog que o aprendizado personalizado para o Office 365 está sendo renomeado para os caminhos de aprendizado da Microsoft 365. Há outras alterações que estão sendo adicionadas à solução como parte do esforço de renomeação? Devo atualizar a solução em minha organização?
+
+O lançamento dos cursores de aprendizado da Microsoft 365 é um esforço de remarcação dedicado à alteração do nome da solução para alinhar-se com a identidade visual 365 da Microsoft. Se você tiver o aprendizado personalizado do Office 365 atualmente em execução com êxito em sua organização, não será necessário atualizar a solução no momento.  
 
 ### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>Quais são os requisitos para instalar os caminhos de aprendizado do Microsoft 365 em meu ambiente de locatários?
 
@@ -34,7 +38,7 @@ Os caminhos de aprendizado do Microsoft 365 estão atualmente na visualização 
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Quais idiomas são os caminhos de aprendizado da Microsoft 365 disponíveis no?
 
-Os caminhos de aprendizado do Microsoft 365 estão atualmente disponíveis somente em inglês. O provisionamento automático de ponta a ponta funciona apenas com locatários em inglês. Planejamos implantar o suporte multilíngue para esses nove idiomas no terceiro trimestre de CY19: 
+Os caminhos de aprendizado do Microsoft 365 estão atualmente disponíveis somente em inglês. O provisionamento automático de ponta a ponta funciona apenas com locatários em inglês. Planejamos implantar o suporte multilíngue para esses nove idiomas no CY19 T4: 
 
 - Chinês (simplificado) 
 - Holandês (Países Baixos) 
