@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Onde está o Microsoft 365 Learning Web Part
 ms.date: 02/15/2019
 description: Saiba onde a Web Part de cursores de aprendizado aparece no site de cursores de aprendizado
-ms.openlocfilehash: 27793606ee425f8ca77a66898bb0c23aee5e3f2b
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: bc0a24f3f4fa9f2067f52a787da8fc25592fd151
+ms.sourcegitcommit: 076ad8f4dd99da270d34c01b03428a24632916e5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247598"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34327282"
 ---
 # <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Onde está a Web Part de cursores de aprendizado da Microsoft 365?
 
@@ -44,11 +44,11 @@ A Web Part na página **Start-with-Six-Simple-Steps. aspx** é configurada para 
 
 ![CG-whereiswp-Six. png](media/cg-whereiswp-six.png)
 
-## <a name="view-all-office-365-training"></a>Exibir todo o treinamento do Office 365
+## <a name="view-all-microsoft-365-training"></a>Exibir todos os treinamentos do Microsoft 365
 
-A Web Part na página **treinamento do Office 365** é configurada para mostrar todas as categorias e subcategorias disponíveis no catálogo de cursores de aprendizado. Isso inclui subcategorias da Microsoft junto com todas as subcategorias que você cria para sua organização.
+A Web Part na página de **treinamento do Microsoft 365** é configurada para mostrar todas as categorias e subcategorias disponíveis no catálogo de cursores de aprendizado. Isso inclui subcategorias da Microsoft junto com todas as subcategorias que você cria para sua organização.
 
-- Na home page de cursores de aprendizado, clique em **treinamento do Office 365**. A página aparecerá com a Web Part configurada para mostrar todas as categorias e subcategorias disponíveis no catálogo de aprendizado personalizado.
+- Na home page de cursores de aprendizado, clique em **treinamento do Microsoft 365**. A página aparecerá com a Web Part configurada para mostrar todas as categorias e subcategorias disponíveis no catálogo de aprendizado personalizado.
 
 ![CG-whereiswp-o365. png](media/cg-whereiswp-o365.png)
 
