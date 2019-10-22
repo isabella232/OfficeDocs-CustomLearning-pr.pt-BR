@@ -1,26 +1,26 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Vincular a ativos de aprendizado personalizados
+title: Link para os ativos de cursores de aprendizado da Microsoft 365
 ms.date: 02/15/2019
-description: Como vincular ativos de aprendizado personalizados
-ms.openlocfilehash: cdde37f370663ca50241833a15e8411921b45a1b
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Como vincular aos ativos dos caminhos de aprendizado do Microsoft 365
+ms.openlocfilehash: cc8ba80e1c658fabb44e3df405c9293ec763ab3d
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056137"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34327272"
 ---
-# <a name="link-to-custom-learning-content"></a>Link para conteúdo de aprendizado personalizado
+# <a name="link-to-learning-pathways-content"></a>Link para conteúdo de cursores de aprendizado
 
-Com o aprendizado personalizado, há duas maneiras de vincular ao conteúdo:
+Com os caminhos de aprendizado, há duas maneiras de vincular ao conteúdo:
 
-- Link para a página que hospeda a Web Part filtrada para o conteúdo que você deseja exibir. 
+- Link para a página que hospeda a Web Part filtrada para o conteúdo que você deseja exibir 
 - Vincular diretamente a uma instância da Web Part
 
 ## <a name="link-to-a-page"></a>Link para uma página
 
-Se você criou novas experiências de páginas e aprendizado com a Web Part de aprendizado personalizado, você pode vincular à página com a Web Part configurada para mostrar o conteúdo que você deseja exibir. Na seção anterior, abordamos como exibir as playlists do Excel em uma página. Agora você pode editar a Home Page para vincular à página. 
+Se você criou novas experiências de páginas e aprendizado com a Web Part de cursores de aprendizado da Microsoft 365, você pode vincular à página com a Web Part configurada para mostrar o conteúdo que você deseja exibir. Na seção anterior, abordamos como exibir as playlists do Excel em uma página. Agora você pode editar a Home Page para vincular à página. 
 
 1. Na Home Page, clique em **Editar**.
 2. Clique em **Editar detalhes** em um dos blocos de página inicial. Neste exemplo, editamos os blocos de **playlist recomendados** .
@@ -31,16 +31,16 @@ Se você criou novas experiências de páginas e aprendizado com a Web Part de a
 4. Clique em **site**, em **páginas do site**, clique na página à qual deseja vincular e, em seguida, clique em **abrir**. Neste exemplo, o link para a página **Create-Your-Own-Experience. aspx** abordada na seção anterior.
 5. Feche o painel Propriedades do herói, clique em **publicar**e, em seguida, teste o link. 
 
-## <a name="link-to-the-custom-learning-web-part"></a>Link para a Web Part de aprendizado personalizado
-O aprendizado personalizado oferece a você, o administrador ou um usuário final, a capacidade de vincular a uma instância da Web Part independente da página que contém a Web Part. Você pode compartilhar o link copiado ou vinculá-lo a partir de outras páginas. O link copiado, quando clicado, mostra a instância de Web Part de aprendizado personalizada na página CustomLLearningViewer. aspx. Vejamos um exemplo. 
+## <a name="link-to-the-microsoft-365-learning-pathways-web-part"></a>Link para a Web Part de cursores de aprendizado da Microsoft 365
+Os caminhos de aprendizado fornecem a você, o administrador ou um usuário final, a capacidade de vincular a uma instância da Web Part independente da página que contém a Web Part. Você pode compartilhar o link copiado ou vinculá-lo a partir de outras páginas. O link copiado, quando clicado, mostra a instância de Web Part de cursores de aprendizado da Microsoft 365 na página CustomLLearningViewer. aspx. Vejamos um exemplo. 
 
-1. Na Home Page, clique em **treinamento do Office 365**.
+1. Na Home Page, clique em **treinamento Microsoft365**.
 2. Clique em **Microsoft Teams**e, em seguida, clique em **introdução ao Microsoft Teams**.
 3. Clique no ícone de **cópia** .
 
 ![CG-linktowebpart. png](media/cg-linktowebpart.png)
 
-4. Clique em página inicial no menu de aprendizado personalizado.
+4. Clique em página inicial no menu do site de cursores de aprendizado da Microsoft 365.
 5. Cole a URL copiada na barra de endereços do navegador e pressione ENTER. 
 
 Conforme mostrado na ilustração a seguir, o link vai para a página CustomLearningViewer. aspx e exibe o conteúdo com base nos parâmetros do link copiado. 

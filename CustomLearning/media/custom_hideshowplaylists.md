@@ -5,10 +5,10 @@ title: Ocultar e mostrar playlists
 ms.date: 02/15/2019
 description: Ocultar e mostrar playlists
 ms.openlocfilehash: 88b042ce8f1f64d2df4ee7956113c722b971f0cb
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/20/2019
+ms.lasthandoff: 10/21/2019
 ms.locfileid: "34272656"
 ---
 # <a name="hide-and-show-playlists"></a>Ocultar e mostrar playlists
@@ -18,7 +18,7 @@ Para ajustar os caminhos de aprendizado para seu ambiente, talvez seja necessár
 ## <a name="hide-a-playlist"></a>Ocultar uma lista de reprodução
 
 1. Na **Home** Page de cursores de aprendizado, clique no bloco **treinamento do Office 365** .
-2. Na Web Part de cursores de aprendizado, selecione o menu **sistema** e, em seguida, selecione **administrar playlist**. Agora você deve ter duas guias abertas: uma com a página de administração de cursores de **aprendizado** ; e um com a página de **treinamento do Office 365** . 
+2. Na Web Part de cursores de aprendizado, selecione o menu **sistema** e, em seguida, selecione **administrar playlist**. Agora você deve ter duas guias abertas: uma com a página de **Administração de cursores de aprendizado** ; e um com a página de **treinamento do Office 365** . 
 3. Na página **Administração de aprendizagem personalizada** , em **categoria**, selecione uma subcategoria e, em seguida, selecione Eyeball para uma lista de reprodução para ocultá-la. Para este exemplo, clique na subcategoria **primeiros dias** e, em seguida, oculte a lista de **cinco etapas simples** .  
 
 ![CG-hideplaylist. png](media/cg-hideplaylist.png)

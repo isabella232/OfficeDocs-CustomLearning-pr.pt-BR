@@ -3,29 +3,29 @@ author: pkrebs
 ms.author: pkrebs
 title: Adicionar ativos a uma lista de reprodução
 ms.date: 02/17/2019
-description: Adicionar ativos novos e existentes a uma playlist de aprendizado personalizada
-ms.openlocfilehash: 4f8d977fb449d9124b3fee213f13a329584b1e22
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Adicionar ativos novos e existentes a uma lista de reprodução de cursores de aprendizado
+ms.openlocfilehash: d1032139e2d753601cb269e487db343778938d64
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055931"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34247636"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>Adicionar ativos a uma lista de reprodução personalizada
 
-Com o aprendizado personalizado, você pode adicionar os seguintes ativos a uma lista de reprodução:
+Com os caminhos de aprendizado, você pode adicionar os seguintes ativos a uma lista de reprodução:
 
-- **Ativos de aprendizado personalizados existentes** -estes são ativos que fazem parte do catálogo do Microsoft Online ou de ativos que sua organização já adicionou à aprendizagem personalizada.
-- **Novos ativos** -esses são ativos que você adiciona a aprendizado personalizado que são criados a partir de páginas do SharePoint que você cria ou ativos do SharePoint que já estão disponíveis em um site do SharePoint em sua organização. 
+- **Ativos de cursores de aprendizado microsoft 365 existentes** -estes são ativos que fazem parte do catálogo do Microsoft Online ou de ativos que sua organização já adicionou aos caminhos de aprendizado.
+- **Novos ativos** -esses são ativos que você adiciona aos caminhos de aprendizado criados a partir de páginas do SharePoint que você cria ou ativos do SharePoint que já estão disponíveis em um site do SharePoint em sua organização. 
 
 > [!TIP]
-> Se um ativo da playlist da Microsoft não atender às suas necessidades, crie uma nova lista de reprodução e adicione os ativos da Microsoft e quaisquer ativos recém-criados à lista de reprodução para criar a experiência desejada. Não é possível modificar as listas de reprodução de aprendizado personalizadas fornecidas pela Microsoft, mas você pode adicionar ativos de aprendizado personalizados a uma lista de reprodução personalizada.   
+> Se um ativo da playlist da Microsoft não atender às suas necessidades, crie uma nova lista de reprodução e adicione os ativos da Microsoft e quaisquer ativos recém-criados à lista de reprodução para criar a experiência desejada. Você não pode modificar as listas de reprodução de caminhos de aprendizado fornecidas pela Microsoft, mas é possível adicionar ativos fornecidos por cursores de aprendizado a uma lista de reprodução personalizada.   
 
 ## <a name="create-a-new-asset-for-a-playlist"></a>Criar um novo ativo para uma lista de reprodução
 
 Há duas opções para adicionar um novo ativo a uma lista de reprodução.
 
-- **Criar página de ativos** -com esta opção, o aprendizado personalizado gerará uma nova página do SharePoint em branco para você e a adicionará à lista de reprodução. Você pode adicionar conteúdo à página e salvá-lo.  
+- **Criar página de ativos** -com esta opção, os caminhos de aprendizado irão gerar uma nova página do SharePoint em branco para você e adicioná-lo à lista de reprodução. Você pode adicionar conteúdo à página e salvá-lo.  
 - **Insira a URL** -com esta opção, você cria a página com antecedência ou você já tem a página disponível e especifica a URL para adicionar a página à lista de reprodução.
 
 ### <a name="create-asset-page"></a>Criar página de ativo 
@@ -44,8 +44,8 @@ Com a opção **criar página de ativos** , você fornece um título para o ativ
 
 ![CG-addassetcreatenewpageedit. png](media/cg-addassetcreatenewpageedit.png)
 
-7. Clique em **publicar**.
-8. ReTorne à página **Administração de aprendizado personalizada** . 
+7. Clique em **Publicar**.
+8. Retorne à página **Administração de aprendizado personalizada** . 
 9. Preencha o restante das propriedades do ativo e clique em **salvar ativo.**
 
 ### <a name="enter-the-url"></a>Insira a URL
@@ -65,14 +65,14 @@ Com a opção **Inserir a URL** , você fornece um título para o ativo e, em se
 
 ## <a name="add-an-existing-asset-to-a-playlist"></a>Adicionar um ativo existente a uma lista de reprodução
 
-Ativos existentes consistem em ativos de aprendizado personalizados fornecidos pela Microsoft ou ativos que já foram adicionados ao aprendizado personalizado por sua organização. 
+Ativos existentes consistem em ativos de cursores de aprendizado fornecidos pela Microsoft ou ativos que já foram adicionados aos caminhos de aprendizado por sua organização. 
 
 - Na caixa de **pesquisa** , insira uma frase de pesquisa e, em seguida, selecione um ativo nos resultados da pesquisa. Neste exemplo, insira "o que é o Excel?" para adicionar um tópico introdutório do Excel à lista de reprodução.
 
 ![CG-existplaylistassetsearch. png](media/cg-existplaylistassetsearch.png)
 
 ## <a name="edit-move-and-delete-assets"></a>Editar, mover e excluir ativos
-Você pode editar ativos personalizados criados, mas não ativos da Microsoft. No enTanto, você pode remover todos os ativos de uma lista de reprodução e alterar os ativos da ordem. 
+Você pode editar ativos personalizados criados, mas não ativos da Microsoft. No entanto, você pode remover todos os ativos de uma lista de reprodução e alterar os ativos da ordem. 
 
 ![CG-playlistassetedit. png](media/cg-playlistassetedit.png)
 
@@ -91,6 +91,6 @@ Agora que você adicionou ativos a uma lista de reprodução, vamos fechar a lis
 1. Clique em **fechar playlist**.
 2. Clique na guia com a página de **treinamento do Office 365** .
 3. Atualize a página e, em seguida, clique em **primeiro dias** em **introdução**.
-4. Clique em **startEr kit de aprendizado personalizado** para exibir sua primeira playlist em ação. 
+4. Clique em **Starter Kit de cursores de aprendizado** para exibir sua primeira playlist em ação. 
 
 ![CG-addassetcheckwork. png](media/cg-addassetcheckwork.png)

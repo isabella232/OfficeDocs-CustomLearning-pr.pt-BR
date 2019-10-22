@@ -2,14 +2,14 @@
 author: pkrebs
 ms.author: pkrebs
 title: Ocultar e mostrar tecnologia
-ms.date: 02/15/2019
+ms.date: 05/20/2019
 description: Como ocultar e mostrar tecnologia
-ms.openlocfilehash: 38b814b85d4e060e5387b2173476c455cfcf7160
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.openlocfilehash: ee943dad5ca3f2a1bef5636e0f820346b0ac3840
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055653"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34327262"
 ---
 # <a name="hide-and-show-technology"></a>Ocultar e mostrar tecnologia
 
@@ -17,15 +17,14 @@ Em alguns casos, convém ocultar o conteúdo de uma tecnologia que não é supor
 
 ## <a name="hide-a-technology"></a>Ocultar uma tecnologia
 
-1. Na **Home** Page de aprendizado personalizado, clique no bloco **treinamento do Office 365** .
-2. Na Web Part de aprendizado personalizado, selecione o menu **sistema** e, em seguida, selecione **administrar playlist**. Agora você deve ter duas guias abertas. Um com a página **Administração de aprendizado personalizada** e um com a página de **treinamento do Office 365** . 
+1. Na **Home** Page de cursores de aprendizado da Microsoft 365, clique no bloco de **playlists recomendado** .
+2. Na Web Part de aprendizado personalizado, selecione o menu **sistema** e, em seguida, selecione **administrar playlist**. Agora você deve ter duas guias abertas. Uma com a página de **playlists recomendada** e outra com a página de **Administração de aprendizado personalizada** . 
 3. Na página **Administração de aprendizado personalizada** , clique em uma **tecnologia**e, em seguida, selecione o Eyeball para a tecnologia para ocultá-lo. Para este exemplo, clique na tecnologia **Yammer** e, em seguida, oculte-a.  
 
 ![CG-hidetech. png](media/cg-hidetech.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>Verifique se a playlist está oculta
-1. Para verificar se a tecnologia **Yammer** está oculta, selecione a guia navegador com a página de **treinamento do Office 365** carregada e atualize a página. Agora você deve ver que a subcategoria Yammer está oculta. 
-2. Clique na subcategoria **recomendada** . Você notará que a lista conectar sua organização com o Yammer está oculta. 
+- Para verificar se a tecnologia **Yammer** está oculta, selecione a guia navegador com a página de **playlists recomendadas** carregada e atualize a página. Você notará que a lista conectar sua organização com o Yammer está oculta. 
 
 ![CG-hidetechrefresh. png](media/cg-hidetechrefresh.png)
 
