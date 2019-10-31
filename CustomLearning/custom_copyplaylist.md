@@ -1,42 +1,40 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Criar novas listas de reprodução
+title: Copiar uma lista de reprodução
 ms.date: 02/18/2019
-description: Como criar novas listas de reprodução
-ms.openlocfilehash: 8b855caf2512f6ab4db103c0f28f38176f4def55
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+description: Copiar uma lista de reprodução
+ms.openlocfilehash: b8df82928f3162704f1a86675d28b810119e3980
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726734"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886864"
 ---
-# <a name="create-a-custom-playlist"></a><span data-ttu-id="f5f4d-103">Criar uma lista de reprodução personalizada</span><span class="sxs-lookup"><span data-stu-id="f5f4d-103">Create a Custom Playlist</span></span>
+# <a name="copy-a-playlist"></a><span data-ttu-id="236db-103">Copiar uma lista de reprodução</span><span class="sxs-lookup"><span data-stu-id="236db-103">Copy a Playlist</span></span>
+<span data-ttu-id="236db-104">Com muita frequência, as organizações precisam modificar uma lista de reprodução fornecida pela Microsoft removendo ou substituindo um ativo por um ativo criado pela organização.</span><span class="sxs-lookup"><span data-stu-id="236db-104">Quite often, organizations need to modify a Microsoft-supplied playlist by removing or replacing an asset with an asset created by the organization.</span></span> <span data-ttu-id="236db-105">Por exemplo, você pode querer remover uma etapa da lista de reprodução de etapas de início com seis etapas simples.</span><span class="sxs-lookup"><span data-stu-id="236db-105">For example, you might want to remove a step from the Start with Six Simple Steps playlist.</span></span> <span data-ttu-id="236db-106">Agora você pode usar os caminhos de aprendizado copiar o recurso de playlist para copiar facilmente as seis listas de reprodução de etapas simples e apenas remover um ativo, substituir um ativo ou adicionar novos ativos.</span><span class="sxs-lookup"><span data-stu-id="236db-106">Now you can use the learning pathways Copy Playlist feature to easily copy the Six Simple Steps playlist and simply remove an asset, replace an asset, or add new assets.</span></span> 
 
-<span data-ttu-id="f5f4d-104">Ao criar uma lista de reprodução, você primeiro cria a lista de reprodução com os detalhes da playlist e, em seguida, adiciona ativos à lista de reprodução.</span><span class="sxs-lookup"><span data-stu-id="f5f4d-104">When you create a playlist, you first create the playlist with the playlist details, and then add assets to the playlist.</span></span> <span data-ttu-id="f5f4d-105">Você pode adicionar uma lista de reprodução a qualquer subcategoria.</span><span class="sxs-lookup"><span data-stu-id="f5f4d-105">You can add a playlist to any subcategory.</span></span> <span data-ttu-id="f5f4d-106">Por exemplo, você pode adicionar uma lista de reprodução à primeira subcategoria **dias** ou uma subcategoria de **produto** como o **Excel**.</span><span class="sxs-lookup"><span data-stu-id="f5f4d-106">For example, you can add a playlist to the **First Days** subcategory or a **Product** subcategory like **Excel**.</span></span> <span data-ttu-id="f5f4d-107">Nesta seção, abordaremos como criar uma lista de reprodução e, em seguida, abordaremos a adição de ativos a uma lista de reprodução na seção a seguir, [Adicionar ativos a uma lista de reprodução personalizada](custom_addassets.md).</span><span class="sxs-lookup"><span data-stu-id="f5f4d-107">In this section, we’ll cover how to create a playlist, and then cover adding assets to a playlist in the following section, [Add assets to a custom playlist](custom_addassets.md).</span></span>
+## <a name="to-copy-a-playlist"></a><span data-ttu-id="236db-107">Para copiar uma lista de reprodução</span><span class="sxs-lookup"><span data-stu-id="236db-107">To copy a playlist</span></span>
 
-## <a name="create-a-playlist"></a><span data-ttu-id="f5f4d-108">Criar uma lista de reprodução</span><span class="sxs-lookup"><span data-stu-id="f5f4d-108">Create a playlist</span></span> 
+1. <span data-ttu-id="236db-108">Na **Home** Page de cursos de aprendizado da Microsoft 365, clique em **treinamento do Office 365**.</span><span class="sxs-lookup"><span data-stu-id="236db-108">From the Microsoft 365 learning pathways **Home** page, click **Office 365 training**.</span></span>
+2. <span data-ttu-id="236db-109">Clique no ícone de **Administração** .</span><span class="sxs-lookup"><span data-stu-id="236db-109">Click the **Administration** icon.</span></span>
+3. <span data-ttu-id="236db-110">Em **primeiro dia**, clique nas **seis etapas simples – bem-vindo à lista de reprodução do Office 365** e, em seguida, clique em **copiar playlist**.</span><span class="sxs-lookup"><span data-stu-id="236db-110">Under **First Days**, click the **Six Simple Steps - Welcome to Office 365** playlist, and then click **Copy Playlist**.</span></span> 
+4. <span data-ttu-id="236db-111">Clique em **Editar detalhe**e preencha os campos **título** e **Descrição** , conforme mostrado no exemplo a seguir, e clique em **salvar detalhes**.</span><span class="sxs-lookup"><span data-stu-id="236db-111">Click **Edit Detail**, and then fill in the **Title** and **Description** fields as shown in the following example, then click **Save Detail**.</span></span>  
+ 
+4.  <span data-ttu-id="236db-112">Preencha os campos na lista de reprodução, conforme mostrado no exemplo a seguir.</span><span class="sxs-lookup"><span data-stu-id="236db-112">Fill out the fields in the playlist as shown in the following example.</span></span> <span data-ttu-id="236db-113">Você pode deixar o ícone padrão para este exemplo.</span><span class="sxs-lookup"><span data-stu-id="236db-113">You can leave the default icon for this example.</span></span> 
 
-1. <span data-ttu-id="f5f4d-109">Na **Home** Page de cursores de aprendizado da Microsoft 365, clique em **treinamento do Office 365**, selecione o menu do sistema na Web Part e, em seguida, selecione **administrar playlist**.</span><span class="sxs-lookup"><span data-stu-id="f5f4d-109">From the Microsoft 365 learning pathways **Home** page, click **Office 365 training**, select the system menu from the Web part, and then select **Administer Playlist**.</span></span> 
-2. <span data-ttu-id="f5f4d-110">Selecione uma subcategoria.</span><span class="sxs-lookup"><span data-stu-id="f5f4d-110">Select a subcategory.</span></span> <span data-ttu-id="f5f4d-111">Neste exemplo, selecione **primeiro dias**.</span><span class="sxs-lookup"><span data-stu-id="f5f4d-111">In this example, select **First Days**.</span></span>  
-3. <span data-ttu-id="f5f4d-112">Clique no ícone +.</span><span class="sxs-lookup"><span data-stu-id="f5f4d-112">Click the + icon.</span></span>  
 
-![CG-newplaylistbtn. png](media/cg-newplaylistbtn.png)
+## <a name="add-or-remove-assets-from-a-playlist"></a><span data-ttu-id="236db-114">Adicionar ou remover ativos de uma lista de reprodução</span><span class="sxs-lookup"><span data-stu-id="236db-114">Add or remove assets from a playlist</span></span>
+<span data-ttu-id="236db-115">Com as listas de reprodução personalizadas, você pode:</span><span class="sxs-lookup"><span data-stu-id="236db-115">With custom playlists, you can:</span></span>
 
-4.  <span data-ttu-id="f5f4d-114">Preencha os campos na lista de reprodução, conforme mostrado no exemplo a seguir.</span><span class="sxs-lookup"><span data-stu-id="f5f4d-114">Fill out the fields in the playlist as shown in the following example.</span></span> <span data-ttu-id="f5f4d-115">Você pode deixar o ícone padrão para este exemplo.</span><span class="sxs-lookup"><span data-stu-id="f5f4d-115">You can leave the default icon for this example.</span></span> 
+- <span data-ttu-id="236db-116">Adicionar e remover ativos da Microsoft, mas não editar os ativos da Microsoft</span><span class="sxs-lookup"><span data-stu-id="236db-116">add and remove Microsoft assets, but not edit the assets from Microsoft</span></span>
+- <span data-ttu-id="236db-117">Adicione, remova e edite ativos personalizados do SharePoint de sua organização ou ativos do SharePoint que você criou.</span><span class="sxs-lookup"><span data-stu-id="236db-117">add, remove, and edit custom existing SharePoint assets from your organization or SharePoint assets that you create.</span></span> 
 
-![CG-newplaylistdetails. png](media/cg-newplaylistdetails.png)
+1. <span data-ttu-id="236db-118">Role para baixo na página **Administração** e, em seguida, em **ativos da playlist** , clique no ícone excluir da **etapa 5. Configurar aplicativos móveis**.</span><span class="sxs-lookup"><span data-stu-id="236db-118">Scroll down the **Administration** page, and then under **Playlist Assets** click the delete icon for **Step 5. Set up mobile apps**.</span></span> 
 
-5.  <span data-ttu-id="f5f4d-117">Quando terminar, selecione **salvar detalhes**.</span><span class="sxs-lookup"><span data-stu-id="f5f4d-117">When you are done, select **Save Detail**.</span></span> 
+## <a name="verify-the-asset-is-removed-from-the-playlist"></a><span data-ttu-id="236db-119">Verificar se o ativo foi removido da playlist</span><span class="sxs-lookup"><span data-stu-id="236db-119">Verify the asset is removed from the playlist</span></span>
+1. <span data-ttu-id="236db-120">Retorne à guia com a página de **treinamento do Microsoft 365** .</span><span class="sxs-lookup"><span data-stu-id="236db-120">Return to the tab with the **Microsoft 365 training** page.</span></span>
+2. <span data-ttu-id="236db-121">Clique em **primeiro dias**e, em seguida, clique nas **cinco etapas simples – bem-vindo à lista de reprodução do Office 365** .</span><span class="sxs-lookup"><span data-stu-id="236db-121">Click **First Days**, then click the **Five Simple Steps - Welcome to Office 365** playlist.</span></span> 
+3. <span data-ttu-id="236db-122">Clique na lista de reprodução para verificar se o ativo foi removido.</span><span class="sxs-lookup"><span data-stu-id="236db-122">Click through the playlist to verify that the asset has been removed.</span></span>
 
-## <a name="edit-a-playlist"></a><span data-ttu-id="f5f4d-118">Editar uma lista de reprodução</span><span class="sxs-lookup"><span data-stu-id="f5f4d-118">Edit a playlist</span></span>
 
-- <span data-ttu-id="f5f4d-119">Na página **Administração de aprendizado personalizada** , clique na lista de reprodução e, em seguida, clique em **Editar detalhes**.</span><span class="sxs-lookup"><span data-stu-id="f5f4d-119">From the **Custom Learning Administration** page, click the playlist, and then click **Edit Detail**.</span></span>  
-
-![CG-editplaylist. png](media/cg-editplaylist.png)
-
-### <a name="delete-a-playlist"></a><span data-ttu-id="f5f4d-121">Excluir uma lista de reprodução</span><span class="sxs-lookup"><span data-stu-id="f5f4d-121">Delete a playlist</span></span>
-
-- <span data-ttu-id="f5f4d-122">Na página Administração de aprendizado personalizada, clique no ícone **excluir** da lista de reprodução.</span><span class="sxs-lookup"><span data-stu-id="f5f4d-122">From the Custom Learning Administration page, click the **Delete** icon for the playlist.</span></span>  
-
-![CG-deleteplaylist. png](media/cg-deleteplaylist.png)
