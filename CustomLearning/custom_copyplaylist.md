@@ -1,42 +1,40 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Criar novas listas de reprodução
+title: Copiar uma lista de reprodução
 ms.date: 02/18/2019
-description: Como criar novas listas de reprodução
-ms.openlocfilehash: 8b855caf2512f6ab4db103c0f28f38176f4def55
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+description: Copiar uma lista de reprodução
+ms.openlocfilehash: b8df82928f3162704f1a86675d28b810119e3980
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726734"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886864"
 ---
-# <a name="create-a-custom-playlist"></a>Criar uma lista de reprodução personalizada
+# <a name="copy-a-playlist"></a>Copiar uma lista de reprodução
+Com muita frequência, as organizações precisam modificar uma lista de reprodução fornecida pela Microsoft removendo ou substituindo um ativo por um ativo criado pela organização. Por exemplo, você pode querer remover uma etapa da lista de reprodução de etapas de início com seis etapas simples. Agora você pode usar os caminhos de aprendizado copiar o recurso de playlist para copiar facilmente as seis listas de reprodução de etapas simples e apenas remover um ativo, substituir um ativo ou adicionar novos ativos. 
 
-Ao criar uma lista de reprodução, você primeiro cria a lista de reprodução com os detalhes da playlist e, em seguida, adiciona ativos à lista de reprodução. Você pode adicionar uma lista de reprodução a qualquer subcategoria. Por exemplo, você pode adicionar uma lista de reprodução à primeira subcategoria **dias** ou uma subcategoria de **produto** como o **Excel**. Nesta seção, abordaremos como criar uma lista de reprodução e, em seguida, abordaremos a adição de ativos a uma lista de reprodução na seção a seguir, [Adicionar ativos a uma lista de reprodução personalizada](custom_addassets.md).
+## <a name="to-copy-a-playlist"></a>Para copiar uma lista de reprodução
 
-## <a name="create-a-playlist"></a>Criar uma lista de reprodução 
-
-1. Na **Home** Page de cursores de aprendizado da Microsoft 365, clique em **treinamento do Office 365**, selecione o menu do sistema na Web Part e, em seguida, selecione **administrar playlist**. 
-2. Selecione uma subcategoria. Neste exemplo, selecione **primeiro dias**.  
-3. Clique no ícone +.  
-
-![CG-newplaylistbtn. png](media/cg-newplaylistbtn.png)
-
+1. Na **Home** Page de cursos de aprendizado da Microsoft 365, clique em **treinamento do Office 365**.
+2. Clique no ícone de **Administração** .
+3. Em **primeiro dia**, clique nas **seis etapas simples – bem-vindo à lista de reprodução do Office 365** e, em seguida, clique em **copiar playlist**. 
+4. Clique em **Editar detalhe**e preencha os campos **título** e **Descrição** , conforme mostrado no exemplo a seguir, e clique em **salvar detalhes**.  
+ 
 4.  Preencha os campos na lista de reprodução, conforme mostrado no exemplo a seguir. Você pode deixar o ícone padrão para este exemplo. 
 
-![CG-newplaylistdetails. png](media/cg-newplaylistdetails.png)
 
-5.  Quando terminar, selecione **salvar detalhes**. 
+## <a name="add-or-remove-assets-from-a-playlist"></a>Adicionar ou remover ativos de uma lista de reprodução
+Com as listas de reprodução personalizadas, você pode:
 
-## <a name="edit-a-playlist"></a>Editar uma lista de reprodução
+- Adicionar e remover ativos da Microsoft, mas não editar os ativos da Microsoft
+- Adicione, remova e edite ativos personalizados do SharePoint de sua organização ou ativos do SharePoint que você criou. 
 
-- Na página **Administração de aprendizado personalizada** , clique na lista de reprodução e, em seguida, clique em **Editar detalhes**.  
+1. Role para baixo na página **Administração** e, em seguida, em **ativos da playlist** , clique no ícone excluir da **etapa 5. Configurar aplicativos móveis**. 
 
-![CG-editplaylist. png](media/cg-editplaylist.png)
+## <a name="verify-the-asset-is-removed-from-the-playlist"></a>Verificar se o ativo foi removido da playlist
+1. Retorne à guia com a página de **treinamento do Microsoft 365** .
+2. Clique em **primeiro dias**e, em seguida, clique nas **cinco etapas simples – bem-vindo à lista de reprodução do Office 365** . 
+3. Clique na lista de reprodução para verificar se o ativo foi removido.
 
-### <a name="delete-a-playlist"></a>Excluir uma lista de reprodução
 
-- Na página Administração de aprendizado personalizada, clique no ícone **excluir** da lista de reprodução.  
-
-![CG-deleteplaylist. png](media/cg-deleteplaylist.png)

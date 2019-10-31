@@ -4,21 +4,21 @@ ms.author: pkrebs
 title: Criar novas listas de reprodução
 ms.date: 02/18/2019
 description: Como criar novas listas de reprodução
-ms.openlocfilehash: 8b855caf2512f6ab4db103c0f28f38176f4def55
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: f94ff6733dd7bb63d9d589266722f60bcd91d630
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247586"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886814"
 ---
 # <a name="create-a-custom-playlist"></a>Criar uma lista de reprodução personalizada
 
-Ao criar uma lista de reprodução, você primeiro cria a lista de reprodução com os detalhes da playlist e, em seguida, adiciona ativos à lista de reprodução. Você pode adicionar uma lista de reprodução a qualquer subcategoria. Por exemplo, você pode adicionar uma lista de reprodução à primeira subcategoria **dias** ou uma subcategoria de **produto** como o **Excel**. Nesta seção, abordaremos como criar uma lista de reprodução e, em seguida, abordaremos a adição de ativos a uma lista de reprodução na seção a seguir, [Adicionar ativos a uma lista de reprodução personalizada](custom_addassets.md).
+Com os caminhos de aprendizado da Microsoft 365, você pode criar listas de reprodução personalizadas a partir do zero, que são adaptados para as necessidades exclusivas da sua organização. Por exemplo, crie uma lista de reprodução para integração de novas contratações para o Microsoft Teams. Ou crie listas de reprodução para administradores executivos com informações adequadas para sua função exclusiva. Ou crie um primeiro dia para a lista de reprodução da Microsoft 365 que tenha três etapas simples em vez de seis. Você pode adicionar uma lista de reprodução personalizada a qualquer subcategoria. Por exemplo, os **primeiros dias**, uma subcategoria de **produto** como o **Excel**, ou até mesmo uma subcategoria criada. Nesta seção, abordaremos como criar uma lista de reprodução e, em seguida, abordaremos a adição de ativos a uma lista de reprodução na seção a seguir, [Adicionar ativos a uma lista de reprodução personalizada](custom_addassets.md).
 
 ## <a name="create-a-playlist"></a>Criar uma lista de reprodução 
 
-1. Na **Home** Page de cursores de aprendizado da Microsoft 365, clique em **treinamento do Office 365**, selecione o menu do sistema na Web Part e, em seguida, selecione **administrar playlist**. 
-2. Selecione uma subcategoria. Neste exemplo, selecione **primeiro dias**.  
+1. Na **Home** Page de cursos de aprendizado da Microsoft 365, clique em **treinamento do Office 365**e selecione o ícone de **Administração** na Web Part. 
+2. Selecione a subcategoria de ícone **administrar**. Neste exemplo, selecione **primeiro dias**.  
 3. Clique no ícone +.  
 
 ![CG-newplaylistbtn. png](media/cg-newplaylistbtn.png)

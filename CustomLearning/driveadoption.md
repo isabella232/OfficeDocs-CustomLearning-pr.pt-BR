@@ -1,16 +1,16 @@
 ---
-title: ''
-description: ''
+title: Conduzir a adoção de caminhos de aprendizado
+description: Conduzir a adoção de caminhos de aprendizado
 author: karuanag
 ms.author: karuanag
-ms.date: 5/16/19
+ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: 33c327327239e156cf15235c2b180b7b37539f04
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.openlocfilehash: 7369e0b2911ba42b19eafe6a46ca9a639372df46
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726695"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886974"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>Conduzir a adoção do portal de seus caminhos de aprendizado
 Depois de personalizar os caminhos de aprendizado da Microsoft 365 e reunir suas campanhas de aprendizado iniciais, é hora de pensar sobre como você receberá que os usuários retornem aos caminhos de aprendizado da Microsoft 365 para obter aprendizado e transformação em andamento. Você pode usar a orientação, o kit de adoção e as práticas recomendadas que a Microsoft disponibilizou para ajudá-lo a executar as campanhas de adoção bem-sucedidas do Microsoft 365 Learning, oferecemos orientações, práticas recomendadas e um kit de adoção. 
@@ -71,7 +71,6 @@ Trabalhe com sua equipe de recursos humanos para alinhar o lançamento do seu si
 2.  Pilote sua versão personalizada dos caminhos de aprendizado do Microsoft 365 com um grupo representativo de usuários finais e faça uma simulação de seu plano de adoção. Com base nos comentários do plano de adoção final de um piloto.
 3.  Execute sua campanha de adoção por um período de tempo mantido. 
 4.  Participe da comunidade de adoção de forças. Compartilhe sua experiência com os caminhos de aprendizado da Microsoft 365 em nossa comunidade de adoção de forças online. Encontre-nos https://aka.ms/DriveAdoptionem. 
-
 
 ## <a name="join-the-driving-adoption-community"></a>Ingressar na Comunidade de adoção de forças
 
