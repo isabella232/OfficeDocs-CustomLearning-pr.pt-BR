@@ -5,7 +5,7 @@
 ## [Configuração de Web Part autônoma](custom_manualsetup.md)
 # [Centro de sucesso de administração](custom_successcenter.md)
 ## [Atualizações de conteúdo de novembro](custom_contentupdates.md)
-## [Gerenciar atualizações de conteúdo](custom_managecontentupdates.md)
+## [Gerenciar atualizações de conteúdo](custom_contentupdatesmanage.md)
 ## [Atualizações de recursos de novembro](custom_featureupdates.md)
 ## [Planejar seu conteúdo de aprendizado](custom_plancontent.md)
 ## [Personalizar os caminhos de aprendizado](custom_overview.md)
