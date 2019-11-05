@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Explorar o site e o conteúdo padrão
 ms.date: 02/10/2019
 description: Explorar o site de cursores de aprendizado e o conteúdo padrão
-ms.openlocfilehash: 5691f44bd121cfdb0c164e6f6aed389582e9420a
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: a7218cb09d23d553f50a09ace9b14e9522d8716f
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34248066"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956538"
 ---
 # <a name="explore-the-learning-pathways-site"></a>Explorar o site de cursores de aprendizado
 
@@ -21,37 +21,16 @@ ms.locfileid: "34248066"
 2.  Entre com seu nome de usuário e senha.
 3.  Navegue até o local do site usando a URL fornecida pelo administrador de locatários ou selecione SharePoint na home page do Office 365 e, em seguida, selecione o site. 
 
-![CG-Introducing. png](media/cg-introducing.png)
+![CG-exploresite. png](media/cg-introducing.png)
 
-## <a name="explore-the-learning-pathways-site"></a>Explorar o site de cursores de aprendizado
+## <a name="explore-microsoft-365-learning-pathways"></a>Explorar os caminhos de aprendizado do Microsoft 365
 
-O site de cursores de aprendizado é baseado em um modelo de comunicação do SharePoint, portanto, é fácil modificar o site para atender às necessidades da sua organização. Você pode alterar o nome, o logotipo, os itens de menu e o conteúdo das páginas do site. Uma das páginas que você deseja modificar para sua organização é a página fazer perguntas e obter ajuda. Vamos dar uma olhada.
+O site de cursores de aprendizado é baseado em um modelo de comunicação do SharePoint, portanto, é fácil modificar o site para atender às necessidades da sua organização. Você pode alterar o nome, o logotipo, os itens de menu e o conteúdo das páginas do site. A orientação para personalizar os caminhos de aprendizado é fornecida no centro de sucesso do administrador. 
 
-### <a name="view-the-ask-questions-and-get-help-page"></a>Exibir a página fazer perguntas e obter ajuda
+### <a name="get-started-with-the-admin-success-center"></a>Introdução ao centro de sucesso do administrador
 
-O site de cursores de aprendizado fornece conteúdo padrão para ajudá-lo a começar a criar seu portal de treinamento e suporte. Como um admininstrator ou proprietário do site, uma das coisas que você deve fazer é alterar os links na **página Ask question e Get Help** aponte para os recursos em sua organização. 
+O centro de sucesso do administrador fornece orientações e recursos para ajudá-lo a planejar, personalizar, impulsionar a adoção e medir o impacto da implantação dos seus caminhos de aprendizado. 
 
-1.  Na home page de cursores de aprendizado da Microsoft 365, clique no item de menu **fazer perguntas e obter ajuda** .
-2.  Clique no botão **Editar**.
-3.  Passe o mouse sobre uma imagem de opção de ajuda e, em seguida, clique em **Editar Web Part**.
+- Na **Home** Page de cursores de aprendizado da Microsoft 365, clique em introdução **ao centro de sucesso do administrador**.
 
-![CG-edithelp. png](media/cg-edithelp.png)
-
-Para obter instruções sobre como personalizar páginas de site, consulte [Customize The site](custom_edithelp.md).
-
-### <a name="view-the-learning-pathways-content-in-the-web-part"></a>Exibir o conteúdo dos caminhos de aprendizado na Web Part
-A página de treinamento do Microsoft 365 hospeda a Web Part de cursores de aprendizado configurada para mostrar todos os treinamentos disponíveis para os caminhos de aprendizado. 
-
-1. Role para baixo na página para exibir todas as categorias e subcategorias.
-2. Faça um pouquinho dos pneus. Clique em algumas subcategorias e, em seguida, clique em algumas listas de reprodução para saber como o conteúdo dos caminhos de aprendizado é organizado. 
-
-![CG-gotoall. png](media/cg-gotoall.png)
-
-Para obter instruções sobre como personalizar a Web Part de cursores de aprendizado, consulte [Customize The Learning Experience](custom_overview.md).
-
-### <a name="get-a-complete-site-tour-and-customization-guidance"></a>Obter um tour de site completo e orientação de personalização
-Para obter uma visão detalhada dos caminhos de aprendizado, incuding o site, a Web Part, recursos administrativos e orientações sobre como criar experiências de aprendizado exclusivas para seu ambiente, consulte [Customize The Learning Experience](custom_overview.md)
-
-## <a name="next-steps"></a>Próximas etapas
-- [Personalizar a experiência de aprendizagem](custom_overview.md)
-- [Adoção de drive](driveadoption.md) 
+Os caminhos de aprendizado fornecem orientações no centro de sucesso do administrador na solução. A documentação do centro de sucesso do administrador também está disponível neste conjunto de documentação. Consulte [cursores de aprendizado administração do centro de sucesso](custom_successcenter.md).

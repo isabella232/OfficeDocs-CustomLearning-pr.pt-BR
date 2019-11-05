@@ -4,14 +4,14 @@ ms.author: pkrebs
 title: Onde está o Microsoft 365 Learning Web Part
 ms.date: 02/15/2019
 description: Saiba onde a Web Part de cursores de aprendizado aparece no site de cursores de aprendizado
-ms.openlocfilehash: bc0a24f3f4fa9f2067f52a787da8fc25592fd151
-ms.sourcegitcommit: 076ad8f4dd99da270d34c01b03428a24632916e5
+ms.openlocfilehash: f84ce82233612c0b7892177defb2a8ca28618b68
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34327282"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956549"
 ---
-# <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Onde está a Web Part de cursores de aprendizado da Microsoft 365?
+# <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Onde está a Web Part de cursores de aprendizado da Microsoft 365? 
 
 Quando os caminhos de aprendizado são provisionados em sua organização, o site e a Web Part de cursores de aprendizado são adicionados ao locatário do SharePoint da sua organização. Como parte do provisionamento, a Web Part de aprendizado da Microsoft 365 é adicionada às seguintes páginas do site de cursores de aprendizado da Microsoft 365:
 
@@ -20,9 +20,10 @@ Quando os caminhos de aprendizado são provisionados em sua organização, o sit
 - Introdução ao – Office 365. aspx
 - Get-started-with-Microsoft-Teams. aspx
 - Get-started-with-OneDrive. aspx
-- Get-started-with-SPO. aspx
+- Get-started-with-SharePoint. aspx
+- Caminhos de aprendizagem centro de sucesso do administrador. aspx
 
-Para cada página, a Web Part é configurada de forma diferente para mostrar as categorias, subcategorias, listas de reprodução ou ativos projetadas para dar suporte à intenção da página. A Web Part de cursores de aprendizado, como mostraremos em seções posteriores, pode ser adicionada a praticamente qualquer página do SharePoint e filtrada para mostrar todas as categorias, subcategorias, listas de reprodução ou apenas ativos. Vamos dar uma olhada. 
+Para cada página, a Web Part é configurada de forma diferente para mostrar as categorias, subcategorias, listas de reprodução ou ativos projetadas para dar suporte à intenção da página. A Web Part de cursores de aprendizado, como mostraremos em seções posteriores, pode ser adicionada a praticamente qualquer página do SharePoint e filtrada para mostrar categorias específicas, subcategorias, listas de reprodução ou apenas ativos. Vamos dar uma olhada. 
 
 ## <a name="view-microsoft-teams-playlists"></a>Exibir playlists do Microsoft Teams
 
@@ -51,6 +52,16 @@ A Web Part na página de **treinamento do Microsoft 365** é configurada para mo
 - Na home page de cursores de aprendizado, clique em **treinamento do Microsoft 365**. A página aparecerá com a Web Part configurada para mostrar todas as categorias e subcategorias disponíveis no catálogo de aprendizado personalizado.
 
 ![CG-whereiswp-o365. png](media/cg-whereiswp-o365.png)
+
+- Clique no menu **página inicial** no menu de cursores de aprendizado para retornar à Home Page do site.
+
+## <a name="view-the-web-part-on-the-admin-success-center-page"></a>Exibir a Web Part na página do centro de sucesso do administrador
+
+A Web Part na página **centro de sucesso do administrador** é configurada para filtrar todas as listas de reprodução disponíveis para o centro de sucesso do administrador. Conforme mostrado no exemplo a seguir, a Web Part é adicionada a uma página que também contém links rápidos para recursos de administração. 
+
+- Na home page de cursores de aprendizado, clique em introdução **ao centro de sucesso do administrador**. botão. 
+
+![CG-adminsuccesscenterwebpart. png](media/cg-adminsuccesscenterwebpart.png)
 
 - Clique no menu **página inicial** no menu de cursores de aprendizado para retornar à Home Page do site.
 

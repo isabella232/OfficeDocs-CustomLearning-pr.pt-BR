@@ -4,15 +4,15 @@ ms.author: pkrebs
 title: Visão geral dos caminhos de aprendizado do Microsoft 365
 ms.date: 10/23/2019
 description: Saiba como os caminhos de aprendizado da Microsoft 365 podem acelerar o uso e a adoção dos serviços da Microsoft 365 em sua organização. Os caminhos de aprendizado incluem uma Web Part do SharePoint Online personalizada e um site de treinamento de comunicações do SharePoint Online moderno que é facilmente provisionado para seu locatário do Microsoft 365.
-ms.openlocfilehash: f68f678f46633e9a5b661862d39f63b8b98138c3
-ms.sourcegitcommit: 91f02943cd5bfe6ad584fff71054c13e9547a0d7
+ms.openlocfilehash: 21f85ad1434f27882ece4658dad466b55351b3a8
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/03/2019
-ms.locfileid: "37947151"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956578"
 ---
-# <a name="microsoft-365-learning-pathways-beta-preview"></a>Pré-sucursos da versão beta do Microsoft 365 Learning
-Os caminhos de aprendizado da Microsoft 365 são uma solução de aprendizado personalizável e sob demanda projetada para aumentar o uso e a adoção dos serviços da Microsoft 365 em sua organização.  
+# <a name="microsoft-365-learning-pathways"></a>Caminhos de aprendizado da Microsoft 365 
+Os caminhos de aprendizado da Microsoft 365 são uma solução de aprendizado personalizável e sob demanda projetada para aumentar o uso e a adoção dos serviços da Microsoft 365 em sua organização.   
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Treinamento personalizado sob demanda da Microsoft
 
@@ -25,7 +25,7 @@ Os caminhos de aprendizado da Microsoft 365 oferecem:
 
 ![CG-Introducing. png](media/cg-introducing.png)
 
-# <a name="sharepoint-online-provisioning-service"></a>Serviço de provisionamento do SharePoint Online 
+## <a name="sharepoint-online-provisioning-service"></a>Serviço de provisionamento do SharePoint Online 
 Os caminhos de aprendizado podem ser provisionados do serviço de provisionamento do SharePoint Online. Quando os caminhos de aprendizado da Microsoft 365 são provisionados, as organizações recebem um site de comunicação do SharePoint Online projetado para ser um portal de treinamento pronto para uso, juntamente com uma Web Part de cursores de aprendizado conectada a um catálogo online de conteúdo de treinamento. 
 
 ![CG-Provision. png](media/cg-provision.png)

@@ -5,12 +5,12 @@ author: karuanag
 ms.author: karuanag
 ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: 7369e0b2911ba42b19eafe6a46ca9a639372df46
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: b07a7771c92ec69390e078f60e2e86ae04450cae
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886974"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956638"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>Conduzir a adoção do portal de seus caminhos de aprendizado
 Depois de personalizar os caminhos de aprendizado da Microsoft 365 e reunir suas campanhas de aprendizado iniciais, é hora de pensar sobre como você receberá que os usuários retornem aos caminhos de aprendizado da Microsoft 365 para obter aprendizado e transformação em andamento. Você pode usar a orientação, o kit de adoção e as práticas recomendadas que a Microsoft disponibilizou para ajudá-lo a executar as campanhas de adoção bem-sucedidas do Microsoft 365 Learning, oferecemos orientações, práticas recomendadas e um kit de adoção. 
@@ -31,8 +31,8 @@ O uso dos seguintes cenários em sua campanha de comunicação ajudará a envolv
 - Compartilhe sites e conteúdo
 - Conectar sua organização ao Yammer
 
-## <a name="use-the-download-adoption-kit"></a>Usar o kit de adoção de download
-Para ajudá-lo a executar sua campanha de comunicação de cursores de aprendizado do Microsoft 365, use o kit de adoção baixável. Ele contém: 
+## <a name="use-the-downloadable-adoption-kit"></a>Usar o kit de adoção para download
+Para ajudá-lo a executar sua campanha de comunicação de cursores de aprendizado do Microsoft 365, use o [Kit de adoção baixável](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip). Ele contém: 
 
 - Calendário de campanha de comunicação recomendado para o Microsoft 365 Learning precursores para ajudá-lo a planejar sua campanha
 - Usuário final inicia e dicas modelos de email para cada um dos cinco cenários da Microsoft 365.    
