@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Medir o impacto dos caminhos de aprendizado da Microsoft 365
 ms.date: 02/10/2019
 description: Como medir o impacto dos caminhos de aprendizado do Microsoft 365
-ms.openlocfilehash: 95162ed8cead823f58a033922898beb4a7175399
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: 8beb4955208f14ca5d4bbc8a525d839d47e47b88
+ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34272653"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076005"
 ---
 # <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>Avaliando o impacto dos caminhos de aprendizado da Microsoft 365
 
@@ -33,5 +33,5 @@ Siga o artigo de referência para:
 
 ## <a name="feedback"></a>Comentários
 
-A partir de hoje, os relatórios são limitados ao nível do site do SharePoint. Emprestar seu voto ao nosso fórum de [voz de usuário](https://microsoftteams.uservoice.com/forums/913429-learning-solutions) para ajudar a priorizar as solicitações avançadas de funcionalidade de relatórios.   
+A partir de hoje, os relatórios são limitados ao nível do site do SharePoint. Emprestar seu voto ao nosso fórum de [voz de usuário](https://go.microsoft.com/fwlink/?linkid=2109552) para ajudar a priorizar as solicitações avançadas de funcionalidade de relatórios.   
 
