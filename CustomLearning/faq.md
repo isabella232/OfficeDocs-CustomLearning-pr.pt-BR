@@ -4,12 +4,12 @@ ms.author: karuanag
 title: Perguntas frequentes sobre os caminhos de aprendizado do Microsoft 365
 ms.date: 02/10/2019
 description: Informações de perguntas frequentes para os caminhos de aprendizado do Microsoft 365
-ms.openlocfilehash: 66149439f0ca13b319bee3bea9c2773b43e98e25
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: 5b90971ef6e411b4bd8d0cece2d8211f6fd5db23
+ms.sourcegitcommit: 86cfa176d50b324c964b1a8609270cc73a2468b3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "35636105"
+ms.lasthandoff: 12/17/2019
+ms.locfileid: "40068812"
 ---
 # <a name="frequently-asked-questions"></a>Perguntas Frequentes
 
@@ -34,11 +34,11 @@ O lançamento dos cursores de aprendizado da Microsoft 365 é um esforço de rem
 Os caminhos de aprendizado do Microsoft 365 estão atualmente na visualização beta. Considere o seguinte ao avaliar, planejar e implementar os caminhos de aprendizado da Microsoft 365:
 
 - Como em qualquer solução beta, nossa equipe de gerenciamento de serviços reserva-se o direito de fazer alterações no serviço e seus componentes. À medida que estamos resolvendo erros e problemas de experiência do UX, provavelmente você precisaria atualizar a Web Part.
-- Para atualizar a Web Part, você precisará baixá-la em nosso repositório do GitHub e carregá-la no catálogo de aplicativos do locatário. Consulte a seção "Atualizando a solução" do arquivo Leiame dos caminhos de [](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) aprendizado do Microsoft 365. 
+- Para atualizar a Web Part, você precisará baixá-la em nosso repositório do GitHub e carregá-la no catálogo de aplicativos do locatário. Consulte a seção "Atualizando a solução" do arquivo [Leiame](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) dos caminhos de aprendizado do Microsoft 365. 
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Quais idiomas são os caminhos de aprendizado da Microsoft 365 disponíveis no?
 
-Os caminhos de aprendizado do Microsoft 365 estão atualmente disponíveis somente em inglês. O provisionamento automático de ponta a ponta funciona apenas com locatários em inglês. Planejamos implantar o suporte multilíngue para esses nove idiomas no CY19 T4: 
+Os caminhos de aprendizado do Microsoft 365 estão atualmente disponíveis somente em inglês. O provisionamento automático de ponta a ponta funciona apenas com locatários em inglês. Planejamos implantar o suporte multilíngue para esses nove idiomas no primeiro trimestre de 2020. 
 
 - Chinês (simplificado) 
 - Holandês (Países Baixos) 
