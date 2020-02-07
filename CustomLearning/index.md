@@ -4,15 +4,15 @@ ms.author: pkrebs
 title: Visão geral dos caminhos de aprendizado do Microsoft 365
 ms.date: 10/23/2019
 description: Saiba como os caminhos de aprendizado da Microsoft 365 podem acelerar o uso e a adoção dos serviços da Microsoft 365 em sua organização. Os caminhos de aprendizado incluem uma Web Part do SharePoint Online personalizada e um site de treinamento de comunicações do SharePoint Online moderno que é facilmente provisionado para seu locatário do Microsoft 365.
-ms.openlocfilehash: 4f15e8830f90564e2d0b40563e0b19e02580b0a0
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.openlocfilehash: 0881b21179c5ffd60b7784f0c3879136dcb58d29
+ms.sourcegitcommit: b3448e95f676ccc5d2b7b153df9106319752936b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38626603"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "41831887"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Caminhos de aprendizado da Microsoft 365 
-Os caminhos de aprendizado da Microsoft 365 são uma solução de aprendizado personalizável e sob demanda projetada para aumentar o uso e a adoção dos serviços da Microsoft 365 em sua organização.   
+Os caminhos de aprendizado da Microsoft 365 são uma solução de aprendizado personalizável e sob demanda projetada para aumentar o uso e a adoção dos serviços da Microsoft 365 em sua organização.    
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Treinamento personalizado sob demanda da Microsoft
 
@@ -36,7 +36,7 @@ Vamos começar a criar uma experiência de cursores de aprendizado para seu ambi
 2. Ajustar os caminhos de aprendizado para seu ambiente.
 3. Compartilhe caminhos de aprendizado com seus usuários usando nossas [ferramentas de adoção](driveadoption.md).
 
-## <a name="feedback-and-support"></a>Feedback e suporte
+## <a name="feedback-and-support"></a>Comentários e Suporte
 
 Os caminhos de aprendizado do Microsoft 365 são um projeto de código aberto com suporte na [lista de problemas online](https://aka.ms/CustomLearningHelp) no github. A solução de cursores de aprendizado e seus componentes não são cobertas por qualquer contrato de suporte da Microsoft existente.  
 
