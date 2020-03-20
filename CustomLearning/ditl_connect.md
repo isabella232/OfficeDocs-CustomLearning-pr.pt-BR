@@ -1,17 +1,17 @@
 ---
-Título: ''
+título: ''
 ms.openlocfilehash: 78115ccf91fbbd76d4b30a17ba72307a658fceed
 ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "32055125"
 ---
-# <a name="connecting-across-the-company"></a>Conectando-se à empresa
+# <a name="connecting-across-the-company"></a>Conectando-se em toda a empresa
 
-![Conectar o Visual](media/ditl_crosscompany.png)
+![Conectar visual](media/ditl_crosscompany.png)
 
-É um dia ocupado, mas antes de sair do escritório, você deseja garantir que todas as pessoas interessadas em seu trabalho sejam informadas sobre o que está acontecendo. Garantir que todos os seus participantes, dentro e fora da sua equipe, entendam seus objetivos, progresso e resultados é uma parte importante do que você faz.  
+Foi um dia agitado, mas antes de sair do escritório, você quer garantir que todas as pessoas interessadas no seu trabalho fiquem sabendo sobre o que está acontecendo. Garantir que todas as partes interessadas, dentro e fora de sua equipe, entendam suas metas, progresso e resultados, é uma parte importante do que você faz.  
 
 ## <a name="tools"></a>Ferramentas
 - SharePoint
@@ -19,34 +19,34 @@ ms.locfileid: "32055125"
 - Outlook
 - Microsoft Teams 
 
-## <a name="checklist-for-communicating-across-the-company"></a>Lista de verificação para comunicação pela empresa
-- Entender seu público e seus métodos de comunicação existentes
-- Direcionar as principais mensagens por pessoa, por exemplo, participantes do projeto, membro da equipe ou funcionário
-- Selecionar ferramentas de comunicação que se complementam, por exemplo, criar uma postagem na sua comunidade do Yammer e enviar um alerta por email 
-- Coautoria suas informações com outras pessoas em sua equipe
-- Publicar suas informações e enviar uma notificação para todas as suas partes interessadas 
+## <a name="checklist-for-communicating-across-the-company"></a>Lista de verificação para comunicação em toda a empresa
+- Entenda seu público e seus métodos de comunicação existentes
+- Direcione suas mensagens principais por pessoa, por exemplo, parte interessada do projeto, membro da equipe ou funcionário
+- Escolha as ferramentas de comunicação que se complementem, por exemplo, escreva um postagem na comunidade do Yammer e envie um alerta via email 
+- Coautoria com outras pessoas da equipe
+- Publique informações e envie uma notificação a todas as partes interessadas 
  
-## <a name="select-your-communication-method"></a>Selecione seu método de comunicação
-Use as informações abaixo para decidir a melhor maneira de se comunicar com sua equipe. Equilíbrio usando novas tecnologias com comunicados de email tradicionais enquanto as pessoas migram para novos métodos de comunicação. Ter uma abordagem de comunicação consistente é uma maneira eficaz de direcionar a conscientização e a alteração organizacional. 
+## <a name="select-your-communication-method"></a>Escolha um método de comunicação
+Use as informações a seguir para escolher a melhor maneira de se comunicar com a sua equipe. Faça um equilíbrio usando novas tecnologias com tradicionais anúncios de email enquanto as pessoas fazem a transição para novos métodos de comunicação. Ter uma abordagem de comunicação consistente é uma maneira eficaz de promover a conscientização e a mudança organizacional. 
 
-**Yammer**: você pode orientar a conversa em um amplo grupo de pessoas usando o Yammer para compartilhar suas atualizações. Poste uma atualização padrão ou use o recurso de anúncio para garantir que uma cópia da sua atualização vá para a caixa de correio de cada membro. 
+**Yammer**: conduza uma conversa com um amplo grupo de pessoas usando o Yammer para compartilhar suas atualizações. Poste uma atualização padrão ou use o recurso Comunicado para garantir que uma cópia da atualização vá para a caixa de correio de cada membro. 
 
-![Postagem de mídia social](media/ditl_IT-Service-News.png)
+![Postagem em mídia social](media/ditl_IT-Service-News.png)
 
-**SharePoint**: se você deseja acessar pessoas de fora do seu grupo de trabalho, considere escrever um breve artigo de notícias sobre seu compromisso e progresso prontamente disponível e mantido para a vida útil do seu projeto no SharePoint Online. Use uma página moderna em um site de equipe do SharePoint ou para um programa maior, considere a criação de um site de comunicação do SharePoint. 
+**SharePoint**: se quiser alcançar pessoas de fora do seu grupo de trabalho, considere escrever um breve artigo sobre seu estatuto e progresso, deixando-o prontamente disponível e para toda a vida do seu projeto no SharePoint online. Use uma página moderna em um site da equipe do SharePoint ou para um programa maior, considere a criação de um site de comunicação do SharePoint. 
 
-Os sites de comunicação do SharePoint fornecem artigos visuais e flexíveis de notícias que permitem que você incorpore imagens, painéis e texto juntos. As informações são disponibilizadas por meio de qualquer navegador ou através do aplicativo móvel do SharePoint. Este vídeo fornece uma rápida visão geral do que esses sites poderosos podem fazer. Para garantir a melhor visibilidade fixar o site de comunicação como uma guia para o seu grupo de trabalho no Microsoft Teams.
+Os sites de comunicação do SharePoint fornecem artigos de notícias visuais e flexíveis que permitem inserir imagens, painéis e texto juntos. As informações estarão disponíveis através de qualquer navegador ou do aplicativo móvel do SharePoint. O vídeo fornece uma rápida visão geral do que esses sites poderosos podem fazer. Para garantir a melhor visibilidade, coloque o site de comunicação como uma guia para o grupo de trabalho no Microsoft Teams.
 
 ![Exemplo de site de comunicação no SharePoint Online](media/ditl_Comm-Site.png)
 
-**Microsoft Teams**: se esse grupo abrangente de pessoas já fizer parte do seu grupo de trabalho no Microsoft Teams por que não postar uma nota em seu canal geral com fatos importantes e um link para uma página wiki para sua atualização mais longa.  As páginas wiki podem ser coautodas por várias pessoas e persistirem durante a vigência da equipe. 
+**Microsoft Teams**: se esse amplo grupo de pessoas já faz parte do seu grupo de trabalho no Microsoft Teams, porque não postar uma nota no seu canal geral com os principais fatos e um link para uma página Wiki para a sua atualização mais longa.  As páginas Wiki podem ser coautoria de várias pessoas e existir durante toda a vigência da equipe. 
 
-![captura de tela de uma página wiki no Microsoft Teams](media/ditl_Teams-Wiki.png)
+![uma captura de tela de uma página Wiki no Microsoft Teams](media/ditl_Teams-Wiki.png)
 
-## <a name="tip-to-modernize-your-communication"></a>Dica para modernizar sua comunicação
+## <a name="tip-to-modernize-your-communication"></a>Dica para modernizar a comunicação
 
-**Para seus colegas de email centrados**: Assine-os para alertas do seu grupo do Yammer ou do seu feed de notícias do SharePoint.  Dessa forma, eles receberão uma notificação em seus emails de que você publicou novas informações e pode clicar nas informações de origem sem precisar criar um email separado.  Deseja obter o snazzy?  Personalizar a notificação com o Microsoft Flow ou o PowerApps. Considere ter um brownbag para mostrar esses usuários como usar o Microsoft Teams, o SharePoint ou o yammer em seus dispositivos móveis. 
+**Para os seus colegas de email centrais**: inscreva-os para que recebam alertas do grupo do Yammer ou do feed de notícias do SharePoint.  Desta forma, eles receberão uma notificação por email quando você publicar novas informações e poderão acessar suas informações de origem através dele, sem que precise criar um email separado.  Deseja começar?  Personalize a notificação com o Microsoft Flow ou PowerApps. Considere ter uma reunião informal para mostrar a esses usuários como usar o Microsoft Teams, o SharePoint ou o Yammer em seus dispositivos móveis. 
 
-**Obter pessoas conversando!** Incentive o envolvimento ativando comentários para suas páginas de site de comunicação do SharePoint.  Se você estiver usando o Yammer, verifique se as pessoas participam de sua comunidade monitorando-as regularmente para perguntas que você pode responder. 
+**Faça as pessoas falarem!** Incentive que as pessoas se envolvam ativando os comentários das páginas do site de comunicação do SharePoint.  Se estiver usando o Yammer, certifique-se de que as pessoas estão participando da sua comunidade, monitorando-a regularmente para perguntas que você possa responder. 
 
-**Compartilhar externamente**: o Microsoft Teams, o SharePoint e o Yammer têm suporte para compartilhamento externo se o administrador permitir isso na sua instância do Office 365.  Usando o compartilhamento externo, você pode compartilhar suas atualizações com pessoas que trabalham para parceiros, fornecedores e, naturalmente, seus clientes.
+**Compartilhamento externo**: o Microsoft Teams, o SharePoint e o Yammer são compatíveis com o compartilhamento externo, se o administrador permitir na instância do Office 365.  Ao usar o compartilhamento externo, é possível compartilhar suas atualizações com as pessoas que você trabalha, como seus companheiros, fornecedores e, é claro, seus clientes.
