@@ -4,12 +4,12 @@ ms.author: karuanag
 title: Perguntas frequentes sobre os caminhos de aprendizado do Microsoft 365
 ms.date: 02/10/2019
 description: Informações de perguntas frequentes para os caminhos de aprendizado do Microsoft 365
-ms.openlocfilehash: 5b90971ef6e411b4bd8d0cece2d8211f6fd5db23
-ms.sourcegitcommit: 86cfa176d50b324c964b1a8609270cc73a2468b3
+ms.openlocfilehash: 6720ab5671cb5e306a30211f272c610b502608ca
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068812"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43141364"
 ---
 # <a name="frequently-asked-questions"></a>Perguntas Frequentes
 
@@ -38,10 +38,9 @@ Os caminhos de aprendizado do Microsoft 365 estão atualmente na visualização 
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Quais idiomas são os caminhos de aprendizado da Microsoft 365 disponíveis no?
 
-Os caminhos de aprendizado do Microsoft 365 estão atualmente disponíveis somente em inglês. O provisionamento automático de ponta a ponta funciona apenas com locatários em inglês. Planejamos implantar o suporte multilíngue para esses nove idiomas no primeiro trimestre de 2020. 
+Os caminhos de aprendizado do Microsoft 365 estão atualmente disponíveis somente em inglês. O provisionamento automático de ponta a ponta funciona apenas com locatários em inglês. Planejamos implantar o suporte multilíngue para os seguintes idiomas no segundo trimestre de 2020. 
 
 - Chinês (simplificado) 
-- Holandês (Países Baixos) 
 - Francês  
 - Alemão 
 - Italiano (Itália) 
@@ -49,6 +48,8 @@ Os caminhos de aprendizado do Microsoft 365 estão atualmente disponíveis somen
 - Português (Brasil) 
 - Russo (russo)  
 - Espanhol 
+
+> O suporte para o idioma holandês não será incluído na próxima versão do suporte a vários idiomas para os caminhos de aprendizado. Continuaremos a avaliar novas opções de idioma no futuro.
 
 ### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>Quanto tempo levará para instalar o site em nosso ambiente de locatário?
 
