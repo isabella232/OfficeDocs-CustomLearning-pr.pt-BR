@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Cursores de aprendizado atualizações de conteúdo
 ms.date: 3/30/2020
 description: Caminhos de aprendizado atualizações de conteúdo de abril de 2020
-ms.openlocfilehash: 21b44cd09a4c8170c7b5740d25733c7b0af0792a
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.openlocfilehash: 8e30e3803d4b6a309cf5ddd8028cf8b3425b1e6e
+ms.sourcegitcommit: dbe293e5690223b5ca3862fe50cfec8ca641eb65
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141374"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43191342"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Cursores de aprendizagem do Microsoft 365 atualizações de conteúdo
 Os caminhos de aprendizado se empenham em aderir a um ciclo trimestral de atualização de conteúdo. A lista a seguir as atualizações de conteúdo de abril de 2020.
@@ -109,9 +109,9 @@ O Office para a Web fornece um conjunto de listas de reprodução para cenários
 - Compartilhar seus documentos
 - Criar um link compartilhável
 - Proteger seus documentos somente para pessoas específicas
-- Compartilhar com alguém de fora da sua organização
+- Compartilhar com alguém de fora da sua organização 
 
-###<a name="microsoft-forms"></a>Microsoft Forms 
+### <a name="microsoft-forms"></a>Microsoft Forms 
 Por solicitação, há também alguns novos ativos de formulários. 
 #### <a name="forms-4-new-assets"></a>Formulários (4 novos ativos) 
 - Criar um formulário 
@@ -119,7 +119,7 @@ Por solicitação, há também alguns novos ativos de formulários.
 - Exibir resultados de um formulário 
 - Perguntas frequentes sobre o Microsoft Forms 
 
-### <a name="resources-for-supporting-your-remote-workforce"></a>Recursos para suporte à sua equipe de força remota
+### <a name="resources-for-supporting-your-remote-workforce"></a>Recursos adicionais para dar suporte a funcionários remotos
 Você pode usar os caminhos de aprendizado para criar uma página de aterrissagem no seu site de cursores de aprendizado para dar suporte a funcionários remotos. Ou você pode adicionar a Web Part de cursores de aprendizado a uma página de suporte existente no site de cursores de aprendizado e filtrar a Web Part para mostrar o trabalho de playlists remotas. Veja a seguir uma lista de alguns dos principais recursos da Microsoft para dar suporte ao trabalho remoto em sua organização. 
 - [Como distribuir o Microsoft Teams](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
 - [Conferências e reuniões no Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
@@ -130,7 +130,7 @@ Você pode usar os caminhos de aprendizado para criar uma página de aterrissage
 - [Educação: centro educacional da Microsoft](https://education.microsoft.com) 
 - [Educação: introdução ao aprendizado remoto](https://education.microsoft.com/resource/4c0c02c0)
 
-Para obter mais informações sobre como personalizar os caminhos de aprendizado, consulte [personalizar caminhos de aprendizado] ((custom_overview. MD). 
+Para obter mais informações sobre como personalizar os caminhos de aprendizado, consulte [Customize cursores de aprendizado](custom_overview.md). 
 
 ## <a name="november-2019-content-updates"></a>Atualizações de conteúdo de novembro de 2019
 Bem-vindo à atualização de conteúdo de caminhos de aprendizado do Microsoft 365. A partir da nossa atualização de novembro de 2019, forneceremos um inventário atualizado do catálogo de cursores de aprendizado trimestralmente. Para a atualização de novembro de 2019, as seguintes subcategorias de conteúdo e listas de reprodução foram adicionadas ao catálogo de cursores de aprendizado. Para saber mais sobre como as atualizações de conteúdo são aplicadas e como gerenciar atualizações de conteúdo, consulte [Manage Content updates](custom_contentupdatesmanage.md).    
