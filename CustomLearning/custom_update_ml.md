@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Atualizar caminhos de aprendizagem do Microsoft 365
+title: Atualizar os caminhos de aprendizado para suporte multilíngue
 ms.date: 05/20/2019
-description: Atualizar caminhos de aprendizagem do Microsoft 365
+description: Atualizar os caminhos de aprendizado para suporte multilíngue
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: cf058d0b8953f39a8243ffc91ab31fc5941c5674
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: 37a9b77ee45b8ae1ae4973f171c32de11fb530e1
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44698992"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031697"
 ---
-# <a name="update-microsoft-365-learning-pathways"></a>Atualizar caminhos de aprendizagem do Microsoft 365
+# <a name="update-learning-pathways-for-multilingual-support"></a>Atualizar os caminhos de aprendizado para suporte multilíngue
 Se você tiver um site de cursores de aprendizado existente, poderá atualizá-lo para suporte multilíngue. Para atualizar os caminhos de aprendizado para a versão 4,0 multilíngue, você carrega o pacote de Web Parts, customlearning. sppkg, para o catálogo de aplicativos de locatários do SharePoint. Ao atualizar os caminhos de aprendizado:  
 
 - Todas as playlists e ativos personalizados criados anteriormente são mantidos
@@ -41,7 +41,7 @@ Os caminhos de aprendizado dão suporte a nove idiomas, você deve adicionar som
 - Em **Adicionar ou remover idiomas do site**, comece a digitar o nome de um idioma em **selecionar ou digite um idioma**ou escolha um idioma na lista suspensa. Você pode repetir essa etapa para adicionar vários idiomas. Você pode adicionar ou remover idiomas do seu site a qualquer momento, voltando para esta página.
  
 ### <a name="assign-translators"></a>Atribuir tradutores
-Ao definir as configurações de idioma para os caminhos de aprendizado, você pode atribuir tradutores. Os tradutores devem ter um perfil de idioma estrangeiro configurado. Para obter mais informações sobre perfis de idioma estrangeiros, consulte [criar sites de comunicação multilíngue, páginas e notícias](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).  
+Ao definir as configurações de idioma para os caminhos de aprendizado, você pode atribuir tradutores. Os tradutores devem ter um perfil de idioma estrangeiro configurado. Para obter mais informações sobre perfis de idioma estrangeiros, consulte [criar sites de comunicação multilíngue, páginas e notícias](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).  
 - Para obter um idioma com suporte, clique em **selecionar ou digite um tradutor** e selecione um conversor. 
 
 ## <a name="update-the-learning-pathways-web-part-package"></a>Atualizar o pacote de Web Part de cursores de aprendizado
