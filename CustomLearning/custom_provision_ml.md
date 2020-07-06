@@ -5,15 +5,15 @@ title: Provisionar uma nova solução multilíngue de caminhos de aprendizado
 ms.date: 02/10/2019
 description: Provisionar o site de caminhos de aprendizado do Microsoft 365 por meio do serviço de provisionamento do SharePoint
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 380063b92713bf571438a0e2be21f0638dde0cfb
-ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
+ms.openlocfilehash: 6948162d8a96c9a6582484c5f4fc8acad18405a7
+ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45031707"
+ms.lasthandoff: 07/05/2020
+ms.locfileid: "45038991"
 ---
 # <a name="provision-a-new-learning-pathways-multilingual-solution"></a>Provisionar uma nova solução multilíngue de caminhos de aprendizado
-As organizações que não têm caminhos de aprendizado já provisionados no locatário podem adicionar a solução de caminhos de aprendizado multilíngues ao locatário. Com esta opção, o modelo de cursores de aprendizado do SharePoint é traduzido em nove idiomas e pode ser usado com um mínimo de modificações. 
+As organizações que não têm caminhos de aprendizado provisionados em seus locatários podem usar o serviço de provisionamento do SharePoint para adicionar a solução de caminhos de aprendizado multilíngue. Com esta opção, o modelo de cursores de aprendizado do SharePoint é traduzido em nove idiomas e pode ser usado com um mínimo de modificações. 
 
 > [!IMPORTANT]
 > Se você já tiver os caminhos de aprendizado provisionados em seu locatário, é recomendável seguir o caminho de [atualização](custom_update_ml.md) para os caminhos de aprendizado. Se você instalar os caminhos de aprendizado sobre uma instância existente no seu locatário, as alterações feitas no modelo de site ou nas listas de execução de cursores de aprendizado poderão ser perdidas.
@@ -73,12 +73,12 @@ Como administrador de locatários, é improvável que você seja a pessoa que pe
 5. Adicione um link para [explorar o site](custom_exploresite.md) na mensagem de compartilhamento e clique em **compartilhar**.
 
 ## <a name="add-translators-to-the-site"></a>Adicionar tradutores ao site
-Os tradutores exigem permissões de membros ou superiores no site. 
+Se você estiver usando tradutores para o site, poderá atribuir permissões a eles. Os tradutores exigem permissões de membros ou superiores. 
 
 ## <a name="choose-options-for-using-multiple-languages-on-the-site"></a>Escolha opções para usar vários idiomas no site
 O serviço de provisionamento do SharePoint cria o site de cursores de aprendizado em nove idiomas. As seguintes recomendações se aplicam:
 - Desative os idiomas que você não deseja suportar
-- Se você não estiver dando suporte a um site multilíngue, desative o recurso multilíngue. 
+- Se você não estiver dando suporte a um site multilíngue, desative o recurso multilíngue. Consulte a seção "desativar o suporte multilíngue" mais adiante neste tópico.
 
 ### <a name="remove-languages-you-dont-want-to-support"></a>Remover idiomas que você não deseja suportar
 Para organizações que optam por suportar apenas um idioma, além do idioma padrão Inglês, recomendamos remover idiomas que não são suportados. 
@@ -102,6 +102,11 @@ Se você for traduzir páginas, opcionalmente atribua um ou mais tradutores para
 
 ## <a name="turn-off-multilingual-support"></a>Desativar o suporte multilíngue
 Se você não quiser um site multilíngue, por exemplo, se quiser um site somente em inglês, recomendamos que você desative o recurso multilíngue. 
+
+1. No site de caminhos de aprendizado, selecione **configurações** no canto superior direito da página e, em seguida, selecione **informações do site**.
+2. Na parte inferior do painel de informações do site, selecione **Exibir todas as configurações do site**.
+3. Em **Administração do site**, selecione **configurações de idioma**.
+4. Em **habilitar páginas e notícias a serem traduzidas em vários idiomas**, **deslize a opção para ativar.** Ele deve estar ativado por padrão.
 - Em **habilitar páginas e notícias a serem traduzidas**, selecione **desativado**. 
 
 ### <a name="add-languages"></a>Adicionar idiomas

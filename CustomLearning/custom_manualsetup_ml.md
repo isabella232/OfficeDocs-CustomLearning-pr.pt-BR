@@ -5,12 +5,12 @@ title: Configuração manual de caminhos de aprendizado
 ms.date: 02/10/2019
 description: Configuração manual de caminhos de aprendizado
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 42e7aeeff7639f7fe77b12d60371ad6efe67f782
-ms.sourcegitcommit: 1e6e31d2bd43971b62322c7d2db352961c554d71
+ms.openlocfilehash: c524ebae73cb928a8e77567d4ea2c5e8d5032ccd
+ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/04/2020
-ms.locfileid: "45037223"
+ms.lasthandoff: 07/05/2020
+ms.locfileid: "45038971"
 ---
 # <a name="learning-pathways-manual-setup"></a>Configuração manual de caminhos de aprendizado
 
@@ -18,7 +18,7 @@ Os caminhos de aprendizado do Microsoft 365 oferecem uma configuração manual p
 
 - Sua organização tem um site de comunicação moderna do SharePoint Online dedicado ao treinamento e você deseja adicionar caminhos de aprendizado a esse site. Neste cenário, a Web Part de cursores de aprendizado não foi configurada no site.
 
-- Você deseja instalar os caminhos de aprendizado para suporte multilíngue em um dos sites de comunicação do SharePoint da sua organização. O site tem, ou terá, um idioma padrão que não está em inglês, mas é um dos idiomas com suporte nos caminhos de aprendizado. Estes são os idiomas suportados pelos caminhos de aprendizado:
+- Você deseja instalar os caminhos de aprendizado para suporte multilíngue em um dos sites de comunicação do SharePoint da sua organização. O site tem, ou terá, um idioma padrão que não é o inglês e é um dos idiomas com suporte dos caminhos de aprendizado. Estes são os idiomas suportados pelos caminhos de aprendizado:
 
 - English
 - Chinês (simplificado)
@@ -30,23 +30,20 @@ Os caminhos de aprendizado do Microsoft 365 oferecem uma configuração manual p
 - Russo (russo)
 - Spanish
 
-A configuração manual dos caminhos de aprendizado requer experiência que funcione com o Windows PowerShell e o Shell de gerenciamento do SharePoint Online. Aqui estão as etapas para a configuração manual dos caminhos de aprendizado: 
+A configuração manual dos caminhos de aprendizado requer experiência que funcione com o Windows PowerShell e o Shell de gerenciamento do SharePoint Online. Veja a seguir uma visão geral das etapas para a configuração manual dos caminhos de aprendizado: 
 
 - Valide se você atendeu a todos os pré-requisitos.
 - Verifique as configurações de idioma padrão do seu site. Se estiver OK, continue com a instalação manual. Se você precisar de uma configuração de idioma padrão diferente, será necessário criar um novo site. 
 - Instale o arquivo customlearning. sppkg em seu catálogo de aplicativos de locatário do SharePoint.
 - Provisione/identifique um site de comunicação moderna para atuar como seu site inicial de cursores de aprendizado da Microsoft 365.
-- Execute um script do PowerShell que configurará seu locatário com os artefatos apropriados que os caminhos de aprendizado dependem.
+- Execute um script do PowerShell que configurará seu locatário com os artefatos dos quais os caminhos de aprendizado dependem.
 - Navegue até a página do site CustomLearningAdmin. aspx para carregar a Web Part de administração para inicializar a configuração de conteúdo personalizado.
-
-> [!NOTE]
-> Se você estiver procurando uma maneira rápida e fácil de configurar os caminhos de aprendizado, confira [provisionar os caminhos de aprendizado da Microsoft 365](custom_provision.md).
 
 ## <a name="prerequisites"></a>Pré-requisitos
 Para garantir uma configuração manual bem-sucedida da Web Part de cursores de aprendizado, os pré-requisitos a seguir devem ser atendidos. 
 
-- Você deve ter configurado e configurado o catálogo de aplicativos de todo o locatário. Confira [Configurar o locatário do Office 365](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) e siga a seção criar site de catálogo de aplicativos. 
-- Se o catálogo de aplicativos de todo o locatário já tiver sido provisionado, você precisará ter acesso a uma conta que tenha direitos para carregar um pacote para concluir esse processo de instalação. Geralmente, essa conta tem uma função de administrador do SharePoint. 
+- Você deve ter configurado e configurado o catálogo de aplicativos de todo o locatário. Confira [Configurar o locatário do Office 365](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) e siga a seção do site "criar catálogo de aplicativos". 
+- Se o catálogo de aplicativos de todo o locatário já tiver sido provisionado, você precisará ter acesso a uma conta que tenha direitos para carregar um pacote nele. Geralmente, essa conta tem uma função de administrador do SharePoint. 
 - Se uma conta com essa função não funcionar, vá para o centro de administração do SharePoint e encontre os administradores do conjunto de sites para o conjunto de sites do catálogo de aplicativos e faça o logon como um dos administradores de conjunto de sites ou adicione a conta de administrador do SharePoint que falhou aos administradores do conjunto de sites. 
 - Você também precisará de acesso a uma conta que seja um administrador de locatários do SharePoint.
 
@@ -76,7 +73,7 @@ Com esta opção, você cria um novo site de comunicação do SharePoint Online 
 3. Adicione outros idiomas, se necessário, e clique em **salvar**. 
 4. Vá para a etapa 2. 
 
->! Observação Se você precisar migrar o conteúdo personalizado de um site para um site recém-criado, confira [migrar conteúdo personalizado](Migrate custom content). 
+>! Observação Se você precisar migrar o conteúdo personalizado de um site para um site recém-criado, consulte a seção "migrar conteúdo personalizado" mais adiante neste documento. 
 
 ## <a name="step-2---get-the-web-part-package-and-setup-script-from-github"></a>Etapa 2: obter o pacote de Web Part e o script de instalação do GitHub
 Como parte do processo de instalação, você precisará do pacote de Web Part de cursores de aprendizado da Microsoft 365 e do script de instalação do PowerShell.
@@ -129,8 +126,9 @@ Como administrador de locatários, é improvável que você seja a pessoa que pe
 5. Adicione um link para [explorar o site](https://docs.microsoft.com/Office365/CustomLearning/custom_explore) na mensagem de compartilhamento e clique em **compartilhar**.
 
 ## <a name="migrate-custom-content"></a>Migrar conteúdo personalizado
-Após restabelecer o site de cursores de aprendizado seguindo as etapas acima, você precisará mover o conteúdo de sua lista do **CustomPlaylists** e sua lista do **CustomAssets** . Você também pode, opcionalmente, mover as páginas personalizadas reais que compõem seus ativos personalizados se residirem no site de cursores de aprendizado existentes e sua intenção é excluí-lo. A tarefa pode ser difícil porque para todos os itens na lista **CustomPlaylists** , a ID do item de lista na lista **CustomAssets** é incluída no campo JSONData de cada item de lista de playlist. Portanto, simplesmente mover o conteúdo da lista **CustomPlaylists** de um site para outro não será suficiente. Além disso, a lista **CustomAssets** contém a URL absoluta para a página do ativo personalizado no campo JSONData do item de lista. Se os ativos não forem movidos e o site não for renomeado (alterando, assim, a URL absoluta para a página do ativo), o **CustomAssets** poderá permanecer. Mas será necessário corrigir manualmente as entradas. Dada a complexidade desse tipo de migração sugerimos que você considere a lista de um dos nossos cursores de aprendizado para ajudá-lo a fazer essa transição.
+Após restabelecer o site de cursores de aprendizado seguindo as etapas acima, você precisará mover o conteúdo de sua lista do **CustomPlaylists** e sua lista do **CustomAssets** . Você também pode, opcionalmente, mover as páginas personalizadas reais que compõem seus ativos personalizados se residirem no site de cursores de aprendizado existentes e sua intenção é excluí-lo. A tarefa pode ser difícil porque para todos os itens na lista **CustomPlaylists** , a ID do item de lista na lista **CustomAssets** é incluída no campo JSONData de cada item de lista de playlist. Portanto, simplesmente mover o conteúdo da lista **CustomPlaylists** de um site para outro não será suficiente. Além disso, a lista **CustomAssets** contém a URL absoluta para a página do ativo personalizado no campo JSONData do item de lista. Se os ativos não forem movidos e o site não for renomeado (alterando, assim, a URL absoluta para a página do ativo), o **CustomAssets** poderá permanecer. Mas será necessário corrigir manualmente as entradas. Dada a complexidade desse tipo de migração sugerimos que você considere a lista de um dos nossos cursores de aprendizado para ajudá-lo a fazer essa transição. 
 
 ### <a name="next-steps"></a>Próximas etapas
-- [Personalizar](custom_overview.md) a experiência de treinamento da sua organização.
+- Consulte [Personalizar os caminhos de aprendizado](custom_overview.md). 
+- Confira [traduzir páginas de sites](custom_translate_page_ml.md).
 
