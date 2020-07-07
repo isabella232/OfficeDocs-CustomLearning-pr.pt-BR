@@ -4,29 +4,36 @@ ms.author: pkrebs
 title: Atualizações de recursos de cursores de aprendizado
 ms.date: 10/20/2019
 description: Atualizações de recursos de cursores de aprendizado
-ms.openlocfilehash: 636be2078a87bee2ef9f406f76239e2d4ea94e11
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
-ms.translationtype: MT
+ms.openlocfilehash: e7becc7b6026e38eef349f1c5c0b2bd380b11cbc
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141354"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048089"
 ---
-# <a name="learning-pathways-feature-updates"></a>Atualizações de recursos de cursores de aprendizado
-A equipe de cursores de aprendizado ouve o feedback dos clientes para ajudar a fornecer os recursos de que você precisa. O seguinte fornece uma atualização dos recursos planejados para o segundo trimestre de 2020. 
+# <a name="july-2020-version-40-feature-updates"></a>4,0 versão de julho de 2020 de atualizações de recursos 
 
-## <a name="upcoming-feature-updates-for-q2-2020"></a>Futuras atualizações de recursos para Q2 2020
-O suporte multilíngue para caminhos de aprendizado está agendado para lançamento no segundo trimestre de 2020. O suporte multilíngue tem uma dependência do recurso "publicação de página da multiligual para o SharePoint moderno" e estará disponível ao mesmo tempo que a disponibilidade geral para o suporte multilíngue do SharePoint. Para obter mais informações, consulte o [Microsoft 365 Roadmap](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=50217).  
-  
-Os seguintes idiomas terão suporte para os caminhos de aprendizado:   
+Os novos recursos a seguir foram adicionados aos caminhos de aprendizado da Microsoft 365 versão 4,0. 
 
+## <a name="multilingual-support-for-learning-pathways"></a>Suporte multilíngue para caminhos de aprendizado 
+O suporte multilíngue para caminhos de aprendizado já está disponível em nove idiomas.  
+- English     
 - Chinês (simplificado) 
-- Francês  
+- Francês 
 - Alemão 
 - Italiano (Itália) 
-- Japonês (Japão)  
+- Japonês (Japão) 
 - Português (Brasil) 
-- Russo (russo)  
-- Espanhol 
+- Russo (russo) 
+- Spanish 
+
+Para obter mais informações, consulte [cursores de aprendizado visão geral multilíngue](custom_overview.md). 
+
+## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Seletor de imagem para precategorias personalizadas de cursores de aprendizado 
+Os caminhos de aprendizado agora fornecem um seletor de imagem fácil de usar para listas de reprodução e subcategorias personalizadas.  Nas versões anteriores, você pode alterar a imagem de uma lista de reprodução, mas não de uma subcategoria.  
+
+Para saber mais, confira:
+- [Criar uma lista de reprodução personalizada](custom_createnewplaylist.md). 
+- [Criar uma subcategoria](custom_createnewcat.md)
 
 > [!NOTE]
 > O suporte para o idioma holandês não será incluído na próxima versão do suporte a vários idiomas para os caminhos de aprendizado. Continuaremos a avaliar novas opções de idioma no futuro.

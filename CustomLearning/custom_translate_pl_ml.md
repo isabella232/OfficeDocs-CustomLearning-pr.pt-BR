@@ -2,15 +2,13 @@
 author: pkrebs
 ms.author: pkrebs
 title: Converter os caminhos de aprendizado de playlists personalizadas
-ms.date: 06/8/2020
+ms.date: 07/06/2020
 description: Converter os caminhos de aprendizado de playlists personalizadas
-ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 0ba85c9c5b3068325c887b3563d2b5daee4e8762
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45039001"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048129"
 ---
 # <a name="translate-learning-pathways-custom-playlists"></a>Converter os caminhos de aprendizado de playlists personalizadas
 Com os caminhos de aprendizado, a maneira como você trabalha com as listas de reprodução personalizadas depende de como você configurou os caminhos de aprendizado.  
@@ -137,5 +135,5 @@ No menu **principal** de cursores de aprendizado, clique em **Administração de
 3. Faça as traduções para a página e clique em **publicar**.   
 
 ## <a name="for-more-information"></a>Para saber mais
-- Para obter mais informações sobre como personalizar os caminhos de aprendizado, consulte [Customize cursores de aprendizado](custom_overview.md).  
+- Para obter mais informações sobre como personalizar os caminhos de aprendizado, consulte [Customize cursores de aprendizado](custom_overview.md). 
 

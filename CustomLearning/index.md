@@ -2,20 +2,21 @@
 author: pkrebs
 ms.author: pkrebs
 title: Visão geral dos caminhos de aprendizado do Microsoft 365
-ms.date: 10/23/2019
+ms.date: 7/6/2020
 description: Saiba como os caminhos de aprendizado do Microsoft 365 podem acelerar o uso e a adoção dos serviços do Microsoft 365 em sua organização. Os caminhos de aprendizado incluem uma Web part personalizada do SharePoint Online e um moderno site de treinamento em comunicações do SharePoint Online que é facilmente provisionado para o locatário do Microsoft 365.
-ms.openlocfilehash: e0e05618328ea0c9ccb187d1784b37a79f5a5be9
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
-ms.translationtype: MT
+ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141387"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043233"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Caminhos de aprendizado do Microsoft 365 
 Os caminhos de aprendizado do Microsoft 365 são uma solução de aprendizado sob demanda e personalizável, projetada para aumentar o uso e a adoção dos serviços do Microsoft 365 em sua organização.    
 
 > [!IMPORTANT]
-> Em resposta a eventos atuais, os caminhos de aprendizado fornecem uma atualização de conteúdo de abril de 2020 que se concentra em listas de reprodução e recursos projetados para habilitar o trabalho remoto em sua organização. Adicionamos um novo conjunto de trabalho de listas de reprodução remotamente, atualizamos significativamente o conteúdo do Microsoft Teams, especialmente para reuniões do Teams e adicionamos um novo conjunto de sites do Office para as playlists da Web. Como parte da atualização, também fornecemos uma lista de recursos de trabalho remotos para administradores. Para obter a lista completa de atualizações, consulte [cursores de aprendizado de abril de 2020 atualizações de conteúdo](custom_contentupdates.md).   
+> Em resposta aos comentários dos clientes, os caminhos de aprendizado agora oferecem suporte multilíngue para nove idiomas. Para obter informações e instruções sobre como habilitar o suporte multilíngue para os caminhos de aprendizado, leia os seguintes tópicos: 
+>- [Visão geral do suporte multilíngue para caminhos de aprendizado](custom_overview_ml.md) 
+>- [Opções de configuração para os caminhos de aprendizado](custom_setupoptions.md)  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Treinamento personalizado sob demanda da Microsoft
 
@@ -33,11 +34,12 @@ Os caminhos de aprendizado podem ser provisionados no Serviço de Provisionament
 
 ![cg-provision.png](media/cg-provision.png)
 
-## <a name="3-easy-steps"></a>3 etapas simples
+## <a name="4-easy-steps"></a>4 etapas simples
 Vamos começar a criar uma experiência de caminhos de aprendizado para o seu ambiente.
-1. Escolha uma [opção de configuração](custom_setupoptions.md) e provisione os caminhos de aprendizado do Microsoft 365.  
-2. Adapte os caminhos de aprendizado ao seu ambiente.
-3. Compartilhe caminhos de aprendizado com os usuários usando nossas [ferramentas de adoção](driveadoption.md).
+1. Leia a [visão geral do suporte multilíngue para os caminhos de aprendizado](custom_overview_ml.md). 
+2. Escolha uma [opção de configuração](custom_setupoptions.md) e provisione os caminhos de aprendizado do Microsoft 365.  
+3. Adapte os caminhos de aprendizado ao seu ambiente.
+4. Compartilhe caminhos de aprendizado com os usuários usando nossas [ferramentas de adoção](driveadoption.md).
 
 ## <a name="feedback-and-support"></a>Comentários e Suporte
 

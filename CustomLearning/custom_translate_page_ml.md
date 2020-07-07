@@ -2,24 +2,23 @@
 author: pkrebs
 ms.author: pkrebs
 title: Traduzir páginas de site
-ms.date: 02/10/2019
+ms.date: 07/06/2020
 description: Traduzir páginas de site
-ms.openlocfilehash: cf397250ceab826efb8b82522c0560c2109d24bb
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: c712ff624f37efa54120a8567e2a6b3a79d54bcd
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038981"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048109"
 ---
 # <a name="translate-site-pages"></a>Traduzir páginas de site
 Antes de começar a converter o site de cursores de aprendizado, é importante compreender alguns conceitos fundamentais de como o recurso multilíngue funciona com os caminhos de aprendizado. 
 - As informações do site-navegação, logotipo e traduções de nome do site exigem que o site seja exibido e traduzido no perfil de idioma do usuário.  
 - A Web Part de caminhos de aprendizado deve ser exibida com o perfil de idioma do usuário para que ela apareça em um idioma diferente do inglês. A Web Part e o conteúdo fornecido pela Microsoft já foram convertidos para você. Para obter mais informações sobre perfis de idiomas, confira [alterar suas configurações regionais e de idioma pessoal](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
-- A maneira como você configura os caminhos de aprendizado determina se você tem páginas traduzidas disponíveis. Novos sites provisionados com o serviço de provisionamento do SharePoint terão páginas traduzidas em nove idiomas disponíveis. Os sites ou sites atualizados que você criar precisarão de tradução manual. Confira [Opções de configuração para caminhos de aprendizado multilíngues](custom_setupoptions_ml.md).
+- A maneira como você configura os caminhos de aprendizado determina se você tem páginas traduzidas disponíveis. Novos sites provisionados com o serviço de livro de aparência da Microsoft 365 terão páginas traduzidas em nove idiomas disponíveis. Os sites ou sites atualizados que você criar precisarão de tradução manual. Confira [Opções de configuração para caminhos de aprendizado multilíngues](custom_setupoptions_ml.md).
 - O suporte multilíngue para caminhos de aprendizado é habilitado por recursos multilíngues do SharePoint Online para sites de comunicação. Para saber mais sobre os recursos multilíngues do SharePoint Online, consulte [criar sites de comunicação multilíngues, páginas e notícias](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
 
 ## <a name="working-with-a-newly-provisioned-site"></a>Trabalhar com um site provisionado recentemente
-Se você provisionou um novo site de cursores de aprendizado do serviço de provisionamento do SharePoint, as páginas traduzidas já estarão disponíveis para você. Por padrão, o site fornece as seguintes páginas:
+Se você provisionou um novo site de cursores de aprendizado do serviço de livro de aparência da Microsoft 365, as páginas traduzidas já estarão disponíveis para você. Por padrão, o site fornece as seguintes páginas:
 
 - Home. aspx
 - Start-with-Six-Simple-Steps. aspx
