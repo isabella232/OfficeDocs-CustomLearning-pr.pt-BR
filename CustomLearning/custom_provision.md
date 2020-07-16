@@ -4,11 +4,12 @@ ms.author: pkrebs
 title: Provisionar uma nova solução de cursores de aprendizado
 ms.date: 02/10/2019
 description: Provisionar o site de cursores de aprendizado da Microsoft 365 com o serviço de livro de aparência da Microsoft 365
-ms.openlocfilehash: 2ab7ca9c7c66ce86be09fcfd95d3ccfd18682777
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.openlocfilehash: 40b298406ee5f9f5acc3f4cc471429063430f856
+ms.sourcegitcommit: 22fd931116be1a39836f7f5429b96483bf7860ef
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048119"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45146532"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>Provisionar uma nova solução de cursores de aprendizado 
 As organizações que não têm caminhos de aprendizado provisionados em seus locatários podem usar o serviço de pesquisa do SharePoint para adicionar a solução de percurso de aprendizado multilíngue. Com esta opção, o modelo de cursores de aprendizado do SharePoint é traduzido em nove idiomas e pode ser usado com um mínimo de modificações.
@@ -39,6 +40,8 @@ Antes de provisionar os caminhos de aprendizado, certifique-se de que a conta de
 1. Vá para a [página de solução de cursores de aprendizado da Microsoft 365](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
 2. Clique em **Adicionar ao seu locatário**. Se você não estiver conectado ao seu locatário, o serviço de provisionamento solicitará suas credenciais de administrador de locatário. 
 3. Na caixa de diálogo permissões solicitadas, selecione **consentimento em nome da sua organização** e selecione **aceitar**.
+
+![Imagem do consentimento do aplicativo catologue](media/app-catologue-consent.png)
 
 O serviço de livro de aparência requer essas permissões para criar o catálogo de aplicativos do locatário, instalar o aplicativo no catálogo de aplicativos do locatário e provisionar o modelo de site. Não há impacto geral no locatário. Essas permissões são explicitamente usadas com o objetivo da instalação da solução. Você deve aceitar essas permissões para continuar a instalação.
 
