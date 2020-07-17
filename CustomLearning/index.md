@@ -6,6 +6,7 @@ ms.date: 7/6/2020
 description: Saiba como os caminhos de aprendizado do Microsoft 365 podem acelerar o uso e a adoção dos serviços do Microsoft 365 em sua organização. Os caminhos de aprendizado incluem uma Web part personalizada do SharePoint Online e um moderno site de treinamento em comunicações do SharePoint Online que é facilmente provisionado para o locatário do Microsoft 365.
 ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
 ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/06/2020
 ms.locfileid: "45043233"
