@@ -7,7 +7,7 @@ description: Provisionar o site de caminhos de aprendizado do Microsoft 365 por 
 ROBOTS: NOINDEX, NOFOLLOW
 ms.openlocfilehash: 6948162d8a96c9a6582484c5f4fc8acad18405a7
 ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.translationtype: Auto
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/05/2020
 ms.locfileid: "45038991"
