@@ -4,22 +4,22 @@ ms.author: pkrebs
 title: Provisionar uma nova solução de cursores de aprendizado
 ms.date: 02/10/2019
 description: Provisionar o site de cursores de aprendizado da Microsoft 365 com o serviço de livro de aparência da Microsoft 365
-ms.openlocfilehash: 40b298406ee5f9f5acc3f4cc471429063430f856
-ms.sourcegitcommit: 22fd931116be1a39836f7f5429b96483bf7860ef
+ms.openlocfilehash: ba71b79497a01c2f0c0d51c12c2760adbb4e24c5
+ms.sourcegitcommit: e88aaa3c8b6afcb5a7c19dfaf144a676a6859229
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45146532"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45196779"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>Provisionar uma nova solução de cursores de aprendizado 
-As organizações que não têm caminhos de aprendizado provisionados em seus locatários podem usar o serviço de pesquisa do SharePoint para adicionar a solução de percurso de aprendizado multilíngue. Com esta opção, o modelo de cursores de aprendizado do SharePoint é traduzido em nove idiomas e pode ser usado com um mínimo de modificações.
+As organizações que não têm caminhos de aprendizado provisionados em seus locatários podem usar o serviço de pesquisa do SharePoint para adicionar a solução de percurso de aprendizado multilíngue. Com esta opção, o modelo de cursores de aprendizado do SharePoint é traduzido em nove idiomas e pode ser usado com um mínimo de modificações. 
 
 > [!IMPORTANT]
 > Se você já tiver caminhos de aprendizado provisionados em seu locatário, é recomendável [Atualizar](custom_update.md) os caminhos de aprendizado. Se você instalar uma nova instância de caminhos de aprendizado, será necessário transferir manualmente todas as personalizações do site existente para o novo site. 
 
 ## <a name="prerequisites-for-multilingual-support"></a>Pré-requisitos para suporte multilíngue
  
-Para configurar com êxito os caminhos de aprendizado do Microsoft 365 com o serviço de livro Look, a pessoa que está fazendo o provisionamento deve atender aos seguintes pré-requisitos: 
+Para configurar com êxito os caminhos de aprendizado do Microsoft 365 com o serviço de livro Look, a pessoa que está fazendo o provisionamento deve atender aos seguintes pré-requisitos:   
  
 - Os caminhos de aprendizado do provisionamento de pessoas devem ser um administrador de locatários do locatário em que os caminhos de aprendizado serão provisionados.  
 - Um catálogo de aplicativos do locatário deve estar disponível na opção aplicativos do centro de administração do SharePoint. Se sua organização não tiver um catálogo de aplicativos de locatário do SharePoint, consulte a [documentação do SharePoint Online](https://docs.microsoft.com/sharepoint/use-app-catalog) para criar um. Você deve aguardar pelo menos duas horas após criar o catálogo de aplicativos antes de provisionar os caminhos de aprendizado.  
@@ -40,8 +40,6 @@ Antes de provisionar os caminhos de aprendizado, certifique-se de que a conta de
 1. Vá para a [página de solução de cursores de aprendizado da Microsoft 365](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
 2. Clique em **Adicionar ao seu locatário**. Se você não estiver conectado ao seu locatário, o serviço de provisionamento solicitará suas credenciais de administrador de locatário. 
 3. Na caixa de diálogo permissões solicitadas, selecione **consentimento em nome da sua organização** e selecione **aceitar**.
-
-![Imagem do consentimento do aplicativo catologue](media/app-catologue-consent.png)
 
 O serviço de livro de aparência requer essas permissões para criar o catálogo de aplicativos do locatário, instalar o aplicativo no catálogo de aplicativos do locatário e provisionar o modelo de site. Não há impacto geral no locatário. Essas permissões são explicitamente usadas com o objetivo da instalação da solução. Você deve aceitar essas permissões para continuar a instalação.
 

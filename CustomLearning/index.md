@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Visão geral dos caminhos de aprendizado do Microsoft 365
 ms.date: 7/6/2020
 description: Saiba como os caminhos de aprendizado do Microsoft 365 podem acelerar o uso e a adoção dos serviços do Microsoft 365 em sua organização. Os caminhos de aprendizado incluem uma Web part personalizada do SharePoint Online e um moderno site de treinamento em comunicações do SharePoint Online que é facilmente provisionado para o locatário do Microsoft 365.
-ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
-ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.openlocfilehash: 81a456dc0234aaa84f497538db8198efaefd3e26
+ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043233"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45199341"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Caminhos de aprendizado do Microsoft 365 
 Os caminhos de aprendizado do Microsoft 365 são uma solução de aprendizado sob demanda e personalizável, projetada para aumentar o uso e a adoção dos serviços do Microsoft 365 em sua organização.    
@@ -17,7 +17,7 @@ Os caminhos de aprendizado do Microsoft 365 são uma solução de aprendizado so
 > [!IMPORTANT]
 > Em resposta aos comentários dos clientes, os caminhos de aprendizado agora oferecem suporte multilíngue para nove idiomas. Para obter informações e instruções sobre como habilitar o suporte multilíngue para os caminhos de aprendizado, leia os seguintes tópicos: 
 >- [Visão geral do suporte multilíngue para caminhos de aprendizado](custom_overview_ml.md) 
->- [Opções de configuração para os caminhos de aprendizado](custom_setupoptions.md)  
+>- [Opções de configuração para os caminhos de aprendizagem](custom_setupoptions.md)  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Treinamento personalizado sob demanda da Microsoft
 
@@ -30,8 +30,8 @@ Os caminhos de aprendizado do Microsoft 365 oferecem:
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE42hMy]
 
-## <a name="sharepoint-online-provisioning-service"></a>Serviço de Provisionamento Online do SharePoint 
-Os caminhos de aprendizado podem ser provisionados no Serviço de Provisionamento do SharePoint Online. Quando os caminhos de aprendizado do Microsoft 365 são provisionados, as organizações obtêm um site de comunicação do SharePoint Online projetado para ser um portal de treinamento pronto para uso, juntamente com uma Web part de caminhos de aprendizado conectada a um catálogo online de conteúdo de treinamento. 
+## <a name="sharepoint-look-book-service"></a>Serviço de livro de aparência do SharePoint
+Os caminhos de aprendizado podem ser provisionados do serviço de livro de pesquisa do SharePoint. Quando os caminhos de aprendizado do Microsoft 365 são provisionados, as organizações obtêm um site de comunicação do SharePoint Online projetado para ser um portal de treinamento pronto para uso, juntamente com uma Web part de caminhos de aprendizado conectada a um catálogo online de conteúdo de treinamento. 
 
 ![cg-provision.png](media/cg-provision.png)
 

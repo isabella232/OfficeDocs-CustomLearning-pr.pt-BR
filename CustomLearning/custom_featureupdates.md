@@ -4,18 +4,18 @@ ms.author: pkrebs
 title: Atualizações de recursos de cursores de aprendizado
 ms.date: 10/20/2019
 description: Atualizações de recursos de cursores de aprendizado
-ms.openlocfilehash: e7becc7b6026e38eef349f1c5c0b2bd380b11cbc
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.openlocfilehash: 7765de3e2f08b70003842086bc5f910ddc5fd987
+ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048089"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45199331"
 ---
 # <a name="july-2020-version-40-feature-updates"></a>4,0 versão de julho de 2020 de atualizações de recursos 
 
 Os novos recursos a seguir foram adicionados aos caminhos de aprendizado da Microsoft 365 versão 4,0. 
 
-## <a name="multilingual-support-for-learning-pathways"></a>Suporte multilíngue para caminhos de aprendizado 
+## <a name="multilingual-support-for-learning-pathways"></a>Suporte multilíngue para caminhos de aprendizagem 
 O suporte multilíngue para caminhos de aprendizado já está disponível em nove idiomas.  
 - English     
 - Chinês (simplificado) 
@@ -28,6 +28,12 @@ O suporte multilíngue para caminhos de aprendizado já está disponível em nov
 - Spanish 
 
 Para obter mais informações, consulte [cursores de aprendizado visão geral multilíngue](custom_overview.md). 
+
+## <a name="sort-subcategories-and-playlists"></a>Classificar subcategorias e listas de reprodução
+
+Agora você pode classificar subcategorias e listas de reprodução em cursores de aprendizado. Por exemplo, se você adicionar uma lista de reprodução personalizada a uma subcategoria, poderá classificar as listas de reprodução para que a lista de reprodução personalizada apareça primeiro na ordem de classificação. 
+
+Para obter mais informações, consulte [classificar subcategorias e listas de reprodução](custom_sortsubplay.md). 
 
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Seletor de imagem para precategorias personalizadas de cursores de aprendizado 
 Os caminhos de aprendizado agora fornecem um seletor de imagem fácil de usar para listas de reprodução e subcategorias personalizadas.  Nas versões anteriores, você pode alterar a imagem de uma lista de reprodução, mas não de uma subcategoria.  
