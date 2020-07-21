@@ -32,6 +32,7 @@
 ### [Adicionar ativos para uma Lista de Gravação Personalizada](custom_addassets.md)
 ### [Criar uma Subcategoria](custom_createnewcat.md)
 ### [Adicionar e editar Web Part de caminhos de aprendizagem do Microsoft 365](custom_addwebpart.md)
+### [Classificar subcategorias e reprodução](custom_sortsubplay.md)
 ### [Vincular ao conteúdo dos caminhos de aprendizagem](custom_linking.md)
 ### [Pesquisar conteúdo dos caminhos de aprendizagem](custom_search.md)
 ## [Adoção da Unidade](driveadoption.md)
