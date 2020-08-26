@@ -4,14 +4,14 @@ ms.author: pkrebs
 title: Atualizar caminhos de aprendizagem do Microsoft 365
 ms.date: 07/06/2020
 description: Atualizar caminhos de aprendizagem do Microsoft 365
-ms.openlocfilehash: 5fe9dc64916eb75d309c44188cd2f72fa88ba9e4
-ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.openlocfilehash: 6880e49f925f18b961790ec9eff2fbca55a741b7
+ms.sourcegitcommit: a34d166d01e0a0a0f7d36593ad69b93e923d778b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043243"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46895579"
 ---
-# <a name="update-learning-pathways"></a>Atualizar os caminhos de aprendizado
+# <a name="update-learning-pathways"></a>Atualizar os caminhos de aprendizagem
 Se você tiver um site de cursores de aprendizado existente, poderá atualizá-lo para suporte multilíngue. Para atualizar os caminhos de aprendizado para a versão 4,0 multilíngue, você carrega o pacote de Web Parts, customlearning. sppkg, para o catálogo de aplicativos de locatários do SharePoint. Ao atualizar os caminhos de aprendizado:  
 
 - Todas as playlists e ativos personalizados criados anteriormente são mantidos
@@ -47,7 +47,7 @@ Ao definir as configurações de idioma para os caminhos de aprendizado, você p
 Nesta etapa, você carrega a Web Part caminhos de aprendizado 4,0 para o catálogo de aplicativos do SharePoint e, em seguida, navega até a página de administração de caminhos de aprendizado para iniciar o processo de atualização.
 
 ### <a name="upload-the-web-part-package"></a>Carregar o pacote de Web Part
-1.  Vá para o local de compartilhamento multilíngue no Microsoft Teams e baixe o **customlearning. sppkg** para uma unidade local em seu computador. 
+1.  Vá para o [repositório de aprendizado personalizado do GitHub](https://github.com/pnp/custom-learning-office-365/tree/master/webpart), selecione **customlearning. sppkg** e baixe-o para uma unidade local em seu computador.
 2.  Se você ainda não tiver entrado, entre em seu locatário com uma conta de administrador de locatário ou de administrador de conjunto de sites. 
 3.  Clique em **Administração**  >  **Mostrar todos os**  >  **recursos do SharePoint**  >  **More Features**. 
 4.  Em **aplicativos**, clique em **abrir**. 

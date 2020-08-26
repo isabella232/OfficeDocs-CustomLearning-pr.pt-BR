@@ -5,12 +5,12 @@ title: Atualizar os caminhos de aprendizado para suporte multilíngue
 ms.date: 05/20/2019
 description: Atualizar os caminhos de aprendizado para suporte multilíngue
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 37a9b77ee45b8ae1ae4973f171c32de11fb530e1
-ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
-ms.translationtype: Auto
+ms.openlocfilehash: 917b1cea9144349dd40ed93f05cb0f850828fd28
+ms.sourcegitcommit: 519a52618ce8dd2f800dc55897526e4541dddb50
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45031697"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "46874972"
 ---
 # <a name="update-learning-pathways-for-multilingual-support"></a>Atualizar os caminhos de aprendizado para suporte multilíngue
 Se você tiver um site de cursores de aprendizado existente, poderá atualizá-lo para suporte multilíngue. Para atualizar os caminhos de aprendizado para a versão 4,0 multilíngue, você carrega o pacote de Web Parts, customlearning. sppkg, para o catálogo de aplicativos de locatários do SharePoint. Ao atualizar os caminhos de aprendizado:  
@@ -48,7 +48,7 @@ Ao definir as configurações de idioma para os caminhos de aprendizado, você p
 Nesta etapa, você carrega a Web Part caminhos de aprendizado 4,0 para o catálogo de aplicativos do SharePoint e, em seguida, navega até a página de administração de caminhos de aprendizado para iniciar o processo de atualização.
 
 ### <a name="upload-the-web-part-package"></a>Carregar o pacote de Web Part
-1.  Vá para o local de compartilhamento multilíngue no Microsoft Teams e baixe o **customlearning. sppkg** para uma unidade local em seu computador. 
+1.  Vá para o [repositório de aprendizado personalizado do GitHub](https://github.com/pnp/custom-learning-office-365/tree/master/webpart), selecione **customlearning. sppkg** e baixe-o para uma unidade local em seu computador. 
 2.  Se você ainda não tiver entrado, entre em seu locatário com uma conta de administrador de locatário ou de administrador de conjunto de sites. 
 3.  Clique em **Administração**  >  **Mostrar todos os**  >  **recursos do SharePoint**  >  **More Features**. 
 4.  Em **aplicativos**, clique em **abrir**. 
