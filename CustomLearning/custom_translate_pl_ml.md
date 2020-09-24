@@ -1,17 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Converter os caminhos de aprendizado de playlists personalizadas
+title: Traduzir as playlists personalizadas do caminhos de aprendizagem
 ms.date: 07/06/2020
-description: Converter os caminhos de aprendizado de playlists personalizadas
-ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
-ms.translationtype: Auto
+description: Traduzir as playlists personalizadas do caminhos de aprendizagem
+ms.service: sharepoint online
+ms.openlocfilehash: ceb354a48c6add948d8d2ecd1f6f2762e6b819c5
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048129"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233913"
 ---
-# <a name="translate-learning-pathways-custom-playlists"></a>Converter os caminhos de aprendizado de playlists personalizadas
+# <a name="translate-learning-pathways-custom-playlists"></a>Traduzir as playlists personalizadas do caminhos de aprendizagem
 Com os caminhos de aprendizado, a maneira como você trabalha com as listas de reprodução personalizadas depende de como você configurou os caminhos de aprendizado.  
 
 - Se você provisionou um novo site multilíngue de caminhos de aprendizado, poderá copiar ou criar uma nova lista de reprodução e traduzir a lista de reprodução para os idiomas aos quais o site oferece suporte.
@@ -135,6 +136,6 @@ No menu **principal** de cursores de aprendizado, clique em **Administração de
 2. Role para baixo na página e, em ativos, selecione o ativo, selecione o idioma e clique em abrir. 
 3. Faça as traduções para a página e clique em **publicar**.   
 
-## <a name="for-more-information"></a>Para saber mais
+## <a name="for-more-information"></a>Para obter mais informações
 - Para obter mais informações sobre como personalizar os caminhos de aprendizado, consulte [Customize cursores de aprendizado](custom_overview.md). 
 

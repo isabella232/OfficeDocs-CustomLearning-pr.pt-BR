@@ -4,14 +4,15 @@ ms.author: pkrebs
 title: Onde está o Microsoft 365 Learning Web Part
 ms.date: 02/15/2019
 description: Saiba onde a Web Part de cursores de aprendizado aparece no site de cursores de aprendizado
-ms.openlocfilehash: f84ce82233612c0b7892177defb2a8ca28618b68
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: db3a205048786f97960757b6a62586588d824528
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956549"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233743"
 ---
-# <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Onde está a Web Part de cursores de aprendizado da Microsoft 365? 
+# <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Onde está a Web Part dos caminhos de aprendizagem do Microsoft 365 
 
 Quando os caminhos de aprendizado são provisionados em sua organização, o site e a Web Part de cursores de aprendizado são adicionados ao locatário do SharePoint da sua organização. Como parte do provisionamento, a Web Part de aprendizado da Microsoft 365 é adicionada às seguintes páginas do site de cursores de aprendizado da Microsoft 365:
 
@@ -31,11 +32,11 @@ Veja um exemplo da página Introdução ao **Microsoft Teams** com a Web Part fi
 
 - Na home page de cursores de aprendizado, selecione **introdução ao Microsoft Teams**.
 
-![CG-whereiswp-Teams. png](media/cg-whereiswp-teams.png)
+![cg-whereiswp-teams.png](media/cg-whereiswp-teams.png)
 
 - Clique no menu **página inicial** no menu de cursores de aprendizado para retornar à Home Page do site.
 
-![CG-homebtnmenu. png](media/cg-homebtnmenu.png)
+![cg-homebtnmenu.png](media/cg-homebtnmenu.png)
 
 ## <a name="view-the-six-simple-steps-playlist"></a>Exibir a lista de cinco etapas simples
 
@@ -43,7 +44,7 @@ A Web Part na página **Start-with-Six-Simple-Steps. aspx** é configurada para 
 
 - Na home page de cursores de aprendizado, clique em **Iniciar com seis etapas simples**. 
 
-![CG-whereiswp-Six. png](media/cg-whereiswp-six.png)
+![cg-whereiswp-six.png](media/cg-whereiswp-six.png)
 
 ## <a name="view-all-microsoft-365-training"></a>Exibir todos os treinamentos do Microsoft 365
 
@@ -51,7 +52,7 @@ A Web Part na página de **treinamento do Microsoft 365** é configurada para mo
 
 - Na home page de cursores de aprendizado, clique em **treinamento do Microsoft 365**. A página aparecerá com a Web Part configurada para mostrar todas as categorias e subcategorias disponíveis no catálogo de aprendizado personalizado.
 
-![CG-whereiswp-o365. png](media/cg-whereiswp-o365.png)
+![cg-whereiswp-o365.png](media/cg-whereiswp-o365.png)
 
 - Clique no menu **página inicial** no menu de cursores de aprendizado para retornar à Home Page do site.
 
@@ -61,7 +62,7 @@ A Web Part na página **centro de sucesso do administrador** é configurada para
 
 - Na home page de cursores de aprendizado, clique em introdução **ao centro de sucesso do administrador**. botão. 
 
-![CG-adminsuccesscenterwebpart. png](media/cg-adminsuccesscenterwebpart.png)
+![cg-adminsuccesscenterwebpart.png](media/cg-adminsuccesscenterwebpart.png)
 
 - Clique no menu **página inicial** no menu de cursores de aprendizado para retornar à Home Page do site.
 

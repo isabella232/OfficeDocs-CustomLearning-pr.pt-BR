@@ -1,11 +1,17 @@
 ---
-título: ''
-ms.openlocfilehash: e59f93b61e6b9b53f214dd8815892ba8b80ec668
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
-ms.translationtype: HT
+title: Dia da vida, com o Office 365 – reunião no escritório
+description: Etapas rápidas a serem prontas para o dia em mãos com o Office 365
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: fb2820a6492c3f7c107442e5aacbe5bf60adc7c8
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056078"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233633"
 ---
 # <a name="meeting-at-the-office"></a>Reunião no escritório
 
@@ -63,4 +69,4 @@ Adicionar diretamente itens de ação em um plano para o seu projeto, evita que 
 ![Tarefa do Planner ](media/ditl_task.png)
 
 ## <a name="end-a-meeting"></a>Finalizar uma reunião
-Encerre a reunião quando tudo da agenda for discutido, independente da hora. Atribua e envie itens de ação a todos os participantes. Se você estiver colaborando com o Microsoft Teams, é possível compartilhar facilmente itens de ação no canal apropriado. Os itens de ação também podem ser inseridos e atribuídos no Planner durante a reunião, fornecendo uma maneira rápida de controlar a conclusão, que também podem ser [acessados no Microsoft Teams](https://support.office.com/pt-BR/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0). 
+Encerre a reunião quando tudo da agenda for discutido, independente da hora. Atribua e envie itens de ação a todos os participantes. Se você estiver colaborando com o Microsoft Teams, é possível compartilhar facilmente itens de ação no canal apropriado. Os itens de ação também podem ser inseridos e atribuídos no Planner durante a reunião, fornecendo uma maneira rápida de controlar a conclusão, que também podem ser [acessados no Microsoft Teams](https://support.office.com/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0). 

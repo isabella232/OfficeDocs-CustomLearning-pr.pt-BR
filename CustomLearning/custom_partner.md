@@ -1,15 +1,16 @@
 ---
 author: mikeholl
 ms.author: mikeholl
-title: Perguntas frequentes sobre o parceiro
+title: Perguntas Frequentes sobre Parceiros
 ms.date: 3/9/2019
 description: Como os caminhos de aprendizado da Microsoft 365 são comparados às ofertas de parceiros de empresas que oferecem serviços de treinamento corporativo?
-ms.openlocfilehash: 27a05012363e2ef4a75656dd2e66f7beda51bd2d
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 16eee021f7ba0da5628cc9412ac7cc9436c22b28
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247796"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234143"
 ---
 # <a name="partner-frequently-asked-questions"></a>Perguntas frequentes sobre o parceiro
 
@@ -23,7 +24,7 @@ O modelo de site de aprendizado personalizado e a solução de conteúdo estão 
 Embora não seja possível complementar a alimentação diretamente do serviço de provisionamento do SharePoint Online, há vários modelos de integração que os parceiros podem aproveitar para criar serviços alinhados de valor agregado.
 
 1. **Serviços de implantação e personalização em nome dos clientes** -os parceiros podem executar a instalação da solução, a identidade visual e a personalização de conteúdo para seus clientes. Os parceiros também podem fornecer listas de reprodução personalizadas que fazem referência ao valor-adicionar conteúdo de treinamento criado. 
-2. **Personalização, remontagem e serviços de implantação em nome dos clientes-os** parceiros podem personalizar modelos de site e listas de reprodução de conteúdo por requisitos do cliente, e podem reempacotá-los e implantá-los em ambientes de clientes por criar na estrutura de práticas e nos padrões do SharePoint de código aberto. 
+2. **Personalização, remontagem e serviços de implantação em nome dos clientes-os** parceiros podem personalizar modelos de site e listas de reprodução de conteúdo por requisitos do cliente, e eles podem reempacotá-los e implantá-los em ambientes de clientes com base nos padrões e na estrutura de prática do SharePoint de código aberto. 
 
 ### <a name="how-does-this-solution-affect-my-adoption-change-management-practice"></a>Como esta solução afeta minha prática de gerenciamento de alterações de adoção? 
 Os serviços de treinamento são um componente do espaço de prática de gerenciamento de alterações e de adoção mais amplo. A solução de cursores de aprendizado da Microsoft 365 atende a uma necessidade específica de acelerar a capacidade dos parceiros e dos clientes de acessar e personalizar o conteúdo de treinamento fornecido pela Microsoft. Os caminhos de aprendizado do Microsoft 365 não incluem design personalizado de curso, projeto ministrado por instrutor, gamification, análise de comportamento do usuário, recursos abrangentes de comunicação e envolvimento ou suporte ao vivo. A Microsoft se baseia nos parceiros de adoção e de gerenciamento de alterações para cumprir esses serviços para os clientes. 

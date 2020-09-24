@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Planejar o conteúdo dos caminhos de aprendizado
 ms.date: 10/20/2019
 description: Atualização de conteúdo dos caminhos de aprendizado da Microsoft 365
-ms.openlocfilehash: 7c9687ca7c6e8373daa6f81cf9cd9624dd667e90
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: e3df63d098046311ffb5aa4220cbcaf3a9394572
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956658"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234103"
 ---
 # <a name="plan-your-learning-pathways-content"></a>Planejar o conteúdo dos caminhos de aprendizado
 Antes de se aprofundar na distribuição dos caminhos de aprendizado da Microsoft 365, é uma boa ideia levar algum tempo para pesquisar o conteúdo de aprendizado, as ferramentas e os recursos disponíveis para você. Nosso objetivo é ajudá-lo a fazer com que os usuários da sua organização se conectem e sejam produtivos da maneira mais rápida e eficiente possível. Quando se trata de planejamento de caminhos de aprendizado, recomendamos um processo de três etapas:
@@ -24,7 +25,7 @@ Antes de criar um plano de conteúdo para os caminhos de aprendizado do Microsof
 ### <a name="review-the-learning-pathways-sharepoint-site"></a>Revisar o site do SharePoint dos caminhos de aprendizado
 A solução de caminhos de aprendizado do Microsoft 365 fornece um site de comunicação do SharePoint com uma Web Part que está conectada a um catálogo online. O site do SharePoint é totalmente personalizável, incluindo o nome do site, logotipo, páginas, itens de menu, temas e blocos. Reserve algum tempo para clicar nos blocos e itens de menu para descobrir o que está disponível no site de cursores de aprendizado.
 
-![CG-Introducing. png](media/cg-introducing.png)
+![cg-introducing.png](media/cg-introducing.png)
 
 ### <a name="review-the-content-from-the-online-catalog-with-the-web-part"></a>Revise o conteúdo do catálogo online com a Web Part
 A Web Part, por padrão, é adicionada a uma série de páginas no site de comunicação do SharePoint. O conjunto completo de conteúdo é fornecido na página de treinamento do Microsoft 365. A página de treinamento do Microsoft 365 hospeda a Web Part de cursores de aprendizado configurada para mostrar todos os treinamentos disponíveis para os caminhos de aprendizado. 
@@ -34,7 +35,7 @@ A Web Part, por padrão, é adicionada a uma série de páginas no site de comun
 1. Role para baixo na página para exibir todas as categorias e subcategorias.
 2. Faça um pouquinho dos pneus. Clique em algumas subcategorias e, em seguida, clique em algumas listas de reprodução para saber como o conteúdo dos caminhos de aprendizado é organizado. 
 
-![CG-adminsuccesscenterplan_01. png](media/cg-adminsuccesscenterplan_01.png)
+![cg-adminsuccesscenterplan_01.png](media/cg-adminsuccesscenterplan_01.png)
 
 ### <a name="view-the-administration-page"></a>Exibir a página de administração
 A página de administração fornece uma lista do conteúdo disponível para você. É aqui que você pode ocultar o conteúdo, criar novas listas de reprodução e adicionar, editar e remover a playlist. Clique nas várias categorias e listas de reprodução para ver a esspire completa do conteúdo disponível. 
@@ -43,7 +44,7 @@ A página de administração fornece uma lista do conteúdo disponível para voc
 1. No site de cursores de aprendizado, aponte para a seta suspensa menu página inicial e clique em administração de caminhos de aprendizado.  
 2. Em seguida, clique nas várias categorias, subcategorias e listas de reprodução para obter uma respire do conteúdo disponível. 
 
-![CG-adminsuccesscenterplan_02. png](media/cg-adminsuccesscenterplan_02.png)
+![cg-adminsuccesscenterplan_02.png](media/cg-adminsuccesscenterplan_02.png)
 
 ### <a name="get-to-know-the-capabilities-of-microsoft-365-learning-pathways"></a>Conheça os recursos dos caminhos de aprendizado do Microsoft 365
 Com os caminhos de aprendizado da Microsoft 365, você pode ter conteúdo fornecido pela Microsoft misto com o conteúdo que você cria para direcionar políticas e procedimentos específicos que sejam exclusivos para sua organização. Como prática recomendada, tente aproveitar o conteúdo fornecido pela Microsoft o máximo possível. A Microsoft atualiza ativos individuais regularmente e atualiza o inventário completo do conteúdo trimestralmente. Normalmente, uma organização criará 10-20% de conteúdo exclusivo e deixará o restante de 80% para a Microsoft para manter-se atualizado. As listas a seguir descrevem como o conteúdo de caminhos de aprendizado é organizado, juntamente com as diretrizes para o conteúdo que pode ser modificado ou criado. A orientação para personalizar o conteúdo é fornecida na seção Personalizando os caminhos de aprendizado do centro de sucesso do administrador.

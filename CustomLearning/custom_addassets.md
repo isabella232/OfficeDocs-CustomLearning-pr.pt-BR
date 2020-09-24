@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Adicionar ativos a uma lista de reprodução
 ms.date: 02/17/2019
 description: Adicionar ativos novos e existentes a uma lista de reprodução de cursores de aprendizado
-ms.openlocfilehash: d1032139e2d753601cb269e487db343778938d64
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 52684f4c76ecbe54d5377469de6d3ee6fdbcfdb1
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247636"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234683"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>Adicionar ativos a uma lista de reprodução personalizada
 
@@ -35,14 +36,14 @@ Com a opção **criar página de ativos** , você fornece um título para o ativ
 2. Para adicionar um novo ativo a uma lista de reprodução, clique em **novo ativo**. 
 3. Insira um título. Neste exemplo, insira "Adicionar ativos a uma lista de reprodução" e, em seguida, clique em **criar página de ativos**.
 
-![CG-addassetcreatenewpage. png](media/cg-addassetcreatenewpage.png)
+![cg-addassetcreatenewpage.png](media/cg-addassetcreatenewpage.png)
 
 4. Clique em **abrir página**.
 5. Clique no ícone **Editar** e, em seguida, clique em **Editar Web Part** na área título.
 6. Em **layout**, clique em **simples**. 
 7. Adicione uma nova seção de uma coluna e, em seguida, adicione um texto de exemplo à página para que ele se pareça com o exemplo a seguir. 
 
-![CG-addassetcreatenewpageedit. png](media/cg-addassetcreatenewpageedit.png)
+![cg-addassetcreatenewpageedit.png](media/cg-addassetcreatenewpageedit.png)
 
 7. Clique em **Publicar**.
 8. Retorne à página **Administração de aprendizado personalizada** . 
@@ -55,11 +56,11 @@ Com a opção **Inserir a URL** , você fornece um título para o ativo e, em se
 2. Para adicionar um novo ativo a uma lista de reprodução, clique em **novo ativo**. 
 3. Insira um título. Neste exemplo, digite "introdução à playlist personalizada" e, em seguida, clique em **Inserir URL**. 
 
-![CG-newplaylistasseturl. png](media/cg-newplaylistasseturl.png)
+![cg-newplaylistasseturl.png](media/cg-newplaylistasseturl.png)
 
-4. Insira a URL da página do SharePoint que você criou em uma seção anterior [criar páginas do SharePoint para listas de reprodução personalizadas](custom_createnewpage.md) e preencha o restante dos campos, conforme mostrado na ilustração a seguir.
+4. Insira a URL da página do SharePoint que você criou em uma seção anterior [criar páginas do SharePoint para listas de reprodução personalizadas ](custom_createnewpage.md) e preencha o restante dos campos, conforme mostrado na ilustração a seguir.
 
-![CG-newplaylistassetdetails. png](media/cg-newplaylistassetdetails.png)
+![cg-newplaylistassetdetails.png](media/cg-newplaylistassetdetails.png)
 
 5. Clique em **salvar ativo**. 
 
@@ -69,12 +70,12 @@ Ativos existentes consistem em ativos de cursores de aprendizado fornecidos pela
 
 - Na caixa de **pesquisa** , insira uma frase de pesquisa e, em seguida, selecione um ativo nos resultados da pesquisa. Neste exemplo, insira "o que é o Excel?" para adicionar um tópico introdutório do Excel à lista de reprodução.
 
-![CG-existplaylistassetsearch. png](media/cg-existplaylistassetsearch.png)
+![cg-existplaylistassetsearch.png](media/cg-existplaylistassetsearch.png)
 
 ## <a name="edit-move-and-delete-assets"></a>Editar, mover e excluir ativos
 Você pode editar ativos personalizados criados, mas não ativos da Microsoft. No entanto, você pode remover todos os ativos de uma lista de reprodução e alterar os ativos da ordem. 
 
-![CG-playlistassetedit. png](media/cg-playlistassetedit.png)
+![cg-playlistassetedit.png](media/cg-playlistassetedit.png)
 
 ### <a name="edit-an-asset"></a>Editar um ativo
 - Clique no botão Editar de um ativo, modifique o ativo e clique em salvar ativo. 
@@ -93,4 +94,4 @@ Agora que você adicionou ativos a uma lista de reprodução, vamos fechar a lis
 3. Atualize a página e, em seguida, clique em **primeiro dias** em **introdução**.
 4. Clique em **Starter Kit de cursores de aprendizado** para exibir sua primeira playlist em ação. 
 
-![CG-addassetcheckwork. png](media/cg-addassetcheckwork.png)
+![cg-addassetcheckwork.png](media/cg-addassetcheckwork.png)

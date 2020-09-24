@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Gerenciar as atualizações de conteúdo dos caminhos de aprendizado
 ms.date: 10/20/2019
 description: Gerenciar as atualizações de conteúdo dos caminhos de aprendizado
-ms.openlocfilehash: e59b05718192a5ace9ae6b8d999a26f5d7accbf9
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 171504fb3d3679f541bbf1cd9b2e3937d3aba1f7
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956508"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234543"
 ---
 # <a name="manage-learning-pathways-content-updates"></a>Gerenciar as atualizações de conteúdo dos caminhos de aprendizado
 O catálogo de caminhos de aprendizado do Microsoft 365 é atualizado trimestralmente. O conteúdo do catálogo, que é um conjunto de metadados JSON apontando para os ativos de aprendizado hospedados no support.office.com, é armazenado em um cache global dentro do locatário de uma organização. O cache global é atualizado automaticamente quando um administrador ou proprietário de um conjunto de sites de cursores de aprendizado abre a página Administração de cursores de aprendizado. Além disso, o cache global de cursores de aprendizado é atualizado a cada 24 horas. As atualizações de conteúdo para o catálogo serão exibidas automaticamente para os usuários de cursores de aprendizado quando o cache global for atualizado. Um administrador de cursores de aprendizado poderá ocultar subcategorias ou listas de reprodução se não quiser disponibilizar novo conteúdo aos usuários.

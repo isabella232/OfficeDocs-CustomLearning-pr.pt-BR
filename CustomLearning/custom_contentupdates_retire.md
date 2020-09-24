@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Atualizações de conteúdo de novembro de 2019
 ms.date: 10/20/2019
 description: Atualização de conteúdo dos caminhos de aprendizado da Microsoft 365
-ms.openlocfilehash: dbe5d6dd1e007bbef029b4d40136d83032ff5461
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.service: sharepoint online
+ms.openlocfilehash: 3634d0051c3eb71749d3a0111c83421bedada7aa
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43142183"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234703"
 ---
 # <a name="november-2019-content-updates"></a>Atualizações de conteúdo de novembro de 2019
 Bem-vindo à atualização de conteúdo de caminhos de aprendizado do Microsoft 365. A partir da nossa atualização de novembro de 2019, forneceremos um inventário atualizado do catálogo de cursores de aprendizado trimestralmente. Para a atualização de novembro de 2019, as seguintes subcategorias de conteúdo e listas de reprodução foram adicionadas ao catálogo de cursores de aprendizado. Para saber mais sobre como as atualizações de conteúdo são aplicadas e como gerenciar atualizações de conteúdo, consulte [Manage Content updates](custom_contentupdatesmanage.md).    

@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Provisionar uma nova solução de cursores de aprendizado
 ms.date: 02/10/2019
 description: Provisionar o site de cursores de aprendizado da Microsoft 365 com o serviço de livro de aparência da Microsoft 365
-ms.openlocfilehash: ba71b79497a01c2f0c0d51c12c2760adbb4e24c5
-ms.sourcegitcommit: e88aaa3c8b6afcb5a7c19dfaf144a676a6859229
+ms.service: sharepoint online
+ms.openlocfilehash: ff480e0ae2d5a530ed697df470cd499021ced01a
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45196779"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234063"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>Provisionar uma nova solução de cursores de aprendizado 
 As organizações que não têm caminhos de aprendizado provisionados em seus locatários podem usar o serviço de pesquisa do SharePoint para adicionar a solução de percurso de aprendizado multilíngue. Com esta opção, o modelo de cursores de aprendizado do SharePoint é traduzido em nove idiomas e pode ser usado com um mínimo de modificações. 
@@ -43,13 +44,13 @@ Antes de provisionar os caminhos de aprendizado, certifique-se de que a conta de
 
 O serviço de livro de aparência requer essas permissões para criar o catálogo de aplicativos do locatário, instalar o aplicativo no catálogo de aplicativos do locatário e provisionar o modelo de site. Não há impacto geral no locatário. Essas permissões são explicitamente usadas com o objetivo da instalação da solução. Você deve aceitar essas permissões para continuar a instalação.
 
-4. Preencha os campos da página informações de provisionamento, conforme apropriado para sua instalação. No mínimo, insira o endereço de email para o qual você deseja obter notificações sobre o processo de provisionamento e a URL de destino do seu site a ser provisionado.  
+4. Preencha os campos na página de informações de provisionamento, conforme apropriado à sua instalação. No mínimo, insira o endereço de email no qual você deseja receber notificações sobre o processo de provisionamento e a URL de destino para o site a ser provisionado.  
 > [!NOTE]
-> Torne a URL de destino do seu site um tanto amigável para seus funcionários, como "/sites/MyTraining" ou "/teams/LearnMicrosoft365".
+> Torne a URL de destino do seu site em algo amigável para seus funcionários, como "/sites/MeuTreinamento" ou "/teams/AprendaMicrosoft365".
 
 ![inst_options.png](media/inst_options.png)
 
-6. Clique em **provisionar** quando estiver pronto para instalar os caminhos de aprendizado no seu ambiente de locatário.  O processo de provisionamento pode levar até 15 minutos. Você será notificado por email quando o site estiver pronto. 
+6. Clique em **provisionar** quando estiver pronto para instalar os caminhos de aprendizado no seu ambiente de locatário.  O processo de provisionamento poderá levar até 15 minutos. Você será notificado por email quando o site estiver pronto. 
 
 > [!IMPORTANT]
 > O administrador de locatários que provisiona o site de caminhos de aprendizado deve ir para o site e, em seguida, abrir **CustomLearningAdmin. aspx** para inicializar as propriedades de administração de caminhos de aprendizado. No momento, o administrador de locatários também deve atribuir proprietários ao site. 
@@ -58,7 +59,7 @@ O serviço de livro de aparência requer essas permissões para criar o catálog
 
 Quando o provisionamento é concluído, o administrador do locatário que provisionou o site recebe um email do serviço de livro de pesquisa. O email contém um link para o site. Neste ponto, o administrador de locatário deve ir para o site usando o link fornecido no email e configurar o site para o primeiro uso:
 
-- Acesse `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Abrir **CustomLearningAdmin. aspx** Inicializa o item de lista **CustomConfig** que configura os caminhos de aprendizado para o primeiro uso. Você verá uma página parecida com esta:
+- Vá para `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Abrir o **CustomLearningAdmin.aspx** inicializa o item de lista **CustomConfig** que configura os caminhos de aprendizado para o primeiro uso. Você verá uma página parecida com esta:
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 

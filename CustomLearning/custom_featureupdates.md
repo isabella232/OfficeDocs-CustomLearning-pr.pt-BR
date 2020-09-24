@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Atualizações de recursos de cursores de aprendizado
 ms.date: 10/20/2019
 description: Atualizações de recursos de cursores de aprendizado
-ms.openlocfilehash: 7765de3e2f08b70003842086bc5f910ddc5fd987
-ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
+ms.service: sharepoint online
+ms.openlocfilehash: 1f075671854906cd331c1706c669eac30c04ddec
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45199331"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234423"
 ---
 # <a name="july-2020-version-40-feature-updates"></a>4,0 versão de julho de 2020 de atualizações de recursos 
 
@@ -17,7 +18,7 @@ Os novos recursos a seguir foram adicionados aos caminhos de aprendizado da Micr
 
 ## <a name="multilingual-support-for-learning-pathways"></a>Suporte multilíngue para caminhos de aprendizagem 
 O suporte multilíngue para caminhos de aprendizado já está disponível em nove idiomas.  
-- English     
+- Inglês     
 - Chinês (simplificado) 
 - Francês 
 - Alemão 
@@ -25,11 +26,11 @@ O suporte multilíngue para caminhos de aprendizado já está disponível em nov
 - Japonês (Japão) 
 - Português (Brasil) 
 - Russo (russo) 
-- Spanish 
+- Espanhol 
 
 Para obter mais informações, consulte [cursores de aprendizado visão geral multilíngue](custom_overview.md). 
 
-## <a name="sort-subcategories-and-playlists"></a>Classificar subcategorias e listas de reprodução
+## <a name="sort-subcategories-and-playlists"></a>Classificar subcategorias e reprodução
 
 Agora você pode classificar subcategorias e listas de reprodução em cursores de aprendizado. Por exemplo, se você adicionar uma lista de reprodução personalizada a uma subcategoria, poderá classificar as listas de reprodução para que a lista de reprodução personalizada apareça primeiro na ordem de classificação. 
 

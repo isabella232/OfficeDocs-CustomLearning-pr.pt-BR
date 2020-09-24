@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Explorar o site e o conteúdo padrão
 ms.date: 02/10/2019
 description: Explorar o site de cursores de aprendizado e o conteúdo padrão
-ms.openlocfilehash: a7218cb09d23d553f50a09ace9b14e9522d8716f
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 11a6fc8c68f1aaab6d36e1369147a97c4433e166
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956538"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234443"
 ---
 # <a name="explore-the-learning-pathways-site"></a>Explorar o site de cursores de aprendizado
 
@@ -17,11 +18,11 @@ ms.locfileid: "37956538"
 
 ## <a name="sign-in-to-office-365"></a>. 
 
-1.  Abra o navegador da Web e navegue até office.com ou o local de entrada da sua organização. 
+1.  Abra seu navegador da Web e navegue até o office.com ou o local de Logon da sua organização. 
 2.  Entre com seu nome de usuário e senha.
 3.  Navegue até o local do site usando a URL fornecida pelo administrador de locatários ou selecione SharePoint na home page do Office 365 e, em seguida, selecione o site. 
 
-![CG-exploresite. png](media/cg-introducing.png)
+![cg-exploresite.png](media/cg-introducing.png)
 
 ## <a name="explore-microsoft-365-learning-pathways"></a>Explorar os caminhos de aprendizado do Microsoft 365
 

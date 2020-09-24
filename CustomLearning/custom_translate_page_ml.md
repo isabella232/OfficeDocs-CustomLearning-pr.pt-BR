@@ -1,20 +1,21 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Traduzir páginas de site
+title: Traduzir páginas do site
 ms.date: 07/06/2020
-description: Traduzir páginas de site
-ms.openlocfilehash: c712ff624f37efa54120a8567e2a6b3a79d54bcd
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
-ms.translationtype: Auto
+description: Traduzir páginas do site
+ms.service: sharepoint online
+ms.openlocfilehash: a6989162208103bb769dbf1c853cc4bdff0a6d68
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048109"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233903"
 ---
-# <a name="translate-site-pages"></a>Traduzir páginas de site
+# <a name="translate-site-pages"></a>Traduzir páginas do site
 Antes de começar a converter o site de cursores de aprendizado, é importante compreender alguns conceitos fundamentais de como o recurso multilíngue funciona com os caminhos de aprendizado. 
 - As informações do site-navegação, logotipo e traduções de nome do site exigem que o site seja exibido e traduzido no perfil de idioma do usuário.  
-- A Web Part de caminhos de aprendizado deve ser exibida com o perfil de idioma do usuário para que ela apareça em um idioma diferente do inglês. A Web Part e o conteúdo fornecido pela Microsoft já foram convertidos para você. Para obter mais informações sobre perfis de idiomas, confira [alterar suas configurações regionais e de idioma pessoal](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
+- A Web Part de caminhos de aprendizado deve ser exibida com o perfil de idioma do usuário para que ela apareça em um idioma diferente do inglês. A Web Part e o conteúdo fornecido pela Microsoft já foram convertidos para você. Para obter mais informações sobre perfis de idiomas, confira [alterar suas configurações regionais e de idioma pessoal](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
 - A maneira como você configura os caminhos de aprendizado determina se você tem páginas traduzidas disponíveis. Novos sites provisionados com o serviço de livro de aparência da Microsoft 365 terão páginas traduzidas em nove idiomas disponíveis. Os sites ou sites atualizados que você criar precisarão de tradução manual. Confira [Opções de configuração para caminhos de aprendizado multilíngues](custom_setupoptions_ml.md).
 - O suporte multilíngue para caminhos de aprendizado é habilitado por recursos multilíngues do SharePoint Online para sites de comunicação. Para saber mais sobre os recursos multilíngues do SharePoint Online, consulte [criar sites de comunicação multilíngues, páginas e notícias](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
 
@@ -58,7 +59,7 @@ O que as traduções não estão visíveis?
 - A Web Part de cursores de aprendizado está em inglês
 
 ## <a name="view-the-fully-translated-site"></a>Exibir o site totalmente traduzido 
-Para exibir um site totalmente traduzido em um idioma específico, incluindo as páginas do site, a navegação e a Web Part, as configurações regionais e de idioma pessoal do usuário devem ser definidas para esse idioma. Para obter mais informações sobre como definir configurações regionais e de idioma, confira [alterar suas configurações regionais e de idioma pessoal](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7). É recomendável usar uma conta separada ou ter outro usuário com as configurações de idioma diferentes exibir as páginas traduzidas.  
+Para exibir um site totalmente traduzido em um idioma específico, incluindo as páginas do site, a navegação e a Web Part, as configurações regionais e de idioma pessoal do usuário devem ser definidas para esse idioma. Para obter mais informações sobre como definir configurações regionais e de idioma, confira [alterar suas configurações regionais e de idioma pessoal](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7). É recomendável usar uma conta separada ou ter outro usuário com as configurações de idioma diferentes exibir as páginas traduzidas.  
 
 ## <a name="working-with-an-updated-or-manually-installed-learning-pathways-site"></a>Trabalhar com um site de cursores de aprendizado atualizado ou instalado manualmente
 Se você atualizou um site de cursores de aprendizado existente ou instalou manualmente a Web Part em um site existente, você precisará traduzir manualmente as páginas do site. A Web Part de cursores de aprendizado e o conteúdo já foram convertidos e serão exibidos no idioma preferencial do usuário. Para traduzir páginas, consulte as seguintes instruções "criar páginas para os idiomas que você deseja". 
@@ -80,35 +81,35 @@ Depois de habilitar o site para recursos multilíngues e escolher os idiomas que
 Depois de criar a (s) página (s), o status da página (rascunho salvo, publicado e assim por diante) é mostrado no painel de conversão ao lado de cada idioma. Além disso, os tradutores que você atribuiu serão notificados em email de que uma tradução é solicitada.
 
 ### <a name="view-the-fully-translated-site-in-a-specific-language"></a>Exibir o site totalmente traduzido em um idioma específico
-Para exibir um site totalmente traduzido em um idioma específico, incluindo as páginas do site, a navegação e a Web Part, as configurações regionais e de idioma pessoal do usuário devem ser definidas para esse idioma. Para obter mais informações sobre como definir configurações regionais e de idioma, confira [alterar suas configurações regionais e de idioma pessoal](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7). Observe que é melhor usar uma conta separada ou ter outro usuário com as diferentes configurações de idioma exibir as páginas traduzidas.
+Para exibir um site totalmente traduzido em um idioma específico, incluindo as páginas do site, a navegação e a Web Part, as configurações regionais e de idioma pessoal do usuário devem ser definidas para esse idioma. Para obter mais informações sobre como definir configurações regionais e de idioma, confira [alterar suas configurações regionais e de idioma pessoal](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7). Observe que é melhor usar uma conta separada ou ter outro usuário com as diferentes configurações de idioma exibir as páginas traduzidas.
 
 ## <a name="what-does-a-translator-do"></a>O que faz um tradutor?
- Depois que o site é configurado em inglês, um usuário com espanhol como idioma pessoal preferido, por exemplo, edita e converte manualmente o título, a navegação e o conteúdo do rodapé em espanhol. Um usuário com alemão como idioma pessoal preferido faz o mesmo para alemão. Depois que o conteúdo é traduzido, ele será exibido para todos os usuários desses idiomas preferidos. A Web Part escolhe o idioma preferencial do usuário e mostra o conteúdo traduzido nesse idioma. 
+ Depois que o site é configurado em inglês, um usuário com espanhol como idioma pessoal preferido, por exemplo, edita e converte manualmente o título, a navegação e o conteúdo do rodapé em espanhol. Um usuário com a língua alemã escolhida como idioma pessoal faz a mesma coisa para alemão. Quando o conteúdo for traduzido, ele será exibido para todos os usuários que tenham escolhido esses idiomas. A Web Part escolhe o idioma preferencial do usuário e mostra o conteúdo traduzido nesse idioma. 
 
 Os tradutores convertem manualmente as cópias da página de idioma padrão nos idiomas especificados. Quando as cópias das páginas são criadas, os tradutores são notificados no email se um tradutor tiver sido especificado. O email inclui um link para a página de idioma padrão e a página de tradução recém-criada. O tradutor irá:
 1. Selecione o botão **Iniciar conversão** no email.
 2. Selecione **Editar** na parte superior direita da página e traduza o conteúdo.
 3. Quando terminar, selecione **salvar como rascunho** (se você não estiver pronto para torná-lo visível aos leitores) ou se a página estiver pronta para ficar visível a todos os usuários que estiverem usando esse idioma no site, selecione **publicar** ou **postar notícias**.
 
-Para obter mais informações sobre o processo de tradução, consulte [criar sites de comunicação multilíngue, páginas e notícias](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
+Para obter mais informações sobre o processo de tradução, consulte [criar sites de comunicação multilíngue, páginas e notícias](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
 
 ## <a name="updating-the-default-language-page"></a>Atualizando a página de idioma padrão
 Quando a página idioma padrão for atualizada, a página deverá ser republicada. Em seguida, o (s) conversor (es) para as páginas de tradução são notificados no email de que uma atualização foi feita para que as atualizações possam ser feitas nas páginas de tradução individuais.
 
 ## <a name="set-up-a-multilingual-site-name-navigation-and-footer"></a>Configurar um nome de site multilíngue, navegação e rodapé
-Para mostrar o nome, a navegação e o rodapé do site nos diferentes idiomas que você fez disponíveis, cada um deve ser traduzido manualmente.
+Para mostrar o nome, a navegação e o rodapé do seu site nos diferentes idiomas que você disponibilizou, cada um deve ser traduzido manualmente.
 
-Por exemplo, digamos que você tenha criado um site de comunicação com uma linguagem padrão em inglês e tenha habilitado o site para idiomas espanhol e alemão. Ao criar um site, você configura o nome e a descrição do site no idioma padrão (neste caso, inglês). Você também pode atualizar o nome e a descrição do site após a criação do site. Em seguida, crie os nós de navegação e o conteúdo de rodapé em inglês.
+Por exemplo, digamos que você criou um site de comunicação com um idioma padrão em inglês e habilitou o site para os idiomas espanhol e alemão. Ao criar um site, você configura o nome e a descrição do site no idioma padrão (neste caso, em inglês). Você também pode atualizar o nome e a descrição do site depois de criá-lo. Então crie os nós de navegação e o conteúdo do rodapé em inglês.
 
-Depois que o site é configurado em inglês, um usuário com espanhol como idioma pessoal preferido edita manualmente e converte o título, a descrição, a navegação e o conteúdo do rodapé em espanhol. Um usuário com alemão como idioma pessoal preferido faz o mesmo para alemão. Depois que o conteúdo é traduzido, ele será exibido para todos os usuários desses idiomas preferidos. 
+Depois que o site estiver configurado em inglês, um usuário que escolheu espanhol como seu idioma pessoal editará e traduzirá manualmente o título, a descrição, a navegação e o conteúdo do rodapé para espanhol. Um usuário com a língua alemã escolhida como idioma pessoal faz a mesma coisa para alemão. Quando o conteúdo for traduzido, ele será exibido para todos os usuários que tenham escolhido esses idiomas. 
 
 > [! Notes
 >- Os usuários que convertem o conteúdo do site para seus idiomas de preferência devem ser membros do grupo proprietários do site ou ter permissões de site equivalentes.
 >- Se uma alteração for feita no nome do site, na navegação ou no rodapé no idioma padrão, o item traduzido correspondente em outro idioma não será atualizado automaticamente, a menos que você opte por substituir as traduções de site existentes. Se você fizer isso, o item traduzido será substituído pela atualização no idioma padrão e precisará ser convertido manualmente novamente. Para substituir traduções, vá para a página idiomas do site para o idioma padrão e selecione Mostrar configurações avançadas. Em seguida, deslize o botão de alternância para substituir traduções. Essa opção não se aplica a conteúdo de página ou de notícias.
 
 ### <a name="to-view-the-fully-translated-site-in-a-specific-language"></a>Para exibir o site totalmente traduzido em um idioma específico
-Para exibir um site totalmente traduzido em um idioma específico, incluindo as páginas do site, a navegação e a Web Part, as configurações regionais e de idioma pessoal do usuário devem ser definidas para esse idioma. Para obter mais informações sobre como definir configurações regionais e de idioma, confira [alterar suas configurações regionais e de idioma pessoal](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7). É recomendável usar uma conta separada ou ter outro usuário com as configurações de idioma diferentes exibir as páginas traduzidas.
+Para exibir um site totalmente traduzido em um idioma específico, incluindo as páginas do site, a navegação e a Web Part, as configurações regionais e de idioma pessoal do usuário devem ser definidas para esse idioma. Para obter mais informações sobre como definir configurações regionais e de idioma, confira [alterar suas configurações regionais e de idioma pessoal](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7). É recomendável usar uma conta separada ou ter outro usuário com as configurações de idioma diferentes exibir as páginas traduzidas.
 
-## <a name="for-more-information"></a>Para saber mais
-- Para obter mais informações sobre a conversão de páginas do site de comunicação do SharePoint, consulte [criar sites de comunicação multilíngues, páginas e notícias](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).
+## <a name="for-more-information"></a>Para obter mais informações
+- Para obter mais informações sobre a conversão de páginas do site de comunicação do SharePoint, consulte [criar sites de comunicação multilíngues, páginas e notícias](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).
 - Para obter mais informações sobre como personalizar os caminhos de aprendizado, consulte [Customize cursores de aprendizado](custom_overview.md).  

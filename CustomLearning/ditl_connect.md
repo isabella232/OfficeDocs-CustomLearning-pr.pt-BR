@@ -1,11 +1,17 @@
 ---
-título: ''
-ms.openlocfilehash: 78115ccf91fbbd76d4b30a17ba72307a658fceed
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
-ms.translationtype: HT
+title: Dia da vida útil com o Office 365-conectando-se à empresa
+description: Etapas rápidas a serem prontas para o dia em mãos com o Office 365
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: 09cd657c1e5d1de4d794e03d36ee6c38ffbff6a0
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055125"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233653"
 ---
 # <a name="connecting-across-the-company"></a>Conectando-se em toda a empresa
 

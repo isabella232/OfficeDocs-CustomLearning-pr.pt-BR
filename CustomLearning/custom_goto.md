@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Vá para o site de cursores de aprendizado da Microsoft 365
 ms.date: 02/18/2019
 description: Vá para o site de cursores de aprendizado da Microsoft 365
-ms.openlocfilehash: 9b10552f17028b384b60b71f92e132686a65d776
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 5d102092f639e91c39dc163b0acab004d5605d86
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956618"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234373"
 ---
 # <a name="go-to-the-microsoft-365-learning-pathways-site"></a>Vá para o site de cursores de aprendizado da Microsoft 365
 
@@ -17,7 +18,7 @@ O site de caminhos de aprendizado do Microsoft 365 para o site do Office 365 est
 
 ## <a name="sign-in"></a>Entrar  
 
-1.  Abra o navegador da Web e navegue até office.com ou o local de entrada da sua organização. 
+1.  Abra seu navegador da Web e navegue até o office.com ou o local de Logon da sua organização. 
 2.  Entre com seu nome de usuário e senha.
 3.  Navegue até o local do site usando a URL fornecida pelo administrador de locatários ou selecione SharePoint na home page do Office 365 e, em seguida, selecione o site de cursores de aprendizado da Microsoft 365. 
 5. Clique no bloco de **treinamento do microsoft 365** para ver o pacote completo de playlist de treinamento disponível com os caminhos de aprendizado da Microsoft 365. 

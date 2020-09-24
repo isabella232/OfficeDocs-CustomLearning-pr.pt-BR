@@ -4,12 +4,13 @@ ms.author: karuanag
 title: Personalizar e compartilhar listas de reprodução
 ms.date: 02/10/2019
 description: Criar playlists personalizadas a partir de conteúdo existente ou de novas páginas do SharePoint
-ms.openlocfilehash: d330b6e401c9020eb68877bc8a132350811a2f31
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.service: sharepoint online
+ms.openlocfilehash: 6258668b417ba496c7ac75e36ce2bc1f1dae27a5
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056365"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233803"
 ---
 # <a name="customize-and-share-playlists"></a>Personalizar e compartilhar listas de reprodução
 
@@ -30,10 +31,10 @@ Neste exemplo, primeiro criaremos uma página do SharePoint para adicionar à li
 ![adição de duas colunas](media/clo365addtwocolumn.png)
 
 4.  Na caixa à esquerda, selecione Adicionar uma nova Web Part e, em seguida, selecione incorporar. 
-5.  Em um navegador da Web, acesse esta https://youtu.be/wYrRCRphrp0 URL e obtenha o código de inserção para o vídeo. 
+5.  Em um navegador da Web, acesse esta URL https://youtu.be/wYrRCRphrp0 e obtenha o código de inserção para o vídeo. 
 6.  Na Web Part do SharePoint, selecione Adicionar código incorporado e cole-o na caixa incorporar. 
 7.  Na caixa à direita, selecione Adicionar uma nova Web Part e, em seguida, selecione texto. 
-8.  Em um navegador da Web, acesse esta URL https://support.office.com/en-us/article/13c4e429-7324-4886-b377-5dbed539193b : e copie o teste try! Instruções da página e cole-as na Web Part de texto. A página deve ter a seguinte aparência. 
+8.  Em um navegador da Web, acesse esta URL: https://support.office.com/article/13c4e429-7324-4886-b377-5dbed539193b e copie o teste try! Instruções da página e cole-as na Web Part de texto. A página deve ter a seguinte aparência. 
 
 ![Inserir página](media/clo365teamscommandbox.png)
 
@@ -42,13 +43,13 @@ Neste exemplo, primeiro criaremos uma página do SharePoint para adicionar à li
 #### <a name="step-2-create-the-playlist"></a>Etapa 2: criar a lista de reprodução
 
 1. Navegue até a página de **Administração de aprendizado personalizada** em sua experiência de site.
-![custom_admin. png](media/custom_admin.png)
+![custom_admin.png](media/custom_admin.png)
 1. Certifique-se de que **categoria** esteja selecionada 
 1. Clique na categoria onde você deseja que sua nova lista de reprodução seja exibida
-1. Ao lado do nome da categoria, clique no símbolo ![de adição custom_addplay. png](media/custom_addplay.png)
+1. Ao lado do nome da categoria, clique no símbolo de adição ![custom_addplay.png](media/custom_addplay.png)
 
 1. Preencha os valores conforme mostrado no exemplo abaixo e selecione **criar**. 
-![custom_details. png](media/custom_details.png)
+![custom_details.png](media/custom_details.png)
 - **Título** – nome de exibição da lista de reprodução
 - **Descrição** -informações sobre o que será aprendido
 - **Categoria** : selecionada com base na seleção inicial
@@ -61,21 +62,21 @@ Neste exemplo, primeiro criaremos uma página do SharePoint para adicionar à li
 
 > [!TIP]
 > Você pode personalizar a imagem do ícone da sua lista de reprodução.  Clique no ícone de imagem e insira uma URL de uma imagem previamente carregada.  Verifique se a imagem está localizada dentro do conjunto de sites de aprendizado personalizado ou em outro local em que todos os usuários terão acesso ao arquivo.  
-![custom_image. png](media/custom_image.png)
+![custom_image.png](media/custom_image.png)
 
 #### <a name="step-3-add-assets-to-the-playlist"></a>Etapa 3: Adicionar ativos à lista de reprodução
 Nesta etapa, você adicionará ativos existentes da Microsoft e da página do SharePoint que você criou na lista de reprodução. 
 
 1. Depois de salvar os detalhes da sua lista de reprodução, você poderá usar a pesquisa de ativos existentes.
 1. **Insira em qualquer termo de pesquisa** para ver uma lista de ativos predefinidos que estão disponíveis a partir de outras listas de reprodução. **Clique no nome** de um ativo para incluí-lo em sua nova lista de reprodução.
-![custom_slist. png](media/custom_slist.png)
+![custom_slist.png](media/custom_slist.png)
 
 Você também pode adicionar a página do SharePoint que você criou anteriormente ou criar uma desde o início da experiência.
 
 1. Clique na opção **novo ativo** da caixa de diálogo ativos da playlist
-1. Dê um **título**ao seu ativo. Depois de inseridas, as opções ![adicionais exibirão custom_newpage. png](media/custom_newpage.png)
+1. Dê um **título**ao seu ativo. Depois de inseridas, serão exibidas opções adicionais ![custom_newpage.png](media/custom_newpage.png)
 1. Agora você pode criar uma nova página de ativo no SharePoint Online ou inserir a URL de uma página existente para adicioná-la à sua lista de reprodução personalizada. 
-1. Os campos **categoria**, subcategoria e **tecnologia** serão preenchidos previamente com base em suas seleções anteriores para esta lista de reprodução. ****
+1. Os campos **categoria**, **subcategoria** e **tecnologia** serão preenchidos previamente com base em suas seleções anteriores para esta lista de reprodução.
 1. Faça as seleções apropriadas para o nível e o público-alvo desse ativo individual.  
 1. Clique em **salvar ativo** para adicioná-lo à playlist personalizada
 1. Repita essas etapas, pesquisando ou adicionando páginas individuais até que a lista de reprodução esteja concluída. 
@@ -97,6 +98,6 @@ As listas de reprodução personalizadas podem ser usadas para ajudar os usuári
 1. Clique no ícone que representa um link
 1. Copiar a URL para a lista de reprodução
 
-![share. png](media/share.png) essa URL agora pode ser inserida na sua navegação no site ou utilizada em outras comunicações para levar seus funcionários diretamente para essa lista de reprodução. 
+![share.png](media/share.png) essa URL agora pode ser inserida na sua navegação no site ou utilizada em outras comunicações para levar seus funcionários diretamente a essa lista de reprodução. 
 
-### <a name="next-steps---drive-adoptiondriveadoptionmd"></a>Próximas etapas- [adoção](driveadoption.md) de drives
+### <a name="next-steps---drive-adoption"></a>Próximas etapas- [adoção de drives](driveadoption.md)

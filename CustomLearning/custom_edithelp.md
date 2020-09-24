@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Personalizar o site de cursores de aprendizado
 ms.date: 02/15/2019
 description: Saiba mais sobre as diversas personalizações disponíveis nos caminhos de aprendizado do Microsoft 365
-ms.openlocfilehash: fce6819b5d54a5f551ae2264f7b0b7e3169b25cc
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: e6479fdd35dcd6a27482fb3faa3facd35e4d52e7
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34248156"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234473"
 ---
 # <a name="customize-the-site"></a>Personalizar o site
 
@@ -20,7 +21,7 @@ O site de caminhos de aprendizado do Microsoft 365 é baseado em um modelo de co
 
 ## <a name="customize-the-site-and-web-pages"></a>Personalizar o site e páginas da Web
 
-O site de cursores de aprendizado é totalmente personalizável. Se você não estiver familiarizado com como personalizar seu site ou página da Web do SharePoint, sugerimos que você leia o artigo [personalizar seu site do SharePoint](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) no support.Office.com. 
+O site de cursores de aprendizado é totalmente personalizável. Se você não estiver familiarizado com como personalizar seu site ou página da Web do SharePoint, sugerimos que você leia o artigo [personalizar seu site do SharePoint](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) no support.Office.com. 
 
 ### <a name="customize-ask-questions-and-get-help"></a>Personalizar perguntas de pergunta e obter ajuda
 
@@ -30,7 +31,7 @@ Como administrador do site de cursores de aprendizado, uma das coisas que você 
 2.  Clique no botão **Editar**.
 3.  Passe o mouse sobre uma imagem de opção de ajuda e, em seguida, clique em **Editar Web Part**.
 
-![CG-edithelp. png](media/cg-edithelp.png)
+![cg-edithelp.png](media/cg-edithelp.png)
 
 4.  Na caixa **link** , digite a URL do recurso interno. 
 5.  Repita as etapas 3 e 4 para as outras duas imagens que não estão vinculadas.

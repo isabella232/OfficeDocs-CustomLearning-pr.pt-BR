@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Explorar o site e o conteúdo padrão
 ms.date: 02/10/2019
 description: Explorar o site de cursores de aprendizado e o conteúdo padrão
-ms.openlocfilehash: 5691f44bd121cfdb0c164e6f6aed389582e9420a
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.service: sharepoint online
+ms.openlocfilehash: 65c4eba8e0f1925c1512b330efbbd2dc5a970ab7
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726735"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234483"
 ---
 # <a name="explore-the-learning-pathways-site"></a>Explorar o site de cursores de aprendizado
 
@@ -17,11 +18,11 @@ ms.locfileid: "37726735"
 
 ## <a name="sign-in-to-office-365"></a>. 
 
-1.  Abra o navegador da Web e navegue até office.com ou o local de entrada da sua organização. 
+1.  Abra seu navegador da Web e navegue até o office.com ou o local de Logon da sua organização. 
 2.  Entre com seu nome de usuário e senha.
 3.  Navegue até o local do site usando a URL fornecida pelo administrador de locatários ou selecione SharePoint na home page do Office 365 e, em seguida, selecione o site. 
 
-![CG-Introducing. png](media/cg-introducing.png)
+![cg-introducing.png](media/cg-introducing.png)
 
 ## <a name="explore-the-learning-pathways-site"></a>Explorar o site de cursores de aprendizado
 
@@ -35,7 +36,7 @@ O site de cursores de aprendizado fornece conteúdo padrão para ajudá-lo a com
 2.  Clique no botão **Editar**.
 3.  Passe o mouse sobre uma imagem de opção de ajuda e, em seguida, clique em **Editar Web Part**.
 
-![CG-edithelp. png](media/cg-edithelp.png)
+![cg-edithelp.png](media/cg-edithelp.png)
 
 Para obter instruções sobre como personalizar páginas de site, consulte [Customize The site](custom_edithelp.md).
 
@@ -45,7 +46,7 @@ A página de treinamento do Microsoft 365 hospeda a Web Part de cursores de apre
 1. Role para baixo na página para exibir todas as categorias e subcategorias.
 2. Faça um pouquinho dos pneus. Clique em algumas subcategorias e, em seguida, clique em algumas listas de reprodução para saber como o conteúdo dos caminhos de aprendizado é organizado. 
 
-![CG-gotoall. png](media/cg-gotoall.png)
+![cg-gotoall.png](media/cg-gotoall.png)
 
 Para obter instruções sobre como personalizar a Web Part de cursores de aprendizado, consulte [Customize The Learning Experience](custom_overview.md).
 

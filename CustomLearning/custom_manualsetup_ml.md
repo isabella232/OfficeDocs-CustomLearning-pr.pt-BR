@@ -5,12 +5,13 @@ title: Caminhos de aprendizado configuração manual de ml
 ms.date: 02/10/2019
 description: Configuração manual de caminhos de aprendizado
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 44bd47f0a49634a2f6ac6aca2d221fb8e6f15980
-ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
-ms.translationtype: Auto
+ms.service: sharepoint online
+ms.openlocfilehash: a7417cbd2cc5e668699d9838d2a72a8777a5743a
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043273"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234263"
 ---
 # <a name="learning-pathways-manual-setup-for-multilingual"></a>Configuração manual de caminhos de aprendizado para vários idiomas
 
@@ -20,7 +21,7 @@ Os caminhos de aprendizado do Microsoft 365 oferecem uma configuração manual p
 
 - Você deseja instalar os caminhos de aprendizado para suporte multilíngue em um dos sites de comunicação do SharePoint da sua organização. O site tem, ou terá, um idioma padrão que não é o inglês e é um dos idiomas com suporte dos caminhos de aprendizado. Estes são os idiomas suportados pelos caminhos de aprendizado:
 
-- English
+- Inglês
 - Chinês (simplificado)
 - Francês
 - Alemão
@@ -28,7 +29,7 @@ Os caminhos de aprendizado do Microsoft 365 oferecem uma configuração manual p
 - Japonês (Japão)
 - Português (Brasil)
 - Russo (russo)
-- Spanish
+- Espanhol
 
 A configuração manual dos caminhos de aprendizado requer experiência que funcione com o Windows PowerShell e o Shell de gerenciamento do SharePoint Online. Veja a seguir uma visão geral das etapas para a configuração manual dos caminhos de aprendizado: 
 
@@ -85,7 +86,7 @@ Como parte do processo de instalação, você precisará do pacote de Web Part d
 Para configurar os caminhos de aprendizado do Microsoft 365, você carrega o arquivo customlearning. sppkg no catálogo de aplicativos de todo o locatário e o implanta. Consulte [usar o catálogo de aplicativos para disponibilizar aplicativos de negócios personalizados para seu ambiente do SharePoint Online](https://docs.microsoft.com/sharepoint/use-app-catalog) para obter instruções detalhadas sobre como adicionar um aplicativo ao catálogo de aplicativos.
 
 ## <a name="step-3---provisionidentify-a-modern-communication-site"></a>Etapa 3-provisionar/identificar um site de comunicação moderna
-Identifique um site de comunicação existente do SharePoint ou provisione um novo em seu locatário do SharePoint Online. Para obter mais informações sobre como provisionar um site de comunicação, consulte [criar um site de comunicação no SharePoint Online](https://support.office.com/en-us/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) e siga as etapas para criar um site de comunicação.
+Identifique um site de comunicação existente do SharePoint ou provisione um novo em seu locatário do SharePoint Online. Para obter mais informações sobre como provisionar um site de comunicação, consulte [criar um site de comunicação no SharePoint Online](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) e siga as etapas para criar um site de comunicação.
 
 ## <a name="step-4---add-the-microsoft-365-learning-pathways-app-to-the-site"></a>Etapa 4: Adicionar o aplicativo de cursores de aprendizado Microsoft 365 ao site
 
@@ -112,7 +113,7 @@ Parte dessa solução inclui consentimento de controle de telemetria anônimo, q
 
 Depois que o script do PowerShell for executado com êxito, navegue até o site, inicialize o item de lista **CustomConfig** que configura os caminhos de aprendizado para seu primeiro uso e validar o site está funcionando.
 
-- Acesse `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Abrir **CustomLearningAdmin. aspx** Inicializa o item de lista **CustomConfig** que configura os caminhos de aprendizado para o primeiro uso. Você verá uma página parecida com esta:
+- Vá para `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Abrir o **CustomLearningAdmin.aspx** inicializa o item de lista **CustomConfig** que configura os caminhos de aprendizado para o primeiro uso. Você verá uma página parecida com esta:
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 

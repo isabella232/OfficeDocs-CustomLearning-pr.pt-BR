@@ -4,14 +4,15 @@ ms.author: pkrebs
 title: Link para os ativos de cursores de aprendizado da Microsoft 365
 ms.date: 02/15/2019
 description: Como vincular aos ativos dos caminhos de aprendizado do Microsoft 365
-ms.openlocfilehash: cc8ba80e1c658fabb44e3df405c9293ec763ab3d
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 737bff4c8d98e210e619d16bb680a9ea30334d93
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34327272"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234313"
 ---
-# <a name="link-to-learning-pathways-content"></a>Link para conteúdo de cursores de aprendizado
+# <a name="link-to-learning-pathways-content"></a>Vincular ao conteúdo dos caminhos de aprendizagem
 
 Com os caminhos de aprendizado, há duas maneiras de vincular ao conteúdo:
 
@@ -26,7 +27,7 @@ Se você criou novas experiências de páginas e aprendizado com a Web Part de c
 2. Clique em **Editar detalhes** em um dos blocos de página inicial. Neste exemplo, editamos os blocos de **playlist recomendados** .
 3. Em **link**, clique em **alterar**.
 
-![CG-linktopage. png](media/cg-linktopage.png)
+![cg-linktopage.png](media/cg-linktopage.png)
 
 4. Clique em **site**, em **páginas do site**, clique na página à qual deseja vincular e, em seguida, clique em **abrir**. Neste exemplo, o link para a página **Create-Your-Own-Experience. aspx** abordada na seção anterior.
 5. Feche o painel Propriedades do herói, clique em **publicar**e, em seguida, teste o link. 
@@ -38,12 +39,12 @@ Os caminhos de aprendizado fornecem a você, o administrador ou um usuário fina
 2. Clique em **Microsoft Teams**e, em seguida, clique em **introdução ao Microsoft Teams**.
 3. Clique no ícone de **cópia** .
 
-![CG-linktowebpart. png](media/cg-linktowebpart.png)
+![cg-linktowebpart.png](media/cg-linktowebpart.png)
 
 4. Clique em página inicial no menu do site de cursores de aprendizado da Microsoft 365.
 5. Cole a URL copiada na barra de endereços do navegador e pressione ENTER. 
 
 Conforme mostrado na ilustração a seguir, o link vai para a página CustomLearningViewer. aspx e exibe o conteúdo com base nos parâmetros do link copiado. 
 
-![CG-linktowebpartviewer. png](media/cg-linktowebpartviewer.png)
+![cg-linktowebpartviewer.png](media/cg-linktowebpartviewer.png)
 

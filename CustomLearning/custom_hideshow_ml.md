@@ -5,12 +5,13 @@ title: Ocultar e mostrar caminhos de aprendizado playlists multilíngues
 ms.date: 10/27/2019
 description: Ocultar e mostrar playlists
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: b2c45203d5237fd101e2a099dae826994787ac1b
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
-ms.translationtype: Auto
+ms.service: sharepoint online
+ms.openlocfilehash: 7ea1ac68d1abb82ac4c356934037e558b39e1f36
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44698991"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234343"
 ---
 # <a name="hide-and-show-learning-pathways-multilingual-content"></a>Ocultar e mostrar caminhos de aprendizado conteúdo multilíngue 
 

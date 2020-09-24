@@ -1,11 +1,17 @@
 ---
-Título: ''
-ms.openlocfilehash: 80f12da704ef2ea8304c49a7ede3d36e33375ae1
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: Práticas recomendadas do programa Champion – especialista em adoção do serviço
+description: Conduzir a adoção do Office 365 com nossas práticas recomendadas de programa de Champion
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: 9490887ca5b8debd804081872e2c57526838d556
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055402"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233473"
 ---
 # <a name="validate-your-skills---become-a-service-adoption-specialist"></a>Validar suas habilidades-tornar-se um especialista de adoção de serviço
 
@@ -19,4 +25,4 @@ Orientações práticas, ferramentas e conteúdo adicional estão contidos neste
 
 Saiba mais em nosso [comunicado](https://aka.ms/AdoptionCertAnnouncement) sobre a publicação deste curso. 
 
-Junte-se à nossa comunidade online de usuários corporativos e profissionais de https://aka.ms/DriveAdoptionti aprendendo sobre a adoção em. 
+Junte-se à nossa comunidade online de usuários corporativos e profissionais de ti aprendendo sobre a adoção em https://aka.ms/DriveAdoption . 

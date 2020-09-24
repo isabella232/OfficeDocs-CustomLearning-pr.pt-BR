@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Administração de caminhos de aprendizado
 ms.date: 02/15/2019
 description: Como acessar a página de administração de aprendizado personalizada na Web Part ou no menu
-ms.openlocfilehash: 86526f4c4b3d46360ab2c63a503bfd80e0848c13
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.service: sharepoint online
+ms.openlocfilehash: b491c0416573ddf3be6cda3afc8182cdc746649d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886924"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233323"
 ---
 # <a name="access-the-learning-pathways-administration-page"></a>Acessar a página de administração de cursores de aprendizado
 
@@ -24,11 +25,11 @@ A abertura da página de administração da Web Part é o método preferido, poi
 1. Na **Home** Page de cursos de aprendizado da Microsoft 365, clique no bloco **treinamento do Office 365** .
 2. Clique no ícone de **Administração** na Web Part, conforme mostrado no exemplo a seguir  
 
-![CG-adminaccbtn. png](media/cg-adminaccbtn.png)
+![cg-adminaccbtn.png](media/cg-adminaccbtn.png)
 
 ## <a name="access-from-the-home-menu-item"></a>Acesso a partir do item de menu Home
 Em vez de navegar para uma página com uma Web Part, os administradores podem acessar a página Administração do item de menu do SharePoint **Home** . 
 
 - Na home page de cursores de aprendizado da Microsoft 365, clique no menu **página inicial** e em **Administração do Microsoft Learning**.
 
-![CG-adminaccmenu. png](media/cg-adminaccmenu.png)
+![cg-adminaccmenu.png](media/cg-adminaccmenu.png)

@@ -5,12 +5,13 @@ title: Opções de configuração para caminhos de aprendizado multilíngues
 ms.date: 07/6/2020
 description: Opções de configuração para caminhos de aprendizado multilíngues
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 2e2e7a765a7d24ef83a04f0ca3ef6d049cc658e3
-ms.sourcegitcommit: 1e6e31d2bd43971b62322c7d2db352961c554d71
-ms.translationtype: Auto
+ms.service: sharepoint online
+ms.openlocfilehash: 2fb18de310d87bf4f41724a874f587a628e4f68b
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/04/2020
-ms.locfileid: "45037213"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233953"
 ---
 # <a name="setup-options-for-multilingual-learning-pathways"></a>Opções de configuração para caminhos de aprendizado multilíngues
 Com o lançamento de recursos multilíngues para sites de comunicação do SharePoint Online, os caminhos de aprendizado agora oferecem suporte para vários idiomas. Você pode configurar os caminhos de aprendizado em diferentes tipos de formas para atender às necessidades da sua organização. Para ajudá-lo a decidir o melhor caminho para sua organização, descrevemos as opções de instalação. 

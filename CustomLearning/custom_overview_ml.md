@@ -3,20 +3,21 @@ author: pkrebs
 ms.author: pkrebs
 title: Visão Geral
 ms.date: 07/06/2020
-description: Suporte multilíngue para caminhos de aprendizado
+description: Suporte multilíngue para caminhos de aprendizagem
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: d3b123d3e10794f7415526c07001171b9c08fbd6
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: Auto
+ms.service: sharepoint online
+ms.openlocfilehash: 9df06c27b038b168383e1f0ad8632a68d4c0244f
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038961"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234153"
 ---
-# <a name="multilingual-support-for-learning-pathways"></a>Suporte multilíngue para caminhos de aprendizado
+# <a name="multilingual-support-for-learning-pathways"></a>Suporte multilíngue para caminhos de aprendizagem
 
 Se sua organização abrange uma população diversificada, você pode disponibilizar os caminhos de aprendizado da Microsoft 365 em vários idiomas. Os caminhos de aprendizado atualmente dão suporte a nove idiomas. Inglês é o idioma padrão. Os idiomas com suporte incluem:   
 
-- English    
+- Inglês    
 - Chinês (simplificado)
 - Francês
 - Alemão
@@ -24,7 +25,7 @@ Se sua organização abrange uma população diversificada, você pode disponibi
 - Japonês (Japão)
 - Português (Brasil)
 - Russo (russo)
-- Spanish
+- Espanhol
 
 ## <a name="get-familiar-with-the-sharepoint-online-multilingual-features"></a>Familiarize-se com os recursos multilíngues do SharePoint Online
 O suporte multilíngue para caminhos de aprendizado é habilitado por recursos multilíngues do SharePoint Online para sites de comunicação.

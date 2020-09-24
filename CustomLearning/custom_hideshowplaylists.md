@@ -4,14 +4,15 @@ ms.author: pkrebs
 title: Ocultar e mostrar playlists
 ms.date: 10/27/2019
 description: Ocultar e mostrar playlists
-ms.openlocfilehash: f5afc66220a936d2346c3a81b33545a46f7672f5
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.service: sharepoint online
+ms.openlocfilehash: e8f6a2df8e328d995143990be569f3de815d5646
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37886644"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234323"
 ---
-# <a name="hide-and-show-playlists"></a>Ocultar e mostrar playlists
+# <a name="hide-and-show-playlists"></a>Mostrar e ocultar Listas de Reprodução
 
 Para ajustar os caminhos de aprendizado para seu ambiente, você pode ocultar as listas de reprodução fornecidas pela Microsoft. 
 
@@ -24,12 +25,12 @@ Para ajustar os caminhos de aprendizado para seu ambiente, você pode ocultar as
 2. Na Web Part caminhos de aprendizado, selecione o ícone **administrar** . 
 3. No painel esquerdo da página **Administração** , selecione uma subcategoria e, em seguida, selecione o Eyeball para que uma lista de reprodução o oculte. Para este exemplo, clique na subcategoria **Microsoft Teams** e, em seguida, ocultar * * * * iniciar chats, chamadas e reuniões * *.  
 
-![CG-hideplaylist. png](media/cg-hideplaylist.png)
+![cg-hideplaylist.png](media/cg-hideplaylist.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>Verifique se a playlist está oculta
 - Para verificar se a lista de reprodução está oculta, selecione a guia navegador com a página Introdução **ao Office 365** carregada e atualize a página. Selecione Microsoft Teams. Agora você deve ver a subcategoria **Iniciar chats, chamadas e reuniões** está oculta. 
 
-![CG-hideplaylistrefresh. png](media/cg-hideplaylistrefresh.png)
+![cg-hideplaylistrefresh.png](media/cg-hideplaylistrefresh.png)
 
 ## <a name="unhide-a-playlist"></a>Reexibir uma lista de reprodução
 

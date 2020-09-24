@@ -1,17 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Classificar subcategorias e listas de reprodução
+title: Classificar subcategorias e reprodução
 ms.date: 07/20/2020
 description: Classificar subcategorias e playlists em caminhos de aprendizado
-ms.openlocfilehash: 2716d4f4c609283da51805fa7d0353d95d99bd06
-ms.sourcegitcommit: 4668bd9303b77e69aa7807edc3df833e218eb98d
+ms.service: sharepoint online
+ms.openlocfilehash: 3d3246fd7adaffb0e3f64defc83cad0d1cc04f8d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187500"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233883"
 ---
-# <a name="sort-subcategories-and-playlists"></a>Classificar subcategorias e listas de reprodução
+# <a name="sort-subcategories-and-playlists"></a>Classificar subcategorias e reprodução
 
 Agora você pode classificar subcategorias e listas de reprodução em cursores de aprendizado. Por exemplo, se você adicionar uma lista de reprodução personalizada a uma subcategoria, geralmente deseja que a lista de reprodução personalizada apareça primeiro na ordem de playlist. A ordem de classificação da Web Part aplica-se apenas à instância da Web Part na página. Para se familiarizar com o recurso de classificação, recomendamos que você o Experimente em uma página de teste. 
 
