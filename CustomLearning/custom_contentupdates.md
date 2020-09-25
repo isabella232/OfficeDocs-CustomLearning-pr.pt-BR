@@ -3,17 +3,144 @@ author: pkrebs
 ms.author: pkrebs
 title: Cursores de aprendizado atualizações de conteúdo
 ms.date: 3/30/2020
-description: Caminhos de aprendizado atualizações de conteúdo de abril de 2020
+description: Cursores de aprendizado atualizações de conteúdo
 ms.service: sharepoint online
-ms.openlocfilehash: 9a53c095b7fa2de1aa0628475b684048b07bd8f9
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 84565d0d65c4667cf0837634fde67fc0d5c96d40
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234633"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261683"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Cursores de aprendizagem do Microsoft 365 atualizações de conteúdo
-Os caminhos de aprendizado se empenham em aderir a um ciclo trimestral de atualização de conteúdo. A lista a seguir as atualizações de conteúdo de abril de 2020.
+Os caminhos de aprendizado se empenham em aderir a um ciclo trimestral de atualização de conteúdo. A lista a seguir as atualizações de conteúdo de setembro de 2020.
+
+## <a name="september-2020-content-updates"></a>Atualizações de conteúdo de setembro de 2020
+Os caminhos de aprendizado se empenham em aderir a um ciclo trimestral de atualização de conteúdo. Para saber mais sobre como as atualizações de conteúdo são aplicadas e como gerenciar atualizações de conteúdo, consulte [Manage Content updates](custom_contentupdatesmanage.md). 
+
+### <a name="security"></a>Segurança
+Uma nova subcategoria de segurança foi adicionada a listas de reprodução e ativos para ajudar os usuários a trabalhar com mais segurança no escritório e em casa. 
+
+![lista de reprodução de caminhos de aprendizado](media/cg-security-playlist.png)
+
+#### <a name="five-simple-steps-playlist"></a>Lista de reprodução "cinco etapas simples"
+- Proteger-se contra phishing
+- Evitar golpes de suporte técnico
+- Trabalhar de casa de forma mais segura
+- Manter seu computador atualizado
+- Permaneça protegido com a segurança do Windows
+
+#### <a name="security-at-home-playlist"></a>Lista de reprodução "segurança em casa"
+- Dicas para manter seus dados seguros
+- Mantenha seu computador seguro em casa
+- Ajudar a proteger sua família com a segurança do Windows – isso está aqui por acidente?
+
+#### <a name="security-at-work-playlist"></a>Playlist de "segurança em trabalho"
+- Mantenha seu computador seguro no trabalho
+- O que é autenticação multifator?
+- Firewall e proteção de rede na segurança do Windows
+- Impedir alterações nas configurações de segurança com a proteção contra violação
+
+### <a name="get-started-with-teams-playlist"></a>Playlist de "introdução ao Teams"
+Uma nova lista de reprodução "introdução ao Teams" foi adicionada à subcategoria "comece/primeiro dia" para ajudar os usuários a se familiarizar com o Microsoft Teams. A lista de reprodução inclui:
+- Bem-vindo ao Microsoft Teams  
+- Colocar sua equipe em funcionamento
+- Trabalhar em canais  
+- Carregar e compartilhar arquivos 
+- Iniciar e fixar chat  
+- Ingressar em uma reunião do teams 
+- Gerenciar reuniões 
+ 
+### <a name="microsoft-365-basics"></a>Noções básicas do Microsoft 365
+Na categoria produtos, a subcategoria "fundamentos do Office 365" foi atualizada para a categoria "Microsoft 365 Basics". Ativos aposentados na categoria "Noções básicas do Office 365" ainda estarão disponíveis se tiverem sido adicionados a uma lista de reprodução personalizada.
+
+#### <a name="get-started-playlist"></a>Playlist de "introdução"
+- O que é o Microsoft 365?
+- Entrar
+- Office.com
+
+#### <a name="create-and-save-playlist"></a>Lista de reprodução "criar e salvar"
+- Usando os aplicativos da área de trabalho
+- Usando aplicativos do Office.com
+- Salvar arquivos na nuvem
+- Sincronizar arquivos por demanda com o OneDrive
+
+#### <a name="share-and-collaborate-playlist"></a>Playlist de "compartilhamento e colaboração"
+- Compartilhar arquivos no Microsoft 365
+- Coautoria
+- Usar @mentions
+- Acompanhamento
+
+#### <a name="work-with-microsoft-teams-playlist"></a>Lista de reprodução "trabalhar com o Microsoft Teams"
+- Bem-vindo ao Microsoft Teams
+- Visão geral de equipes e canais
+- Criar e formatar uma postagem
+- Iniciar e fixar chat
+- Fazer chamadas
+- Ingressar em uma reunião do teams
+- Dicas para reuniões melhores
+
+#### <a name="get-the-most-out-of-windows-playlist"></a>Playlist "aproveitar o máximo do Windows"
+- Encontre seus documentos, aplicativos e muito mais com a pesquisa
+- Microsoft Edge
+- Microsoft Search no Bing
+
+#### <a name="work-from-anywhere-playlist"></a>Playlist de "trabalhar de qualquer lugar"
+- Aplicativo móvel do OneDrive
+- Aplicativo móvel do Outlook
+
+#### <a name="cool-microsoft-365-features-playlist"></a>Lista de reprodução de "recursos interessantes da Microsoft 365"
+- Designer do PowerPoint
+- Ideias no Excel
+- Editor no Word
+- Tornar seu conteúdo acessível
+
+### <a name="create-a-chart-playlist-in-access"></a>Lista de reprodução "criar um gráfico" no Access
+Uma "criar uma lista de reprodução de gráfico" foi adicionada à subcategoria "Products\Access".  
+- Criar um gráfico de colunas
+- Criar um gráfico de barras
+- Criar um gráfico de linhas
+- Criar um gráfico de pizza
+- Criar um gráfico de combinação
+
+### <a name="teams-updates"></a>Atualizações do teams
+A subcategoria "Product\Microsoft Teams" foi atualizada com os seguintes ativos. 
+
+#### <a name="manage-meetings-playlist"></a>Playlist de "gerenciar reuniões"
+- Ingressar em uma reunião do teams
+#### <a name="work-with-posts-and-messages-playlist"></a>Lista de reprodução "trabalhar com postagens e mensagens"
+- Criar e formatar uma postagem
+
+### <a name="planner"></a>Planner 
+Os ativos a seguir foram adicionados à lista de reprodução "usar planejador" em "Products\Planner".
+#### <a name="use-planner-playlist"></a>Usar playlist do Planner
+- Para fazer o vs Planner
+- Ver suas tarefas do Planner em tarefas pendentes
+- Usar o aplicativo tarefas no Teams
+
+### <a name="word"></a>Word
+O seguinte ativo foi atualizado na lista de reprodução "compartilhar e coautor com o Word".
+
+#### <a name="share-and-co-author-with-word-playlist"></a>Lista de reprodução de "compartilhar e coautoria com o Word"
+- O ativo "colaborar em documentos do Word com coautoria em tempo real" foi atualizado. 
+
+### <a name="office-for-the-web"></a>Office na Web
+O seguinte ativo foi atualizado na lista de reprodução "Office para a Web: Word para a Web".
+
+#### <a name="office-for-the-web-word-for-the-web-playlist"></a>Lista de reprodução "Office para a Web: Word para a Web"
+- Transcrever suas gravações
+
+### <a name="powerpoint-new-updated"></a>PowerPoint (novo, atualizado)
+Os seguintes ativos foram atualizados ou adicionados às listas de reprodução do Products\PowerPoint. 
+
+#### <a name="text--tables-with-powerpoint-playlist"></a>Playlist "tabelas de & de texto com PowerPoint"
+- Alterar tinta manuscrita para formas, texto ou matemática no PowerPoint (novo)
+
+#### <a name="present-slideshows-playlist"></a>Exibir a lista de apresentação de slides
+- Gravar uma apresentação (atualizada)
+
+### <a name="office-quick-start-guides-updated"></a>Guias de início rápido do Office (atualizado)
+Os guias de início rápido do Office para todos os produtos do Office foram atualizados. 
 
 ## <a name="april-2020-content-updates"></a>Atualizações de conteúdo de abril de 2020
  Em resposta a eventos atuais, a atualização de conteúdo de abril de 2020 oferece playlists de aprendizado e recursos projetados para habilitar o trabalho remoto em sua organização. Adicionamos um novo conjunto de trabalhos de listas de reprodução remotamente, atualizamos significativamente o conteúdo do Microsoft Teams, especialmente para reuniões do Teams, adicionamos um novo conjunto de sites do Office para as playlists da Web e adicionamos novos ativos do Microsoft Forms. Como parte da atualização, também fornecemos uma lista de recursos de trabalho remotos para administradores.  
@@ -29,7 +156,7 @@ As seguintes playlists foram adicionadas ou atualizadas.
 #### <a name="work-remotely-2-new-playlists11-new-assets"></a>Trabalhar remotamente (2 novas playlists/11 novos ativos)
 Uma nova subcategoria de trabalho foi adicionada aos caminhos de aprendizado que apresenta as seguintes playlists e ativos: 
 
-![cg-contentupdate-apr2020-01.png](media/cg-contentupdate-apr2020-01.png)
+![trabalho de caminho de aprendizado de playlist remota](media/cg-contentupdate-apr2020-01.png)
 
 ##### <a name="work-remotely-5-new-assets"></a>Trabalhar remotamente (5 novos ativos)
 - Trabalhar remotamente com o Office 365
@@ -187,7 +314,7 @@ A subcategoria do Sway de conteúdo foi adicionada com as seguintes listas de re
 - Adicionar conteúdo ao Sway (11 ativos)
 - Personalizar Sway (5 ativos)
 
-### <a name="access"></a>Access
+### <a name="access"></a>Acesso
 - Início rápido do Access (4 ativos)
 - Introdução ao Access (3 ativos)
 - Criar um banco de dados do Access (2 ativos)

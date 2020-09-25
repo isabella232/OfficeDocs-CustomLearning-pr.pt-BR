@@ -2,23 +2,21 @@
 author: pkrebs
 ms.author: pkrebs
 title: Visão geral dos caminhos de aprendizado do Microsoft 365
-ms.date: 7/6/2020
+ms.date: 9/24/2020
 description: Saiba como os caminhos de aprendizado do Microsoft 365 podem acelerar o uso e a adoção dos serviços do Microsoft 365 em sua organização. Os caminhos de aprendizado incluem uma Web part personalizada do SharePoint Online e um moderno site de treinamento em comunicações do SharePoint Online que é facilmente provisionado para o locatário do Microsoft 365.
 ms.service: sharepoint online
-ms.openlocfilehash: c2448fae5e01dc673f41b5fa0d7076528d9a75c5
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 4a4e7f8bfcb6cf8288605154a4d71fde2db024f8
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233483"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261653"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Caminhos de aprendizado do Microsoft 365 
 Os caminhos de aprendizado do Microsoft 365 são uma solução de aprendizado sob demanda e personalizável, projetada para aumentar o uso e a adoção dos serviços do Microsoft 365 em sua organização.    
 
 > [!IMPORTANT]
-> Em resposta aos comentários dos clientes, os caminhos de aprendizado agora oferecem suporte multilíngue para nove idiomas. Para obter informações e instruções sobre como habilitar o suporte multilíngue para os caminhos de aprendizado, leia os seguintes tópicos: 
->- [Visão geral do suporte multilíngue para caminhos de aprendizado](custom_overview_ml.md) 
->- [Opções de configuração para os caminhos de aprendizagem](custom_setupoptions.md)  
+> Os caminhos de aprendizado se empenham em aderir a um ciclo trimestral de atualização de conteúdo. A partir de 9/24/2020, atualizamos o conteúdo de cursores de aprendizado para nossa atualização de conteúdo de setembro. Para saber mais sobre a atualização de conteúdo de setembro de 2020, confira [atualizações de conteúdo](custom_contentupdates.md). Para saber mais sobre como as atualizações de conteúdo são aplicadas e como gerenciar o conteúdo, consulte [Manage Content updates](custom_contentupdatesmanage.md).  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Treinamento personalizado sob demanda da Microsoft
 
@@ -34,7 +32,7 @@ Os caminhos de aprendizado do Microsoft 365 oferecem:
 ## <a name="sharepoint-look-book-service"></a>Serviço de livro de aparência do SharePoint
 Os caminhos de aprendizado podem ser provisionados do serviço de livro de pesquisa do SharePoint. Quando os caminhos de aprendizado do Microsoft 365 são provisionados, as organizações obtêm um site de comunicação do SharePoint Online projetado para ser um portal de treinamento pronto para uso, juntamente com uma Web part de caminhos de aprendizado conectada a um catálogo online de conteúdo de treinamento. 
 
-![cg-provision.png](media/cg-provision.png)
+![Página de provisionamento do livro SharePoint looks](media/cg-provision.png)
 
 ## <a name="4-easy-steps"></a>4 etapas simples
 Vamos começar a criar uma experiência de caminhos de aprendizado para o seu ambiente.

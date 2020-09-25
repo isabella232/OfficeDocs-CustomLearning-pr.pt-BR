@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Cursores de aprendizado atualizações de conteúdo
+title: Caminhos de aprendizado atualizações de conteúdo abril
 ms.date: 3/30/2020
 description: Caminhos de aprendizado atualizações de conteúdo de abril de 2020
 ms.service: sharepoint online
-ms.openlocfilehash: 9a53c095b7fa2de1aa0628475b684048b07bd8f9
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: fa49140e731318ab07a9442cea40b0e3878eec12
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234785"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261673"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Cursores de aprendizagem do Microsoft 365 atualizações de conteúdo
+# <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>Cursores de aprendizagem do Microsoft 365 atualizações de conteúdo para abril
 Os caminhos de aprendizado se empenham em aderir a um ciclo trimestral de atualização de conteúdo. A lista a seguir as atualizações de conteúdo de abril de 2020.
 
 ## <a name="april-2020-content-updates"></a>Atualizações de conteúdo de abril de 2020
@@ -29,7 +29,7 @@ As seguintes playlists foram adicionadas ou atualizadas.
 #### <a name="work-remotely-2-new-playlists11-new-assets"></a>Trabalhar remotamente (2 novas playlists/11 novos ativos)
 Uma nova subcategoria de trabalho foi adicionada aos caminhos de aprendizado que apresenta as seguintes playlists e ativos: 
 
-![cg-contentupdate-apr2020-01.png](media/cg-contentupdate-apr2020-01.png)
+![os caminhos de aprendizado funcionam remotamente playlist](media/cg-contentupdate-apr2020-01.png)
 
 ##### <a name="work-remotely-5-new-assets"></a>Trabalhar remotamente (5 novos ativos)
 - Trabalhar remotamente com o Office 365
@@ -187,7 +187,7 @@ A subcategoria do Sway de conteúdo foi adicionada com as seguintes listas de re
 - Adicionar conteúdo ao Sway (11 ativos)
 - Personalizar Sway (5 ativos)
 
-### <a name="access"></a>Access
+### <a name="access"></a>Acesso
 - Início rápido do Access (4 ativos)
 - Introdução ao Access (3 ativos)
 - Criar um banco de dados do Access (2 ativos)
