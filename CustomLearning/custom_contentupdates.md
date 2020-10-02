@@ -4,19 +4,22 @@ ms.author: pkrebs
 title: Cursores de aprendizado atualizações de conteúdo
 ms.date: 3/30/2020
 description: Cursores de aprendizado atualizações de conteúdo
-ms.service: sharepoint online
-ms.openlocfilehash: 84565d0d65c4667cf0837634fde67fc0d5c96d40
-ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
+ms.service: o365-solutions
+ms.openlocfilehash: 6610eecf67f36b130aaf45e227f5aa85d20f44d8
+ms.sourcegitcommit: 60554c63c0dd833b27e11b0b28c08aee69d16e26
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261683"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "48336399"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Cursores de aprendizagem do Microsoft 365 atualizações de conteúdo
 Os caminhos de aprendizado se empenham em aderir a um ciclo trimestral de atualização de conteúdo. A lista a seguir as atualizações de conteúdo de setembro de 2020.
 
 ## <a name="september-2020-content-updates"></a>Atualizações de conteúdo de setembro de 2020
 Os caminhos de aprendizado se empenham em aderir a um ciclo trimestral de atualização de conteúdo. Para saber mais sobre como as atualizações de conteúdo são aplicadas e como gerenciar atualizações de conteúdo, consulte [Manage Content updates](custom_contentupdatesmanage.md). 
+
+> [!IMPORTANT]
+> A atualização de conteúdo de setembro foi lançada para o inglês. Atualizações de conteúdo para chinês (simplificado), francês, alemão, italiano, japonês, Português (Brasil), russo e espanhol serão disponibilizadas em breve.  
 
 ### <a name="security"></a>Segurança
 Uma nova subcategoria de segurança foi adicionada a listas de reprodução e ativos para ajudar os usuários a trabalhar com mais segurança no escritório e em casa. 
@@ -314,7 +317,7 @@ A subcategoria do Sway de conteúdo foi adicionada com as seguintes listas de re
 - Adicionar conteúdo ao Sway (11 ativos)
 - Personalizar Sway (5 ativos)
 
-### <a name="access"></a>Acesso
+### <a name="access"></a>Access
 - Início rápido do Access (4 ativos)
 - Introdução ao Access (3 ativos)
 - Criar um banco de dados do Access (2 ativos)
