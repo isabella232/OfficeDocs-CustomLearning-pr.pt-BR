@@ -5,12 +5,12 @@ title: Cursores de aprendizado atualizações de conteúdo
 ms.date: 3/30/2020
 description: Cursores de aprendizado atualizações de conteúdo
 ms.service: o365-solutions
-ms.openlocfilehash: 6610eecf67f36b130aaf45e227f5aa85d20f44d8
-ms.sourcegitcommit: 60554c63c0dd833b27e11b0b28c08aee69d16e26
+ms.openlocfilehash: 5111cb5a61f369be93adeae0198b52f53a267150
+ms.sourcegitcommit: 6a496a594cfbbeb9a53630cad0fce003c8b02501
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "48336399"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48361091"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Cursores de aprendizagem do Microsoft 365 atualizações de conteúdo
 Os caminhos de aprendizado se empenham em aderir a um ciclo trimestral de atualização de conteúdo. A lista a seguir as atualizações de conteúdo de setembro de 2020.
@@ -19,7 +19,7 @@ Os caminhos de aprendizado se empenham em aderir a um ciclo trimestral de atuali
 Os caminhos de aprendizado se empenham em aderir a um ciclo trimestral de atualização de conteúdo. Para saber mais sobre como as atualizações de conteúdo são aplicadas e como gerenciar atualizações de conteúdo, consulte [Manage Content updates](custom_contentupdatesmanage.md). 
 
 > [!IMPORTANT]
-> A atualização de conteúdo de setembro foi lançada para o inglês. Atualizações de conteúdo para chinês (simplificado), francês, alemão, italiano, japonês, Português (Brasil), russo e espanhol serão disponibilizadas em breve.  
+> A atualização de conteúdo de setembro foi lançada para inglês, chinês (simplificado), francês, alemão, italiano, japonês, Português (Brasil), russo e espanhol.  
 
 ### <a name="security"></a>Segurança
 Uma nova subcategoria de segurança foi adicionada a listas de reprodução e ativos para ajudar os usuários a trabalhar com mais segurança no escritório e em casa. 
