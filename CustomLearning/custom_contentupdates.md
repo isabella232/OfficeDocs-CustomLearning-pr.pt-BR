@@ -5,12 +5,12 @@ title: Cursores de aprendizado atualizações de conteúdo
 ms.date: 3/30/2020
 description: Cursores de aprendizado atualizações de conteúdo
 ms.service: o365-solutions
-ms.openlocfilehash: 5111cb5a61f369be93adeae0198b52f53a267150
-ms.sourcegitcommit: 6a496a594cfbbeb9a53630cad0fce003c8b02501
+ms.openlocfilehash: a292e0daa81b384bad8cf45fd2a9e0a1dc3257e7
+ms.sourcegitcommit: 896b2635713967987bb705c861e11b5568fd72ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48361091"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "49614629"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Cursores de aprendizagem do Microsoft 365 atualizações de conteúdo
 Os caminhos de aprendizado se empenham em aderir a um ciclo trimestral de atualização de conteúdo. A lista a seguir as atualizações de conteúdo de setembro de 2020.
@@ -30,13 +30,13 @@ Uma nova subcategoria de segurança foi adicionada a listas de reprodução e at
 - Proteger-se contra phishing
 - Evitar golpes de suporte técnico
 - Trabalhar de casa de forma mais segura
-- Manter seu computador atualizado
+- Mantenha seu computador atualizado
 - Permaneça protegido com a segurança do Windows
 
 #### <a name="security-at-home-playlist"></a>Lista de reprodução "segurança em casa"
 - Dicas para manter seus dados seguros
 - Mantenha seu computador seguro em casa
-- Ajudar a proteger sua família com a segurança do Windows – isso está aqui por acidente?
+- Ajudar a proteger sua família com a segurança do Windows   
 
 #### <a name="security-at-work-playlist"></a>Playlist de "segurança em trabalho"
 - Mantenha seu computador seguro no trabalho
@@ -146,7 +146,7 @@ Os seguintes ativos foram atualizados ou adicionados às listas de reprodução 
 Os guias de início rápido do Office para todos os produtos do Office foram atualizados. 
 
 ## <a name="april-2020-content-updates"></a>Atualizações de conteúdo de abril de 2020
- Em resposta a eventos atuais, a atualização de conteúdo de abril de 2020 oferece playlists de aprendizado e recursos projetados para habilitar o trabalho remoto em sua organização. Adicionamos um novo conjunto de trabalhos de listas de reprodução remotamente, atualizamos significativamente o conteúdo do Microsoft Teams, especialmente para reuniões do Teams, adicionamos um novo conjunto de sites do Office para as playlists da Web e adicionamos novos ativos do Microsoft Forms. Como parte da atualização, também fornecemos uma lista de recursos de trabalho remotos para administradores.  
+ Em resposta a eventos atuais, a atualização de conteúdo de abril de 2020 oferece playlists de aprendizado e recursos projetados para habilitar o trabalho remoto em sua organização. Adicionamos um novo conjunto de trabalhos de lista de reprodução remotamente e atualizamos o conteúdo do Microsoft Teams, especialmente para reuniões do teams. Também adicionamos um novo conjunto de sites do Office para listas de reprodução da Web e adicionamos novos ativos do Microsoft Forms. Também fornecemos uma lista de recursos de trabalho remotos para administradores.  
  
  Para saber mais sobre como as atualizações de conteúdo são aplicadas e como gerenciar atualizações de conteúdo, consulte [Manage Content updates](custom_contentupdatesmanage.md). A seguir, as seguintes listas o curso de abril de 2020 Microsoft 365 Learning atualiza as atualizações de conteúdo. 
 
@@ -161,7 +161,7 @@ Uma nova subcategoria de trabalho foi adicionada aos caminhos de aprendizado que
 
 ![trabalho de caminho de aprendizado de playlist remota](media/cg-contentupdate-apr2020-01.png)
 
-##### <a name="work-remotely-5-new-assets"></a>Trabalhar remotamente (5 novos ativos)
+##### <a name="work-remotely-five-new-assets"></a>Trabalhar remotamente (cinco novos ativos)
 - Trabalhar remotamente com o Office 365
 - Introdução ao Office.com
 - Comunicar ou atender
@@ -175,20 +175,20 @@ Uma nova subcategoria de trabalho foi adicionada aos caminhos de aprendizado que
 - Cumpra
 - Mobile
 
-### <a name="teams-9-new-assets6-updated-assets"></a>Teams (9 novos ativos/6 ativos atualizados)
+### <a name="teams-nine-new-assetssix-updated-assets"></a>Teams (nove novos ativos/seis ativos atualizados)
 Uma variedade de atualizações foram feitas no conteúdo do Microsoft Teams. 
-#### <a name="collaborate-in-teams-and-channels-1-new1-updated-asset"></a>Colaborar em equipes e canais (1 ativo novo/1 atualizado)
+#### <a name="collaborate-in-teams-and-channels-one-newone-updated-asset"></a>Colaborar em equipes e canais (um ativo novo/único atualizado)
 - Criar e usar canais privados (novo)
 - Mostrar ou ocultar canais (atualizado)
-#### <a name="start-chats-and-calls-2-new1-updated"></a>Iniciar chats e chamadas (2 novos/1 atualizados)
+#### <a name="start-chats-and-calls-two-newone-updated"></a>Iniciar chats e chamadas (dois novos/One atualizados)
 - Iniciar e fixar chats (novo)
 - Ocultar chats, excluir mensagens (novo)
 - Fazer chamadas (atualizado)
-#### <a name="explore-apps-and-tools-1-new"></a>Explorar aplicativos e ferramentas (1 novo)
+#### <a name="explore-apps-and-tools-one-new"></a>Explorar aplicativos e ferramentas (um novo)
 - Usar aplicativos (novo)
 #### <a name="work-with-posts-and-messages"></a>Trabalhar com postagens e mensagens
 - Postar uma mensagem para vários canais (novo)
-#### <a name="manage-meetings-3-new4-updated-assets"></a>Gerenciar reuniões (3 ativos novos/4 atualizados)
+#### <a name="manage-meetings-three-newfour-updated-assets"></a>Gerenciar reuniões (três novos/quatro ativos atualizados)
 - Participar de uma reunião do Microsoft Teams (novo)
 - Criar reuniões instantâneas com reunir agora (atualizado)
 - Reunião em um canal (novo)
@@ -196,12 +196,12 @@ Uma variedade de atualizações foram feitas no conteúdo do Microsoft Teams.
 - Mostrar sua tela durante uma reunião (atualizado)
 - Mostrar slides do PowerPoint (atualizado)
 - Mover-se durante uma reunião do Teams (atualizado)
-#### <a name="work-with-post-and-messages-1-new"></a>Trabalhar com post e mensagens (1 novo)
+#### <a name="work-with-post-and-messages-one-new"></a>Trabalhar com postagem e mensagens (uma nova)
 - Postar uma mensagem para vários canais (novo)
 
 ### <a name="office-for-the-web"></a>Office na Web
 O Office para a Web fornece um conjunto de listas de reprodução para cenários em que os usuários desejam criar, compartilhar e colaborar com o Office na Web. Esse conjunto de conteúdo também é valioso para organizações que estão fazendo o switch do Google G Suite para a Microsoft 365.
-#### <a name="get-started-5-new-assets"></a>Introdução (5 novos ativos)
+#### <a name="get-started-five-new-assets"></a>Introdução (cinco novos ativos)
 - Introdução
 - Localizar com pesquisa
 - Criar novos documentos
@@ -244,7 +244,7 @@ O Office para a Web fornece um conjunto de listas de reprodução para cenários
 
 ### <a name="microsoft-forms"></a>Microsoft Forms 
 Por solicitação, há também alguns novos ativos de formulários. 
-#### <a name="forms-4-new-assets"></a>Formulários (4 novos ativos) 
+#### <a name="forms-four-new-assets"></a>Formulários (quatro novos ativos) 
 - Criar um formulário 
 - Compartilhar um formulário 
 - Exibir resultados de um formulário 
@@ -267,27 +267,26 @@ Para obter mais informações sobre como personalizar os caminhos de aprendizado
 Bem-vindo à atualização de conteúdo de caminhos de aprendizado do Microsoft 365. A partir da nossa atualização de novembro de 2019, forneceremos um inventário atualizado do catálogo de cursores de aprendizado trimestralmente. Para a atualização de novembro de 2019, as seguintes subcategorias de conteúdo e listas de reprodução foram adicionadas ao catálogo de cursores de aprendizado. Para saber mais sobre como as atualizações de conteúdo são aplicadas e como gerenciar atualizações de conteúdo, consulte [Manage Content updates](custom_contentupdatesmanage.md).    
 
 ### <a name="teams"></a>Teams
-Várias listas novas foram adicionadas à subcategoria Teams.
-- Trabalhar com postagens e mensagens (3 ativos)
-- Carregar e localizar arquivos (2 ativos)
+Várias playlists novas foram adicionadas à subcategoria Teams.
+- Trabalhar com postagens e mensagens (quatro ativos)
+- Carregar e localizar arquivos (dois ativos)
 - Configurar e participar de eventos em tempo real (quatro ativos)
-- Gerenciar o feed de atividades (2 ativos)
-- Teams on the go (2 ativos)
+- Gerenciar o feed de atividades (dois ativos)
+- Teams on the go (dois ativos)
 
 ### <a name="microsoft-365-success-center"></a>Centro de sucesso da Microsoft 365
 Adicionamos uma subcategoria de centro de sucesso de cursores de aprendizado da Microsoft 365 à experiência de cursores de aprendizado. O centro de sucesso fornece as seguintes playlists.
-- O que há de novo, o que mudou (3 ativos)
-- Planejar seu conteúdo de aprendizado (2 ativos)
-- Personalizar os cursores de aprendizado (8 ativos?)
-- Impulsionar a adoção de caminhos de aprendizado (1 ativo)
-- Medir o impacto dos caminhos de aprendizado (1 ativo)
+- O que há de novo, o que mudou (três ativos)
+- Planejar seu conteúdo de aprendizado (dois ativos)
+- Personalizar os caminhos de aprendizado (oito ativos?)
+- Impulsionar a adoção de caminhos de aprendizado (um ativo)
+- Medir o impacto dos caminhos de aprendizado (um ativo)
 
 ### <a name="outlook"></a>Outlook
 As seguintes playlists foram adicionadas à subcategoria do Outlook. 
-- Outlook Mobile: gerenciar sua caixa de entrada (quatro ativos)
-- Outlook Mobile: gerenciar seu tempo (8 ativos)
-- Outlook Mobile: pessoas e conexões (5 ativos)
-- Outlook Mobile: Pesquisar e compartilhar (4 ativos)
+- Outlook Mobile: gerenciar sua caixa de entrada (oito ativos)
+- Outlook Mobile: pessoas e conexões (cinco ativos)
+- Outlook Mobile: Pesquisar e compartilhar (quatro ativos)
 
 ### <a name="onedrive"></a>OneDrive
 Os seguintes ativos de vídeo foram adicionados para o OneDrive. 
@@ -296,36 +295,33 @@ Os seguintes ativos de vídeo foram adicionados para o OneDrive.
 
 ### <a name="planner"></a>Planner
 As seguintes playlists e ativos foram adicionados ao catálogo.  
-- Início rápido do Planner (6 ativos)
-- Usar o Planner (8 ativos)
+- Início rápido do Planner (seis ativos)
+- Usar o Planner (oito ativos)
 
 ### <a name="accessibility"></a>Acessibilidade
 A subcategoria de acessibilidade do conteúdo foi adicionada com as seguintes playlists. 
-- Visão geral e recursos de acessibilidade do Microsoft 365 (3 ativos)
-- Criar mensagens de email mais acessíveis no Outlook (3 ativos)
-- Criar documentos do Word mais acessíveis (8 ativos)
-- Criar pastas de trabalho do Excel mais acessíveis (3 ativos)
-- Criar slides mais acessíveis no PowerPoint (5 ativos)
-
-### <a name="onedrive"></a>OneDrive
-Observação: as alterações precisam ser adicionadas aqui....
+- Visão geral e recursos de acessibilidade do Microsoft 365 (três ativos)
+- Criar mensagens de email mais acessíveis no Outlook (três ativos)
+- Criar documentos do Word mais acessíveis (oito ativos)
+- Criar pastas de trabalho do Excel mais acessíveis (três ativos)
+- Criar slides mais acessíveis no PowerPoint (cinco ativos)
 
 ### <a name="sway"></a>Sway
 A subcategoria do Sway de conteúdo foi adicionada com as seguintes listas de reprodução. 
-- Início rápido de Sway (4 ativos)
-- Compartilhar e acessar Sway (5 ativos)
+- Início rápido de Sway (quatro ativos)
+- Sway de compartilhar e acessar (cinco ativos)
 - Adicionar conteúdo ao Sway (11 ativos)
-- Personalizar Sway (5 ativos)
+- Personalizar Sway (cinco ativos)
 
 ### <a name="access"></a>Access
-- Início rápido do Access (4 ativos)
-- Introdução ao Access (3 ativos)
-- Criar um banco de dados do Access (2 ativos)
-- Adicionar tabelas (2 ativos)
-- Usar relações (5 ativos)
-- Adicionar e editar dados (2 ativos)
-- Gerenciar dados com consultas (5 ativos)
-- Criar formulários (1 ativo)
-- Criar relatórios (2 ativos)
+- Início rápido do Access (quatro ativos)
+- Introdução ao Access (três ativos)
+- Criar um banco de dados do Access (dois ativos)
+- Adicionar tabelas (dois ativos)
+- Usar relações (cinco ativos)
+- Adicionar e editar dados (dois ativos)
+- Gerenciar dados com consultas (cinco ativos)
+- Criar formulários (um ativo)
+- Criar relatórios (dois ativos)
 - Proteger bancos de dados (um ativo)
 
