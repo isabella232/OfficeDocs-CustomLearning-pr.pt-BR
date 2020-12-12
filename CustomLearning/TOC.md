@@ -14,6 +14,7 @@
 ## [Traduzir as playlists personalizadas do caminhos de aprendizagem](custom_translate_pl_ml.md)
 ## [Traduzir o nome do site, a navegação e os rodapés](custom_sitenamenav_ml.md)
 # [Centro de Sucesso do Administrador](custom_successcenter.md)
+## [Use o Supervisor para Teams com caminhos de aprendizagem para ajudar a implantar o Microsoft Teams](custom_teamsadvisor.md)
 ## Planejar conteúdo de aprendizagem 
 ### [Planejar o conteúdo de aprendizagem](custom_plancontent.md)
 ### [Recursos adicionais para dar suporte a funcionários remotos](custom_plancontent_remoteresources.md)
