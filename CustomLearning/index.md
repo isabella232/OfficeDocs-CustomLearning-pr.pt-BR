@@ -5,18 +5,18 @@ title: Visão geral dos caminhos de aprendizado do Microsoft 365
 ms.date: 9/24/2020
 description: Saiba como os caminhos de aprendizado do Microsoft 365 podem acelerar o uso e a adoção dos serviços do Microsoft 365 em sua organização. Os caminhos de aprendizado incluem uma Web part personalizada do SharePoint Online e um moderno site de treinamento em comunicações do SharePoint Online que é facilmente provisionado para o locatário do Microsoft 365.
 ms.service: o365-solutions
-ms.openlocfilehash: 8589b205ead505229ff8416b862c851c766b444f
-ms.sourcegitcommit: 896b2635713967987bb705c861e11b5568fd72ca
-ms.translationtype: HT
+ms.openlocfilehash: 60a6775b1d128c3ed0b88df62dbf990c457fba33
+ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49614619"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50573403"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Caminhos de aprendizado do Microsoft 365 
 Os caminhos de aprendizado do Microsoft 365 são uma solução de aprendizado sob demanda e personalizável, projetada para aumentar o uso e a adoção dos serviços do Microsoft 365 em sua organização.    
 
 > [!IMPORTANT]
-> Os percursos de aprendizagem se esforçam para aderir a um ciclo de atualização de conteúdo trimestral. Em 24/9/2020, atualizamos o conteúdo dos percursos de aprendizagem para nossa atualização de conteúdo de Setembro. Para saber mais sobre a atualização de conteúdo de setembro de 2020, consulte [Atualizações de conteúdo](custom_contentupdates.md). Para saber como as atualizações de conteúdo são aplicadas e como gerenciá-las, consulte [Gerenciar atualizações de conteúdo](custom_contentupdatesmanage.md).  
+> Os percursos de aprendizagem se esforçam para aderir a um ciclo de atualização de conteúdo trimestral. A partir de 01/03/2021, atualizamos o conteúdo dos caminhos de aprendizado para nossa atualização de conteúdo de março. Para saber mais sobre a atualização de conteúdo de março, consulte [Atualizações de Conteúdo](custom_contentupdates.md). Para saber como as atualizações de conteúdo são aplicadas e como gerenciá-las, consulte [Gerenciar atualizações de conteúdo](custom_contentupdatesmanage.md).  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Treinamento personalizado sob demanda da Microsoft
 
