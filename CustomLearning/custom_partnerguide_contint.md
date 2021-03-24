@@ -5,178 +5,174 @@ title: Modelos de integração de parceiros
 ms.date: 3/9/2019
 description: Modelos de integração de parceiros
 ms.service: sharepoint online
-ms.openlocfilehash: 91980782f64d101d3128daff81ed4e2b6205faa8
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: f3b5c5ddc8de29d2805c86a24b1d9bef0c8cacfa
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234133"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162928"
 ---
 # <a name="partner-integration-models"></a>Modelos de integração de parceiros
-Embora não seja possível complementar o conteúdo de cursores de aprendizado da Microsoft 365 diretamente do serviço de provisionamento do SharePoint Online, há vários modelos de integração que os parceiros podem aproveitar para criar ofertas alinhadas de serviços de agregação de valor. Os modelos de integração de parceiros acima são apresentados em ordem de complexidade crescente e níveis de investimento. Portanto, nossa orientação é criar sua especialização e graduação para níveis mais avançados com base em seus modelos de negócios.
+Embora não seja possível complementar o conteúdo dos caminhos de aprendizado do Microsoft 365 diretamente 'fora da caixa' do serviço de Provisionamento do SharePoint Online, há vários modelos de integração que os parceiros podem aproveitar para criar ofertas de serviço de adução de valor alinhadas. Os modelos de integração de parceiros acima são apresentados em ordem de complexidade crescente e níveis de investimento. Portanto, nossas diretrizes são criar sua experiência e se formar para níveis mais avançados com base em seus modelos de negócios.
 
 ![cg-part-intmodel.png](media/cg-part-intmodel.png) 
 
 ## <a name="how-should-i-get-started"></a>Como devo começar? 
-Para começar, veja algumas práticas recomendadas a seguir.     
+Para começar, aqui estão algumas práticas recomendadas a seguir.     
 
-### <a name="1-begin-with-building-expertise-as-an-enabler"></a>1. comece com a criação de expertise como um viabilizador. 
-Você pode ajudar uma porcentagem da sua base de clientes imediatamente, habilitando o portal de treinamento de cursores de aprendizado e realizando a ajuda do conteúdo da Microsoft direcionada. Para obter instruções sobre como provisionar os caminhos de aprendizado, consulte https://docs.microsoft.com/office365/customlearning/custom_provision .  
+### <a name="1-begin-with-building-expertise-as-an-enabler"></a>1. Comece com a experiência de criação como um Habilitador. 
+Você pode ajudar uma porcentagem da sua base de clientes imediatamente habilitando seu portal de treinamento de caminhos de aprendizagem e realizando a curadoria de conteúdo direcionada da Microsoft. Para obter instruções sobre o provisionamento de caminhos de aprendizado, consulte https://docs.microsoft.com/office365/customlearning/custom_provision .  
 
-### <a name="2-then-extend-your-services-as-an-integrator"></a>2. em seguida, estenda seus serviços como um integrador
-Execute uma análise de retorno de automação sobre o investimento, dependendo da quantidade de suas necessidades de integração de conteúdo e/ou serviços. Por exemplo, talvez não seja necessário realizar os custos de desenvolvimento e operacional com relação às diretrizes de integração de conteúdo se você puder criar rapidamente uma lista de reprodução personalizada direcionada que aponte para seu conteúdo para pagamento ou faça referência a seus serviços.
+### <a name="2-then-extend-your-services-as-an-integrator"></a>2. Em seguida, estenda seus serviços como um Integrador
+Execute um retorno de automação na análise de investimento , dependendo da quantidade de suas necessidades de integração de conteúdo e/ou serviços. Por exemplo, pode não fazer sentido assumir os custos operacionais e de desenvolvimento em relação às nossas diretrizes de integração de conteúdo se você puder criar manualmente rapidamente uma lista de reprodução personalizada direcionada apontando para o conteúdo pago ou referenciar seus serviços.
 
-### <a name="3-when-the-return-on-investment-makes-sense--consider-redistribution"></a>3. quando o retorno sobre o investimento faz sentido – considere redistribuição 
-Quando o retorno sobre o investimento faz sentido – considere redistribuição (ou trabalhar com os parceiros de cursores de aprendizado relacionados) para criar soluções reempacotadas. Eles são baseados na estrutura de práticas e padrões do SharePoint, que oferece soluções para extrair sites personalizados e implantar em ambientes do cliente 
+### <a name="3-when-the-return-on-investment-makes-sense--consider-redistribution"></a>3. Quando o retorno sobre o investimento faz sentido – considere Redistribuição 
+Quando o retorno sobre o investimento faz sentido – considere Redistribuição (ou trabalhar com parceiros de caminhos de aprendizado relacionados) para criar soluções reembaladas. Eles se baseiam na estrutura Padrões e Práticas do SharePoint que fornece soluções para extrair sites personalizados e implantar em ambientes de clientes 
 
 ## <a name="partner-provided-content-integration-guidelines"></a>Diretrizes de integração de conteúdo fornecidas pelo parceiro
-O conteúdo para os caminhos de aprendizado do Microsoft 365 é orientado por um conjunto de arquivos JSON que atuam como manifestos de conteúdo para seu pacote de aprendizado. Há três arquivos: metadata.json, playlists.json e assets.json. Esses arquivos precisam ser estruturados para corresponder aos modelos que a Web Part reconhece e, em seguida, hospedado de uma CDN (rede de distribuição de conteúdo) para permitir que a Web Part seja carregada. A Microsoft fornecerá modelos de início desses arquivos para começar.  
+O conteúdo para os caminhos de aprendizado do Microsoft 365 é impulsionado por um conjunto de arquivos JSON que atuam como manifestos de conteúdo para seu pacote de aprendizagem. Há três arquivos: metadata.js, playlists.jse assets.json. Esses arquivos precisam ser estruturados para corresponder aos modelos que a Web Part reconhece e hospedados de uma rede de distribuição de conteúdo (CDN) para permitir que a Web Part os carregue. A Microsoft fornecerá modelos in-locar esses arquivos para começar.  
 
-**Isenção de responsabilidade:** a estrutura de arquivos JSON está sujeita a alterações com base no trabalho da solução futura. O programa de adoção antecipada (EAP) do Microsoft 365 Learning Precursors será informado sobre qualquer alteração iminente dessa natureza. Junto com qualquer compatibilidade com versões anteriores do cliente e/ou diretrizes de transição. 
+**Aviso de isenção de responsabilidade:** a estrutura de arquivo JSON está sujeita a alterações com base no trabalho da solução futura. O parceiro de caminhos de aprendizagem do Microsoft 365 Early Adopter Program (EAP) será informado de quaisquer alterações pendentes dessa natureza. Juntamente com qualquer orientação de compatibilidade e/ou transição do cliente. 
 
-### <a name="download-the-microsoft-365-learning-pathways-solution"></a>Baixar a solução de cursores de aprendizagem da Microsoft 365
-Você pode baixar a solução de cursores de aprendizado da Microsoft 365, junto com os arquivos JSON, do repositório do GitHub: https://github.com/pnp/custom-learning-office-365 . Observe que, no momento, a Microsoft não está executando a solicitação pull do GitHub na solução. Mas você pode usar os arquivos do GitHub como um ponto de partida para a criação de seu próprio pacote de conteúdo personalizado. 
+### <a name="download-the-microsoft-365-learning-pathways-solution"></a>Baixar a solução de caminhos de aprendizado do Microsoft 365
+Você pode baixar a solução de caminhos de aprendizado do Microsoft 365, juntamente com os arquivos JSON, do repositório do GitHub: https://github.com/pnp/custom-learning-office-365 . Observe que, neste momento, a Microsoft não está a aceitar a solicitação de pull do GitHub na solução. Mas você pode usar os arquivos GitHub como ponto de partida para criar seu próprio pacote de conteúdo personalizado. 
 
-### <a name="metadatajson-structure"></a>Metadata.jsna estrutura
-Você pode pensar nesse arquivo como o cérebro dos menus e da estrutura. Ele contém toda a estrutura de navegação, além de selecionar listas para dados nos outros dois arquivos. 
+### <a name="metadatajson-structure"></a>Metadata.jsestrutura
+Você pode pensar nesse arquivo como o cérebro dos menus e da estrutura. Ele contém toda a estrutura de navegação, bem como listas de opções para dados nos outros dois arquivos. 
 
 
 |              Nome        |                     Descrição                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
-|**Tecnologias**              |O conteúdo é marcado e pode ser ocultado com base na tecnologia que é atribuída.                 |  
-|&nbsp;&nbsp;ID                |GUID que representa a tecnologia                                                           |  
-|&nbsp;&nbsp;Tdomínio              |Nome para exibição da tecnologia                                                             |
-|&nbsp;&nbsp;*Subjects []*     |Uma matriz de assuntos que são um subconjunto da tecnologia                                   | 
-|&nbsp;&nbsp;&nbsp;&nbsp;ID    |GUID que representa o assunto                                                              |
-|&nbsp;&nbsp;&nbsp;&nbsp;Tdomínio  |Nome para exibição do assunto                                                                |
-|**Categories []**             |As categorias informam a navegação da Web Part. Cada categoria representa um nível superior da navegação                                                                                                                 |
-|&nbsp;&nbsp;ID                |GUID que representa a categoria/subcategoria                                                 |
-|&nbsp;&nbsp;Tdomínio              |Nome para exibição da categoria/subcategoria                                                  |
-|&nbsp;&nbsp;Ampliá             |URL para a imagem que deve ser exibida no UX (relativa à base de CDN)            |
-|&nbsp;&nbsp;Technologyid      |O GUID da tecnologia à qual este conteúdo está relacionado (opcional – cadeia de caracteres vazia)            |
-|&nbsp;&nbsp;SubjectID         |O GUID do sujeito ao qual este conteúdo está relacionado (opcional – cadeia de caracteres vazia)               |
-|&nbsp;&nbsp;Originais            |Da matriz de origem, não usada especificamente em experiência de usuário diferente de os dados personalizados adicionados pelo usuário é marcado como "locatário", e a área de administração de UX não permite a edição de nada que não esteja marcado como "locatário".                           |
-|&nbsp;&nbsp;*Subcategorias []*|As subcategorias são basicamente o nível de navegação do nível 2 para baixo. A estrutura é o mesmo que uma categoria apenas aninhada.          |
-|**Audiências []**             |Quando as listas de reprodução associadas a uma categoria/subcategoria são várias audiências marcadas, um seletor estará disponível para mostrar as audiências disponíveis. |         
-|&nbsp;&nbsp;ID                |GUID da audiência                                                                       |  
-|&nbsp;&nbsp;Tdomínio              |Nome para exibição da audiência                                                               |       
-|**Fontes []**               |A matriz de cadeias de caracteres que marca o conteúdo com sua fonte, não usada especificamente em experiência de usuário diferente de dados personalizados adicionados pelo usuário é marcada como "locatário", e a área de administração de UX não permite a edição de nada que não esteja marcado como "locatário".                                                   |  
-|**Níveis []**               |Quando as listas de reprodução associadas a uma categoria/subcategoria são vários níveis marcados, um seletor estará disponível para mostrar os níveis disponíveis.             |  
-|&nbsp;&nbsp;ID                |GUID do nível                                                                          |  
-|&nbsp;&nbsp;Tdomínio              |Nome para exibição do nível                                                                  | 
-|**StatusTag [ ]**           |A marca de status é para identificar o conteúdo com vários status que serão expostos no UX. Alguns desses sinalizadores serão mostrados para o consumidor e alguns apenas para o administrador.                                                   |  
-|&nbsp;&nbsp;ID                |GUID do StatugTag                                                                      |  
-|&nbsp;&nbsp;Tdomínio              |Nome para exibição do StatusTag                                                              | 
-|**Telemetria []**            |                                                                                           |  
-|&nbsp;&nbsp;AppInsightsKey    |GUID da chave do App insights que você configurou para controlar o carregamento da Web Part do visualizador. O controle pode ser desativado por um administrador para o locatário inteiro, mas as informações enviadas são usuário anônimo com a ID do locatário. Confira esta seção para obter mais informações https://github.com/pnp/custom-learning-office-365#disabling-telemetry-collection               |  
-|**Versão**                   |As informações de versão são usadas pela solução para indicar aos administradores que a Web Part atualizou e também permite que a Web Part seja AutoAtualizar conteúdo personalizado para a versão mais recente do manifesto, caso sejam feitas alterações significativas.         | 
+|**Tecnologias**              |O conteúdo é marcado e pode ser oculto com base na Tecnologia atribuída.                 |  
+|&nbsp;&nbsp;Id                |GUID representando a tecnologia                                                           |  
+|&nbsp;&nbsp;Nome              |Nome de exibição da tecnologia                                                             |
+|&nbsp;&nbsp;*Subjects[ ]*     |Uma matriz de assuntos que são um subconjunto da tecnologia                                   | 
+|&nbsp;&nbsp;&nbsp;&nbsp;Id    |GUID representando o assunto                                                              |
+|&nbsp;&nbsp;&nbsp;&nbsp;Nome  |Nome de exibição do assunto                                                                |
+|**Categorias [ ]**             |As categorias informam a navegação da webpart. Cada categoria representa um nível superior da navegação                                                                                                                 |
+|&nbsp;&nbsp;Id                |GUID representando a categoria/subcategoria                                                 |
+|&nbsp;&nbsp;Nome              |Nome para exibição da categoria/subcategoria                                                  |
+|&nbsp;&nbsp;Image             |URL da imagem que deve ser exibida no UX (em relação à base cdn)            |
+|&nbsp;&nbsp;TechnologyId      |O GUID da Tecnologia à que esse conteúdo está relacionado (opcional – cadeia de caracteres vazia)            |
+|&nbsp;&nbsp;SubjectId         |O GUID do Assunto a que esse conteúdo está relacionado (opcional – cadeia de caracteres vazia)               |
+|&nbsp;&nbsp;Source            |Da matriz Source, não usada especificamente no UX, além dos dados personalizados adicionados pelo usuário, é marcada como "Locatário" e a área de administração do UX não permite a edição de nada que não seja marcado como "Locatário".                           |
+|&nbsp;&nbsp;*Subcategorias[ ]*|Sub-Categories são basicamente o nível de nav do nível 2 para baixo. A estrutura é a mesma que um Category apenas aninhado.          |
+|**Audiências [ ]**             |Quando as listas de reprodução associadas a uma categoria/subcategoria são várias audiências marcadas, um seletor estará disponível para mostrar os públicos disponíveis. |         
+|&nbsp;&nbsp;Id                |GUID da audiência                                                                       |  
+|&nbsp;&nbsp;Nome              |Nome de exibição da audiência                                                               |       
+|**Fontes [ ]**               |Matriz de cadeias de caracteres que marcam o conteúdo com sua origem, não especificamente usadas no UX que não os dados personalizados adicionados pelo usuário são marcados como "Locatário" e a área de administração do UX não permite a edição de nada que não seja marcado como "Locatário".                                                   |  
+|**Níveis [ ]**               |Quando as listas de reprodução associadas a uma categoria/subcategoria são vários níveis marcados, um seletor estará disponível para mostrar os níveis disponíveis.             |  
+|&nbsp;&nbsp;Id                |GUID do Nível                                                                          |  
+|&nbsp;&nbsp;Nome              |Nome de exibição do Nível                                                                  | 
+|**StatusTag [ ]**           |A marca de status é para identificar o conteúdo com vários status que serão expostos no UX. Alguns desses sinalizadores serão show para o consumidor e alguns somente para o administrador.                                                   |  
+|&nbsp;&nbsp;Id                |GUID do StatugTag                                                                      |  
+|&nbsp;&nbsp;Nome              |Nome de exibição da StatusTag                                                              | 
+|**Telemetria [ ]**            |                                                                                           |  
+|&nbsp;&nbsp;AppInsightsKey    |GUID da chave de insights do aplicativo que você definiu para acompanhar o carregamento da Web Part do visualizador. O controle pode ser desligado por um administrador para todo o locatário, mas as informações enviadas são de usuário anonimizado com a id do locatário. Confira esta seção para obter mais informações https://github.com/pnp/custom-learning-office-365#disabling-telemetry-collection               |  
+|**Versão**                   |As informações de versão são usadas pela solução para indicar aos administradores que a webpart foi atualizada e também permitir que a WebPart atualize o conteúdo personalizado para a versão mais recente do manifesto se alterações significativas foram feitas.         | 
 |&nbsp;&nbsp;Manifesto          |A versão do manifesto                                               |
-|&nbsp;&nbsp;ManifestMinWebPart|A versão mínima da WebPart que funciona com a versão do manifesto             |
-|&nbsp;&nbsp;CurrentWebPart    |URL para a imagem que deve ser exibida no UX (relativa à base de CDN)            |
-|&nbsp;&nbsp;Rederramado           |A URL do repositório onde estão as instruções de atualização da Web Part.                    |
-|**Pacotes de conteúdo**             |No momento, não há suporte para pacotes de conteúdo para CDN adicionais. Os pacotes de conteúdo permitem que a Microsoft sugira outras soluções criadas pela Microsoft que podem ser provisionadas por meio do serviço de provisionamento que aproveita o M365LP para fornecer conteúdo e que se encontram no CDNs personalizado.       | 
-|&nbsp;&nbsp;ID                |GUID do pacote de conteúdo/CDN                                                              |
-|&nbsp;&nbsp;Tdomínio              |Nome para exibição da CDN                                                                   |
+|&nbsp;&nbsp;ManifestMinWebPart|A versão mínima da webpart que funciona com a versão do manifesto             |
+|&nbsp;&nbsp;CurrentWebPart    |URL da imagem que deve ser exibida no UX (em relação à base cdn)            |
+|&nbsp;&nbsp;RepoURL           |A URL do repositório onde estão as instruções de web part de atualização.                    |
+|**Content Packs**             |Neste momento, não há suporte para pacotes de conteúdo para CDN adicionais. Os pacotes de conteúdo permitem que a Microsoft sugira outras soluções criadas pela Microsoft que podem ser provisionadas por meio do serviço de Provisionamento que aproveita o M365LP para fornecer conteúdo e estão dentro e de si mesmas CDNs personalizadas.       | 
+|&nbsp;&nbsp;Id                |GUID do pacote de conteúdo/CDN                                                              |
+|&nbsp;&nbsp;Nome              |Nome de exibição da CDN                                                                   |
 |&nbsp;&nbsp;Descrição       |Descrição a ser exibida na interface do usuário para adicionar um pacote de conteúdo                               |
-|&nbsp;&nbsp;Ampliá             |Imagem a ser exibida na interface do usuário para adicionar um pacote de conteúdo                                     |
+|&nbsp;&nbsp;Image             |Imagem a ser exibida na interface do usuário para adicionar um pacote de conteúdo                                     |
 |&nbsp;&nbsp;ProvisionURL      |A URL do pacote de serviço de provisionamento para criar o conjunto de sites do pacote de conteúdo  |
 |&nbsp;&nbsp;CDNbase           |A URL base para os manifestos do pacote de conteúdo                                       |
-|AssetOrigins                  |Uma matriz de origem da URL utilizada no assets.jsem arquivo descrito mais tarde. Se a URL de origem oferecer suporte, uma mensagem de postagem será enviada para help_getClientHeight. Uma resposta na propriedade data de: "help_getClientHeight = {altura de conteúdo}" (por exemplo, "help_getClientHeight = 5769") permitirá que o iFrame seja redimensionado para a altura apropriada do conteúdo enquadrado.         |
+|AssetOrigins                  |Uma matriz de origem da URL é usada no arquivo assets.json descrito posteriormente. Se a URL de origem for compatível com ela, uma mensagem de postagem será enviada para help_getClientHeight. Uma resposta na propriedade data de: "help_getClientHeight={altura do conteúdo}" (por exemplo, "help_getClientHeight=5769") permitirá que o iFrame seja resized para a altura apropriada do conteúdo emoldurado.         |
 
-### <a name="playlistsjson-structure"></a>Playlists.jsna estrutura
-playlists.jsno – o manifesto de playlists é uma matriz de objetos que descrevem os metadados sobre uma lista de reprodução e os ativos incluídos na lista de reprodução.
+### <a name="playlistsjson-structure"></a>Playlists.jsestrutura
+playlists.json – O manifesto de listas de reprodução é uma matriz de objetos que descrevem os metadados sobre uma playlist e os ativos incluídos na playlist.
 
 |              Nome        |                     Descrição                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
-|Id                            |GUID que representa a lista de reprodução                                                             |  
-|Título                         |Nome de exibição da lista de reprodução                                                               |
-|Imagem                         |URL relativa (de CDN) para uma imagem para visualizar a lista de reprodução                              |                      
-|Levelid                       |Nível associado                                                                           |
-|AudienceID                   |Público associado                                                                        |
-|Technologyid                 |Tecnologia associada                                                                      |
-|SubjectID                    |Nome para exibição da categoria/subcategoria                                                  |
-|Origem                        |A partir da matriz de origem, não usada especificamente no UX diferente dos dados personalizados adicionados pelo usuário está marcado como "locatário", e a área de administração de UX não permite a edição de nada que não esteja marcado como "locatário".                                              |
-|CatId                         |A ID de categoria ou de subcategoria que representa o contêiner em que a playlist deve ser mostrada. No momento, o manifesto não oferece suporte à seleção de uma categoria ou subcategoria como o contêiner, caso também tenha filhos de subcategorias.        |
-|Descrição                   |Uma descrição mostrada para cada lista de reprodução no UX                                           |
+|Id                            |GUID representando a playlist                                                             |  
+|Título                         |Nome de exibição da playlist                                                               |
+|Imagem                         |URL relativa (da CDN) para uma imagem para visualizar a playlist                              |                      
+|LevelId                       |Nível associado                                                                           |
+|AudienceId                   |Audiência associada                                                                        |
+|TechnologyId                 |Tecnologia associada                                                                      |
+|SubjectId                    |Nome para exibição da categoria/subcategoria                                                  |
+|Origem                        |Na matriz de origem, não usada especificamente no UX, além dos dados personalizados adicionados pelo usuário, ela é marcada como "Locatário" e a área de administração do UX não permite a edição de nada que não seja marcado como "Locatário".                                              |
+|CatId                         |A ID Category ou SubCategory que representa o contêiner em que a playlist deve ser mostrada. Atualmente, o manifesto não dá suporte à seleção de categoria ou subcategoria como contêiner se ele também tiver filhos de SubCategoria.        |
+|Descrição                   |Uma descrição mostrada para cada playlist no UX                                           |
 |StatusTagId                   |Marca de status associada                                                                      |
-|StatusNote                    |Observações sobre o conteúdo exibido para administradores                                            |
-|*Ativos []*                        |Uma matriz de GUIDs para os ativos que fazem parte desta playlist, em ordem de exibição.        |         
+|StatusNote                    |Observações sobre o conteúdo exibido aos administradores                                            |
+|*Assets[]*                        |Uma matriz de GUID para os ativos que fazem parte dessa playlist, em ordem de exibição.        |         
 
-### <a name="assetjson-structure"></a>Asset.jsna estrutura
-playlists.jsno – o manifesto de playlists é uma matriz de objetos que descrevem os metadados sobre uma lista de reprodução e os ativos incluídos na lista de reprodução.
+### <a name="assetjson-structure"></a>Asset.jsestrutura
+playlists.json – O manifesto de listas de reprodução é uma matriz de objetos que descrevem os metadados sobre uma playlist e os ativos incluídos na playlist.
 
 |              Nome        |                     Descrição                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
-|Id                            |GUID que representa a lista de reprodução                                                             |  
-|Título                         |Nome de exibição da lista de reprodução                                                               |
+|Id                            |GUID representando a playlist                                                             |  
+|Título                         |Nome de exibição da playlist                                                               |
 |Descrição                   |---                                                                                           |                      
-|URL                           |A URL de origem do ativo a ser aplicada ao iFrame                                  |
-|Technologyid                  |Tecnologia associada                                                                      |
-|SubjectID                     |Assunto associado                                                                         |
+|URL                           |A URL de origem do ativo, a ser aplicada ao iFrame                                  |
+|TechnologyId                  |Tecnologia associada                                                                      |
+|SubjectId                     |Assunto associado                                                                         |
 |Origem                        |Nome para exibição da categoria/subcategoria                                                  |
 |StatusTagId                   |Marca de status associada                                                                      |
-|StatusNote                    |Observações sobre o conteúdo exibido para administradores.                                           |
+|StatusNote                    |Observações sobre o conteúdo exibido aos administradores.                                           |
 
-### <a name="caching"></a>PMK
-A versão atual da Web Part do visualizador utiliza uma versão em cache dos arquivos de manifesto por 24 horas. Após 24 horas, o primeiro usuário que acertar a Web Part tem o impacto no desempenho para atualizar o cache baixando os manifestos da CDN de origem e mesclar essas informações com tecnologias e listas de reprodução ocultas, bem como mesclar em subcategorias, listas de reprodução e ativos personalizados. Como alternativa, a Web Part de administração sempre baixa o conteúdo dos manifestos e o mescla e atualiza o cache.  Portanto, em outras palavras, o administrador pode forçar uma atualização de cache a qualquer momento carregando a Web Part de administração, não se referindo à página de administração.
+### <a name="caching"></a>Cache
+A versão atual da Web Part do visualizador utiliza uma versão em cache dos arquivos de manifesto por 24 horas. Após 24 horas, o primeiro usuário que atingiu a Webpart assume o sucesso de desempenho para atualizar o cache baixando os manifestos da CDN de origem e mesclando essas informações com tecnologias e playlists ocultas, bem como mesclando sub-categorias, playlists e ativos personalizados. Como alternativa, a Web Part do administrador sempre baixa o conteúdo dos manifestos e os mescla e atualiza o cache.  Portanto, em outras palavras, o administrador pode forçar uma atualização de cache a qualquer momento carregando a Web Part do administrador, também conhecido como ir para a página Administração.
 
-## <a name="content-pack-guidelines"></a>Diretrizes de pacote de conteúdo
-O recurso de pacote de conteúdo desbloqueia os seguintes cenários:
-- A capacidade de os parceiros redistribuirem o conteúdo de aprendizado personalizado de valor agregado personalizado sob medida para o ambiente do cliente
-- A capacidade para organizações com uma equipe de treinamento forte e suporte de ti para criar conteúdo de aprendizado personalizado direcionado a seus próprios sistemas internos e governança
-- A capacidade para a Microsoft de fornecer outros caminhos de aprendizado no futuro que os clientes podem optar por
+## <a name="content-pack-guidelines"></a>Diretrizes do Pacote de Conteúdo
+O recurso Content Pack desbloqueia os seguintes cenários:
+- A capacidade dos parceiros de redistribuir conteúdo personalizado de aprendizado personalizado para o ambiente dos clientes
+- A capacidade de organizações com uma equipe de treinamento forte e suporte de IT para criar conteúdo de aprendizado personalizado direcionado para seus próprios sistemas internos e governança
+- A capacidade da Microsoft de fornecer caminhos de aprendizado adicionais no futuro em que os clientes podem optar
 
-Este conjunto de documentação atual é direcionado intencionalmente para parceiros devido à complexidade do recurso. A equipe de serviço está trabalhando ativamente para melhorar o suporte e permitir o #2 de cenário no futuro. 
+Esse conjunto de documentação atual é intencionalmente direcionado para Parceiros devido à complexidade do recurso. A equipe de serviço está trabalhando ativamente para dar melhor suporte e habilitar #2 cenário, no futuro. 
 
-### <a name="how-content-packs-work"></a>Como os pacotes de conteúdo funcionam
-A Microsoft utiliza páginas do GitHub como uma fonte de rede de distribuição de conteúdo (CDN) para seus arquivos de manifesto e imagens. Temos uma pasta docs na raiz do nosso repositório do GitHub que inclui subpastas para cada versão dos arquivos de manifesto. Dentro de cada pasta há três arquivos de manifesto, mais uma pasta de imagens para armazenar todas as imagens de categoria, subcategoria e lista de reprodução. 
+### <a name="how-content-packs-work"></a>Como funcionam os Pacotes de Conteúdo
+A Microsoft utiliza páginas do GitHub como uma fonte de Rede de Entrega de Conteúdo (CDN) para seus arquivos de manifesto e imagens. Temos uma pasta de documentos na raiz do repositório do GitHub que inclui sub pastas para cada versão dos arquivos de manifesto. Dentro de cada pasta, há três arquivos de manifesto, além de uma pasta de imagens para armazenar todas as imagens de categoria, subcategoria e playlist. 
 
-É importante que você mantenha a mesma estrutura de controle de versão que a Microsoft deve optar por estender a solução de cursores de aprendizado com seu próprio pacote de conteúdo. O ponto de extremidade da CDN não deve incluir a pasta da versão, pois a versão do manifesto à qual a Web Part oferece suporte é Baked nela e é automaticamente acrescentada à URL da CDN. Obviamente, forneceremos tempo para criar novas instâncias de seus arquivos de manifesto sempre que o revisarmos.
+É importante que você mantenha a mesma estrutura de controle de versão que a Microsoft deve optar por estender a solução de caminhos de aprendizado com seu próprio pacote de conteúdo. Seu ponto de extremidade CDN não deve incluir a pasta de versão, pois a versão de manifesto suportada pela Web Part é baked nele e é automaticamente anexada à URL da CDN. Obviamente, você terá tempo para criar novas instâncias de seus arquivos de manifesto sempre que o revisões.
 
 ![cg-part-json-folder.png](media/cg-part-json-folder.png) 
 
-Para obter mais informações sobre como usar páginas do GitHub como sua fonte de CDN, confira a seguinte documentação da ajuda: [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) .
+Para obter mais informações sobre como usar páginas do GitHub como sua fonte de CDN, consulte a seguinte documentação de ajuda: [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) .
 
-A solução da Microsoft faz com que as informações sobre os ativos sejam abertas para o público, já que não há nenhuma segurança sobre quem tem acesso a esses arquivos. Acreditamos que deve haver uma camada de conteúdo livre para um consumidor, que diz que se você precisa de pagamento de parede para alguns ou todos os conteúdos, precisará implementar isso de forma diferente nas limitações técnicas da solução e usar as páginas do GitHub não é um requisito. Qualquer provedor de CDN que você gostaria de usar é bom se você mantiver a estrutura de numeração de versão que descrevemos. Conforme mencionado anteriormente, a versão da estrutura do manifesto à qual a Web Part oferece suporte é Baked no código e é automaticamente acrescentada à URL da CDN. 
+A solução da Microsoft abre as informações sobre os ativos para o público, pois não há segurança em torno de quem tem acesso a esses arquivos. Acreditamos que deve haver uma camada livre de conteúdo para um consumidor, que disse que, se você precisar de uma parede de pagamento para algum ou todo o seu conteúdo, será necessário implementar isso de forma diferente nas limitações técnicas da solução e o uso de páginas do GitHub não é de forma alguma um requisito. Qualquer provedor de CDN que você gostaria de usar está bem se você mantiver a estrutura de numeração de versão que descrevemos. Conforme mencionado anteriormente, a versão da estrutura de manifesto suportada pela Web Part é baked no código e é automaticamente anexada à URL da CDN. 
 
-### <a name="content-pack-integration-guidance"></a>Orientação de integração do pacote de conteúdo 
-As Web Parts do administrador e do visualizador foram estendidas para permitir que o consumidor configure pontos de extremidade adicionais da CDN em seu locatário, que permitirá que a Web Part do visualizador selecione qual CDN eles devem originar os dados que eles exibem. 
+### <a name="content-pack-integration-guidance"></a>Diretrizes de integração do Pacote de Conteúdo 
+As Web Parts do administrador e do visualizador foram estendidas para permitir que o consumidor configure pontos de extremidade de CDN adicionais em seu locatário, o que permitirá que a Web Part do visualizador selecione qual CDN eles devem origem dos dados exibidos. 
 
-Principais enquadramento para ter em mente este recurso: 
-- Isso é o principal aplicável para cenários de redistribuição de parceiros – onde a configuração manual de playlist é muito complicada 
-- Pacotes de conteúdo personalizados são um recurso avançado e devem ser usados apenas por parceiros com experiência de administração de conteúdo da Web. Fontes de conteúdo não confiáveis podem apresentar conteúdo não seguro em seu site. Você só deve adicionar fontes confiáveis.
+Enquadramento de chave para ter em mente esse recurso: 
+- Isso é aplicável principal para cenários de redistribuição de parceiros – em que a configuração manual de playlist é muito complicada 
+- Os Pacotes de Conteúdo Personalizados são um recurso avançado e devem ser usados apenas por parceiros com experiência para administrar conteúdo da Web. Fontes de conteúdo não confiáveis podem introduzir conteúdo não seguro em seu site. Você só deve adicionar fontes em que você confia.
 
-> **Importante** Antes de adicionar um pacote de conteúdo personalizado, você deve ter provisionado os caminhos de aprendizado do Microsoft 365 3,0 ou posterior. Para o informataion sobre o provisionamento de caminhos de aprendizado do Microsoft 365, confira [provisionar os caminhos de aprendizado da microsoft 365](https://docs.microsoft.com/office365/customlearning/custom_provision).
+> **IMPORTANTE** Antes de adicionar um Pacote de Conteúdo Personalizado, você deve ter provisionado os caminhos de aprendizado do Microsoft 365 3.0 ou posterior. Para informações sobre como provisionar os caminhos de aprendizado do Microsoft 365, consulte [Provision Microsoft 365 learning pathways](./custom_provision.md).
 
-### <a name="content-whitelisting"></a>Lista de conteúdo
-Como um parceiro, você é responsável por ajudar seus clientes a garantir que seu conteúdo seja whitelist em seu ambiente. Sugerimos que você crie um cenário de teste em seu ambiente para validar que seu conteúdo pode ser iFrame em uma página do SharePoint dentro do firewall. Siga as instruções para [criar páginas do SharePoint de listas de reprodução personalizadas](https://docs.microsoft.com/office365/customlearning/custom_createnewpage) para confirmar se esse é o caso.
+### <a name="content-whitelisting"></a>Whitelisting de conteúdo
+Como parceiro, é sua responsabilidade ajudar seus consumidores a garantir que seu conteúdo seja whitelisted em seu ambiente. Sugerimos que você crie um cenário de teste em seu ambiente para validar que seu conteúdo pode ser iFrame'd em uma página do SharePoint dentro do firewall. Siga as [instruções Criar páginas do SharePoint para Playlists Personalizadas](./custom_createnewpage.md) para confirmar se esse é o caso.
 
-### <a name="add-a-content-pack-to-learning-pathways"></a>Adicionar um pacote de conteúdo aos caminhos de aprendizado
-Depois que você tiver criado modificado o JSON e definido sua CDN, poderá adicionar o pacote de contato aos caminhos de aprendizado. 
+### <a name="add-a-content-pack-to-learning-pathways"></a>Adicionar um Pacote de Conteúdo aos Caminhos de Aprendizagem
+Depois de criar o JSON modificado e definir sua CDN, você pode adicionar o Contact Pack aos caminhos de aprendizado. 
 
-1. Na **Home** Page do site de cursores de aprendizado, aponte para **página inicial** e clique em **Administração de caminhos de aprendizado**. 
-2. Na página **Administração** , clique em **... Adicione o pacote de conteúdo** no canto superior direito da página.
-3. Clique em pacote de conteúdo personalizado e insira um nome para o pacote de conteúdo e, em seguida, especifique a CDN onde os arquivos JSON estão localizados.
+1. Na home **page** dos caminhos de aprendizado, aponte para **Home** e clique em Administração de caminhos **de aprendizagem.** 
+2. Na página **Administração,** clique em **... Adicione Content Pack** no canto superior direito da página.
+3. Clique em Pacote de Conteúdo Personalizado e insira um nome do Pacote de Conteúdo e especifique a CDN onde os arquivos JSON estão localizados.
 
 ![cg-part-addconpack.png](media/cg-part-addconpack.png)
 
-4. Clique em **Salvar**. O conteúdo do seu pacote de conteúdo personalizado agora deve aparecer na página de administração. Veja um exemplo. 
+4. Clique em **Salvar**. O conteúdo do Pacote de Conteúdo Personalizado agora deve aparecer na página Administração. Veja um exemplo. 
 
 ![cg-part-addconpackex.png](media/cg-part-addconpackex.png)
 
-### <a name="filter-to-the-content-pack-in-the-web-part"></a>Filtrar para o pacote de conteúdo na Web Part
-Com os caminhos de aprendizado, você pode adicionar a Web Part de cursores de aprendizado à página, filtrar a Web Part para apontar para a fonte do pacote de conteúdo personalizado e, em seguida, filtrar a Web Part para a categoria, a subcategoria, a lista de reprodução e o ativo que você deseja. 
+### <a name="filter-to-the-content-pack-in-the-web-part"></a>Filtrar para o Pacote de Conteúdo na Web Part
+Com os caminhos de aprendizado, você pode adicionar a Web Part de caminhos de aprendizado a uma página, filtrar a Web Part para apontar para a fonte do Pacote de Conteúdo Personalizado e filtrar a Web Part para a categoria, subcategoria, playlist e ativo que você deseja. 
 
-1. No site de cursores de aprendizado, clique em **novo**e em **página**.
-2. Clique em **em branco**e, em seguida, **crie página**.
+1. No site de caminhos de aprendizado, clique em **Novo** e, em seguida, **Página**.
+2. Clique **em Branco** e, em seguida, Criar **Página**.
 3. Dê um nome à página. 
-4. Clique em **+ Adicionar uma nova seção** no lado esquerdo da página.
-5. Clique **+** na parte superior central da nova seção e, em seguida, adicione a Web Part **caminhos de aprendizado da Microsoft 365** .
-6. Clique na Web Part e, em seguida, clique no ícone **Editar** .
-7. Na caixa **selecionar a fonte de aprendizado** , selecione seu pacote de conteúdo personalizado e, em seguida, filtre a Web Part para o conteúdo desejado. Veja a seguir um exemplo da Web Part filtrada para uma lista de reprodução de um pacote de conteúdo personalizado.
+4. Clique **em + Adicionar uma nova seção** no lado esquerdo da página.
+5. Clique no meio superior da nova seção e adicione a Web Part de caminhos de aprendizado do **+** **Microsoft 365.**
+6. Clique na Web Part e clique no **ícone Editar.**
+7. Na caixa **Selecionar a Fonte de** Aprendizado, selecione seu Pacote de Conteúdo Personalizado e filtre a Web Part para o conteúdo que você deseja. O exemplo a seguir fornece um exemplo da Web Part filtrada para uma playlist de um Pacote de Conteúdo Personalizado.
 
-![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)  
-
-
-
-
+![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)

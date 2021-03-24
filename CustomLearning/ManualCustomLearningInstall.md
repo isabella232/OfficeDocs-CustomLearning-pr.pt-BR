@@ -1,59 +1,59 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Caminhos de aprendizado da instalação manual
+title: Manual Install Learning Pathways
 ms.date: 02/18/2019
-description: Caminhos de aprendizado da instalação manual
+description: Manual Install Learning Pathways
 ms.service: sharepoint online
-ms.openlocfilehash: a9ae97bbafcc82c54251cae9a0ad658b7a0c16f4
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 992fe28f1ca2bdd09c5d29a4a5342b06ff093105
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234663"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162838"
 ---
-# <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>Instalando e Configurando manualmente o aprendizado personalizado para o Office 365
+# <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>Instalar e configurar manualmente o Aprendizado Personalizado para o Office 365
 
-A Web Part de aprendizado personalizado da Microsoft é compilar usando a versão 1.7.1 da [estrutura do SharePoint](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview) .
+A Web Part do Microsoft Custom Learning é construída usando a [Estrutura do SharePoint versão](/sharepoint/dev/spfx/sharepoint-framework-overview) 1.7.1.
 
 Para instalar e configurar manualmente a Web Part e o conjunto de sites, você precisará concluir as seguintes etapas:
 
 1. Valide se você atendeu a todos os pré-requisitos.
-1. Instale o arquivo customlearning. sppkg no catálogo de aplicativos do locatário do Office 365.
-1. Provisione/identifique um site de comunicação moderna para atuar como seu aprendizado personalizado para o site do Office 365 Home.
-1. Execute um script do PowerShell que configurará seu locatário com os artefatos apropriados de que o aprendizado personalizado depende.
-1. Navegue até a página do site CustomLearningAdmin. aspx para carregar a Web Part de administração para inicializar a configuração de conteúdo personalizado.
+1. Instale o arquivo customlearning.sppkg no catálogo de aplicativos de locatários do Office 365.
+1. Provisionar/identificar um site de comunicação moderno para atuar como seu site de aprendizado personalizado para o Office 365.
+1. Execute um script do PowerShell que configurará seu locatário com os artefatos apropriados dos quais o Aprendizado Personalizado depende.
+1. Navegue até a página de site CustomLearningAdmin.aspx para carregar a Web Part de administrador para inicializar a configuração de conteúdo personalizada.
 
 ## <a name="prerequisites"></a>Pré-requisitos
 
-Você deve ter configurado e configurado o catálogo de aplicativos de todo o locatário. Confira [Configurar o locatário do Office 365](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) e siga a seção criar site de catálogo de aplicativos. Se o catálogo de aplicativos de todo o locatário já tiver sido provisionado, você precisará ter acesso a uma conta que tenha direitos para carregar um pacote para concluir esse processo de instalação. Geralmente, esta é uma conta com a função de administrador do SharePoint. Se uma conta com essa função não funcionar, vá para o centro de administração do SharePoint e encontre os administradores do conjunto de sites para o conjunto de sites do catálogo de aplicativos e faça o logon como um dos administradores de conjunto de sites ou adicione a conta de administrador do SharePoint que falhou aos administradores do conjunto de sites. Você também precisará de acesso a uma conta que seja um administrador de locatários do SharePoint.
+Você deve ter configurado e configurado o Catálogo de Aplicativos em todo o locatário. Confira Configurar seu locatário do [Office 365](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) e siga a seção Criar site de catálogo de aplicativos. Se o Catálogo de Aplicativos de todo o locatário já tiver sido provisionado, você precisará acessar uma conta que tenha direitos para carregar um pacote para concluir esse processo de instalação. Geralmente, essa é uma conta com a função de administrador do SharePoint. Se uma conta com essa função não funcionar, vá para o Centro de administração do SharePoint e encontre os Administradores do Conjunto de Sites para o conjunto de sites do catálogo de aplicativos e faça logon como um dos Administradores do Conjunto de Sites ou adicione a conta de administrador do SharePoint que falhou aos Administradores do Conjunto de Sites. Você também precisará de acesso a uma conta que seja administrador de locatários do SharePoint.
 
-## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>Carregar a Web Part no catálogo de aplicativos do locatário
+## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>Carregar a Web Part no Catálogo de Aplicativos de Locatários
 
-Para configurar o aprendizado personalizado para o Office 365, você carrega o arquivo customlearning. sppkg no catálogo de aplicativos de todo o locatário e o implanta. Consulte [usar o catálogo de aplicativos para disponibilizar aplicativos de negócios personalizados para seu ambiente do SharePoint Online](https://docs.microsoft.com/sharepoint/use-app-catalog) para obter instruções detalhadas sobre como adicionar um aplicativo ao catálogo de aplicativos.
+Para configurar o Custom Learning para o Office 365, carregue o arquivo customlearning.sppkg no Catálogo de Aplicativos de todo o locatário e implante-o. Confira Usar o Catálogo de Aplicativos para disponibilizar aplicativos comerciais personalizados para seu ambiente [do SharePoint Online](/sharepoint/use-app-catalog) para obter instruções detalhadas sobre como adicionar um aplicativo ao catálogo de aplicativos.
 
-## <a name="provisionidentify-modern-communication-site"></a>Provisionar/identificar o site de comunicação moderna
+## <a name="provisionidentify-modern-communication-site"></a>Provisionamento/Identificar Site de Comunicação Moderna
 
-Identifique um site de comunicação existente do SharePoint ou provisione um novo em seu locatário do SharePoint Online. Para obter mais informações sobre como provisionar um site de comunicação, consulte [criar um site de comunicação no SharePoint Online](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) e siga as etapas para criar um site de comunicação.
+Identifique um site de comunicação existente do SharePoint ou provisione um novo no locatário do SharePoint Online. Para obter mais informações sobre como provisionar um site de comunicação, consulte [Create a communication site in SharePoint Online](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) and follow the steps to create a communication site.
 
 ## <a name="set-permissions-for-the-site"></a>Definir permissões para o site
 
-Você desejará adicionar todos os usuários que devem ser capazes de exibir conteúdo para o grupo de visitantes e todos que possam administrar listas de reprodução personalizadas para o grupo de membros. Para configurar o site para aprendizado personalizado na primeira vez que o usuário deve ser um administrador de conjunto de sites ou parte do grupo de proprietários.
+Você deseja adicionar todos os que devem ser capazes de exibir conteúdo para o grupo Visitantes e todos os que devem ser capazes de administrar playlists personalizadas ao grupo Membros. Para configurar o site para Aprendizado Personalizado na primeira vez, o usuário deve ser um administrador de conjunto de sites ou parte do grupo Proprietários.
 
-Adicione o aprendizado personalizado para o aplicativo do Office 365 ao conjunto de sites.
+Adicione Aprendizado Personalizado para o Aplicativo do Office 365 ao conjunto de sites.
 
-## <a name="execute-powershell-configuration-script"></a>Executar script de configuração do PowerShell
+## <a name="execute-powershell-configuration-script"></a>Executar o Script de Configuração do PowerShell
 
-Um script do PowerShell `CustomLearningConfiguration.ps1` é incluído, que você precisará executar para criar três [Propriedades de locatário](https://docs.microsoft.com/sharepoint/dev/spfx/tenant-properties) que a solução usa. Além disso, o script cria duas [páginas de aplicativo de parte única](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/single-part-app-pages) na biblioteca de páginas do site para hospedar as Web Parts de administrador e usuário em um local conhecido.
+Um script do PowerShell está incluído que você precisará executar para criar três propriedades `CustomLearningConfiguration.ps1` [de locatário](/sharepoint/dev/spfx/tenant-properties) que a solução usa. Além disso, o script cria duas [páginas de aplicativo](/sharepoint/dev/spfx/web-parts/single-part-app-pages) de parte única na biblioteca de páginas do site para hospedar as Web Parts do administrador e do usuário em um local conhecido.
 
-### <a name="disabling-telemetry-collection"></a>Desabilitando a coleção de telemetria
+### <a name="disabling-telemetry-collection"></a>Desabilitando a coleção telemetria
 
-Parte dessa solução inclui consentimento de controle de telemetria anônimo, que por padrão é definido como ativado. Se você estiver executando uma instalação manual e quiser desativar o rastreamento de telemetria, altere o `CustomlearningConfiguration.ps1` script para definir a variável $optInTelemetry como $false.
+Parte dessa solução inclui a aceitação de rastreamento de telemetria anonimizada, que por padrão está definida como. Se você estiver executando uma instalação manual e quiser desativar o controle de telemetria, altere o script para definir a variável `CustomlearningConfiguration.ps1` $optInTelemetry como $false.
 
-Se você não estiver executando uma instalação manual e quiser desativar o rastreamento de telemetria, um script separado foi incluído e, `TelemetryOptOut.ps1` quando executado, o rastreamento de telemetria será desabilitado.
+Se você não estiver executando uma instalação manual e quiser desativar o controle de telemetria, um script separado foi incluído que, quando executado, desabilitará o controle `TelemetryOptOut.ps1` de telemetria.
 
 ## <a name="initialize-web-part-custom-configuration"></a>Inicializar a configuração personalizada da Web Part
 
-Após o script do PowerShell ser executado com êxito, navegue até `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx` . Isso inicializa o item de lista CustomConfig que configura o aprendizado personalizado para seu primeiro uso.
+Depois que o script do PowerShell for executado com êxito, navegue até `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx` . Isso inicializa o item de lista CustomConfig que configura o aprendizado personalizado para seu primeiro uso.
 
-A configuração agora está concluída e você pode continuar usando o aprendizado personalizado para o Office 365. Confira a documentação do usuário para obter mais informações.
+A configuração agora está concluída e você pode avançar com o uso do Custom Learning para o Office 365. Confira a documentação do usuário para obter mais informações.

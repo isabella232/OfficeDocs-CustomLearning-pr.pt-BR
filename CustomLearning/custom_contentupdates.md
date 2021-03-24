@@ -5,12 +5,12 @@ title: Caminhos de aprendizado Atualizações de conteúdo
 ms.date: 3/30/2020
 description: Caminhos de aprendizado Atualizações de conteúdo
 ms.service: o365-solutions
-ms.openlocfilehash: 1cd46031ceb2ef1c88099d5556887aa7ea72cc80
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.openlocfilehash: 092520d6c56f9d9d96f4d4de8ff5d2dbc898e1f2
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573413"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51163078"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Atualizações de conteúdo do Microsoft 365 Learning Pathways
 Os percursos de aprendizagem se esforçam para aderir a um ciclo de atualização de conteúdo trimestral. Para saber mais sobre como as atualizações de conteúdo são aplicadas e como gerenciar atualizações de conteúdo, consulte [Manage Content Updates](custom_contentupdatesmanage.md). 
@@ -373,12 +373,12 @@ Por solicitação, também há alguns novos ativos forms.
 
 ### <a name="resources-for-supporting-your-remote-workforce"></a>Recursos adicionais para dar suporte a funcionários remotos
 Você pode usar os caminhos de aprendizado para criar uma página de aterrissagem em seu site de caminhos de aprendizado para dar suporte a funcionários remotos. Ou você pode adicionar a Web Part de caminhos de aprendizado a uma página de suporte existente em seu site de caminhos de aprendizagem e filtrar a Web Part para mostrar as playlists Trabalhar Remotamente. Aqui está uma lista de alguns dos principais recursos da Microsoft para dar suporte ao trabalho remoto em sua organização. 
-- [Como implementar o Microsoft Teams](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
-- [Conferências e reuniões no Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [Dar suporte a funcionários remotos usando o Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
-- [Perguntas frequentes: Suporte para sua força de trabalho remota](https://docs.microsoft.com/microsoftteams/faq-support-remote-workforce)
+- [Como implementar o Microsoft Teams](/microsoftteams/how-to-roll-out-teams)
+- [Conferências e reuniões no Microsoft Teams](/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
+- [Dar suporte a funcionários remotos usando o Microsoft Teams](/microsoftteams/support-remote-work-with-teams)
+- [Perguntas frequentes: Suporte para sua força de trabalho remota](/microsoftteams/faq-support-remote-workforce)
 - [As 9 principais maneiras como a MICROSOFT ESTÁ habilitando o trabalho remoto para seus funcionários](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
-- [Treinamento do Microsoft Teams](https://docs.microsoft.com/microsoftteams/training-microsoft-teams-landing-page)
+- [Treinamento do Microsoft Teams](/microsoftteams/training-microsoft-teams-landing-page)
 - [Educação: Centro de Educação da Microsoft](https://education.microsoft.com) 
 - [Educação: começar a aprender remotamente](https://education.microsoft.com/resource/4c0c02c0)
 
@@ -445,4 +445,3 @@ A subcategoria sway do conteúdo foi adicionada com as seguintes playlists.
 - Criar formulários (um ativo)
 - Criar relatórios (dois ativos)
 - Proteger bancos de dados (um ativo)
-

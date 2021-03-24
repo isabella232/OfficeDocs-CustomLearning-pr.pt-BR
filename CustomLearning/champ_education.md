@@ -1,28 +1,28 @@
 ---
-title: Práticas recomendadas do programa Champion – especialista em adoção do serviço
-description: Conduzir a adoção do Office 365 com nossas práticas recomendadas de programa de Champion
+title: Práticas Recomendadas do Programa Champion - Especialista em Adoção de Serviço
+description: Impulsionar a adoção do Office 365 com nossas práticas recomendadas do Programa Champion
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint online
-ms.openlocfilehash: 9490887ca5b8debd804081872e2c57526838d556
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 743320f9891b184a60a06d27927424949d60d01b
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233473"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162888"
 ---
-# <a name="validate-your-skills---become-a-service-adoption-specialist"></a>Validar suas habilidades-tornar-se um especialista de adoção de serviço
+# <a name="validate-your-skills---become-a-service-adoption-specialist"></a>Validar suas habilidades - Tornar-se um especialista em adoção de serviço
 
-![Curso de especialista de adoção de serviço](media/champs_sascourse.png)
+![Curso especialista em Adoção de Serviços](media/champs_sascourse.png)
 
-Se a adoção do serviço fizer parte de sua função ou se você quiser se aprofundar no treinamento formal deste tópico, poderá inscrever-se no curso online fornecido pela Microsoft em nosso site de parceiros, EdX.org. 
+Se a adoção de serviço faz parte da sua função ou você deseja ir mais fundo com o treinamento formal neste tópico, você pode se inscrever no curso online fornecido pela Microsoft em nosso site parceiro, EdX.org. 
 
-Este [curso online de especialista em adoção de serviço](https://aka.ms/AdoptionCert) é **gratuito para auditoria**.  Se quiser receber o certificado do EdX para conclusão, é necessário ter uma taxa de $99.  Este curso foi criado pelo [Karuana Gatimu](https://linkedin.com/in/karuanagatimu) da engenharia do Microsoft Teams com entrada de vários especialistas em ti da Microsoft e de ti da Microsoft.  As práticas recomendadas contidas no foram coletadas de observar o setor como um todo e são complementares a uma educação formal de gerenciamento de alterações na organização.  
+Este [curso online do Especialista em](/learn/paths/m365-service-adoption/) Adoção de Serviços é gratuito para **auditoria.**  Se você quiser receber seu certificado EdX para conclusão, uma taxa de US$ 99,00 é necessária.  Este curso foi de autoria de [Karuana Gatimu](https://linkedin.com/in/karuanagatimu) da Engenharia do Microsoft Teams com a entrada de vários especialistas em MVP da Microsoft e da Microsoft.  As práticas recomendadas contidas nele foram coletadas da observação do setor como um todo e são complementares a uma educação formal de gerenciamento de alterações organizacionais.  
 
-Orientações práticas, ferramentas e conteúdo adicional estão contidos neste curso que permitirá que você valide seu skils nesse recurso de negócios importante.  
+Diretrizes práticas, ferramentas e conteúdo adicional estão contidos neste curso que permitirá que você valide seus esquemas neste importante recurso de negócios.  
 
 Saiba mais em nosso [comunicado](https://aka.ms/AdoptionCertAnnouncement) sobre a publicação deste curso. 
 
-Junte-se à nossa comunidade online de usuários corporativos e profissionais de ti aprendendo sobre a adoção em https://aka.ms/DriveAdoption . 
+Participe da nossa comunidade online de usuários de negócios e profissionais de TI aprendendo sobre a adoção em https://aka.ms/DriveAdoption .

@@ -1,20 +1,20 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Usar o supervisor para Teams com caminhos de aprendizado para ajudar a distribuir o Microsoft Teams
+title: Use o Supervisor para Teams com caminhos de aprendizagem para ajudar a implantar o Microsoft Teams
 ms.date: 12/9/2020
-description: Usar o supervisor para Teams com caminhos de aprendizado para ajudar a distribuir o Microsoft Teams
+description: Use o Supervisor para Teams com caminhos de aprendizagem para ajudar a implantar o Microsoft Teams
 ms.service: o365-solutions
-ms.openlocfilehash: f50779b593c48d944ccb2577ec6342f9f621abf3
-ms.sourcegitcommit: 896b2635713967987bb705c861e11b5568fd72ca
+ms.openlocfilehash: a5ab35c00827712bd72a5e04c2cf9f4c109f3d91
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49616795"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162808"
 ---
-# <a name="use-advisor-for-teams-with-learning-pathways-to-help-roll-out-microsoft-teams"></a>Usar o supervisor para Teams com caminhos de aprendizado para ajudar a distribuir o Microsoft Teams
-Agora, os caminhos de aprendizado estão integrados ao Advisor for Teams. O supervisor para o Teams orienta você por meio de um caminho de distribuição e aprendizado do Microsoft Teams ajuda a concluir a última milha da distribuição, oferecendo uma solução de aprendizado personalizável para que os usuários sejam atualizados com rapidez. O supervisor para Teams avalia o ambiente do Microsoft 365 da sua organização e identifica as configurações mais comuns que você precisa atualizar ou modificar antes de poder distribuir o Microsoft Teams. Em seguida, o Advisor para Teams cria uma equipe de implantação (no Teams) com canais para cada carga de trabalho que você deseja implantar. Cada carga de trabalho na equipe de implantação acompanha um plano de planejador abrangente que inclui todas as tarefas de distribuição de cada carga de trabalho, incluindo tarefas para a criação de um plano de aprendizado e a adoção de caminhos de aprendizado.
+# <a name="use-advisor-for-teams-with-learning-pathways-to-help-roll-out-microsoft-teams"></a>Use o Supervisor para Teams com caminhos de aprendizagem para ajudar a implantar o Microsoft Teams
+Agora, os Caminhos de Aprendizagem são integrados ao Advisor for Teams. O Consultor para o Teams orienta você por meio de uma rolagem do Microsoft Teams e os caminhos de aprendizado ajudam a concluir a última milha da lançamento, oferecendo uma solução de aprendizado personalizável para que os usuários se atualizem rapidamente. O Consultor do Teams avalia o ambiente do Microsoft 365 da sua organização e identifica as configurações mais comuns que você precisa atualizar ou modificar antes de poder lançar o Teams com êxito. Em seguida, o Advisor for Teams cria uma equipe de Implantação (no Teams), com canais para cada carga de trabalho que você deseja lançar. Cada carga de trabalho na equipe de Implantação vem com um plano abrangente do Planner que inclui todas as tarefas de distribuição para cada carga de trabalho, incluindo tarefas para criar um plano de aprendizagem e impulsionar a adoção com caminhos de aprendizado.
 
-- Para obter mais informações sobre como usar o Team Advisor, consulte [use Advisor for Teams para distribuir o Teams](https://docs.microsoft.com/microsoftteams/use-advisor-teams-roll-out)
-- Para obter mais informações sobre como usar o Team Advisor com os caminhos de aprendizado, consulte [criar um plano de aprendizado](https://docs.microsoft.com/microsoftteams/use-advisor-teams-roll-out#create-a-learning-plan)
-- Para obter mais informações sobre como planejar, personalizar, impulsionar a adoção e medir o impacto da implantação dos seus caminhos de aprendizado, consulte o [centro de sucesso do administrador de cursores de aprendizado](custom_successcenter.md)
+- Para obter mais informações sobre como usar o Teams Advisor, [consulte Use Advisor for Teams to roll out Teams](/microsoftteams/use-advisor-teams-roll-out)
+- Para obter mais informações sobre como usar o Teams Advisor with Learning Pathways, consulte [Create a Learning Plan](/microsoftteams/use-advisor-teams-roll-out#create-a-learning-plan)
+- Para obter mais informações sobre como planejar, personalizar, impulsionar a adoção e medir o impacto da implantação de seus caminhos de [aprendizado,](custom_successcenter.md) consulte o Centro de Sucesso do Administrador de Caminhos de Aprendizagem

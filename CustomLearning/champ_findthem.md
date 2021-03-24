@@ -1,35 +1,35 @@
 ---
-title: Práticas recomendadas do programa Champion – encontre campeões
-description: Conduzir a adoção do Office 365 com nossas práticas recomendadas de programa de Champion
+title: Práticas recomendadas do Programa Champion - Encontrar Campeões
+description: Impulsionar a adoção do Office 365 com nossas práticas recomendadas do Programa Champion
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint online
-ms.openlocfilehash: d3dc0b573469e8990c7b82014f645bcd4824a282
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: d7e3d5bf25a822c6c09245658726d255dbb82a3f
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233463"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162897"
 ---
-# <a name="finding-your-champions"></a>Encontrando seus campeões 
+# <a name="finding-your-champions"></a>Localizar seus Campeões 
 
-É provável que você já saiba quem é seus campeões, mesmo se não tiver um programa formal.  São as pessoas que:
+É provável que você já saiba quem são seus campeões, mesmo que não tenha um programa formal no momento.  Estas são pessoas que:
 
-Geralmente são vistas a ajudar as pessoas com a tecnologia existente a ensinar e a aprender sobre novas tecnologias podem ser vozes sobre as limitações das soluções atuais estão prestes a experimentar novas coisas, mesmo antes de outros colegas de trabalho
+São frequentemente vistos ajudando outras pessoas com tecnologia existente Aproveite o ensino e o aprendizado sobre a nova tecnologia Pode ser uma voz sobre as limitações das soluções atuais Estão interessados em experimentar coisas novas, mesmo antes de outros colegas de trabalho
 
 > [!NOTE]
-> Os campeões são diferentes de pessoas que gostam de testar o novo software apenas para a tecnologia. Os campeões prosperam em **ajudar outras pessoas** independentemente do contexto. 
+> Os campeões são diferentes das pessoas que gostam de testar novos softwares somente para a tecnologia. Os campeões prosperam **em ajudar outras pessoas,** independentemente do contexto. 
 
-## <a name="start-small-and-grow"></a>Comece pequeno e cresça
+## <a name="start-small-and-grow"></a>Iniciar pequeno e crescer
 
-Se sua organização não tiver um programa Champion atual ou se você quiser Reinvigorate-lo, você deve enviar um convite para um pequeno grupo de pessoas conhecidas que se encaixam no perfil acima.  Reúna juntos para discutir os objetivos do novo programa e obter seus comentários. Campeões verdadeiros como ter sua voz ouvidos e sentem-se parte da criação de algo.  
+Se sua organização não tiver um programa Champion atual ou você quiser reinviguar o que você enviou um convite para um pequeno grupo de pessoas conhecidas que se encaixam no perfil acima.  Reúna-se em seguida para discutir as metas do novo programa e obter seus comentários. Os Verdadeiros Campeões gostam de ouvir e sentir sua voz como se eles fazem parte da criação de algo.  
 
 ## <a name="provide-structure"></a>Fornecer estrutura
 
-Os programas de campeão bem-sucedidos têm um líder e uma programação regular para cumprir e discutir os problemas atuais.  As reuniões mensais no mínimo são uma parte importante da criação de uma cultura positiva na Comunidade e na estimular o crescimento.  
+Os programas defensores bem-sucedidos têm um líder e uma agenda regular para atender e discutir problemas atuais.  As reuniões mensais, no mínimo, são uma parte importante da criação de uma cultura positiva na comunidade e do crescimento.  
 
-Você também pode usar o Microsoft Teams para criar um hub para o programa de especialistas em equipe.  Um exemplo para essa estrutura de equipe pode ser encontrado neste [artigo](https://docs.microsoft.com/MicrosoftTeams/teams-adoption-your-first-teams).
+Você também pode usar o Microsoft Teams para criar um hub para o programa dos Campeões em Equipe.  Um exemplo para essa estrutura de equipe pode ser encontrado [neste artigo](/MicrosoftTeams/teams-adoption-your-first-teams).
 
-![guias da equipe de defensores](media/teams-adoption-tab-example.png)
+![guias de equipe do campeão do trabalho em equipe](media/teams-adoption-tab-example.png)
