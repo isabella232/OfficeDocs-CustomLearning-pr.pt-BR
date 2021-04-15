@@ -2,15 +2,15 @@
 author: pkrebs
 ms.author: pkrebs
 title: Caminhos de aprendizagem Atualizações de recursos
-ms.date: 10/20/2019
+ms.date: 4/13/2021
 description: Caminhos de aprendizagem Atualizações de recursos
-ms.service: sharepoint online
-ms.openlocfilehash: dba6903553ef5b51bc6d1e727c0e61781f9db26a
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.service: o365-solutions
+ms.openlocfilehash: 4be3d93b40e1e7ab5545dd1f835369df5f7fc7e0
+ms.sourcegitcommit: 6b304698cdde8fae25e990f4b4680d142a1ecba1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573383"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755277"
 ---
 # <a name="learning-pathways-version-40-feature-updates"></a>Atualizações de recursos de caminhos de aprendizagem versão 4.0
 O seguinte inclui atualizações de recursos para caminhos de aprendizado versão 4.0.  
@@ -20,7 +20,7 @@ As atualizações de recursos de março de 2021 incluem suporte multilíngue par
 
 ### <a name="multilingual-support-for-dutch"></a>Suporte multilíngue para holandês 
 O suporte multilíngue para caminhos de aprendizado agora inclui holandês. A lista de idiomas com suporte inclui: 
-- Inglês     
+- English     
 - Chinês (simplificado) 
 - Francês 
 - Alemão 
@@ -40,7 +40,7 @@ Os novos recursos a seguir foram adicionados aos caminhos de aprendizado do Micr
 
 ### <a name="multilingual-support-for-learning-pathways"></a>Suporte multilíngue para caminhos de aprendizagem 
 O suporte multilíngue para caminhos de aprendizado agora inclui holandês. 
-- Inglês     
+- English     
 - Chinês (simplificado) 
 - Francês 
 - Alemão 
@@ -48,7 +48,8 @@ O suporte multilíngue para caminhos de aprendizado agora inclui holandês.
 - Japonês (Japão) 
 - Português (Brasil) 
 - Russo (russo) 
-- Espanhol 
+- Espanhol
+- Holandês 
 
 
 Para obter mais informações, consulte [Learning pathways multilingual overview](custom_overview.md). 
@@ -65,9 +66,6 @@ Os caminhos de aprendizado agora fornece um selador de imagem fácil de usar par
 Para mais informações, confira:
 - [Criar uma playlist personalizada](custom_createnewplaylist.md). 
 - [Criar uma subcategoria](custom_createnewcat.md)
-
-> [!NOTE]
-> O suporte para o idioma holandês não será incluído na próxima versão do suporte a vários idiomas para caminhos de aprendizado. Continuaremos avaliando novas opções de idioma no futuro.
 
 ## <a name="november-2019-version-30-feature-updates"></a>Atualizações de recursos de novembro de 2019 versão 3.0
 Com base em grande parte nos comentários dos clientes, os novos recursos a seguir foram adicionados aos caminhos de aprendizado do Microsoft 365 versão 3.0.

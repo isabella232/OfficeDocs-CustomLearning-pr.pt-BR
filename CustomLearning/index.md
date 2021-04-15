@@ -1,16 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
+manager: bpardi
 title: Visão geral dos caminhos de aprendizado do Microsoft 365
 ms.date: 9/24/2020
 description: Saiba como os caminhos de aprendizado do Microsoft 365 podem acelerar o uso e a adoção dos serviços do Microsoft 365 em sua organização. Os caminhos de aprendizado incluem uma Web part personalizada do SharePoint Online e um moderno site de treinamento em comunicações do SharePoint Online que é facilmente provisionado para o locatário do Microsoft 365.
+audience: itpro
 ms.service: o365-solutions
-ms.openlocfilehash: 60a6775b1d128c3ed0b88df62dbf990c457fba33
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.topic: article
+ms.openlocfilehash: 240c0da6294d8b00f95fa5dcf7f66d4eea6814bb
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573403"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749349"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Caminhos de aprendizado do Microsoft 365 
 Os caminhos de aprendizado do Microsoft 365 são uma solução de aprendizado sob demanda e personalizável, projetada para aumentar o uso e a adoção dos serviços do Microsoft 365 em sua organização.    

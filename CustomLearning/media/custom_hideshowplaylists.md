@@ -1,34 +1,38 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Ocultar e mostrar playlists
+title: Como ocultar e mostrar playlists
+description: Como ocultar playlists fornecidas pela Microsoft e substituí-las por playlists criadas para sua organização.
 ms.date: 02/15/2019
-description: Ocultar e mostrar playlists
-ms.openlocfilehash: 36151a997e4090b4d2130981ace5fd8871e8792f
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+manager: bpardi
+audience: itpro
+ms.topic: article
+ms.service: o365-solutions
+ms.openlocfilehash: e6622478759c9942dbb79f6c1bf5b39946886240
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233283"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749459"
 ---
-# <a name="hide-and-show-playlists"></a>Mostrar e ocultar Listas de Reprodução
+# <a name="how-to-hide-and-show-playlists"></a>Como ocultar e mostrar playlists
 
-Para ajustar os caminhos de aprendizado para seu ambiente, talvez seja necessário ocultar as listas de reprodução fornecidas pela Microsoft e substituí-las pelas listas de reprodução que você cria para sua organização. Por exemplo, um caso de uso comum do cliente é ocultar a lista de reprodução de seis etapas simples da Microsoft e substituí-la por uma lista de reprodução que você crie para sua organização ou grupo de usuários. 
+Para adaptar os caminhos de aprendizado para seu ambiente, talvez seja necessário ocultar listas de reprodução fornecidas pela Microsoft e substituí-las pelas playlists criadas para sua organização. Por exemplo, um caso comum de uso do cliente é ocultar a lista de reprodução Seis Etapas Simples da Microsoft e substituí-la por uma playlist criada para sua organização ou grupo de usuários. 
 
-## <a name="hide-a-playlist"></a>Ocultar uma lista de reprodução
+## <a name="hide-a-playlist"></a>Ocultar uma playlist
 
-1. Na **Home** Page de cursores de aprendizado, clique no bloco **treinamento do Office 365** .
-2. Na Web Part de cursores de aprendizado, selecione o menu **sistema** e, em seguida, selecione **administrar playlist**. Agora você deve ter duas guias abertas: uma com a página de **Administração de cursores de aprendizado** ; e um com a página de **treinamento do Office 365** . 
-3. Na página **Administração de aprendizagem personalizada** , em **categoria**, selecione uma subcategoria e, em seguida, selecione Eyeball para uma lista de reprodução para ocultá-la. Para este exemplo, clique na subcategoria **primeiros dias** e, em seguida, oculte a lista de **cinco etapas simples** .  
+1. Na home **page** de caminhos de aprendizado, clique no pacote de treinamento do Office **365.**
+2. Na Web Part de caminhos de aprendizado, selecione o menu **Sistema** e selecione **Administrar Playlist**. Agora, você deve ter duas guias abertas: uma com a página Administração de caminhos **de** aprendizado; e um com a página de treinamento do **Office 365.** 
+3. Na página **Administração de Aprendizagem Personalizada,** em **Categoria**, selecione uma subcategoria e selecione o olho ocular de uma playlist para o ocultar. Para este exemplo, clique na subcategoria **Primeiros Dias** e, em seguida, ocultar a lista de reprodução Seis **Etapas Simples.**  
 
-![cg-hideplaylist.png](media/cg-hideplaylist.png)
+![Guia Navegador mostrando a página Iniciar com o Office 365](cg-hideplaylist.png)
 
-### <a name="verify-the-playlist-is-hidden"></a>Verifique se a playlist está oculta
-- Para verificar se a lista de reprodução está oculta, selecione a guia navegador com a página Introdução **ao Office 365** carregada e atualize a página. Agora você deve ver a subcategoria **primeiros dias** e **seis etapas simples** estão ocultas. Nesse caso, há apenas uma lista de reprodução na subcategoria e está oculta, portanto, os caminhos de aprendizado também ocultam a subcategoria em vez de exibir uma subcategoria vazia. 
+### <a name="verify-the-playlist-is-hidden"></a>Verificar se a playlist está oculta
+- Para verificar se a playlist está oculta, selecione a guia do navegador com a página Iniciar com o **Office 365** carregada e atualize a página. Agora você deve ver a subcategoria **First Days** e Seis **Etapas Simples** está oculta. Nesse caso, há apenas uma playlist na subcategoria e ela está oculta, portanto, os caminhos de aprendizado também ocultam a subcategoria em vez de exibir uma subcategoria vazia. 
 
-![cg-hideplaylistrefresh.png](media/cg-hideplaylistrefresh.png)
+![Browser showing Get Started with Office 365 page refreshed](cg-hideplaylistrefresh.png)
 
-## <a name="unhide-a-playlist"></a>Reexibir uma lista de reprodução
+## <a name="unhide-a-playlist"></a>Desarmá-se de uma playlist
 
-- Na página **Administração de aprendizagem personalizada** , em **categoria**, selecione uma subcategoria, selecione uma lista de reprodução e, em seguida, selecione Eyeball para a lista de reprodução oculta para reocultá-la. Para este exemplo, reexiba as seis listas de reprodução de **etapas simples** na subcategoria **dias** .  
+- Na página **Administração de Aprendizagem Personalizada,** em **Categoria**, selecione uma subcategoria, selecione uma playlist e selecione o globo ocular da playlist oculta para desaproxá-la. Para este exemplo, desincida a lista de reprodução Seis Etapas **Simples** na subcategoria **First Days.**  
 

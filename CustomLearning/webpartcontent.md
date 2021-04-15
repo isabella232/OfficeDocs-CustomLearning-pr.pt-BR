@@ -1,24 +1,41 @@
-# <a name="webpart-default-content"></a>Conteúdo padrão da Web Part
+---
+author: karuanag
+ms.author: pkrebs
+title: Conteúdo padrão da Webpart
+ms.date: 08/21/2018
+manager: alexb
+ms.service: o365-solutions
+audience: itpro
+description: Como o modelo de playlist funciona
+ms.topic: article
+ms.openlocfilehash: 42962414b3fba8df857ae1ae68985ea7970ee991
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749449"
+---
+# <a name="webpart-default-content"></a>Conteúdo padrão da Webpart
 
-## <a name="the-playlist-model"></a>O modelo de lista de reprodução
+## <a name="the-playlist-model"></a>O modelo de playlist
 
-Nossa Web Part usa um modelo familiar de playlist para organizar o conteúdo.  Esse modelo é simples para que os usuários finais entendam e para personalizar, caso você opte por.  A personalização não é necessária.  Nossa experiência pronta para uso fornece um conteúdo de treinamento eficaz com base em nossa vasta pesquisa.
+Nossa webpart usa um modelo de playlist familiar para organizar o conteúdo.  Esse modelo é simples para os usuários finais entenderem e para você personalizar, caso você escolha.  A personalização não é necessária.  Nossa experiência completa fornece conteúdo de treinamento eficaz com base em nossa pesquisa extensiva.
 
-Essas listas de reprodução foram projetadas para ajudar as organizações a personalizar a experiência de aprendizagem para os usuários e apresentá-los com as listas de reprodução fáceis de consumir para ensinar a eles novos e comportamentos mais produtivos. O conteúdo do serve do Support.Office.com e os ativos são breves e rápidos, com o Peppy, que envolvem vídeos. 
+Essas playlists foram projetadas para ajudar as organizações a adaptar a experiência de aprendizado para os usuários e apresentá-los com playlists fáceis de consumir para ensinar a eles comportamentos novos e mais produtivos. O conteúdo serve de Support.Office.com, e os ativos são curtos e ativos, com vídeos atraentes e atraentes. 
 
-Cada bloco representa uma lista de reprodução de destaque individual ou uma categoria de conteúdo. Clicar em qualquer bloco de lista de reprodução ou categoria navega rapidamente pelo usuário na área selecionada. O gráfico abaixo mostra as duas listas de destaque em "playlist de introdução" e categorias de aplicativos do Office 365, como Excel, Microsoft Teams e outros. 
+Cada tile representa uma lista de reprodução em destaque individual ou uma categoria de conteúdo. Clicar em qualquer playlist ou grupo de categorias navega rapidamente pelo usuário até a área selecionada. O gráfico a seguir mostra as listas em destaque nas categorias "Começar Playlist" e Aplicativo do Office 365, como Excel, Microsoft Teams e outros. 
 
-![Exibição padrão da Web Part](media/clo365addwebpart.png)
+![Modo de exibição padrão da Webpart](media/clo365addwebpart.png)
 
-Clicar na categoria Excel por instância a navega para uma coleção de playlists.  Eles podem assistir ao conteúdo na ordem ou selecionar o que os interesses com base nas necessidades de aprendizado. 
+Clicar na categoria do Excel, por exemplo, os navega até uma coleção de playlists.  Eles podem assistir ao conteúdo em ordem ou selecionar o que os interessa com base em suas necessidades de aprendizado. 
 
-![Playlist de WebPart](media/clo365exceltraining.png)
+![Webpart Playlist](media/clo365exceltraining.png)
 
-Exibição da playlist selecionada
+Exibição de playlist selecionada
 
-![Playlist do Excel](media/clo365excelplaylist.png)
+![Excel Playlist](media/clo365excelplaylist.png)
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Próximas Etapas
 
-- Navegue e familiarize-se com o conteúdo existente
-- Continuar para [Personalizar as listas de reprodução](customplaylists.md)
+- Navegue e se familiarize com o conteúdo existente
+- Ocultar e mostrar playlists [personalizar listas de reprodução](custom_hideshowplaylists.md)
