@@ -4,18 +4,21 @@ ms.author: pkrebs
 title: Modelos de integração de parceiros
 ms.date: 3/9/2019
 description: Modelos de integração de parceiros
-ms.service: sharepoint online
-ms.openlocfilehash: f3b5c5ddc8de29d2805c86a24b1d9bef0c8cacfa
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 826b8a463fde50188abbc80e295924b120104cf6
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162928"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999517"
 ---
 # <a name="partner-integration-models"></a>Modelos de integração de parceiros
 Embora não seja possível complementar o conteúdo dos caminhos de aprendizado do Microsoft 365 diretamente 'fora da caixa' do serviço de Provisionamento do SharePoint Online, há vários modelos de integração que os parceiros podem aproveitar para criar ofertas de serviço de adução de valor alinhadas. Os modelos de integração de parceiros acima são apresentados em ordem de complexidade crescente e níveis de investimento. Portanto, nossas diretrizes são criar sua experiência e se formar para níveis mais avançados com base em seus modelos de negócios.
 
-![cg-part-intmodel.png](media/cg-part-intmodel.png) 
+![O gráfico de fluxo mostra a função de habilitadores, integradores e redistibutors.](media/cg-part-intmodel.png)
 
 ## <a name="how-should-i-get-started"></a>Como devo começar? 
 Para começar, aqui estão algumas práticas recomendadas a seguir.     
@@ -90,7 +93,7 @@ playlists.json – O manifesto de listas de reprodução é uma matriz de objeto
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |Id                            |GUID representando a playlist                                                             |  
 |Título                         |Nome de exibição da playlist                                                               |
-|Imagem                         |URL relativa (da CDN) para uma imagem para visualizar a playlist                              |                      
+|Image                         |URL relativa (da CDN) para uma imagem para visualizar a playlist                              |                      
 |LevelId                       |Nível associado                                                                           |
 |AudienceId                   |Audiência associada                                                                        |
 |TechnologyId                 |Tecnologia associada                                                                      |
@@ -133,7 +136,7 @@ A Microsoft utiliza páginas do GitHub como uma fonte de Rede de Entrega de Cont
 
 É importante que você mantenha a mesma estrutura de controle de versão que a Microsoft deve optar por estender a solução de caminhos de aprendizado com seu próprio pacote de conteúdo. Seu ponto de extremidade CDN não deve incluir a pasta de versão, pois a versão de manifesto suportada pela Web Part é baked nele e é automaticamente anexada à URL da CDN. Obviamente, você terá tempo para criar novas instâncias de seus arquivos de manifesto sempre que o revisões.
 
-![cg-part-json-folder.png](media/cg-part-json-folder.png) 
+![Captura de tela mostra a estrutura de exemplo.](media/cg-part-json-folder.png) 
 
 Para obter mais informações sobre como usar páginas do GitHub como sua fonte de CDN, consulte a seguinte documentação de ajuda: [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) .
 
@@ -158,11 +161,11 @@ Depois de criar o JSON modificado e definir sua CDN, você pode adicionar o Cont
 2. Na página **Administração,** clique em **... Adicione Content Pack** no canto superior direito da página.
 3. Clique em Pacote de Conteúdo Personalizado e insira um nome do Pacote de Conteúdo e especifique a CDN onde os arquivos JSON estão localizados.
 
-![cg-part-addconpack.png](media/cg-part-addconpack.png)
+   ![Tela onde você inserir o nome e os caminhos.](media/cg-part-addconpack.png)
 
 4. Clique em **Salvar**. O conteúdo do Pacote de Conteúdo Personalizado agora deve aparecer na página Administração. Veja um exemplo. 
 
-![cg-part-addconpackex.png](media/cg-part-addconpackex.png)
+   ![Exemplo de página de administração.](media/cg-part-addconpackex.png)
 
 ### <a name="filter-to-the-content-pack-in-the-web-part"></a>Filtrar para o Pacote de Conteúdo na Web Part
 Com os caminhos de aprendizado, você pode adicionar a Web Part de caminhos de aprendizado a uma página, filtrar a Web Part para apontar para a fonte do Pacote de Conteúdo Personalizado e filtrar a Web Part para a categoria, subcategoria, playlist e ativo que você deseja. 
@@ -175,4 +178,4 @@ Com os caminhos de aprendizado, você pode adicionar a Web Part de caminhos de a
 6. Clique na Web Part e clique no **ícone Editar.**
 7. Na caixa **Selecionar a Fonte de** Aprendizado, selecione seu Pacote de Conteúdo Personalizado e filtre a Web Part para o conteúdo que você deseja. O exemplo a seguir fornece um exemplo da Web Part filtrada para uma playlist de um Pacote de Conteúdo Personalizado.
 
-![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)
+   ![Captura de tela de uma Web Part de exemplo filtrada para uma playlist de um Pacote de Conteúdo Personalizado.](media/cg-part-conpackfilter.png)

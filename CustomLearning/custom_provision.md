@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: Provisione uma nova solução de caminhos de aprendizado
 ms.date: 02/10/2019
 description: Provisione o site de caminhos de aprendizagem do Microsoft 365 com o serviço de look book do Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: fd50eed38ea6f2073eb61b4d21545a73bc918a49
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: bf260f41ea149a2344d1f09ba67d3e3a1d6e6180
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162908"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999437"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>Provisione uma nova solução de caminhos de aprendizado 
 Organizações que não têm caminhos de aprendizado provisionados em seu locatário podem usar o serviço de livro de aparência do SharePoint para adicionar a solução de caminhos de aprendizagem multilíngues. Com essa opção, o modelo de caminhos de aprendizado do SharePoint é convertido em nove idiomas e pode ser usado com um mínimo de modificação. 
@@ -45,10 +48,10 @@ Antes de provisioná-los, verifique se a Conta de Administrador do locatário n�
 O serviço de catálogo de aparência requer essas permissões para criar o Catálogo de Aplicativos do locatário, instalar o aplicativo no Catálogo de Aplicativos do locatário e provisionar o modelo de site. Não há impacto geral em seu locatário. Essas permissões são usadas explicitamente para fins de instalação da solução. Você deve aceitar essas permissões para continuar com a instalação.
 
 4. Preencha os campos na página de informações de provisionamento, conforme apropriado à sua instalação. No mínimo, insira o endereço de email no qual você deseja receber notificações sobre o processo de provisionamento e a URL de destino para o site a ser provisionado.  
-> [!NOTE]
-> Torne a URL de destino do seu site em algo amigável para seus funcionários, como "/sites/MeuTreinamento" ou "/teams/AprendaMicrosoft365".
+   > [!NOTE]
+   > Torne a URL de destino do seu site em algo amigável para seus funcionários, como "/sites/MeuTreinamento" ou "/teams/AprendaMicrosoft365".
 
-![inst_options.png](media/inst_options.png)
+   ![A tela solicita que você insira informações básicas para a instalação.](media/inst_options.png)
 
 6. Clique **em Provisionar** quando estiver pronto para instalar os caminhos de aprendizado em seu ambiente de locatário.  O processo de provisionamento poderá levar até 15 minutos. Você será notificado por email quando o site estiver pronto. 
 
@@ -61,7 +64,7 @@ Quando o provisionamento é concluído, o Administrador de Locatários que provi
 
 - Vá para `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Abrir o **CustomLearningAdmin.aspx** inicializa o item de lista **CustomConfig** que configura os caminhos de aprendizado para o primeiro uso. Você deve ver uma página com esta aparência:
 
-![cg-adminapppage.png](media/cg-adminapppage.png)
+   ![Exemplo da página inicial CustomLearningAdmin.aspx.](media/cg-adminapppage.png)
 
 ## <a name="add-owners-to-site"></a>Adicionar proprietários ao site
 Como Administrador de Locatários, é improvável que você seja a pessoa que personalização do site, portanto, você precisará atribuir alguns proprietários ao site. Os proprietários têm privilégios administrativos no site para que possam modificar páginas do site e renomear o site. Eles também têm a capacidade de ocultar e mostrar conteúdo e criar listas de reprodução e subcategorias personalizadas.  
@@ -88,7 +91,7 @@ Para organizações que optam por dar suporte a apenas um idioma, além do idiom
 4. Em **Habilitar páginas e notícias a serem traduzidas em vários idiomas,** deslize a alternância para **Ativado.** Ele deve ser On por padrão.
 5. Em Adicionar ou remover idiomas de site, clique em **Remover** para remover os idiomas que você não precisa para o site. A seguir, mostra um exemplo da página Configurações de Idioma para mostrar o italiano com suporte para o site, além do idioma padrão em inglês.
 
-![custom_update_ml_langsettings.png](media/custom_update_ml_langsettings.png)
+   ![Exemplo de tela de idiomas de site.](media/custom_update_ml_langsettings.png)
 
 > [!NOTE]
 > Ao remover idiomas, você não pode remover o idioma inglês padrão. 

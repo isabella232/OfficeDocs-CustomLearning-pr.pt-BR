@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: Provisione o site de Aprendizado Personalizado
 ms.date: 02/10/2019
 description: Provisionar o site Aprendizagem Personalizada para o Office 365 por meio do Mecanismo de Provisionamento do SharePoint
-ms.service: sharepoint online
-ms.openlocfilehash: be45ade7588f08801062710d310ca967ddd23926
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: f930eba5815366bcefd2730c88a3c2df3f246dd4
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162918"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000317"
 ---
 # <a name="provision-custom-learning"></a>Provisione o Aprendizado Personalizado
 
@@ -27,26 +30,22 @@ Para configurar com êxito o Aprendizado Personalizado com o Serviço de Provisi
 ### <a name="to-provision-custom-learning"></a>Para provisionar o Aprendizado Personalizado
 
 1. Vá para http://provisioning.sharepointpnp.com e **entre** no canto superior direito da home page.  Entre com as credenciais do locatário direcionado onde você planeja instalar o modelo de site.
-
-![pnphome.png](media/inst_signin.png)
+![Página principal do serviço de provisionamento.](media/inst_signin.png)
 
 2. Limpe o **Consentimento em nome da sua organização e** selecione **Aceitar**.
-
-![pol](media/inst_perms.png)
+![Tela de consentimento](media/inst_perms.png)
 
 3. Selecione **Aprendizagem Personalizada para o Office 365** na galeria de soluções.
+![Tela em que você seleciona Aprendizagem Personalizada para o Office 365.](media/inst_select.png)
 
-![pol](media/inst_select.png)
-
-4. Na home page da solução, selecione **Adicionar ao locatário**
-
-![inst_select.png](media/inst_add.png)
+4. Na home page da solução, selecione **Adicionar à tela do** locatário onde você seleciona Adicionar ao seu 
+ ![ locatário.](media/inst_add.png)
 
 5. Preencha os campos na página de informações de provisionamento, conforme apropriado à sua instalação. No mínimo, insira o endereço de email para o qual você deseja receber notificações sobre o processo de provisionamento e a URL de destino para o qual seu site deve ser provisionado.  
-> [!NOTE]
-> Tornar a URL de destino do seu site algo amigável para seus funcionários, como "/sites/MyTraining" ou "/teams/LearnOffice365".
+   > [!NOTE]
+   > Tornar a URL de destino do seu site algo amigável para seus funcionários, como "/sites/MyTraining" ou "/teams/LearnOffice365".
 
-![inst_options.png](media/inst_options.png)
+   ![Tela em que você fornece detalhes de provisionamento.](media/inst_options.png)
 
 6. Selecione **Provisionar** quando estiver pronto para instalar o Aprendizado Personalizado em seu ambiente de locatário.  O processo de provisionamento levará até 15 minutos. Você será notificado por email (no endereço de email para receber notificação que você digitou na página de Provisionamento) quando o site estiver pronto para ser acessado.
 
@@ -66,6 +65,3 @@ Como Administrador de Locatários, é improvável que você seja a pessoa que pe
 4. Clique **em Novo** Adicionar Usuários a esse  >  **grupo,** adicione as pessoas que você deseja que sejam Proprietários e clique em **Compartilhar**.
 
 8. Clique na **opção** A seguir no canto superior direito da página para seguir o site.  
-
-### <a name="next-steps"></a>Próximas etapas
-- Explore o [conteúdo padrão](sitecontent.md) incluído na webpart.

@@ -1,16 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
+manager: bpardi
 title: Caminhos de aprendizado Atualizações de conteúdo
 ms.date: 3/30/2020
+audience: Admin
+ms.topic: article
 description: Caminhos de aprendizado Atualizações de conteúdo
 ms.service: o365-solutions
-ms.openlocfilehash: 092520d6c56f9d9d96f4d4de8ff5d2dbc898e1f2
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.openlocfilehash: 6ec05d670dd9ccd925e07f71e3a8e5b99bc4621e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163078"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000107"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Atualizações de conteúdo do Microsoft 365 Learning Pathways
 Os percursos de aprendizagem se esforçam para aderir a um ciclo de atualização de conteúdo trimestral. Para saber mais sobre como as atualizações de conteúdo são aplicadas e como gerenciar atualizações de conteúdo, consulte [Manage Content Updates](custom_contentupdatesmanage.md). 
@@ -284,7 +287,7 @@ Uma nova subcategoria Work remotamente foi adicionada aos caminhos de aprendizad
 
 ##### <a name="work-remotely-five-new-assets"></a>Trabalhar remotamente (cinco novos ativos)
 - Trabalhar remotamente com o Office 365
-- Começar a Office.com
+- Introdução ao Office.com
 - Comunicar ou reunir
 - Armazenar seus arquivos de trabalho
 - Alternativas avançadas

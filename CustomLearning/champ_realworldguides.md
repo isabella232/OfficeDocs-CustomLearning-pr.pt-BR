@@ -1,26 +1,26 @@
 ---
-title: Práticas recomendadas do programa Champion – orientações do mundo real
-description: Conduzir a adoção do Office 365 com nossas práticas recomendadas de programa de Champion
+title: Práticas Recomendadas do Programa Champion - Diretrizes do Mundo Real
+description: Impulsionar a adoção do Office 365 com nossas práticas recomendadas do Programa Champion
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 4a86a067f23e68f8b89294a9dd69f4ac06e93c1b
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: cb36c3685d0e561441970ca0bcf09ccedab3df39
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233403"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999877"
 ---
-# <a name="real-world-guidance-for-your-champions-program"></a>Orientações do mundo real para seu programa de campeões
+# <a name="real-world-guidance-for-your-champions-program"></a>Diretrizes do Mundo Real para seu Programa de Campeões
 
-Assista a estes vídeos sobre as diretrizes do mundo real para a criação do seu programa de campeões.  
+Exibir esses vídeos de diretrizes do mundo real para a criação do programa Champions.  
 
-Simon Denton, arquiteto de negócios no Mott MacDonald
+Simon Denton, Arquiteto de Negócios no MacDonald Demão
 
 > [!VIDEO https://www.youtube.com/embed/ABBbUX6CAik]
 
-Pouneh Kaufman & Sara Bush da TI da Microsoft discutir a criação de um programa de Campeões na Microsoft
+Pouneh Kaufman & Sara Bush da MICROSOFT IT discutem a criação de um programa de Campeões na Microsoft
 
 > [!VIDEO https://www.youtube.com/embed/LzYQpt1Tea4]

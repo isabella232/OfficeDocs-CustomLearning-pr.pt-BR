@@ -5,13 +5,16 @@ title: Provisionar uma nova solução multilíngue de caminhos de aprendizagem
 ms.date: 02/10/2019
 description: Provisionar o site de caminhos de aprendizagem do Microsoft 365 por meio do Serviço de Provisionamento do SharePoint
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
-ms.openlocfilehash: 19de14ba0785fa394dfe65e50ba8c4f27864cccf
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 40371138db2ec01e0e4a6558175f68cfa06fba51
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162998"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999377"
 ---
 # <a name="provision-a-new-learning-pathways-multilingual-solution"></a>Provisionar uma nova solução multilíngue de caminhos de aprendizagem
 Organizações que não têm caminhos de aprendizado provisionados em seu locatário podem usar o Serviço de Provisionamento do SharePoint para adicionar a solução de caminhos de aprendizagem multilíngues. Com essa opção, o modelo de caminhos de aprendizado do SharePoint é convertido em nove idiomas e pode ser usado com um mínimo de modificação. 

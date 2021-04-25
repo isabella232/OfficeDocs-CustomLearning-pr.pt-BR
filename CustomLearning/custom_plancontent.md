@@ -1,74 +1,77 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Planejar o conteúdo dos caminhos de aprendizado
+title: Planejar o conteúdo de seus caminhos de aprendizado
 ms.date: 10/20/2019
-description: Atualização de conteúdo dos caminhos de aprendizado da Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: e3df63d098046311ffb5aa4220cbcaf3a9394572
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: As opções de conteúdo dos caminhos de aprendizado do Microsoft 365 estão disponíveis.
+ms.service: sharepoint-online
+manager: bpardi
+mstopic: article
+audience: admin
+ms.openlocfilehash: da15ebb46a8cecbd5081f7e6f74abd01b629aafb
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234103"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999427"
 ---
-# <a name="plan-your-learning-pathways-content"></a>Planejar o conteúdo dos caminhos de aprendizado
-Antes de se aprofundar na distribuição dos caminhos de aprendizado da Microsoft 365, é uma boa ideia levar algum tempo para pesquisar o conteúdo de aprendizado, as ferramentas e os recursos disponíveis para você. Nosso objetivo é ajudá-lo a fazer com que os usuários da sua organização se conectem e sejam produtivos da maneira mais rápida e eficiente possível. Quando se trata de planejamento de caminhos de aprendizado, recomendamos um processo de três etapas:
+# <a name="plan-your-learning-pathways-content"></a>Planejar o conteúdo de seus caminhos de aprendizado
+Antes de começar a lançar os caminhos de aprendizado do Microsoft 365, é uma boa ideia levar algum tempo para sondar o conteúdo de aprendizagem, as ferramentas e os recursos disponíveis para você. Nosso objetivo é ajudá-lo a fazer com que os usuários da sua organização se agilizarem e produtivos, da maneira mais rápida e eficiente possível. Quando se trata de planejar caminhos de aprendizado, recomendamos um processo de três etapas:
 
-1. **Revise os recursos disponíveis** – os recursos fornecidos por meio de caminhos de aprendizado e os recursos disponíveis em sua organização. Os melhores planos de aprendizado combinam recursos da Microsoft e recursos da sua organização.
-2. **Saiba mais sobre os recursos da ferramenta de cursores de aprendizado** – daremos um tour rápido. 
-3. **Criar um plano de conteúdo** – revise os guias de adoção disponíveis para ajudá-lo a criar um plano geral.
+1. **Revise os recursos disponíveis** – os recursos fornecidos por meio de caminhos de aprendizado e os recursos disponíveis em sua organização. Os melhores planos de aprendizado combinam recursos e recursos da Microsoft da sua organização.
+2. **Conheça os recursos da ferramenta Caminhos de Aprendizagem** - vamos fazer um tour rápido. 
+3. **Crie um plano de conteúdo** – revise os Guias de Adoção disponíveis para ajudá-lo a criar um plano geral.
 
 ## <a name="review-the-available-resources"></a>Revisar os recursos disponíveis
-Antes de criar um plano de conteúdo para os caminhos de aprendizado do Microsoft 365, Reserve algum tempo para descobrir todos os recursos que estão disponíveis para você.  
+Antes de criar um plano de conteúdo para os caminhos de aprendizado do Microsoft 365, leve algum tempo para descobrir todos os recursos disponíveis para você.  
 
-### <a name="review-the-learning-pathways-sharepoint-site"></a>Revisar o site do SharePoint dos caminhos de aprendizado
-A solução de caminhos de aprendizado do Microsoft 365 fornece um site de comunicação do SharePoint com uma Web Part que está conectada a um catálogo online. O site do SharePoint é totalmente personalizável, incluindo o nome do site, logotipo, páginas, itens de menu, temas e blocos. Reserve algum tempo para clicar nos blocos e itens de menu para descobrir o que está disponível no site de cursores de aprendizado.
+### <a name="review-the-learning-pathways-sharepoint-site"></a>Revisar os caminhos de aprendizado do site do SharePoint
+A solução de caminhos de aprendizado do Microsoft 365 fornece um site de comunicação do SharePoint com uma Web Part conectada a um catálogo online. O site do SharePoint é totalmente personalizável, incluindo o nome do site, logotipo, páginas, itens de menu, temas e blocos. Leve algum tempo para clicar nos blocos e itens de menu para descobrir o que está disponível com o site de caminhos de aprendizagem.
 
-![cg-introducing.png](media/cg-introducing.png)
+![Fotos dos caminhos de aprendizado em uso.](media/cg-introducing.png)
 
-### <a name="review-the-content-from-the-online-catalog-with-the-web-part"></a>Revise o conteúdo do catálogo online com a Web Part
-A Web Part, por padrão, é adicionada a uma série de páginas no site de comunicação do SharePoint. O conjunto completo de conteúdo é fornecido na página de treinamento do Microsoft 365. A página de treinamento do Microsoft 365 hospeda a Web Part de cursores de aprendizado configurada para mostrar todos os treinamentos disponíveis para os caminhos de aprendizado. 
+### <a name="review-the-content-from-the-online-catalog-with-the-web-part"></a>Analisar o conteúdo do catálogo Online com a Web Part
+A Web Part, por padrão, é adicionada a uma série de páginas no site de Comunicação do SharePoint. O conjunto completo de conteúdo é fornecido na página de treinamento do Microsoft 365. A página de treinamento do Microsoft 365 hospeda os caminhos de aprendizado web part configurados para mostrar todo o treinamento disponível para caminhos de aprendizagem. 
 
-**Para exibir a página de treinamento do Microsoft 365**
-1. Clique no item de menu treinamento do Microsoft 365. 
-1. Role para baixo na página para exibir todas as categorias e subcategorias.
-2. Faça um pouquinho dos pneus. Clique em algumas subcategorias e, em seguida, clique em algumas listas de reprodução para saber como o conteúdo dos caminhos de aprendizado é organizado. 
+**Para exibir a página treinamento do Microsoft 365**
+1. Clique no item de menu de treinamento do Microsoft 365. 
+1. Role para baixo a página para exibir todas as categorias e subcategorias.
+2. Kick the tires a bit. Clique em algumas subcategorias e clique em algumas playlists para saber como o conteúdo de caminhos de aprendizagem é organizado. 
 
-![cg-adminsuccesscenterplan_01.png](media/cg-adminsuccesscenterplan_01.png)
+![A janela mostra ícones das categorias de caminhos de aprendizagem.](media/cg-adminsuccesscenterplan_01.png)
 
-### <a name="view-the-administration-page"></a>Exibir a página de administração
-A página de administração fornece uma lista do conteúdo disponível para você. É aqui que você pode ocultar o conteúdo, criar novas listas de reprodução e adicionar, editar e remover a playlist. Clique nas várias categorias e listas de reprodução para ver a esspire completa do conteúdo disponível. 
+### <a name="view-the-administration-page"></a>Exibir a Página de Administração
+A página Administração fornece uma listagem do conteúdo disponível para você. É aqui que você pode ocultar conteúdo, criar novas playlists e adicionar, editar e remover playlist. Clique nas várias categorias e listas de reprodução para ver o hálito completo do conteúdo disponível. 
 
-**Para exibir a página de administração.**
-1. No site de cursores de aprendizado, aponte para a seta suspensa menu página inicial e clique em administração de caminhos de aprendizado.  
-2. Em seguida, clique nas várias categorias, subcategorias e listas de reprodução para obter uma respire do conteúdo disponível. 
+**Para exibir a página Administração.**
+1. No site de caminhos de aprendizado, aponte para a seta lista listada do menu Home e clique em Administração de caminhos de aprendizagem.  
+2. Em seguida, clique nas várias categorias, subcategorias e playlists para obter uma opinião sobre o hálito de conteúdo disponível para você. 
 
-![cg-adminsuccesscenterplan_02.png](media/cg-adminsuccesscenterplan_02.png)
+   ![Janela de opções de caminhos de exemplo.](media/cg-adminsuccesscenterplan_02.png)
 
-### <a name="get-to-know-the-capabilities-of-microsoft-365-learning-pathways"></a>Conheça os recursos dos caminhos de aprendizado do Microsoft 365
-Com os caminhos de aprendizado da Microsoft 365, você pode ter conteúdo fornecido pela Microsoft misto com o conteúdo que você cria para direcionar políticas e procedimentos específicos que sejam exclusivos para sua organização. Como prática recomendada, tente aproveitar o conteúdo fornecido pela Microsoft o máximo possível. A Microsoft atualiza ativos individuais regularmente e atualiza o inventário completo do conteúdo trimestralmente. Normalmente, uma organização criará 10-20% de conteúdo exclusivo e deixará o restante de 80% para a Microsoft para manter-se atualizado. As listas a seguir descrevem como o conteúdo de caminhos de aprendizado é organizado, juntamente com as diretrizes para o conteúdo que pode ser modificado ou criado. A orientação para personalizar o conteúdo é fornecida na seção Personalizando os caminhos de aprendizado do centro de sucesso do administrador.
+### <a name="get-to-know-the-capabilities-of-microsoft-365-learning-pathways"></a>Conheça os recursos dos Caminhos de Aprendizagem do Microsoft 365
+Com o Microsoft 365 Learning Pathways, você pode ter o conteúdo fornecido pela Microsoft misturado com o conteúdo criado para direcionar políticas e procedimentos específicos exclusivos para sua organização. Como prática prática, tente aproveitar o máximo possível o conteúdo fornecido pela Microsoft. A Microsoft atualiza os ativos individuais regularmente e atualiza o inventário completo do conteúdo trimestralmente. Normalmente, uma organização criará de 10 a 20% conteúdo exclusivo e, em seguida, deixará os 80% restantes para a Microsoft para se manter atualizado. As listas a seguir descrevem como o conteúdo de caminhos de aprendizagem é organizado, juntamente com diretrizes para o conteúdo que pode ser modificado ou criado. As diretrizes para personalizar o conteúdo são fornecidas na seção Personalização de caminhos de aprendizagem do Centro de Sucesso do Administrador.
 
-- **Categorias** : são contêineres para subcategorias. As categorias são fornecidas pela Microsoft e não podem ser criadas ou modificadas.
-- **Subcategorias** -são contêineres para listas de reprodução. A Microsoft fornece subcategorias que você não pode modificar, mas pode criar suas próprias subcategorias. 
-- **Playlist** -são contêineres de ativos. A Microsoft fornece listas de reprodução que você não pode modificar, mas você pode criar suas próprias listas de reprodução.  
-- **Ativos** – as páginas de aprendizado dentro da lista de reprodução. A Microsoft fornece ativos em listas de reprodução que não podem ser modificadas, mas você pode criar seus próprios ativos e adicioná-los a listas de reprodução. est
+- **Categorias** - são contêineres para subcategorias. As categorias são fornecidas pela Microsoft e não podem ser criadas ou modificadas.
+- **Subcategorias** - são contêineres para playlists. A Microsoft fornece subcategorias que você não pode modificar, mas pode criar suas próprias subcategorias. 
+- **Playlist** - são contêineres para ativos. A Microsoft fornece playlists que você não pode modificar, mas pode criar suas próprias playlists.  
+- **Ativos** - são as páginas de aprendizado dentro da playlist. A Microsoft fornece ativos em playlists que você não pode modificar, mas pode criar seus próprios ativos e adicioná-los a playlists.est
 
-### <a name="review-additional-resources-from-microsoft"></a>Examinar recursos adicionais da Microsoft
-A Microsoft fornece ajuda e recursos de treinamento que você pode aproveitar ao planejar o conteúdo para caminhos de aprendizado.  
+### <a name="review-additional-resources-from-microsoft"></a>Analisar recursos adicionais da Microsoft
+A Microsoft fornece recursos de ajuda e treinamento que você pode aproveitar ao planejar o conteúdo para caminhos de aprendizado.  
 
--  [Ajuda e treinamento do Office](https://support.office.com)
+-  [Ajuda e Treinamento do Office](https://support.office.com)
 -  [Centro de Treinamento do Office 365](https://support.office.com/office-training-center)
 
 ### <a name="review-the-learning-resources-in-your-organization"></a>Analisar os recursos de aprendizado em sua organização
-Coloque em estoque o conteúdo de aprendizado já disponível para você em sua organização.
-Por exemplo, sua organização já pode ter guias personalizados de início rápido, folhas de dicas ou páginas do SharePoint dedicadas à preparação para a Microsoft 365, assistência técnica, integração ou treinamento. Os ativos existentes do SharePoint podem ser incorporados no Microsoft 365 portal playlists e ou combinados com o conteúdo da Microsoft em uma lista de reprodução para criar uma lista de reprodução direcionada para sua organização. Para obter mais informações sobre como misturar o conteúdo da sua organização com o conteúdo da Microsoft, consulte a [personalização dos caminhos de aprendizado](custom_overview.md). Personalização da seção de cursores de aprendizado do centro de sucesso do administrador.
+Fazer um estoque do conteúdo de aprendizado já disponível para você em sua organização.
+Por exemplo, sua organização já pode ter guias de início rápido personalizados, folhas de fraude ou páginas do SharePoint dedicadas à preparação do Microsoft 365, HelpDesk, integração ou treinamento. Os ativos existentes do SharePoint podem ser incorporados às listas de reprodução do Portal do Microsoft 365 e ou misturados com o conteúdo da Microsoft em uma playlist para criar uma playlist direcionada para sua organização. Para obter mais informações sobre como misturar o conteúdo da sua organização com o conteúdo da Microsoft, consulte [Os caminhos de aprendizado de personalização.](custom_overview.md) Seção Personalização de caminhos de aprendizado do Centro de Sucesso do Administrador.
 
-### <a name="leverage-the-adoption-resources"></a>Aproveite os recursos de adoção
-Observe que você pode começar a usar os caminhos de aprendizado dentro de dias, mas é melhor fazer um planejamento antecipado antes de executar uma estratégia de campanha de aprendizado para integrar uma nova tecnologia ou conjunto de serviços. O desenvolvimento de um plano de conteúdo e o uso de caminhos de aprendizado realmente fazem parte de um esforço mais abrangente no planejamento de uma estratégia geral de gerenciamento de alterações, portanto, fornecemos materiais de adoção que você pode aproveitar para planejar sua estratégia geral. Como parte do seu esforço de planejamento, confira [recursos de adoção](https://resources.techcommunity.microsoft.com/adoption/).
+### <a name="leverage-the-adoption-resources"></a>Aproveitar os recursos de adoção
+Observe que você pode começar a usar os caminhos de aprendizado em dias, mas é melhor fazer um planejamento front-front antes de executar uma estratégia de campanha de aprendizado para a integração de uma nova tecnologia ou conjunto de serviços. Desenvolver um plano de conteúdo e usar caminhos de aprendizado é realmente parte de um esforço mais abrangente no planejamento de uma estratégia geral de Gerenciamento de Alterações, portanto, fornecemos materiais de adoção que você pode aproveitar para planejar sua estratégia geral. Como parte do seu esforço de planejamento, confira [Recursos de Adoção.](https://resources.techcommunity.microsoft.com/adoption/)
 
-### <a name="build-a-learning-plan-and-iterate"></a>Criar um plano de aprendizado e iterar 
-Muitas empresas que foram implantadas com êxito os caminhos de aprendizado adotaram campanhas de aprendizado voltadas para cenários ou tecnologias específicas. Por exemplo, "seja mais colaborativo – usando equipes" ou "seja mais móvel com o Outlook Mobile". Você pode ver exemplos de campanhas de aprendizado potenciais usando o [Kit de adoção baixável](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip).
+### <a name="build-a-learning-plan-and-iterate"></a>Criar um Plano de Aprendizagem e Iterar 
+Muitas empresas que lançaram com êxito os Caminhos de Aprendizagem adotaram campanhas de Aprendizagem com foco em cenários ou tecnologias específicos. Por exemplo, "Seja mais colaborativo - usando o Teams" ou "Seja mais móvel com o Outlook mobile". Você pode ver exemplos de campanhas de aprendizagem em potencial usando o [Kit de Adoção baixável.](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip)
 
 
  

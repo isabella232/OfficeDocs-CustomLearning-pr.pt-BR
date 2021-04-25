@@ -1,35 +1,35 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Administração de caminhos de aprendizado
+title: Administração de Caminhos de Aprendizagem
 ms.date: 02/15/2019
-description: Como acessar a página de administração de aprendizado personalizada na Web Part ou no menu
-ms.service: sharepoint online
-ms.openlocfilehash: b491c0416573ddf3be6cda3afc8182cdc746649d
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Como acessar a página Administrador de Aprendizagem Personalizada na Web Part ou no menu
+ms.service: sharepoint-online
+ms.openlocfilehash: b1cb8bf14d8b0daf884419fcbe30976ad821a89a
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233323"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999837"
 ---
-# <a name="access-the-learning-pathways-administration-page"></a>Acessar a página de administração de cursores de aprendizado
+# <a name="access-the-learning-pathways-administration-page"></a>Acessar a página Administração de Caminhos de Aprendizagem
 
-A administração dos caminhos de aprendizado é gerenciada a partir da página CustomLearningAdmin. aspx. Essa página de administração só está disponível para administradores do SharePoint. Os usuários com privilégios de membro visitando o site não verão o ícone de **Administração** da Web Part. Além disso, somente os administradores terão a capacidade de abrir a página de administração do item de menu **Administração de caminhos de aprendizado** no menu **início** do SharePoint. 
+A administração de caminhos de aprendizagem é gerenciada a partir da página CustomLearningAdmin.aspx. Esta página de administração só está disponível para Administradores do SharePoint. Os usuários com privilégios de membro visitando o site não verão **o** ícone de engrenagem de administração na Web Part. Além disso, somente administradores terão a capacidade de abrir a página de administração a partir do item de **menu** Administração de caminhos de aprendizagem no menu **Home** do SharePoint. 
 
 > [!IMPORTANT]
-> As alterações feitas na página Administração de aprendizagem personalizada, como ocultar uma subcategoria ou lista de reprodução de produtos, serão refletidas em todas as instâncias da Web Part. Além disso, é recomendável que apenas um administrador no momento faça alterações na página de administração, já que o aprendizado personalizado não fornece detecção de colisão se várias pessoas estiverem usando a página ao mesmo tempo.  
+> As alterações feitas na página Administração de Aprendizagem Personalizada, como ocultar uma subcategoria de produto ou uma playlist, serão refletidas em todas as instâncias da Web Part. Além disso, é recomendável que apenas um administrador faça alterações na página de administração, já que o Aprendizado Personalizado não fornece detecção de colisão se várias pessoas estão usando a página ao mesmo tempo.  
 
-## <a name="access-from-the-learning-pathways-web-part---preferred-method"></a>Acesso a partir da Web Part de cursores de aprendizado-preferência
-A abertura da página de administração da Web Part é o método preferido, pois ela abre a página em uma nova guia do navegador. Com esse método, é fácil virar de frente e para trás entre as páginas com guias para verificar ou modificar seu trabalho.  
+## <a name="access-from-the-learning-pathways-web-part---preferred-method"></a>Acesso da Web Part Caminhos de aprendizagem - método preferencial
+Abrir a página Administração da Web Part é o método preferencial, pois abre a página em uma nova guia do navegador. Com esse método, é fácil virar para frente e para trás entre as páginas guias para verificar ou modificar seu trabalho.  
 
-1. Na **Home** Page de cursos de aprendizado da Microsoft 365, clique no bloco **treinamento do Office 365** .
-2. Clique no ícone de **Administração** na Web Part, conforme mostrado no exemplo a seguir  
+1. Na página Inicial dos caminhos  de aprendizado do Microsoft 365, clique no pacote de treinamento do **Office 365.**
+2. Clique no **ícone Administração** na Web Part, conforme mostrado no exemplo a seguir  
 
 ![cg-adminaccbtn.png](media/cg-adminaccbtn.png)
 
-## <a name="access-from-the-home-menu-item"></a>Acesso a partir do item de menu Home
-Em vez de navegar para uma página com uma Web Part, os administradores podem acessar a página Administração do item de menu do SharePoint **Home** . 
+## <a name="access-from-the-home-menu-item"></a>Acesso do item de menu Home
+Em vez de navegar até uma página com uma Web Part, os administradores podem acessar a página Administração a partir do item de menu **Home** do SharePoint. 
 
-- Na home page de cursores de aprendizado da Microsoft 365, clique no menu **página inicial** e em **Administração do Microsoft Learning**.
+- Na home page Caminhos de Aprendizagem do Microsoft 365, clique no **menu** Página Inicial e clique em Administração de Aprendizagem **da Microsoft.**
 
 ![cg-adminaccmenu.png](media/cg-adminaccmenu.png)

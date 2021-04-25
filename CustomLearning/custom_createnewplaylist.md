@@ -1,25 +1,25 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Criar novas listas de reprodução
+title: Criar novas playlists
 ms.date: 02/18/2019
-description: Como criar novas listas de reprodução
-ms.service: sharepoint online
-ms.openlocfilehash: c0a338567f06601412dd077337051e12c2b0fb34
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Como criar novas playlists
+ms.service: sharepoint-online
+ms.openlocfilehash: aa526826414f3dd5b3c4b8d9daca7de1d62a1864
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234523"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999137"
 ---
 # <a name="create-a-custom-playlist"></a>Criar uma Lista de Reprodução Personalizada
 
-Com os caminhos de aprendizado da Microsoft 365, você pode criar listas de reprodução personalizadas a partir do zero, que são adaptados para as necessidades exclusivas da sua organização. Por exemplo, crie uma lista de reprodução para integração de novas contratações para o Microsoft Teams. Ou crie listas de reprodução para administradores executivos com informações adequadas para sua função exclusiva. Ou crie um primeiro dia para a lista de reprodução da Microsoft 365 que tenha três etapas simples em vez de seis. Você pode adicionar uma lista de reprodução personalizada a qualquer subcategoria. Por exemplo, os **primeiros dias**, uma subcategoria de **produto** como o **Excel**, ou até mesmo uma subcategoria criada. Nesta seção, abordaremos como criar uma lista de reprodução e, em seguida, abordaremos a adição de ativos a uma lista de reprodução na seção a seguir, [Adicionar ativos a uma lista de reprodução personalizada](custom_addassets.md).
+Com os caminhos de aprendizado do Microsoft 365, você pode criar playlists personalizadas do zero que são adaptadas às necessidades exclusivas da sua organização. Por exemplo, crie uma playlist para integração de novos contratados para o Microsoft Teams. Ou crie playlists para administradores executivos com informações adequadas à sua função exclusiva. Ou crie uma playlist do Primeiro Dia do Microsoft 365 que tenha três etapas simples em vez de seis. Você pode adicionar uma playlist personalizada a qualquer subcategoria. Por exemplo, **First Days**, **uma** subcategoria Product como **Excel** ou até mesmo uma subcategoria que você cria. Nesta seção, vamos abranger como criar uma playlist e, em seguida, abranger a adição de ativos a uma playlist na seção a seguir, [Adicionar ativos a uma playlist personalizada](custom_addassets.md).
 
-## <a name="create-a-playlist"></a>Criar uma lista de reprodução 
+## <a name="create-a-playlist"></a>Criar uma playlist 
 
-1. Na **Home** Page de cursos de aprendizado da Microsoft 365, clique em **treinamento do Office 365**e selecione o ícone de **Administração** na Web Part. 
-2. Selecione a subcategoria de ícone **administrar**. Neste exemplo, selecione **primeiro dias**.  
+1. Na página Inicial dos caminhos  de aprendizado do Microsoft 365, clique em Treinamento do **Office 365** e selecione o ícone **Administrar** na Web Part. 
+2. Selecione a subcategoria **Administrar**" ícone. Neste exemplo, selecione **Primeiros Dias**.  
 3. Clique no ícone +.  
 
 ![cg-newplaylistbtn.png](media/cg-newplaylistbtn.png)
@@ -28,16 +28,16 @@ Com os caminhos de aprendizado da Microsoft 365, você pode criar listas de repr
 
 ![cg-newplaylistdetails.png](media/cg-newplaylistdetails.png)
 
-5.  Quando terminar, selecione **salvar detalhes**. 
+5.  Quando terminar, selecione **Salvar Detalhes.** 
 
-## <a name="edit-a-playlist"></a>Editar uma lista de reprodução
+## <a name="edit-a-playlist"></a>Editar uma playlist
 
-- Na página **Administração de aprendizado personalizada** , clique na lista de reprodução e, em seguida, clique em **Editar detalhes**.  
+- Na página **Administração de Aprendizagem Personalizada,** clique na lista de reprodução e clique em **Editar Detalhes.**  
 
 ![cg-editplaylist.png](media/cg-editplaylist.png)
 
-### <a name="delete-a-playlist"></a>Excluir uma lista de reprodução
+### <a name="delete-a-playlist"></a>Excluir uma playlist
 
-- Na página Administração de aprendizado personalizada, clique no ícone **excluir** da lista de reprodução.  
+- Na página Administração de Aprendizagem Personalizada, clique no ícone **Excluir** da playlist.  
 
 ![cg-deleteplaylist.png](media/cg-deleteplaylist.png)

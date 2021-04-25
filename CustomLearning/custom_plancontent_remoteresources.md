@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: Recursos adicionais para dar suporte a funcionários remotos
 ms.date: 3/31/2020
 description: Recursos adicionais para dar suporte a funcionários remotos
-ms.service: sharepoint online
-ms.openlocfilehash: b32defa9e60066db33d6d978f1894cea00da446c
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: bc9490be06945a5945c1e0569abd94ecde17f30f
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163008"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999407"
 ---
 # <a name="resources-for-supporting-your-remote-workforce"></a>Recursos adicionais para dar suporte a funcionários remotos
 Em resposta à epidemia do Covid-19, a Atualização de Conteúdo de abril de 2020 fornece playlists de aprendizado e recursos voltados para habilenciar o trabalho remoto em sua organização. Adicionamos um novo conjunto de playlists do Work Remotely, atualizamos significativamente o conteúdo do Microsoft Teams, especialmente para reuniões do Teams, e adicionamos um novo conjunto de playlists do Office para a Web. 

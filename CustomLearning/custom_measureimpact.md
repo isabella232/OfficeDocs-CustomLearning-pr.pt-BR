@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: Medir o impacto dos caminhos de aprendizado do Microsoft 365
 ms.date: 02/10/2019
 description: Como medir o impacto dos caminhos de aprendizado do Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: 3f803959a7fe14c2c67bb232a5f9ade31218ab11
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: 4ba5981902367ef9c94c28c49442af588dcf368e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163038"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999527"
 ---
 # <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>Medir o impacto dos caminhos de aprendizado do Microsoft 365
 
@@ -32,6 +32,6 @@ Siga o artigo referenciado para:
 2. Interpretando os detalhes do relatório de uso do site do SharePoint. Classificar no campo URL do Site para identificar mais facilmente seu site de caminhos de aprendizagem do Microsoft 365. 
 3. Aproveite a funcionalidade de exportação de relatório para análise de dados mais avançada ou se sua organização tiver mais de 2.000 sites. 
 
-## <a name="feedback"></a>Comentários
+## <a name="reporting"></a>Relatórios
 
 A partir de hoje, o relatório está limitado ao nível do site do SharePoint. Empresse seu voto em [nosso fórum do User Voice](https://go.microsoft.com/fwlink/?linkid=2109552) para ajudar a priorizar solicitações de funcionalidade de relatório aprimoradas.

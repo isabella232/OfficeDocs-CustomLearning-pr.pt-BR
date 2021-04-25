@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: Caminhos de aprendizado Atualizações de conteúdo abril
 ms.date: 3/30/2020
 description: Caminhos de aprendizado Atualizações de conteúdo de abril de 2020
-ms.service: sharepoint online
-ms.openlocfilehash: 9cae2f1f3fe96a5e6496739ca194202a45286c2e
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: a8b6cf64a93e7d10aa0fa8602ba8b7f52ded1f67
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163058"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999127"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>Atualizações de conteúdo do Microsoft 365 Learning Pathways para abril
 Os percursos de aprendizagem se esforçam para aderir a um ciclo de atualização de conteúdo trimestral. A lista a seguir das atualizações de conteúdo para abril de 2020.
@@ -33,7 +33,7 @@ Uma nova subcategoria Work remotamente foi adicionada aos caminhos de aprendizad
 
 ##### <a name="work-remotely-5-new-assets"></a>Trabalhar remotamente (5 novos ativos)
 - Trabalhar remotamente com o Office 365
-- Começar a Office.com
+- Introdução ao Office.com
 - Comunicar ou reunir
 - Armazenar seus arquivos de trabalho
 - Alternativas avançadas

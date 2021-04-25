@@ -1,17 +1,20 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Visão geral
+manager: bpardi
+title: Visão Geral
 ms.date: 07/06/2020
 description: Suporte multilíngue para caminhos de aprendizagem
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
-ms.openlocfilehash: abf08f37a12550f81dd3e3eb6944255257535cf4
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+audience: admin
+ms.topic: article
+ms.openlocfilehash: 5c57a6ef61e064bd2b9a330bc7e23678ebfdcc1a
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163018"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999467"
 ---
 # <a name="multilingual-support-for-learning-pathways"></a>Suporte multilíngue para caminhos de aprendizagem
 
@@ -45,5 +48,5 @@ Antes de começar a habiltar o suporte multilíngue para caminhos de aprendizado
 - O idioma exibido na Web Part de caminhos de aprendizado dependerá das configurações de idioma pessoal e região do usuário. Para obter mais informações sobre como configurar um perfil de usuário para idioma e região, consulte [Create multilingual communication sites, pages, and news](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
 - A navegação do site, o título e os rodapés devem ser convertidos por uma pessoa com um perfil de usuário no idioma a ser convertido. Para obter mais informações sobre a tradução da navegação de site, título e rodapé, consulte [Create multilingual communication sites, pages, and news](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).
 
-## <a name="next-steps"></a>Próximas etapas
+## <a name="next-steps"></a>Próximas Etapas
 - Para começar com o suporte multilíngue de caminhos de aprendizagem, consulte Opções de Instalação para o suporte [multilíngue](./custom_setupoptions_ml.md)de caminhos de aprendizagem.

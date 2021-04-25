@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: Traduzir as playlists personalizadas do caminhos de aprendizagem
 ms.date: 07/06/2020
 description: Traduzir as playlists personalizadas do caminhos de aprendizagem
-ms.service: sharepoint online
-ms.openlocfilehash: c5c4c3b34a721295bdcd2e89bad865bc6760d058
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: 2b36479facd2a119753f193b2c4bf90e0ad21b68
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162828"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000347"
 ---
 # <a name="translate-learning-pathways-custom-playlists"></a>Traduzir as playlists personalizadas do caminhos de aprendizagem
 Com Os Caminhos de Aprendizagem, a maneira como você trabalha com listas de reprodução personalizadas depende de como você configura os caminhos de aprendizado.  
@@ -35,7 +38,7 @@ Para demonstrar como criar uma nova playlist personalizada e traduzi-la, vamos u
 6. Clique em um idioma à direita do idioma padrão (neste caso, inglês) para exibir os detalhes da lista de reprodução copiada. Os detalhes do novo idioma refletem a playlist original copiada e exigem tradução.
 7. Anote para notificar o tradutor dos detalhes da playlist a serem convertidos.  
 
-![custom_update_ml_pldetail.png](media/custom_update_ml_pldetail.png)
+![Exemplo de página em italiano.](media/custom_update_ml_pldetail.png)
 
 > [!IMPORTANT]
 > As notificações do tradutor não são criadas em playlists personalizadas. Os tradutores precisarão ser notificados manualmente. Os tradutores traduzem manualmente as cópias dos detalhes do idioma padrão para os idiomas especificados. Você precisará notificar o tradutor das traduções necessárias para detalhes da lista de reprodução. É recomendável que você termine todas as alterações de playlist, incluindo adicionar, editar ou excluir ativos de playlist e, em seguida, notificar o tradutor das traduções necessárias para detalhes e ativos da lista de reprodução.
@@ -48,9 +51,9 @@ Estas instruções pressuem que você esteja usando a lista de reprodução Cinc
 
 **Para criar o ativo**
 1. Para a lista de reprodução Cinco Etapas Simples, em **Ativos**, selecione **+ Novo Ativo** e preencha os detalhes do ativo. 
-- Para **Título,** digite "Bem-vindo ao Microsoft 365 na Contoso". 
-- Para **Tecnologia,** selecione **Microsoft 365**.
-![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+   - Para **Título,** digite "Bem-vindo ao Microsoft 365 na Contoso". 
+   - Para **Tecnologia,** selecione **Microsoft 365**.
+![Formulário onde você inserir detalhes do ativo.](media/custom_ml_pl_createasset.png)
 2. Selecione **Criar Ativo** e, em seguida, selecione Salvar **Ativo**.
 
 **Para abrir o ativo**
@@ -59,7 +62,7 @@ Estas instruções pressuem que você esteja usando a lista de reprodução Cinc
 3. Clique **em Tradução**.
 4. Selecione **Criar** para os idiomas que você deseja. Para este exemplo, selecionaremos italiano.
 5. Selecione **Exibir**. Agora você deve ver uma página semelhante ao exemplo a seguir, dependendo dos idiomas com suporte.
-![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+![Página Ativos de Playlist de Exemplo.](media/custom_ml_pl_createasset.png)
 6. Clique em **Publicar**.
 7. Para a página de conversão que você criou, copie a URL do navegador e retorne para a página De administração dos caminhos de aprendizado.
 
@@ -67,7 +70,7 @@ Estas instruções pressuem que você esteja usando a lista de reprodução Cinc
 1. Retorne à página De administração dos caminhos de aprendizado e selecione o ícone Editar (lápis) para o ativo "Cinco Etapas Simples" que você abriu. 
 2. Clique **em Adicionar idioma** e selecione um idioma. Neste exemplo, selecionamos italiano. 
 3. Insira a URL da página traduzida criada. Você deve ver uma página semelhante ao exemplo a seguir. 
-![custom_ml_pl_translateasseturl.png](media/custom_ml_pl_translateasseturl.png)
+![Formulário onde você inserir a URL de uma página de idioma específica](media/custom_ml_pl_translateasseturl.png)
 4. Clique **em Salvar Ativo**.
 
 ## <a name="add-languages-for-existing-custom-playlists-and-assets"></a>Adicionar idiomas para playlists e ativos personalizados existentes
@@ -80,13 +83,13 @@ Se você tiver atualizado os caminhos de aprendizado para suporte multilíngue e
 ### <a name="to-add-languages-for-an-existing-playlist"></a>Para adicionar idiomas para uma playlist existente
 1.  No menu Caminhos de aprendizado **Página** principal, clique **em Administração de caminhos de aprendizagem.** 
 2.  Selecione uma playlist personalizada. Uma playlist personalizada é identificada pelo ícone de pessoas com a marca de seleção, conforme mostrado no exemplo a seguir.
-![custom_ml_pl_customselect.png](media/custom_ml_pl_customselect.png) 
+![Exemplo de playlist personalizada.](media/custom_ml_pl_customselect.png) 
 3. Selecione **Editar Detalhes**. Talvez seja necessário rolar para baixo para encontrar o **botão Editar Detalhes.**   
 4. Selecione **Adicionar idioma** e selecione um idioma.  
 5. Selecione **Salvar Detalhes**.
  Os idiomas disponíveis dependerão dos idiomas com suporte selecionados para o site. Para adicionar idiomas adicionais, você precisa adicionar idiomas com suporte adicionais ao site.   
 5. Clique em um idioma à direita do idioma padrão (neste caso, inglês) para exibir os detalhes da lista de reprodução copiada. Os detalhes do novo idioma refletem a playlist original copiada e exigem tradução.
-![custom_ml_pl_editdetailit.png](media/custom_ml_pl_editdetailit.png) 
+![Página de detalhes de exemplo para idioma italiano.](media/custom_ml_pl_editdetailit.png) 
 7. Anote para notificar o tradutor dos detalhes da playlist a serem convertidos.  
 
 **Para abrir o ativo**
@@ -95,7 +98,7 @@ Se você tiver atualizado os caminhos de aprendizado para suporte multilíngue e
 3. Clique **em Tradução**.
 4. Selecione **Criar** para os idiomas que você deseja. Para este exemplo, selecionaremos italiano.
 5. Selecione **Exibir**. Agora você deve ver uma página semelhante ao exemplo a seguir, dependendo dos idiomas com suporte.
-![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+![Página de exemplo que aparece quando você seleciona Exibir.](media/custom_ml_pl_createasset.png)
 6. Clique em **Publicar**.
 7. Para a página de conversão que você criou, copie a URL do navegador e retorne para a página De administração dos caminhos de aprendizado.
 

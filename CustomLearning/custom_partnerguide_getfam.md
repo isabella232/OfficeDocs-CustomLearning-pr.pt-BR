@@ -4,18 +4,21 @@ ms.author: pkrebs
 title: Guia de Integração do Parceiro
 ms.date: 3/9/2019
 description: Guia de Integração de Parceiros para Caminhos de Aprendizagem do Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: d2023c308872bc665322ed3eaf470cca2b9b500a
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: f19e413d533b8bfcef7e5b7489a51806eb8fbdcc
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163028"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999417"
 ---
 # <a name="partner-onboarding-guide"></a>Guia de Integração do Parceiro
 Começar a aprender caminhos seguindo as três etapas descritas abaixo. Com as três etapas, você pode criar uma demonstração atraente que você pode usar para envolver apresentações com clientes. 
 
-![cg-partner-getfam.png](media/cg-partner-getfam.png)
+![Gráfico ilustrado o processo de integração de cinco etapas.](media/cg-partner-getfam.png)
 
 ## <a name="1-create-a-microsoft-365-demonstration-environment"></a>1. Criar um ambiente de demonstração do Microsoft 365
 Você pode usar demos.microsoft.com para criar um ambiente de demonstração em que você pode provisionar o serviço, validá-lo e usá-lo para apresentar caminhos de aprendizado para os clientes. Todos os parceiros têm acesso https://demos.microsoft.com a essas finalidades. Você pode usar o demos.microsoft.com **Guia** de Iniciação se for novo no ambiente de demonstração.

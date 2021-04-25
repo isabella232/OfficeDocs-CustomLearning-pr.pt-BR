@@ -5,13 +5,13 @@ title: Configuração manual de caminhos de aprendizagem para ml
 ms.date: 02/10/2019
 description: Configuração manual de caminhos de aprendizagem
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
-ms.openlocfilehash: efa812a52418751b934fdcdf70c1377744f1a66d
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: 6a12334647dac66c2af18fb141ab94a993c1183d
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162948"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999587"
 ---
 # <a name="learning-pathways-manual-setup-for-multilingual"></a>Configuração manual de caminhos de aprendizagem para multilíngues
 
@@ -129,6 +129,6 @@ Como Administrador de Locatários, é improvável que você seja a pessoa que pe
 ## <a name="migrate-custom-content"></a>Migrar conteúdo personalizado
 Depois de restabelecer seu site de caminhos de aprendizado seguindo as etapas acima, você precisará mover o conteúdo da sua lista **CustomPlaylists** e sua **lista CustomAssets.** Você também pode, opcionalmente, mover as páginas personalizadas reais que comem seus ativos personalizados se elas morarem no site de caminhos de aprendizado existentes, e sua intenção é excluí-la. A tarefa pode ser difícil porque, para todos os itens na lista **CustomPlaylists,** a ID do item de lista na lista **CustomAssets** é sepultada no campo JSONData de cada item de lista de playlist. Portanto, simplesmente mover o conteúdo da lista **CustomPlaylists** de um site para o outro não será suficiente. Além disso, **a lista CustomAssets** contém a URL absoluta para a página do ativo personalizado no campo JSONData do item de lista. Se os ativos não são movidos e o site não é renomeado (alterando a URL absoluta para a página do ativo), **CustomAssets** poderá permanecer. Mas você precisará corrigir manualmente as entradas. Dada a complexidade desse tipo de migração, sugerimos que você considere inscrever um de nossos parceiros de caminhos de aprendizado para ajudá-lo a fazer essa transição. 
 
-### <a name="next-steps"></a>Próximas etapas
+### <a name="next-steps"></a>Próximas Etapas
 - Consulte [Personalizar caminhos de aprendizagem.](custom_overview.md) 
 - Consulte [Traduzir páginas de site](custom_translate_page_ml.md).
