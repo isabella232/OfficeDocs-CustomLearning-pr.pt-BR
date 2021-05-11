@@ -1,29 +1,31 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Adicionar e editar a Web Part de caminhos de aprendizado do Microsoft 365
+title: Adicionar e editar a Web Part Microsoft 365 caminhos de aprendizado
 ms.date: 02/17/2019
-description: Adicionar a Web Part de caminhos de aprendizado do Microsoft 365 a uma página do SharePoint
+description: Adicionar a web part Microsoft 365 caminhos de aprendizado a uma SharePoint página
 ms.service: sharepoint-online
-ms.openlocfilehash: 78279ddeb9e73ca087d546f5081444596a209aa7
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: d1bbc4c5d206d9feaa446f3f89a3f6dc6c3fe2a0
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999197"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310445"
 ---
-# <a name="add-and-edit-the-microsoft-365-learning-pathways-web-part"></a>Adicionar e editar a Web Part de caminhos de aprendizado do Microsoft 365
+# <a name="add-and-edit-the-microsoft-365-learning-pathways-web-part"></a>Adicionar e editar a web part Microsoft 365 caminhos de aprendizado
 
-Os caminhos de aprendizado do Microsoft 365 oferecem flexibilidade para adicionar a Web Part de caminhos de aprendizado do Microsoft 365 a uma página do SharePoint e filtrar o conteúdo da Web Part para atender aos objetivos de aprendizado da página. Por exemplo, você pode criar uma página "Fazer a opção para o OneDrive" e, em seguida, adicionar a Web Part e configurá-la para mostrar playlists de migração personalizadas do OneDrive criadas especialmente para sua organização.
+Microsoft 365 de aprendizado oferece a flexibilidade de adicionar Microsoft 365 web part de caminhos de aprendizagem a uma página SharePoint e filtrar o conteúdo da Web Part para atender aos objetivos de aprendizado da página. Por exemplo, você pode criar uma página "Tornar a opção para OneDrive" e, em seguida, adicionar a Web Part e configurá-la para mostrar listas de reprodução de migração OneDrive personalizadas criadas especialmente para sua organização.
 
-1.  Clique no ícone engrenagem do SharePoint e clique **em Adicionar uma página**.
+1.  Clique no SharePoint de engrenagem e clique **em Adicionar uma página**.
 2.  Clique **em Adicionar uma nova seção (+)** no lado esquerdo da página e clique em Uma **Coluna**.
-3.  Clique em , em seguida, selecione Web Part de caminhos de aprendizado **+** **do Microsoft 365.** 
+3.  Clique **+** em , e selecione Microsoft 365 web part de caminhos de **aprendizado.** 
 
 ![cg-webpartadd.png](media/cg-webpartadd.png)
 
 ## <a name="edit-the-custom-learning-web-part"></a>Editar a Web Part de Aprendizagem Personalizada
-Você pode editar a Web Part de caminhos de aprendizado do Microsoft 365 para mostrar todo o conteúdo personalizado disponível ou uma categoria específica, subcategoria, playlist ou ativo. 
+Você pode editar a Web Part de Microsoft 365 de aprendizado para mostrar todo o conteúdo de Aprendizagem Personalizada disponível ou uma categoria específica, subcategoria, playlist ou ativo. 
 
 1.  Clique **em Editar Web Part**.
 

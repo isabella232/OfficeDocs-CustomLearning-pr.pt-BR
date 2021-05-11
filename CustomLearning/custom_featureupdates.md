@@ -1,5 +1,5 @@
 ---
-author: pkrebs ms.author: pkrebs title: Learning pathways Feature Updates ms.date: 13/4/2021 description: Learning pathways Feature Updates ms.service: sharepoint-online
+autor: pkrebs ms.author: pkrebs title: Learning pathways Feature Updates ms.date: 13/4/2021 description: Learning pathways Feature Updates ms.service: sharepoint-online manager: bpardi ms.topic: artigo
 
 # <a name="learning-pathways-version-40-feature-updates"></a>Atualizações de recursos de caminhos de aprendizagem versão 4.0
 O seguinte inclui atualizações de recursos para caminhos de aprendizado versão 4.0.  
@@ -25,7 +25,7 @@ A Web Part de caminhos de aprendizado agora está disponível como open source. 
 
 ## <a name="july-2020-version-40-feature-updates"></a>Atualizações de recursos de julho de 2020 Versão 4.0 
 
-Os novos recursos a seguir foram adicionados aos caminhos de aprendizado do Microsoft 365 versão 4.0. 
+Os novos recursos a seguir foram adicionados Microsoft 365 de aprendizado versão 4.0. 
 
 ### <a name="multilingual-support-for-learning-pathways"></a>Suporte multilíngue para caminhos de aprendizagem 
 O suporte multilíngue para caminhos de aprendizado agora inclui holandês. 
@@ -52,18 +52,18 @@ Para obter mais informações, consulte [Classificar subcategorias e playlists](
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Se picker de imagem para subcategorias personalizadas de caminhos de aprendizagem 
 Os caminhos de aprendizado agora fornece um selador de imagem fácil de usar para playlists e subcategorias personalizadas.  Em versões anteriores, você poderia alterar a imagem de uma playlist, mas não uma subcategoria.  
 
-Para mais informações, confira:
+Para saber mais, veja:
 - [Criar uma playlist personalizada](custom_createnewplaylist.md). 
 - [Criar uma subcategoria](custom_createnewcat.md)
 
 ## <a name="november-2019-version-30-feature-updates"></a>Atualizações de recursos de novembro de 2019 versão 3.0
-Com base em grande parte nos comentários dos clientes, os novos recursos a seguir foram adicionados aos caminhos de aprendizado do Microsoft 365 versão 3.0.
+Com base em grande parte nos comentários dos clientes, os novos recursos a seguir foram adicionados Microsoft 365 de aprendizado versão 3.0.
 
 ### <a name="content-updates-and-editorial-calendar"></a>Atualizações de conteúdo e calendário editorial
-Uma das promessas de caminhos de aprendizado é o conteúdo atualizado. Para isso, fornecemos nossa primeira atualização de conteúdo trimestral de novembro de 2019 com uma variedade de novas subcategorias, playlist e ativos. As atualizações de conteúdo são comunicadas em nossos artigos de Atualização de Conteúdo em nossa lista de reprodução What's New/What's Changed. As atualizações trimestrais de conteúdo de caminhos de aprendizagem também podem ser encontradas aqui: Para ajuda geral do Office, consulte Atualizações de conteúdo de novembro de [2019](custom_contentupdates.md).
+Uma das promessas de caminhos de aprendizado é o conteúdo atualizado. Para isso, fornecemos nossa primeira atualização de conteúdo trimestral de novembro de 2019 com uma variedade de novas subcategorias, playlist e ativos. As atualizações de conteúdo são comunicadas em nossos artigos de Atualização de Conteúdo em nossa lista de reprodução What's New/What's Changed. As atualizações de conteúdo trimestrais também podem ser encontradas aqui: Para saber Office ajuda geral, consulte Atualizações de conteúdo de novembro de [2019.](custom_contentupdates.md)
 
 ### <a name="learning-pathways-admin-success-center"></a>Centro de Sucesso do Administrador de Caminhos de Aprendizagem
-Adicionamos um Centro de Sucesso de Administração dos caminhos de aprendizado do Microsoft 365 para ajudar os administradores e proprietários de conjunto de sites a obter o máximo de caminhos de aprendizado. O Centro de Sucesso do Administrador fornece links para o planejamento e adoção de recursos e oferece orientações sobre planejamento, personalização, adoção e medição do impacto dos caminhos de aprendizagem. Para obter mais informações, consulte [Centro de Sucesso do Administrador.](custom_successcenter.md)
+Adicionamos um Microsoft 365 de aprendizado do Centro de Sucesso do Administrador para ajudar os administradores e proprietários de conjunto de sites a obter o máximo de caminhos de aprendizado. O Centro de Sucesso do Administrador fornece links para o planejamento e adoção de recursos e oferece orientações sobre planejamento, personalização, adoção e medição do impacto dos caminhos de aprendizagem. Para obter mais informações, consulte [Centro de Sucesso do Administrador.](custom_successcenter.md)
 
 ## <a name="playlist-navigation"></a>Navegação de playlist
 Com base nos comentários dos clientes, fizemos a navegação mais óbvia com os botões Next e Previous. Também adicionamos um índice na área de navegação para permitir que os usuários vejam facilmente a lista completa de itens em uma playlist e naveguem diretamente para um ativo em uma playlist.
@@ -75,5 +75,5 @@ Em alguns casos, o vídeo em um ativo de playlist aparece abaixo da área de exi
 Muitos clientes expressaram a necessidade de modificar apenas algumas coisas simples em uma playlist fornecida pela Microsoft, sem a necessidade de criar uma playlist completamente nova. Por exemplo, uma solicitação comum do cliente é remover uma etapa da lista de reprodução Iniciar com Seis Etapas Simples. Agora você pode copiar uma playlist de uma playlist existente, incluindo uma playlist do catálogo da Microsoft e modificar essa playlist. Por exemplo, agora você pode copiar seis etapas simples, excluir três etapas e transformar a playlist em três etapas simples. Para obter mais informações, consulte [Copy a Playlist](custom_copyplaylist.md).
 
 ## <a name="multi-content-pack-support"></a>Suporte a Pacote de Vários Conteúdos
-Projetado para parceiros e administradores de caminhos de aprendizado do Microsoft 365 com experiência para administrar conteúdo da Web, o suporte a vários conteúdos permite que um parceiro ou administrador integre um conjunto de conteúdo personalizado aos caminhos de aprendizado do Microsoft 365. Para obter mais informações, consulte o [Guia do Parceiro](custom_partnerguide.md).
+Projetado para Microsoft 365 de aprendizado parceiros e administradores com experiência para administrar conteúdo da Web, o suporte a vários conteúdos permite que um parceiro ou administrador integre um conteúdo personalizado definido em Microsoft 365 de aprendizado. Para obter mais informações, consulte o [Guia do Parceiro](custom_partnerguide.md).
 

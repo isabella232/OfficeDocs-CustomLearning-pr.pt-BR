@@ -1,37 +1,39 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Medir o impacto dos caminhos de aprendizado do Microsoft 365
+title: Medir o impacto de Microsoft 365 de aprendizado
 ms.date: 02/10/2019
-description: Como medir o impacto dos caminhos de aprendizado do Microsoft 365
+description: Como medir o impacto de Microsoft 365 de aprendizado
 ms.service: sharepoint-online
-ms.openlocfilehash: 4ba5981902367ef9c94c28c49442af588dcf368e
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 3f2b2a29134bd629d9ac862eb2d1a82ad5e2bd8d
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999527"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310315"
 ---
-# <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>Medir o impacto dos caminhos de aprendizado do Microsoft 365
+# <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>Medir o impacto de Microsoft 365 de aprendizado
 
-Os administradores devem aproveitar os recursos de relatório de uso de site integrados do SharePoint para medir o impacto organizacional dos caminhos de aprendizado do Microsoft 365. Há dois cenários principais para medir o impacto: 
-- Impacto no nível do site – exibir dados de uso para o site específico do Custom Learning para o Office 365 
-- Impacto no nível da organização – entenda o uso do Customer Learning para o Office 365 em relação a todos os outros sites em sua organização
+Os administradores devem aproveitar SharePoint recursos de relatório de uso de site integrados para medir o impacto organizacional dos Microsoft 365 de aprendizado. Há dois cenários principais para medir o impacto: 
+- Impacto no nível do site – exibir dados de uso do Custom Learning para Office 365 site específico 
+- Impacto no nível da organização – entenda a Aprendizagem do Cliente para Office 365 uso em relação a todos os outros sites em sua organização
 
 ## <a name="site-level-impact"></a>Impacto no nível do site
 
-Como proprietário de site do SharePoint Online, você pode exibir informações que mostram como os usuários estão interagindo com seu site. Por exemplo, você pode ver o número de pessoas que visitaram o site, quantas vezes as pessoas visitaram o site e uma lista de arquivos que receberam mais exibição. Consulte [Detalhes do Relatório](https://support.office.com/article/view-usage-data-for-your-sharepoint-site-2fa8ddc2-c4b3-4268-8d26-a772dc55779e). 
+Como proprietário SharePoint site online, você pode exibir informações que mostram como os usuários estão interagindo com seu site. Por exemplo, você pode ver o número de pessoas que visitaram o site, quantas vezes as pessoas visitaram o site e uma lista de arquivos que receberam mais exibição. Consulte [Detalhes do Relatório](https://support.office.com/article/view-usage-data-for-your-sharepoint-site-2fa8ddc2-c4b3-4268-8d26-a772dc55779e). 
 
-![cg-measureimpactreport.png](media/cg-measureimpactreport.png)
+![Uma página de relatório de exemplo com um gráfico de barras.](media/cg-measureimpactreport.png)
 
 ## <a name="organization-level-impact"></a>Impacto no nível da organização
-O relatório de uso do site do Centro de Administração do Office 365 do SharePoint permite que os administradores recebam uma exibição de alto nível do valor que você está recebendo do site Aprendizagem Personalizada do Office 365 em relação a todos os outros sites do SharePoint. Consulte [Detalhes do Relatório](/office365/admin/activity-reports/sharepoint-site-usage?view=o365-worldwide).
+O Office 365 de administração SharePoint relatório de uso do site permite que os administradores recebam uma exibição de alto nível do valor que você está recebendo do site Custom Learning for Office 365 em relação a todos os outros sites SharePoint. Consulte [Detalhes do Relatório](/office365/admin/activity-reports/sharepoint-site-usage).
  
 Siga o artigo referenciado para: 
-1. Saiba como chegar ao relatório de uso do site do SharePoint 
-2. Interpretando os detalhes do relatório de uso do site do SharePoint. Classificar no campo URL do Site para identificar mais facilmente seu site de caminhos de aprendizagem do Microsoft 365. 
+1. Saiba como chegar ao relatório de uso SharePoint site 
+2. Interpretando os detalhes SharePoint relatório de uso do site. Classificar no campo URL do site para identificar mais facilmente seu site Microsoft 365 de aprendizado. 
 3. Aproveite a funcionalidade de exportação de relatório para análise de dados mais avançada ou se sua organização tiver mais de 2.000 sites. 
 
-## <a name="reporting"></a>Relatórios
+## <a name="reporting"></a>Reporting
 
-A partir de hoje, o relatório está limitado ao nível do site do SharePoint. Empresse seu voto em [nosso fórum do User Voice](https://go.microsoft.com/fwlink/?linkid=2109552) para ajudar a priorizar solicitações de funcionalidade de relatório aprimoradas.
+A partir de hoje, o relatório está limitado ao nível SharePoint site. Empresse seu voto em [nosso fórum do User Voice](https://go.microsoft.com/fwlink/?linkid=2109552) para ajudar a priorizar solicitações de funcionalidade de relatório aprimoradas.
