@@ -5,12 +5,14 @@ title: Acesse o site Aprendizagem Personalizada do Office 365
 ms.date: 02/18/2019
 description: Vá para o Site de Aprendizado Personalizado
 ms.service: sharepoint-online
-ms.openlocfilehash: a232b192b92f1305486538b2baaf2cbc917c9ecb
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: aec0f49e1745f10af7cb3de8cf572babce33fb97
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999117"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334505"
 ---
 # <a name="add-owners-custom-learning-site"></a>Adicionar site de Aprendizagem Personalizada de Proprietários
 
@@ -23,7 +25,7 @@ O site Custom Learning for Office 365 está hospedado em seu locatário do Offic
 3.  Navegue até o local do site. Se você não o tiver disponível, poderá encontrá-lo no email recebido do Serviço de Provisionamento PnP. Selecione o SharePoint na home page do Office 365 e selecione o site **Aprendizagem Personalizada para o Office 365.** Você pode ter nomeado diferente. 
 5. Clique no pacote de treinamento do **Office 365** para ver o pacote completo de playlist de treinamento disponível com Aprendizado Personalizado e para verificar se o Aprendizado Personalizado está funcionando conforme esperado. 
 
-![cg-goto.png](media/cg-goto.png)
+   ![Coleção de fotos que mostram caminhos de aprendizado em uso.](media/cg-goto.png)
 
 ## <a name="view-all-the-custom-learning-content"></a>Exibir todo o conteúdo de Aprendizado Personalizado
 A página de treinamento do Office 365 hospeda a Web Part de Aprendizado Personalizado configurada para mostrar todo o treinamento disponível para Aprendizagem Personalizada. 
@@ -31,7 +33,7 @@ A página de treinamento do Office 365 hospeda a Web Part de Aprendizado Persona
 1. Role para baixo a página para exibir todas as categorias e subcategorias.
 2. Kick the tires a bit. Clique em algumas subcategorias e clique em algumas playlists para saber como o conteúdo do Aprendizado Personalizado é organizado. 
 
-![cg-gotoall.png](media/cg-gotoall.png)
+![Janela gateways de caminho de aprendizado.](media/cg-gotoall.png)
 
 ## <a name="add-owners-to-site"></a>Adicionar proprietários ao site
 Como Administrador de Locatários, é improvável que você seja a pessoa que personalização do site, portanto, você precisará atribuir alguns proprietários ao site. Os proprietários têm privilégios administrativos no site para que possam modificar páginas do site e renomear o site. Eles também têm a capacidade de ocultar e mostrar o conteúdo fornecido por meio da Web Part de Aprendizagem Personalizada. Eles também terão a capacidade de criar playlist personalizada e atribuí-las a subcategorias personalizadas.  

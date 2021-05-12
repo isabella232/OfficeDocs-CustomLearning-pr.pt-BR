@@ -4,16 +4,16 @@ ms.author: karuanag
 title: Personalizar a Experiência de Treinamento
 ms.date: 02/10/2019
 description: Saiba mais sobre a variedade de personalizações disponíveis com o Custom Learning para o Office 365
-ms.service: o365-administration
+ms.service: sharepoint-online
 manager: alexb
 audience: itpro
 ms.topic: article
-ms.openlocfilehash: 1aabdd7ea27fb8df74ca8043e508a2d272000737
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: ff4b7d25c0600e143208c62fba9987e0b843385b
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000187"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334535"
 ---
 # <a name="customize-the-training-experience"></a>Personalizar a experiência de treinamento
 

@@ -1,19 +1,20 @@
 ---
-title: Práticas recomendadas do Programa Champion
-description: Impulsionar a adoção do Office 365 com nossas práticas recomendadas do Programa Champion
+title: 'Práticas recomendadas do Programa Champion: Estabelecer campeões para adoção do usuário'
+description: Nossas práticas recomendadas do Programa Champion ajudam a impulsionar a adoção do Office 365.
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 2eab242302ed952141a256f3c9c1e6265044bf8f
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 691b6535be07028bb02d6340cdfddeba841274a2
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999927"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334585"
 ---
-# <a name="establish-champions-for-user-adoption"></a>Estabelecer campeões para adoção de usuários 
+# <a name="champion-program-best-practices-establish-champions-for-user-adoption"></a>Práticas recomendadas do Programa Champion: Estabelecer campeões para adoção do usuário
 
 O gerenciamento de alterações organizacionais é a arte de alterar o comportamento de um grupo direcionado de pessoas. Há uma grande quantidade de ciências e pesquisas que suportam essa prática. Nesses artigos, vamos ajudá-lo a impulsionar a adoção de serviços importantes que levarão a resultados comerciais em sua empresa.  Seguir nossas práticas recomendadas reduzirá seu tempo para obter um valor mensurável do Office 365.  
 
@@ -24,7 +25,7 @@ Um programa de campeões é uma parte essencial para impulsionar a adoção. Ess
 
 ## <a name="who-are-champions-and-what-makes-them-tick"></a>Quem são os campeões e o que os faz marcar?
 
-Os campeões não estão apenas entusiasmados com o que fazem, mas também estão animados para compartilhar seus conhecimentos e ajudar seus colegas a aprender soluções mais eficazes. Os campeões são entusiasmados e frequentemente frustrados com as ferramentas existentes. Eles ajudarão você a vencer o desafio watercooler buzz!  
+Os campeões não estão apenas entusiasmados com o que fazem, mas também estão animados para compartilhar seus conhecimentos e ajudar seus colegas a aprender soluções mais eficazes. Os campeões são entusiasmados e frequentemente frustrados com as ferramentas existentes. Eles ajudarão você a vencer o desafio de zumbido do isopor de água!  
 
 Acreditamos que é importante recompensar os campeões de maneiras significativas. Algumas sugestões são:
 
@@ -44,7 +45,7 @@ O aprendizado por meio de colegas de trabalho está entre os métodos mais efica
 
 Os campeões ajudarão a reduzir a pressão sobre os recursos da equipe principal do projeto e ajudarão a impulsionar o envolvimento em toda a comunidade. Eles também:
 
-1. Criar o groundswell um entusiasmo que aumenta a adoção de maneiras aprimoradas de trabalho
+1. Criar um entusiasmo oif de inéreo de chão que aumenta a adoção de maneiras aprimoradas de trabalho
 1. Criar um círculo de influência entre suas equipes
 1. Trazer as novas maneiras de trabalhar a vida útil entre as equipes
 1. Identificar desafios de negócios e possíveis soluções

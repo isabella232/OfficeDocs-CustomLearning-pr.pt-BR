@@ -3,14 +3,16 @@ author: pkrebs
 ms.author: pkrebs
 title: Administração de Caminhos de Aprendizagem
 ms.date: 02/15/2019
+manager: bpardi
+ms.topic: how-to
 description: Como acessar a página Administrador de Aprendizagem Personalizada na Web Part ou no menu
 ms.service: sharepoint-online
-ms.openlocfilehash: b1cb8bf14d8b0daf884419fcbe30976ad821a89a
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 73ee8f07cd135ec575a50b82cd8d5650fd3c5a91
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999837"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334495"
 ---
 # <a name="access-the-learning-pathways-administration-page"></a>Acessar a página Administração de Caminhos de Aprendizagem
 
@@ -23,13 +25,13 @@ A administração de caminhos de aprendizagem é gerenciada a partir da página 
 Abrir a página Administração da Web Part é o método preferencial, pois abre a página em uma nova guia do navegador. Com esse método, é fácil virar para frente e para trás entre as páginas guias para verificar ou modificar seu trabalho.  
 
 1. Na página Inicial dos caminhos  de aprendizado do Microsoft 365, clique no pacote de treinamento do **Office 365.**
-2. Clique no **ícone Administração** na Web Part, conforme mostrado no exemplo a seguir  
+2. Clique no **ícone Administração** na Web Part, conforme mostrado no exemplo a seguir.
 
-![cg-adminaccbtn.png](media/cg-adminaccbtn.png)
+![Um ícone de ponteiro em forma de mão aponta para o ícone Administração em uma janela de treinamento do Microsoft 365.](media/cg-adminaccbtn.png)
 
 ## <a name="access-from-the-home-menu-item"></a>Acesso do item de menu Home
 Em vez de navegar até uma página com uma Web Part, os administradores podem acessar a página Administração a partir do item de menu **Home** do SharePoint. 
 
 - Na home page Caminhos de Aprendizagem do Microsoft 365, clique no **menu** Página Inicial e clique em Administração de Aprendizagem **da Microsoft.**
 
-![cg-adminaccmenu.png](media/cg-adminaccmenu.png)
+![Um ícone de ponteiro em forma de mão aponta para a opção de administração.](media/cg-adminaccmenu.png)

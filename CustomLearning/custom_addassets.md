@@ -5,12 +5,14 @@ title: Adicionar ativos a uma playlist
 ms.date: 02/17/2019
 description: Adicionar ativos novos e existentes a uma playlist de caminhos de aprendizagem
 ms.service: sharepoint-online
-ms.openlocfilehash: abd4500faccf8d4e8008f72dc800855035d8a2c9
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 409a1dab13d00c3592f565675475cf2446da9908
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999827"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334545"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>Adicionar ativos a uma playlist personalizada
 
@@ -36,14 +38,14 @@ Com a **opção Criar Página de** Ativo, você fornece um título para o Ativo 
 2. Para adicionar um novo ativo a uma playlist, clique em **Novo Ativo**. 
 3. Insira um título. Neste exemplo, digite "Adicionar Ativos a uma playlist" e clique em **Criar Página de Ativos**.
 
-![cg-addassetcreatenewpage.png](media/cg-addassetcreatenewpage.png)
+   ![Uma janela mostra o botão Criar Página de Ativo alta.](media/cg-addassetcreatenewpage.png)
 
 4. Clique **em Abrir Página**.
 5. Clique no **ícone Editar** e clique em Editar **Web Part** na área Título.
 6. Em **Layout,** clique em **Plain**. 
 7. Adicione uma nova seção de uma coluna e adicione algum texto de exemplo à página para que ela se pareça com o exemplo a seguir. 
 
-![cg-addassetcreatenewpageedit.png](media/cg-addassetcreatenewpageedit.png)
+   ![Adicionar caixa de diálogo de ativo.](media/cg-addassetcreatenewpageedit.png)
 
 7. Clique em **Publicar**.
 8. Volte para a **página Administração de Aprendizagem** Personalizada. 
@@ -56,11 +58,11 @@ Com a opção Inserir a **URL,** você fornece um título para o Ativo e clique 
 2. Para adicionar um novo ativo a uma playlist, clique em **Novo Ativo**. 
 3. Insira um título. Neste exemplo, digite "Introdução à Playlist Personalizada" e clique em **Inserir URL**. 
 
-![cg-newplaylistasseturl.png](media/cg-newplaylistasseturl.png)
+   ![Caixa de diálogo Ativos da Playlist com novo título sendo adicionado.](media/cg-newplaylistasseturl.png)
 
 4. Insira a URL da página do SharePoint que você criou em uma seção anterior Criar páginas do SharePoint para [playlists personalizadas ](custom_createnewpage.md) e preencha o restante dos campos, conforme mostrado na ilustração a seguir.
 
-![cg-newplaylistassetdetails.png](media/cg-newplaylistassetdetails.png)
+   ![Formulário para inserir informações de introdução da lista de reprodução.](media/cg-newplaylistassetdetails.png)
 
 5. Clique **em Salvar Ativo**. 
 
@@ -70,12 +72,12 @@ Os ativos existentes consistem em ativos ou ativos de caminhos de aprendizado fo
 
 - Na caixa **Pesquisar,** insira uma frase pesquisar e selecione um ativo nos resultados da Pesquisa. Neste exemplo, digite "O que é o Excel?" para adicionar um tópico de introdução do Excel à playlist.
 
-![cg-existplaylistassetsearch.png](media/cg-existplaylistassetsearch.png)
+![Nova caixa de diálogo Ativo.](media/cg-existplaylistassetsearch.png)
 
 ## <a name="edit-move-and-delete-assets"></a>Editar, mover e excluir ativos
 Você pode editar ativos personalizados que você cria, mas não ativos da Microsoft. No entanto, você pode remover todos os ativos de uma playlist e alterar os ativos de pedido. 
 
-![cg-playlistassetedit.png](media/cg-playlistassetedit.png)
+![Caixa de diálogo Ativos da Playlist com opções para remover ou editar itens.](media/cg-playlistassetedit.png)
 
 ### <a name="edit-an-asset"></a>Editar um ativo
 - Clique no botão Editar para um ativo, modifique o ativo e clique em Salvar Ativo. 
@@ -94,4 +96,4 @@ Agora que você adicionou ativos a uma playlist, vamos fechar a playlist e vê-l
 3. Atualize a página e clique em **Primeiros Dias** em **Começar.**
 4. Clique **em Learning Pathways Starter Kit** para exibir sua primeira playlist em ação. 
 
-![cg-addassetcheckwork.png](media/cg-addassetcheckwork.png)
+![Página de introdução de exemplo.](media/cg-addassetcheckwork.png)
