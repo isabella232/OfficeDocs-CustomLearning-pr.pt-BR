@@ -1,6 +1,19 @@
 ---
-autor: pkrebs ms.author: pkrebs title: Learning pathways Feature Updates ms.date: 13/4/2021 description: Learning pathways Feature Updates ms.service: sharepoint-online manager: bpardi ms.topic: artigo
-
+author: pkrebs
+ms.author: pkrebs
+title: Caminhos de aprendizagem Atualizações de recursos
+ms.date: 4/13/2021
+description: Caminhos de aprendizagem Atualizações de recursos
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: ee166cd113acd969efcf0fdec6626a1d6b00ec29
+ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52575956"
+---
 # <a name="learning-pathways-version-40-feature-updates"></a>Atualizações de recursos de caminhos de aprendizagem versão 4.0
 O seguinte inclui atualizações de recursos para caminhos de aprendizado versão 4.0.  
 
@@ -52,7 +65,7 @@ Para obter mais informações, consulte [Classificar subcategorias e playlists](
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Se picker de imagem para subcategorias personalizadas de caminhos de aprendizagem 
 Os caminhos de aprendizado agora fornece um selador de imagem fácil de usar para playlists e subcategorias personalizadas.  Em versões anteriores, você poderia alterar a imagem de uma playlist, mas não uma subcategoria.  
 
-Para saber mais, veja:
+Para mais informações, confira:
 - [Criar uma playlist personalizada](custom_createnewplaylist.md). 
 - [Criar uma subcategoria](custom_createnewcat.md)
 

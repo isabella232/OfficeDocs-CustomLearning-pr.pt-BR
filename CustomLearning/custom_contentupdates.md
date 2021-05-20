@@ -3,20 +3,134 @@ author: pkrebs
 ms.author: pkrebs
 manager: bpardi
 title: Caminhos de aprendizado Atualizações de conteúdo
-ms.date: 3/30/2020
-audience: Admin
+ms.date: 5/19/2021
 ms.topic: article
 description: Caminhos de aprendizado Atualizações de conteúdo
 ms.service: o365-solutions
-ms.openlocfilehash: 6ec05d670dd9ccd925e07f71e3a8e5b99bc4621e
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+audience: itpro
+ms.openlocfilehash: 84d166c96ac24a04e24fe4a9b88f2942cc7752c8
+ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000107"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52575976"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Atualizações de conteúdo do Microsoft 365 Learning Pathways
-Os percursos de aprendizagem se esforçam para aderir a um ciclo de atualização de conteúdo trimestral. Para saber mais sobre como as atualizações de conteúdo são aplicadas e como gerenciar atualizações de conteúdo, consulte [Manage Content Updates](custom_contentupdatesmanage.md). 
+# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Atualizações de conteúdo de Caminhos de Aprendizagem
+Os percursos de aprendizagem se esforçam para aderir a um ciclo de atualização de conteúdo trimestral. Para saber mais sobre como as atualizações de conteúdo são aplicadas e como gerenciar atualizações de conteúdo, consulte [Manage Content Updates](custom_contentupdatesmanage.md).  
+
+## <a name="may-2021-content-updates"></a>Atualizações de conteúdo de maio de 2021
+A seguir, lista as atualizações de conteúdo para maio de 2021.    
+
+### <a name="yammer"></a>Yammer
+Yammer conteúdo foi atualizado.
+
+#### <a name="yammer-quick-start-updated"></a>Yammer Início Rápido (atualizado)
+- Entrar – atualizado com novo vídeo
+- Descobrir comunidades – atualizado com novo título
+- Participar da conversa – conteúdo atualizado
+- Colaborar – aposentado
+- Configurar aplicativos móveis – sem alterações
+
+#### <a name="roll-out-a-successful-yammer-network-updated"></a>Lançar uma rede de Yammer bem-sucedida (atualizada)
+- O que é Yammer? – atualizado com novo vídeo
+- Planejar sua estratégia – conteúdo atualizado
+- Personalizar uma rede Yammer – atualizada com novo vídeo
+- Identificar os casos de uso corretos – vídeo atualizado e removido
+- Criar uma comunidade para um caso de uso – atualizado, alterado grupo para comunidade no título 
+- Instruir usuários – vídeo atualizado e removido
+- Drive ongoing engagement – retired
+- Integrar Yammer – título atualizado e alterado
+
+#### <a name="use-yammer-every-day-updated"></a>Usar Yammer todos os dias (atualizado)
+- O que Yammer – atualizado com novo vídeo
+- Alterar meu perfil Yammer configurações – conteúdo atualizado
+- Iniciar uma conversa – título atualizado
+- Editar notificações e receber comunicados – título atualizado
+- Ingressar e criar comunidades – título atualizado
+- Descobrir e pesquisar em Yammer - aposentado
+- Criar e editar arquivos – aposentados
+- Continue – conteúdo atualizado
+
+### <a name="hybrid-workplace-updated"></a>Local de trabalho híbrido (atualizado)
+As novas listas de reprodução a seguir foram adicionadas à subcategoria Híbrida do local de trabalho.
+
+#### <a name="stay-well-new"></a>Fique bem (novo)
+- Introdução ao bem-estar no local de trabalho híbrido - novo ativo
+- Fazer pausas e agendar tempo pessoal - novo ativo
+- Limites de planejamento e respeito - novo ativo
+- Definir seu status em Microsoft Teams - novo ativo
+- Gerenciar notificações em Teams - novo ativo
+- Ativar o assistente de foco no Windows – novo ativo
+
+#### <a name="stay-productive-new"></a>Mantenha-se produtivo (novo)
+- Produtividade pessoal no local de trabalho híbrido - novo ativo
+- Produtividade da equipe no local de trabalho híbrido - novo ativo
+
+#### <a name="stay-connected-new"></a>Mantenha-se conectado (novo)
+- Mantendo-se conectado no local de trabalho híbrido - novo ativo
+- Iniciar conversas em Teams - novo ativo
+- Criar um contrato de comunicação com sua equipe - novo ativo
+
+### <a name="microsoft-teams-updated"></a>Microsoft Teams (atualizado)
+Novos ativos com vídeos foram adicionados às seguintes Microsoft Teams de reprodução. 
+
+#### <a name="collaborate-in-teams-and-channels-updated"></a>Colaborar em equipes e canais (atualizados)
+- Trabalhar com convidados externos – novo ativo com vídeo
+
+#### <a name="create-approvals-updated"></a>Criar aprovações (atualizado)
+- Criar uma aprovação de e-sign – novo ativo com vídeo
+
+### <a name="teams-excel-powerpoint-word-outlook"></a>Teams, Excel, PowerPoint, Word, Outlook
+Os ativos a seguir têm vídeos novos ou atualizados.
+
+#### <a name="teams"></a>Teams
+- Gerenciar reuniões\Participar de uma reunião Teams - vídeo atualizado
+- Gerenciar reuniões\Gerenciar reuniões - vídeo atualizado
+- Colaborar em equipes e canais\Visão geral das equipes e canais - vídeo atualizado
+- Colaborar em equipes e canais\Trabalhar com convidados externos - novo vídeo
+- Upload e encontrar arquivos\Upload e compartilhar arquivos - vídeo atualizado
+- Criar aprovações\Criar uma solicitação de aprovação de e-sign - novo vídeo
+
+#### <a name="excel"></a>Excel
+- Introdução ao Excel\Usar Excel como sua calculadora (subtração) - vídeo atualizado
+- Introdução ao Excel\Usar Excel como sua calculadora (multiplique) - vídeo atualizado
+- Introdução ao Excel\Usar Excel como sua calculadora (dividir) - vídeo atualizado
+- Introdução ao Excel\mover ou copiar planilhas ou dados da planilha - vídeo atualizado
+- Introdução ao Excel\Preencher dados automaticamente em células de planilha - vídeo atualizado
+- Formatação\Alinhar ou girar texto em uma célula - novo vídeo
+- Gráficos\Criar um gráfico do início ao fim - vídeo atualizado
+- Linhas e colunas\Ocultar ou mostrar linhas ou colunas - vídeo atualizado
+
+#### <a name="powerpoint"></a>PowerPoint
+- Slides e layouts\Adicionar, reorganizar, duplicar e excluir slides PowerPoint - vídeo atualizado
+- Slides e layouts\Alterar a orientação da página no PowerPoint entre paisagem e retrato - vídeo atualizado
+- Animação, vídeo e áudio\Adicionar ou excluir áudio em sua apresentação PowerPoint - vídeo atualizado  
+- Animação, vídeo e áudio\Inserir um vídeo do YouTube ou outro site - novo vídeo 
+- Tabelas & texto\Adicionar um hiperlink a um slide - vídeo atualizado
+- Imagens & gráficos\Adicionar uma imagem em segundo plano a slides - vídeo atualizado
+- Apresentar apresentação de slides\Iniciar a apresentação e ver suas anotações no exibição apresentador - vídeo atualizado
+
+##### <a name="word"></a>Word
+- Lay out pages\Change page orientation to landscape or portrait - new video
+- Inserir tabelas, imagens & marcas d'água\Mostrar a régua - novo vídeo
+- Inserir tabelas, imagens & marcas d'água\Inserir uma tabela - vídeo atualizado
+- Inserir tabelas, imagens & marcas d'água\Inserir imagens - vídeo atualizado
+
+#### <a name="outlook"></a>Outlook
+- Calendário\Bem-vindo ao calendário - vídeo atualizado
+- Calendário\Usar categorias de calendário e lembretes - vídeo atualizado
+- Calendar\Search for calendar items - vídeo atualizado
+- Contatos e tarefas\Adicionar um contato - vídeo atualizado
+- Contatos e tarefas\Criar um grupo de contatos - vídeo atualizado
+- Contatos e tarefas\Criar tarefas e uma lista a fazer - vídeo atualizado
+- Contatos e tarefas\Importar contatos - vídeo atualizado
+- Contatos e tarefas\Exportar contatos - vídeo atualizado
+- Criar e enviar email\Criar uma assinatura de email - vídeo atualizado
+- Criar e enviar email\Bem-vindo à sua caixa de entrada - vídeo atualizado
+- Criar e enviar email\Retrair ou substituir um email enviado - vídeo atualizado
+- Configurar e personalizar\Adicionar uma conta Outlook.com ou Microsoft 365 - vídeo atualizado
+- Configurar e personalizar\Configurar contas do Gmail - vídeo atualizado
+- Gerenciar email\Pesquisar e filtrar email - vídeo atualizado
 
 ## <a name="march-2021-content-updates"></a>Atualizações de conteúdo de março de 2021
 A seguir, lista as atualizações de conteúdo para março de 2021. 
@@ -45,28 +159,28 @@ Para ajudar as organizações a fazer a transição para um local de trabalho h�
 - Reduzir ou substituir reuniões por colaboração assíncrona
 - Colaborar e coautor de conteúdo compartilhado
 - Práticas recomendadas para colaborar no Microsoft 365
-- Coautor arquivos do Microsoft 365
+- Arquivos de Microsoft 365 coautor
 - Colaboração e coautoria de documentos
-- Colaborar com o SharePoint, o Teams e o OneDrive
+- Colaborar com SharePoint, Teams e OneDrive
 - Colaborar no Teams
-- Usar bibliotecas de documentos no SharePoint
+- Usar bibliotecas de documentos em SharePoint
 - Solucionar erros comuns de coautor
 
 #### <a name="reach-large-audiences-with-live-events"></a>Alcançar grandes audiências com eventos ao vivo
 - Usar eventos ao vivo para alcançar grandes públicos
 - Começar a usar o Microsoft Teams para eventos ao vivo
-- Planejar e agendar um evento ao vivo no Teams
+- Planejar e agendar um evento ao vivo Teams
 - Organizar um live even
 
 ### <a name="microsoft-teams"></a>Microsoft Teams
-O Microsoft Teams foi atualizado com o seguinte conteúdo.
+Microsoft Teams foi atualizado com o seguinte conteúdo.
 
 #### <a name="manage-meetings-playlist"></a>Gerenciar a playlist de reuniões
 A playlist Gerenciar reunião tem o novo ativo a seguir.
-- Dicas para reuniões do Teams
+- Dicas para Teams reuniões
 
-#### <a name="teams-on-the-go-playlist"></a>Teams na lista de reprodução de ir
-A playlist do Teams em ir foi atualizada com os novos ativos a seguir.
+#### <a name="teams-on-the-go-playlist"></a>Teams na playlist ir
+A Teams lista de reprodução na lista de reprodução go foi atualizada com os novos ativos a seguir.
 - Iniciar um canal em uso
 - Criar um canal em uso
 - Gerenciar notificações em uso
@@ -79,10 +193,10 @@ A playlist Gerenciar agendamentos de equipe com Turnos foi adicionada com os seg
 - Gerenciar uma agenda de turnos
 - Turnos para funcionários firstline
 
-#### <a name="walkie-talkie-tasks-and-praise"></a>Walkie Talkie, Tasks e Praise
-A playlist Walkie Talkie, Tasks e Praise foi adicionada com os ativos a seguir.
+#### <a name="walkie-talkie-tasks-and-praise"></a>Walkie Talkie, Tasks e Elogio
+A playlist Walkie Talkie, Tasks e Elogio foi adicionada com os ativos a seguir.
 - Walkie Talkie
-- Usar o aplicativo Tarefa no Teams
+- Use o aplicativo Task no Teams
 - Tarefas para gerentes
 - Tarefas para funcionários da Linha de Frente
 - Comunicação e Elogio
@@ -99,7 +213,7 @@ Uma nova subcategoria e uma lista de reprodução de listas foram adicionadas ao
 #### <a name="get-started-with-lists"></a>Começar com listas
 A playlist Começar com Listas tem os novos ativos a seguir.
 - Criar uma lista a partir do aplicativo Lists
-- Criar uma lista em um canal do Teams
+- Criar uma lista em um Teams canal
 - Adicionar ou editar itens de lista
 - Criar ou alterar a exibição de uma lista
 - Editar um modo de exibição de lista
@@ -118,10 +232,10 @@ A lista de reprodução Criar um formulário e exibir resultados foi atualizada 
 - Adicionar seções à sua pesquisa ou questionário
 
 ### <a name="excel"></a>Excel
-O Excel nos caminhos de aprendizado foi atualizado com o seguinte conteúdo.
+Excel em caminhos de aprendizado foi atualizado com o seguinte conteúdo.
 
 #### <a name="intro-to-excel"></a>Introdução ao Excel
-A playlist Introdução ao Excel tem o novo ativo a seguir.
+A playlist Introdução Excel tem o novo ativo a seguir.
 - Criar uma lista de menus suspensos
 
 #### <a name="linked-data-types"></a>Tipos de dados vinculados
@@ -135,12 +249,12 @@ Dois novos ativos foram adicionados à lista de reprodução Fórmulas e funçõ
 - Função XLOOKUP
 - Função CORRESP
 
-### <a name="sharepoint"></a>SharePoint
-Todas as listas de reprodução e ativos do SharePoint foram atualizadas. As listas de reprodução atualizadas incluem:
+### <a name="sharepoint"></a>Microsoft Office SharePoint Online
+Todas SharePoint playlists e ativos foram atualizados. As listas de reprodução atualizadas incluem:
 - SharePoint Online Quick Start
 - Introdução ao SharePoint Online
 - Criar sites, postagens e listas
-- Compartilhar e sincronizar com o SharePoint
+- Compartilhar e sincronizar com SharePoint
 
 ## <a name="september-2020-content-updates"></a>Atualizações de conteúdo de setembro de 2020
 A seguir, lista as atualizações de conteúdo para setembro de 2020. 
@@ -155,31 +269,31 @@ Uma nova subcategoria de segurança foi adicionada com playlists e ativos para a
 - Evitar esquemas de suporte técnico
 - Trabalhar de casa com mais segurança
 - Manter seu computador atualizado
-- Mantenha-se protegido com a segurança do Windows
+- Mantenha-se protegido com Windows segurança
 
 #### <a name="security-at-home-playlist"></a>Playlist "Segurança em casa"
-- Dicas para manter seus dados seguros
+- Dicas manter seus dados seguros
 - Mantenha seu computador seguro em casa
-- Ajudar a proteger sua família online com o Windows Security   
+- Ajude a proteger sua família online com Segurança do Windows   
 
 #### <a name="security-at-work-playlist"></a>Playlist "Segurança no Trabalho"
 - Manter o computador seguro no trabalho
 - O que é Autenticação Multifatar?
-- Proteção de rede e firewall na segurança do Windows
+- Proteção de rede e firewall Windows segurança
 - Impedir alterações nas configurações de segurança com a Proteção contra Adulteração
 
-### <a name="get-started-with-teams-playlist"></a>Playlist "Começar com o Teams"
-Uma nova playlist "Começar com o Teams" foi adicionada à subcategoria "Começar/Primeiros Dias" para ajudar os usuários a se levantarem e executarem com o Teams. A playlist inclui:
+### <a name="get-started-with-teams-playlist"></a>Playlist "Começar a Teams"
+Uma nova playlist "Introdução com Teams" foi adicionada à subcategoria "Introdução/Primeiros Dias" para ajudar os usuários a se Teams. A playlist inclui:
 - Bem-vindo ao Microsoft Teams  
 - Obter sua equipe em funcionamento
 - Trabalhar em canais  
-- Carregar e compartilhar arquivos 
+- Upload e compartilhar arquivos 
 - Iniciar e fixar chats  
-- Participar de uma reunião do Teams 
+- Participar de uma Teams de reunião 
 - Gerenciar reuniões 
  
-### <a name="microsoft-365-basics"></a>Noções básicas do Microsoft 365
-Na categoria Produtos, a subcategoria "Office 365 Basics" foi atualizada para a categoria "Noções básicas do Microsoft 365". Os ativos aposentados na categoria "Office 365 Basics" ainda estarão disponíveis se eles foram adicionados a uma playlist personalizada.
+### <a name="microsoft-365-basics"></a>Microsoft 365 Noções básicas
+Na categoria Produtos, a subcategoria "Office 365 Básicas" foi atualizada para a categoria "Microsoft 365 Noções Básicas". Os ativos retirados na categoria "Office 365 Básicos" ainda estarão disponíveis se eles foram adicionados a uma playlist personalizada.
 
 #### <a name="get-started-playlist"></a>Playlist "Get started"
 - O que é o Microsoft 365?
@@ -188,35 +302,35 @@ Na categoria Produtos, a subcategoria "Office 365 Basics" foi atualizada para a 
 
 #### <a name="create-and-save-playlist"></a>Playlist "Criar e salvar"
 - Usando os aplicativos da área de trabalho
-- Usando Office.com aplicativos
+- Usando Office.com
 - Salvar arquivos na nuvem
-- Sincronizar arquivos sob demanda com o OneDrive
+- Sincronizar arquivos sob demanda com OneDrive
 
 #### <a name="share-and-collaborate-playlist"></a>Playlist "Compartilhar e colaborar"
-- Compartilhar arquivos no Microsoft 365
+- Compartilhar arquivos em Microsoft 365
 - Coautoria
 - Use @mentions
 - Acompanhamentos
 
-#### <a name="work-with-microsoft-teams-playlist"></a>Playlist "Trabalhar com o Microsoft Teams"
+#### <a name="work-with-microsoft-teams-playlist"></a>Playlist "Trabalhar com Microsoft Teams"
 - Bem-vindo ao Microsoft Teams
 - Visão geral de equipes e canais
 - Criar e formatar uma postagem
 - Iniciar e fixar chats
 - Fazer chamadas
-- Participar de uma reunião do Teams
-- Dicas para reuniões melhores
+- Participar de uma Teams de reunião
+- Dicas reuniões melhores
 
-#### <a name="get-the-most-out-of-windows-playlist"></a>Playlist "Obter o máximo do Windows"
+#### <a name="get-the-most-out-of-windows-playlist"></a>Playlist "Obter o máximo de Windows"
 - Encontre seus documentos, aplicativos e muito mais com a Pesquisa
 - Microsoft Edge
 - Microsoft Search no Bing
 
 #### <a name="work-from-anywhere-playlist"></a>Playlist "Trabalhar de qualquer lugar"
-- Aplicativo móvel do OneDrive
-- Aplicativo móvel do Outlook
+- OneDrive aplicativo móvel
+- Outlook aplicativo móvel
 
-#### <a name="cool-microsoft-365-features-playlist"></a>Playlist "Recursos legais do Microsoft 365"
+#### <a name="cool-microsoft-365-features-playlist"></a>Playlist "Recursos Microsoft 365 legais"
 - Designer do PowerPoint
 - Ideias no Excel
 - Editor no Word
@@ -230,11 +344,11 @@ Uma subcategoria "Criar uma playlist de gráfico" foi adicionada à subcategoria
 - Criar um gráfico de pizza
 - Criar um gráfico de combinação
 
-### <a name="teams-updates"></a>Atualizações do Teams
-A subcategoria "Product\Microsoft Teams" foi atualizada com os seguintes ativos. 
+### <a name="teams-updates"></a>Teams atualizações
+A subcategoria "Product\Microsoft Teams" foi atualizada com os ativos a seguir. 
 
 #### <a name="manage-meetings-playlist"></a>Playlist "Gerenciar reuniões"
-- Participar de uma reunião do Teams
+- Participar de uma Teams de reunião
 #### <a name="work-with-posts-and-messages-playlist"></a>Playlist "Trabalhar com postagens e mensagens"
 - Criar e formatar uma postagem
 
@@ -242,8 +356,8 @@ A subcategoria "Product\Microsoft Teams" foi atualizada com os seguintes ativos.
 Os ativos a seguir foram adicionados à lista de reprodução "Use Planner" em "Products\Planner".
 #### <a name="use-planner-playlist"></a>Usar playlist do Planner
 - To Do vs Planner
-- Consulte suas tarefas do Planner em Fazer
-- Usar o Aplicativo tarefas no Teams
+- Consulte suas tarefas do Planner no To Do
+- Use o Aplicativo tarefas em Teams
 
 ### <a name="word"></a>Word
 O ativo a seguir foi atualizado na playlist "Compartilhar e coautor com o Word".
@@ -252,199 +366,22 @@ O ativo a seguir foi atualizado na playlist "Compartilhar e coautor com o Word".
 - O ativo "Colaborar em documentos do Word com coautor em tempo real" foi atualizado. 
 
 ### <a name="office-for-the-web"></a>Office na Web
-O ativo a seguir foi atualizado na playlist "Office for the Web: Word for the Web".
+O ativo a seguir foi atualizado na playlist "Office para a Web: Word para a Web".
 
-#### <a name="office-for-the-web-word-for-the-web-playlist"></a>Playlist "Office for the Web: Word for the Web"
+#### <a name="office-for-the-web-word-for-the-web-playlist"></a>Playlist "Office para a Web: Word para a Web"
 - Transcrever suas gravações
 
 ### <a name="powerpoint-new-updated"></a>PowerPoint (novo, atualizado)
-Os ativos a seguir foram atualizados ou adicionados às listas de reprodução Products\PowerPoint. 
+Os ativos a seguir foram atualizados ou adicionados às playlists Products\PowerPoint. 
 
-#### <a name="text--tables-with-powerpoint-playlist"></a>Playlist "Texto & tabelas com o PowerPoint"
-- Alterar tinta manuscrita para formas, texto ou matemática no PowerPoint (novo)
+#### <a name="text--tables-with-powerpoint-playlist"></a>Playlist "Texto & tabelas com PowerPoint"
+- Alterar tinta manuscrita para formas, texto ou matemática PowerPoint (novo)
 
 #### <a name="present-slideshows-playlist"></a>Apresentar lista de reprodução de apresentação de slides
 - Gravar uma apresentação (atualizado)
 
-### <a name="office-quick-start-guides-updated"></a>Guias de Início Rápido do Office (atualizados)
-As guias de Início Rápido do Office para todos os produtos do Office foram atualizadas. 
-
-## <a name="april-2020-content-updates"></a>Atualizações de conteúdo de abril de 2020
- Em resposta aos eventos atuais, a Atualização de Conteúdo de abril de 2020 fornece playlists de aprendizado e recursos projetados para habilitar o trabalho remoto em sua organização. Adicionamos um novo conjunto de playlists do Work remotamente e atualizamos o conteúdo do Microsoft Teams, especialmente para reuniões do Teams. Também adicionamos um novo conjunto do Office para as listas de reprodução da Web e adicionamos novos ativos do Microsoft Forms. Também fornecemos uma lista de recursos de Trabalho Remoto para administradores.  
- 
- Para saber mais sobre como as atualizações de conteúdo são aplicadas e como gerenciar atualizações de conteúdo, consulte [Manage Content Updates](custom_contentupdatesmanage.md). A seguir, lista as atualizações de conteúdo de abril de 2020 do Microsoft 365. 
-
-### <a name="office-365-was-rebranded-to-microsoft-365"></a>O Office 365 foi renomeado para o Microsoft 365
-O Office 365 foi renomeado para o Microsoft 365. A alteração de nome é refletida em todo o conteúdo dos caminhos de aprendizado do Microsoft 365. 
-
-### <a name="new-or-updated-playlists"></a>Playlists novas ou atualizadas
-As listas de reprodução a seguir foram adicionadas ou atualizadas.  
-
-#### <a name="work-remotely-2-new-playlists11-new-assets"></a>Trabalhar remotamente (2 novas playlists/11 novos ativos)
-Uma nova subcategoria Work remotamente foi adicionada aos caminhos de aprendizado que apresenta as seguintes playlists e ativos: 
-
-![caminho de aprendizagem funciona remotamente playlist](media/cg-contentupdate-apr2020-01.png)
-
-##### <a name="work-remotely-five-new-assets"></a>Trabalhar remotamente (cinco novos ativos)
-- Trabalhar remotamente com o Office 365
-- Introdução ao Office.com
-- Comunicar ou reunir
-- Armazenar seus arquivos de trabalho
-- Alternativas avançadas
-##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>Práticas recomendadas para colaborar com o Office 365 (6 novos ativos)
-- Introdução
-- Compartilhar
-- Coautoria
-- Chat em arquivos
-- Meet
-- Celular
-
-### <a name="teams-nine-new-assetssix-updated-assets"></a>Teams (nove novos ativos/seis ativos atualizados)
-Várias atualizações foram feitas no conteúdo do Teams. 
-#### <a name="collaborate-in-teams-and-channels-one-newone-updated-asset"></a>Colaborar em equipes e canais (um ativo novo/um atualizado)
-- Criar e usar canais privados (novos)
-- Mostrar ou ocultar canais (atualizados)
-#### <a name="start-chats-and-calls-two-newone-updated"></a>Iniciar chats e chamadas (duas novas/uma atualizadas)
-- Iniciar e fixar chats (novo)
-- Ocultar chats, excluir mensagens (novo)
-- Fazer chamadas (atualizadas)
-#### <a name="explore-apps-and-tools-one-new"></a>Explorar aplicativos e ferramentas (um novo)
-- Usar aplicativos (novo)
-#### <a name="work-with-posts-and-messages"></a>Trabalhar com postagens e mensagens
-- Postar uma mensagem em vários canais (novo)
-#### <a name="manage-meetings-three-newfour-updated-assets"></a>Gerenciar reuniões (três novos/quatro ativos atualizados)
-- Ingressar em uma reunião do Teams (novo)
-- Criar reuniões instantâneas com o Meet agora (atualizado)
-- Reunir em um canal (novo)
-- Gerenciar reuniões (novo)
-- Mostrar sua tela durante uma reunião (atualizada)
-- Mostrar slides do PowerPoint (atualizado)
-- Mover durante uma reunião do Teams (atualizado)
-#### <a name="work-with-post-and-messages-one-new"></a>Trabalhar com postagem e mensagens (uma nova)
-- Postar uma mensagem em vários canais (novo)
-
-### <a name="office-for-the-web"></a>Office na Web
-O Office para a Web fornece um conjunto de playlists para cenários em que os usuários querem criar, compartilhar e colaborar com o Office na Web. Esse conjunto de conteúdo também é valioso para organizações que estão fazendo a mudança do Google G Suite para o Microsoft 365.
-#### <a name="get-started-five-new-assets"></a>Começar (cinco novos ativos)
-- Introdução
-- Encontre-o com a Pesquisa
-- Criar novos documentos
-- Voltar ao trabalho
-- Arquivos recomendados
-#### <a name="outlook-for-the-web"></a>Outlook para a Web
-- Conheça o Outlook para a Web
-- Criar uma resposta ao email
-- Organizar sua Caixa de Entrada
-- Criar uma assinatura e uma resposta automática
-- Agendar um compromisso ou reunião
-- Criar uma edição de um contato
-- Pesquisar emails, contatos e eventos
-#### <a name="word-for-the-web"></a>Word para a Web
-- Conheça o Word para a Web
-- Alterar o layout do documento
-- Inserir tabelas e imagens
-- Colaborar online
-- Coisas legais no Word para a Web
-#### <a name="excel-for-the-web"></a>Excel para a Web
-- Conheça o Excel para a Web
-- Criar fórmulas
-- Inserir uma tabela dinâmica
-- Obter informações com ideias
-- Colaborar
-- Economizar tempo com o Preenchimento Flash
-- Pintar uma imagem com formatação condicional
-#### <a name="powerpoint-for-the-web"></a>PowerPoint para a Web
-- Conheça o PowerPoint para a Web
-- Inserir imagens, formas e muito mais
-- Animação e transições
-- Criar uma apresentação com outras pessoas
-- Quando você estiver pronto para apresentar
-- Projetando slides
-#### <a name="share-your-documents"></a>Compartilhar seus documentos
-- Compartilhar seus documentos
-- Criar um link compartilhável
-- Proteger seus documentos somente para pessoas específicas
-- Compartilhar com alguém fora da sua organização 
-
-### <a name="microsoft-forms"></a>Microsoft Forms 
-Por solicitação, também há alguns novos ativos forms. 
-#### <a name="forms-four-new-assets"></a>Formulários (quatro novos ativos) 
-- Criar um formulário 
-- Compartilhar um formulário 
-- Exibir resultados de um formulário 
-- Perguntas frequentes sobre o Microsoft Forms 
-
-### <a name="resources-for-supporting-your-remote-workforce"></a>Recursos adicionais para dar suporte a funcionários remotos
-Você pode usar os caminhos de aprendizado para criar uma página de aterrissagem em seu site de caminhos de aprendizado para dar suporte a funcionários remotos. Ou você pode adicionar a Web Part de caminhos de aprendizado a uma página de suporte existente em seu site de caminhos de aprendizagem e filtrar a Web Part para mostrar as playlists Trabalhar Remotamente. Aqui está uma lista de alguns dos principais recursos da Microsoft para dar suporte ao trabalho remoto em sua organização. 
-- [Como implementar o Microsoft Teams](/microsoftteams/how-to-roll-out-teams)
-- [Conferências e reuniões no Microsoft Teams](/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [Dar suporte a funcionários remotos usando o Microsoft Teams](/microsoftteams/support-remote-work-with-teams)
-- [Perguntas frequentes: Suporte para sua força de trabalho remota](/microsoftteams/faq-support-remote-workforce)
-- [As 9 principais maneiras como a MICROSOFT ESTÁ habilitando o trabalho remoto para seus funcionários](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
-- [Treinamento do Microsoft Teams](/microsoftteams/training-microsoft-teams-landing-page)
-- [Educação: Centro de Educação da Microsoft](https://education.microsoft.com) 
-- [Educação: começar a aprender remotamente](https://education.microsoft.com/resource/4c0c02c0)
+### <a name="office-quick-start-guides-updated"></a>Office Guias de início rápido (atualizado)
+As Office guias de Início Rápido para todos os Office foram atualizados. 
 
 Para obter mais informações sobre como personalizar os Caminhos de Aprendizagem, consulte [Personalizar caminhos de aprendizagem.](custom_overview.md) 
 
-## <a name="november-2019-content-updates"></a>Atualizações de conteúdo de novembro de 2019
-Bem-vindo à atualização de conteúdo dos caminhos de aprendizado do Microsoft 365. A partir da atualização de novembro de 2019, forneceremos um inventário atualizado do catálogo de caminhos de aprendizagem trimestralmente. Para a atualização de novembro de 2019, as novas subcategorias e playlists de conteúdo a seguir foram adicionadas ao catálogo de caminhos de aprendizado. Para saber mais sobre como as atualizações de conteúdo são aplicadas e como gerenciar atualizações de conteúdo, consulte [Manage Content Updates](custom_contentupdatesmanage.md).    
-
-### <a name="teams"></a>Teams
-Várias novas playlists foram adicionadas à subcategoria do Teams.
-- Trabalhar com postagens e mensagens (quatro ativos)
-- Carregar e encontrar arquivos (dois ativos)
-- Configurar e participar de eventos ao vivo (quatro ativos)
-- Gerenciar seu feed de atividades (dois ativos)
-- Equipes em circulação (dois ativos)
-
-### <a name="microsoft-365-success-center"></a>Centro de Sucesso do Microsoft 365
-Adicionamos uma subcategoria do Centro de Sucesso dos caminhos de aprendizado do Microsoft 365 à experiência de caminhos de aprendizado. O Centro de Sucesso fornece as seguintes playlists.
-- Novidades, O que mudou (três ativos)
-- Planejar seu conteúdo de aprendizagem (dois ativos)
-- Personalizar caminhos de aprendizado (oito ativos?)
-- Impulsionar a adoção de caminhos de aprendizagem (um ativo)
-- Medir o impacto dos caminhos de aprendizado (um ativo)
-
-### <a name="outlook"></a>Outlook
-As listas de reprodução a seguir foram adicionadas à subcategoria do Outlook. 
-- Outlook mobile: Gerenciar sua caixa de entrada (oito ativos)
-- Outlook mobile: Pessoas e conexões (cinco ativos)
-- Outlook mobile: Pesquisa e compartilhamento (quatro ativos)
-
-### <a name="onedrive"></a>OneDrive
-Os ativos de vídeo a seguir foram adicionados para o OneDrive. 
-- Configurar seu iPhone ou iPad foi adicionado à playlist Introdução ao OneDrive
-- Ativar o Backup do OneDrive foi adicionado à playlist Gerenciar seus arquivos com o OneDrive
-
-### <a name="planner"></a>Planner
-As seguintes playlists e ativos foram adicionados ao catálogo.  
-- Início Rápido do Planner (seis ativos)
-- Usar o Planner (oito ativos)
-
-### <a name="accessibility"></a>Acessibilidade
-A subcategoria Acessibilidade do conteúdo foi adicionada com as seguintes playlists. 
-- Visão geral e recursos de acessibilidade do Microsoft 365 (três ativos)
-- Criar mensagens de email mais acessíveis no Outlook (três ativos)
-- Criar documentos do Word mais acessíveis (oito ativos)
-- Criar planilhas do Excel mais acessíveis (três ativos)
-- Criar slides mais acessíveis no PowerPoint (cinco ativos)
-
-### <a name="sway"></a>Sway
-A subcategoria sway do conteúdo foi adicionada com as seguintes playlists. 
-- Início Rápido do Sway (quatro ativos)
-- Compartilhar e acessar o Sway (cinco ativos)
-- Adicionar conteúdo ao Sway (11 ativos)
-- Personalizar Sway (cinco ativos)
-
-### <a name="access"></a>Access
-- Acessar Início Rápido (quatro ativos)
-- Introdução ao Access (três ativos)
-- Criar um banco de dados do Access (dois ativos)
-- Adicionar tabelas (dois ativos)
-- Usar relações (cinco ativos)
-- Adicionar e editar dados (dois ativos)
-- Gerenciar dados com consultas (cinco ativos)
-- Criar formulários (um ativo)
-- Criar relatórios (dois ativos)
-- Proteger bancos de dados (um ativo)

@@ -3,23 +3,23 @@ author: pkrebs
 ms.author: pkrebs
 manager: bpardi
 title: Visão geral dos caminhos de aprendizado do Microsoft 365
-ms.date: 9/24/2020
+ms.date: 5/19/2021
 description: Saiba como os caminhos de aprendizado do Microsoft 365 podem acelerar o uso e a adoção dos serviços do Microsoft 365 em sua organização. Os caminhos de aprendizado incluem uma Web part personalizada do SharePoint Online e um moderno site de treinamento em comunicações do SharePoint Online que é facilmente provisionado para o locatário do Microsoft 365.
 audience: itpro
 ms.service: o365-solutions
 ms.topic: article
-ms.openlocfilehash: 240c0da6294d8b00f95fa5dcf7f66d4eea6814bb
-ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
+ms.openlocfilehash: 4c527a1bc76db09d8e5e8265b576f6768da858ac
+ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749349"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52575906"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Caminhos de aprendizado do Microsoft 365 
-Os caminhos de aprendizado do Microsoft 365 são uma solução de aprendizado sob demanda e personalizável, projetada para aumentar o uso e a adoção dos serviços do Microsoft 365 em sua organização.    
+Os caminhos de aprendizado do Microsoft 365 são uma solução de aprendizado sob demanda e personalizável, projetada para aumentar o uso e a adoção dos serviços do Microsoft 365 em sua organização.       
 
 > [!IMPORTANT]
-> Os percursos de aprendizagem se esforçam para aderir a um ciclo de atualização de conteúdo trimestral. A partir de 01/03/2021, atualizamos o conteúdo dos caminhos de aprendizado para nossa atualização de conteúdo de março. Para saber mais sobre a atualização de conteúdo de março, consulte [Atualizações de Conteúdo](custom_contentupdates.md). Para saber como as atualizações de conteúdo são aplicadas e como gerenciá-las, consulte [Gerenciar atualizações de conteúdo](custom_contentupdatesmanage.md).  
+> Os percursos de aprendizagem se esforçam para aderir a um ciclo de atualização de conteúdo trimestral. A partir de 19/05/2021, atualizamos o conteúdo dos caminhos de aprendizado para nossa atualização de conteúdo de maio. Para saber mais sobre a atualização de conteúdo de maio, consulte [Atualizações de conteúdo](custom_contentupdates.md). Para saber como as atualizações de conteúdo são aplicadas e como gerenciá-las, consulte [Gerenciar atualizações de conteúdo](custom_contentupdatesmanage.md).  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Treinamento personalizado sob demanda da Microsoft
 
