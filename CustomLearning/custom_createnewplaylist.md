@@ -7,12 +7,12 @@ description: Como criar novas playlists
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 4d2576cb5ea39ea2251b78481451ac098cda2c23
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 98eb03ee2f71f390881b4497d9d2e3567dfca88a
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310645"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461110"
 ---
 # <a name="create-a-custom-playlist"></a>Criar uma Lista de Reprodução Personalizada
 
@@ -24,22 +24,22 @@ Com Microsoft 365 de aprendizado, você pode criar playlists personalizadas do z
 2. Selecione a subcategoria **Administrar**" ícone. Neste exemplo, selecione **Primeiros Dias**.  
 3. Clique no ícone +.  
 
-![cg-newplaylistbtn.png](media/cg-newplaylistbtn.png)
+![Botão para criar uma playlist](media/cg-newplaylistbtn.png)
 
 4.  Preencha os campos na lista de reprodução, conforme mostrado no exemplo a seguir. Você pode deixar o ícone padrão para este exemplo. 
 
-![cg-newplaylistdetails.png](media/cg-newplaylistdetails.png)
+![Detalhes a serem preenchidos para playlist](media/cg-newplaylistdetails.png)
 
 5.  Quando terminar, selecione **Salvar Detalhes.** 
 
 ## <a name="edit-a-playlist"></a>Editar uma playlist
 
-- Na página **Administração de Aprendizagem Personalizada,** clique na lista de reprodução e clique em **Editar Detalhes.**  
+- Na página **Administração Learning,** clique na lista de reprodução e clique em **Editar Detalhes.**  
 
-![cg-editplaylist.png](media/cg-editplaylist.png)
+![Editar playlist](media/cg-editplaylist.png)
 
 ### <a name="delete-a-playlist"></a>Excluir uma playlist
 
-- Na página Administração de Aprendizagem Personalizada, clique no ícone **Excluir** da playlist.  
+- Na página Administração Learning, clique no ícone **Excluir** da playlist.  
 
-![cg-deleteplaylist.png](media/cg-deleteplaylist.png)
+![Excluir playlist](media/cg-deleteplaylist.png)

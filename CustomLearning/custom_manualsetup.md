@@ -1,20 +1,20 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Configuração manual de caminhos de aprendizagem
+title: Learning configuração manual de caminhos
 ms.date: 07/06/2020
 description: Microsoft 365 configuração manual de caminhos de aprendizagem
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 05df35787399cfb2445fa3ea4193e7f7f64848c5
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 7c6fc47336d354304164cebd95768a4bf97ee60f
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310434"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59460959"
 ---
-# <a name="learning-pathways-manual-setup"></a>Configuração manual de caminhos de aprendizagem
+# <a name="learning-pathways-manual-setup"></a>Learning configuração manual de caminhos
 
 Microsoft 365 de aprendizado oferece uma configuração manual para organizações que precisam de suporte para um dos seguintes cenários: 
 
@@ -30,7 +30,7 @@ Microsoft 365 de aprendizado oferece uma configuração manual para organizaçõ
 - Japonês (Japão)
 - Português (Brasil)
 - Russo (russo)
-- Espanhol
+- Spanish
 
 A configuração manual de caminhos de aprendizagem requer experiência trabalhando com Windows PowerShell e o Shell de Gerenciamento SharePoint Online. Aqui está uma visão geral das etapas para a configuração manual dos caminhos de aprendizado: 
 
@@ -114,9 +114,9 @@ Parte dessa solução inclui a aceitação de rastreamento de telemetria anonimi
 
 Depois que o script do PowerShell for executado com êxito, navegue até o site, inicialize o item de lista **CustomConfig** que configura os caminhos de aprendizado para seu primeiro uso e valide que o site está funcionando.
 
-- Vá para `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Abrir o **CustomLearningAdmin.aspx** inicializa o item de lista **CustomConfig** que configura os caminhos de aprendizado para o primeiro uso. Você deve ver uma página com esta aparência:
+- Saiba mais em `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Abrir o **CustomLearningAdmin.aspx** inicializa o item de lista **CustomConfig** que configura os caminhos de aprendizado para o primeiro uso. Você deve ver uma página com esta aparência:
 
-![Página de configuração de exemplo.](media/cg-adminapppage.png)
+![Página do aplicativo de administrador](media/cg-adminapppage.png)
 
 ## <a name="add-owners-to-site"></a>Adicionar proprietários ao site
 Como Administrador de Locatários, é improvável que você seja a pessoa que personalização do site, portanto, você precisará atribuir alguns proprietários ao site. Os proprietários têm privilégios administrativos no site para que possam modificar páginas do site e renomear o site. Eles também têm a capacidade de ocultar e mostrar o conteúdo fornecido por meio da Web Part de caminhos de aprendizado. Além disso, eles terão a capacidade de criar playlist personalizada e atribuí-las a subcategorias personalizadas.  
@@ -130,6 +130,6 @@ Como Administrador de Locatários, é improvável que você seja a pessoa que pe
 ## <a name="migrate-custom-content"></a>Migrar conteúdo personalizado
 Depois de restabelecer seu site de caminhos de aprendizado seguindo as etapas acima, você precisará mover o conteúdo da sua lista **CustomPlaylists** e sua **lista CustomAssets.** Você também pode, opcionalmente, mover as páginas personalizadas reais que comem seus ativos personalizados se elas morarem no site de caminhos de aprendizado existentes, e sua intenção é excluí-la. A tarefa pode ser difícil porque, para todos os itens na lista **CustomPlaylists,** a ID do item de lista na lista **CustomAssets** é sepultada no campo JSONData de cada item de lista de playlist. Portanto, simplesmente mover o conteúdo da lista **CustomPlaylists** de um site para o outro não será suficiente. Além disso, **a lista CustomAssets** contém a URL absoluta para a página do ativo personalizado no campo JSONData do item de lista. Se os ativos não são movidos e o site não é renomeado (alterando a URL absoluta para a página do ativo), **CustomAssets** poderá permanecer. Mas você precisará corrigir manualmente as entradas. Dada a complexidade desse tipo de migração, sugerimos que você considere inscrever um de nossos parceiros de caminhos de aprendizado para ajudá-lo a fazer essa transição. 
 
-### <a name="next-steps"></a>Próximas Etapas
+### <a name="next-steps"></a>Próximas etapas
 - Consulte [Personalizar caminhos de aprendizagem.](custom_overview.md) 
 - Consulte [Traduzir páginas de site](custom_translate_page_ml.md).

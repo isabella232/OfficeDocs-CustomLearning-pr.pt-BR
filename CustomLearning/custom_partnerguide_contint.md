@@ -8,17 +8,17 @@ ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
 audience: admin
-ms.openlocfilehash: a91cdf4ee6aa3bbc22033dd484605ea5405b3c4c
-ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
+ms.openlocfilehash: f57e7e2bbab49fc05daef27a0364281f7158cb0e
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52575986"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461180"
 ---
 # <a name="partner-integration-models"></a>Modelos de integração de parceiros
 Embora não seja possível complementar o conteúdo dos caminhos de aprendizado do Microsoft 365 diretamente 'fora da caixa' do serviço de Provisionamento Online do SharePoint, há vários modelos de integração que os parceiros podem aproveitar para criar ofertas de serviço de adereço de valor alinhadas. Os modelos de integração de parceiros acima são apresentados em ordem de complexidade crescente e níveis de investimento. Portanto, nossas diretrizes são criar sua experiência e se formar para níveis mais avançados com base em seus modelos de negócios.
 
-![Flow gráfico mostra a função de habilitadores, integradores e redistibutores.](media/cg-part-intmodel.png)
+![Modelo de integração](media/cg-part-intmodel.png) 
 
 ## <a name="how-should-i-get-started"></a>Como devo começar? 
 Para começar, aqui estão algumas práticas recomendadas a seguir.     
@@ -33,14 +33,14 @@ Execute um retorno de automação na análise de investimento , dependendo da qu
 Quando o retorno sobre o investimento faz sentido – considere Redistribuição (ou trabalhar com parceiros de caminhos de aprendizado relacionados) para criar soluções reembaladas. Eles se baseiam na estrutura padrões e práticas SharePoint que fornece soluções para extrair sites personalizados e implantar em ambientes de clientes 
 
 ## <a name="partner-provided-content-integration-guidelines"></a>Diretrizes de integração de conteúdo fornecidas pelo parceiro
-O conteúdo Microsoft 365 de aprendizado é orientado por um conjunto de arquivos JSON que atuam como manifestos de conteúdo para seu pacote de aprendizagem. Há três arquivos: metadata.js, playlists.jse assets.json. Esses arquivos precisam ser estruturados para corresponder aos modelos que a Web Part reconhece e hospedados de uma rede de distribuição de conteúdo (CDN) para permitir que a Web Part os carregue. A Microsoft fornecerá modelos in-locar esses arquivos para começar.  
+O conteúdo Microsoft 365 de aprendizado é orientado por um conjunto de arquivos JSON que atuam como manifestos de conteúdo para seu pacote de aprendizagem. Há três arquivos: metadata.json, playlists.json e assets.json. Esses arquivos precisam ser estruturados para corresponder aos modelos que a Web Part reconhece e hospedados de uma rede de distribuição de conteúdo (CDN) para permitir que a Web Part os carregue. A Microsoft fornecerá modelos in-locar esses arquivos para começar.  
 
 **Aviso de isenção de responsabilidade:** a estrutura de arquivo JSON está sujeita a alterações com base no trabalho da solução futura. O Microsoft 365 de aprendizado parceiro Programa De adoção Antecipado (EAP) será informado de quaisquer alterações iminentes dessa natureza. Juntamente com qualquer orientação de compatibilidade e/ou transição do cliente. 
 
 ### <a name="download-the-microsoft-365-learning-pathways-solution"></a>Baixar a solução Microsoft 365 de aprendizado
 Você pode baixar a Microsoft 365 de aprendizado, juntamente com os arquivos JSON, do repositório GitHub: https://github.com/pnp/custom-learning-office-365 . Observe que, neste momento, a Microsoft não está GitHub solicitação pull na solução. Mas você pode usar os arquivos GitHub como ponto de partida para criar seu próprio pacote de conteúdo personalizado. 
 
-### <a name="metadatajson-structure"></a>Metadata.jsestrutura
+### <a name="metadatajson-structure"></a>Estrutura Metadata.json
 Você pode pensar nesse arquivo como o cérebro dos menus e da estrutura. Ele contém toda a estrutura de navegação, bem como listas de opções para dados nos outros dois arquivos. 
 
 
@@ -86,27 +86,27 @@ Você pode pensar nesse arquivo como o cérebro dos menus e da estrutura. Ele co
 |&nbsp;&nbsp;CDNbase           |A URL base para os manifestos do pacote de conteúdo                                       |
 |AssetOrigins                  |Uma matriz de origem da URL é usada no arquivo assets.json descrito posteriormente. Se a URL de origem for compatível com ela, uma mensagem de postagem será enviada para help_getClientHeight. Uma resposta na propriedade data de: "help_getClientHeight={altura do conteúdo}" (por exemplo, "help_getClientHeight=5769") permitirá que o iFrame seja resized para a altura apropriada do conteúdo emoldurado.         |
 
-### <a name="playlistsjson-structure"></a>Playlists.jsestrutura
-playlists.json – O manifesto de listas de reprodução é uma matriz de objetos que descrevem os metadados sobre uma playlist e os ativos incluídos na playlist.
+### <a name="playlistsjson-structure"></a>Estrutura Playlists.json
+playlists.json – O manifesto de playlists é uma matriz de objetos que descrevem os metadados sobre uma playlist e os ativos incluídos na playlist.
 
-|              Nome        |                     Descrição                                                               | 
+|              Name        |                     Descrição                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |Id                            |GUID representando a playlist                                                             |  
 |Título                         |Nome de exibição da playlist                                                               |
-|Image                         |URL relativa (de CDN) para uma imagem para visualizar a playlist                              |                      
+|Imagem                         |URL relativa (de CDN) para uma imagem para visualizar a playlist                              |                      
 |LevelId                       |Nível associado                                                                           |
 |AudienceId                   |Audiência associada                                                                        |
 |TechnologyId                 |Tecnologia associada                                                                      |
 |SubjectId                    |Nome para exibição da categoria/subcategoria                                                  |
-|Origem                        |Na matriz de origem, não usada especificamente no UX, além dos dados personalizados adicionados pelo usuário, ela é marcada como "Locatário" e a área de administração do UX não permite a edição de nada que não seja marcado como "Locatário".                                              |
+|Source                        |Na matriz de origem, não usada especificamente no UX, além dos dados personalizados adicionados pelo usuário, ela é marcada como "Locatário" e a área de administração do UX não permite a edição de nada que não seja marcado como "Locatário".                                              |
 |CatId                         |A ID Category ou SubCategory que representa o contêiner em que a playlist deve ser mostrada. Atualmente, o manifesto não dá suporte à seleção de categoria ou subcategoria como contêiner se ele também tiver filhos de SubCategoria.        |
 |Descrição                   |Uma descrição mostrada para cada playlist no UX                                           |
 |StatusTagId                   |Marca de status associada                                                                      |
 |StatusNote                    |Observações sobre o conteúdo exibido aos administradores                                            |
 |*Assets[]*                        |Uma matriz de GUID para os ativos que fazem parte dessa playlist, em ordem de exibição.        |         
 
-### <a name="assetjson-structure"></a>Asset.jsestrutura
-playlists.json – O manifesto de listas de reprodução é uma matriz de objetos que descrevem os metadados sobre uma playlist e os ativos incluídos na playlist.
+### <a name="assetjson-structure"></a>Estrutura de Asset.json
+playlists.json – O manifesto de playlists é uma matriz de objetos que descrevem os metadados sobre uma playlist e os ativos incluídos na playlist.
 
 |              Nome        |                     Descrição                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
@@ -116,7 +116,7 @@ playlists.json – O manifesto de listas de reprodução é uma matriz de objeto
 |URL                           |A URL de origem do ativo, a ser aplicada ao iFrame                                  |
 |TechnologyId                  |Tecnologia associada                                                                      |
 |SubjectId                     |Assunto associado                                                                         |
-|Origem                        |Nome para exibição da categoria/subcategoria                                                  |
+|Source                        |Nome para exibição da categoria/subcategoria                                                  |
 |StatusTagId                   |Marca de status associada                                                                      |
 |StatusNote                    |Observações sobre o conteúdo exibido aos administradores.                                           |
 
@@ -136,7 +136,7 @@ A Microsoft utiliza GitHub páginas como uma fonte Rede de Distribuição de Con
 
 É importante que você mantenha a mesma estrutura de controle de versão que a Microsoft deve optar por estender a solução de caminhos de aprendizado com seu próprio pacote de conteúdo. Seu CDN de extremidade não deve incluir a pasta de versão, pois a versão de manifesto suportada pela Web Part é baked nele e é automaticamente anexada à url CDN. Obviamente, você terá tempo para criar novas instâncias de seus arquivos de manifesto sempre que o revisões.
 
-![Captura de tela mostra a estrutura de exemplo.](media/cg-part-json-folder.png) 
+![pasta json](media/cg-part-json-folder.png) 
 
 Para obter mais informações sobre como usar GitHub como sua fonte de CDN, consulte a documentação de ajuda a seguir: [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) .
 
@@ -151,21 +151,21 @@ Enquadramento de chave para ter em mente esse recurso:
 
 > **IMPORTANTE** Antes de adicionar um Pacote de Conteúdo Personalizado, você deve ter provisionado Microsoft 365 de aprendizado 3.0 ou posterior. Para informações sobre o provisionamento de Microsoft 365 de aprendizagem, consulte [Provision Microsoft 365 learning pathways](./custom_provision.md).
 
-### <a name="content-whitelisting"></a>Whitelisting de conteúdo
-Como parceiro, é sua responsabilidade ajudar seus consumidores a garantir que seu conteúdo seja whitelisted em seu ambiente. Sugerimos que você crie um cenário de teste em seu ambiente para validar que seu conteúdo pode ser iFrame'd em uma página SharePoint dentro do firewall. Siga as [instruções Criar SharePoint para Playlists Personalizadas](./custom_createnewpage.md) para confirmar se esse é o caso.
+### <a name="content-reliability"></a>Confiabilidade de conteúdo
+Como parceiro, é sua responsabilidade ajudar seus consumidores a garantir que seu conteúdo seja renderizado confiável em seu ambiente. Sugerimos que você crie um cenário de teste em seu ambiente para validar que seu conteúdo pode ser iFrame'd em uma página SharePoint dentro do firewall. Siga as [instruções Criar SharePoint para Playlists Personalizadas](custom_createnewpage.md) para confirmar se esse é o caso.
 
-### <a name="add-a-content-pack-to-learning-pathways"></a>Adicionar um Pacote de Conteúdo aos Caminhos de Aprendizagem
+### <a name="add-a-content-pack-to-learning-pathways"></a>Adicionar um Pacote de Conteúdo Learning Caminhos
 Depois de criar o JSON modificado e definido seu CDN, você poderá adicionar o Contact Pack aos caminhos de aprendizado. 
 
-1. Na home **page** dos caminhos de aprendizado, aponte para **Home** e clique em Administração de caminhos **de aprendizagem.** 
+1. Na home **page** do site de caminhos de aprendizagem, aponte para **Home** e clique Learning administração **de caminhos.** 
 2. Na página **Administração,** clique em **... Adicione Content Pack** no canto superior direito da página.
 3. Clique em Pacote de Conteúdo Personalizado e insira um nome do Pacote de Conteúdo e especifique o CDN onde os arquivos JSON estão localizados.
 
-   ![Tela onde você inserir o nome e os caminhos.](media/cg-part-addconpack.png)
+![Adicionar pacote de conteúdo](media/cg-part-addconpack.png)
 
 4. Clique em **Salvar**. O conteúdo do Pacote de Conteúdo Personalizado agora deve aparecer na página Administração. Veja um exemplo. 
 
-   ![Exemplo de página de administração.](media/cg-part-addconpackex.png)
+![Adicionar exemplo de pacote de conteúdo](media/cg-part-addconpackex.png)
 
 ### <a name="filter-to-the-content-pack-in-the-web-part"></a>Filtrar para o Pacote de Conteúdo na Web Part
 Com os caminhos de aprendizado, você pode adicionar a Web Part de caminhos de aprendizado a uma página, filtrar a Web Part para apontar para a fonte do Pacote de Conteúdo Personalizado e filtrar a Web Part para a categoria, subcategoria, playlist e ativo que você deseja. 
@@ -176,6 +176,10 @@ Com os caminhos de aprendizado, você pode adicionar a Web Part de caminhos de a
 4. Clique **em + Adicionar uma nova seção** no lado esquerdo da página.
 5. Clique no meio superior da nova seção e adicione a web part de Microsoft 365 **+** **de aprendizado.**
 6. Clique na Web Part e clique no **ícone Editar.**
-7. Na caixa **Selecionar a Fonte de** Aprendizado, selecione seu Pacote de Conteúdo Personalizado e filtre a Web Part para o conteúdo que você deseja. O exemplo a seguir fornece um exemplo da Web Part filtrada para uma playlist de um Pacote de Conteúdo Personalizado.
+7. Na caixa **Selecionar a Learning De** origem, selecione seu Pacote de Conteúdo Personalizado e filtre a Web Part para o conteúdo que você deseja. O exemplo a seguir fornece um exemplo da Web Part filtrada para uma playlist de um Pacote de Conteúdo Personalizado.
 
-   ![Captura de tela de uma Web Part de exemplo filtrada para uma playlist de um Pacote de Conteúdo Personalizado.](media/cg-part-conpackfilter.png)
+![Filtro de pacote de conteúdo](media/cg-part-conpackfilter.png)  
+
+
+
+

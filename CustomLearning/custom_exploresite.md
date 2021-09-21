@@ -1,20 +1,20 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Explorar o site e o conteúdo padrão
+title: Explorar o site e seu conteúdo padrão
 ms.date: 02/10/2019
-description: Explorar o site de caminhos de aprendizado e o conteúdo padrão
+description: Explorar o site de caminhos de aprendizado e seu conteúdo padrão
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 18f3c1e8d6f700423381973a29b910086bf6717a
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: ed322d6ae00ee9c93440a2e8188ce346b447b0d1
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310605"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461201"
 ---
-# <a name="explore-the-learning-pathways-site"></a>Explorar o site de caminhos de aprendizado
+# <a name="explore-learning-pathways-site"></a>Explorar o site de caminhos de aprendizagem
 
 > Observação: para explorar o site de caminhos de aprendizado e seus recursos administrativos, você precisará de permissões de Administrador, Proprietário ou Membro do Conjunto de Sites para o site. Se você não tiver as permissões neccesary, entre em contato com o Administrador do Site para o site. O site de caminhos de aprendizagem está hospedado em seu locatário Office 365, portanto, você precisará entrar no Office 365 para chegar ao site. Se você ainda não entrou no Office 365, entre agora. 
 
@@ -36,4 +36,4 @@ O Centro de Sucesso do Administrador fornece as diretrizes e recursos para ajud�
 
 - Na página inicial Microsoft 365 de **aprendizado,** clique em **Começar com o Centro de Sucesso do Administrador.**
 
-Os caminhos de aprendizado fornece orientações no Centro de Sucesso do Administrador na solução. A documentação do Centro de Sucesso do Administrador também está disponível neste conjunto de documentação. Consulte [Learning pathways Admin Success Center](custom_successcenter.md).
+Learning caminhos fornece orientações no Centro de Sucesso do Administrador na solução. A documentação do Centro de Sucesso do Administrador também está disponível neste conjunto de documentação. Consulte [Learning Centro de Sucesso do Administrador.](custom_successcenter.md)

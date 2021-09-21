@@ -1,24 +1,24 @@
 ---
-title: Práticas recomendadas do Programa Champion - Ingressar no programa campeões do Office 365
-description: Práticas recomendadas do Programa Champion para o Microsoft 365.
+title: Práticas Recomendadas do Programa Champion - Ingressar no programa Office 365 Campeões
+description: Impulsionar a adoção Office 365 práticas recomendadas do Programa Champion
 author: karuanag
 ms.author: karuanag
 manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: efe0d9305c87141a6550dc5a3c785a5d38beef39
-ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
+ms.openlocfilehash: 2fcf5844e4db5c312bba545baa4fc22deb27d370
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52334485"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59460889"
 ---
-# <a name="office-365-champions-program"></a>Programa campeões do Office 365 
+# <a name="office-365-champions-program"></a>Office 365 Programa Campeões 
 
 ![fazer a diferença se tornar um campeão](media/makeadifference.png)
 
-A Microsoft fornece um programa gratuito de Campeões do Office 365 para dar suporte à função Champion em todo o mundo.  Este programa fornece uma comunidade online, chamadas mensais da comunidade e conteúdo impulsionando a adoção em vários serviços no Office 365.
+A Microsoft fornece um programa Office 365 Champions gratuito para dar suporte à função Champion em todo o mundo.  Este programa fornece uma comunidade online, chamadas mensais da comunidade e conteúdo impulsionando a adoção em vários serviços Office 365.
 
 Este programa está aberto a todos.  Recomendamos que, no mínimo, qualquer pessoa que executa um programa Champion em sua organização se torne membro para obter acesso aos materiais de treinamento do Champion que podem ser usados em seu próprio programa. 
 

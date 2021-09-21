@@ -7,12 +7,12 @@ description: Criar SharePoint páginas para playlists
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: ce4a204b3072469840b6f3fa8f93d9e78833b181
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: e29fca92fd4102f89f08a90a8a1be11776f35995
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310655"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461120"
 ---
 # <a name="create-sharepoint-pages-for-custom-playlists"></a>Criar SharePoint páginas para playlists personalizadas
 
@@ -25,7 +25,7 @@ Um dos recursos exclusivos dos caminhos de aprendizado é a capacidade de criar 
 3. Na coluna esquerda, clique em + e clique na Web Part **Incorporar.** 
 4. Na coluna direita, clique em +e clique na Web Part **Texto.** Sua página deve ter esta aparência.
 
-![cg-pagenewstart.png](media/cg-pagenewstart.png)
+![criando uma página do sharepoint](media/cg-pagenewstart.png)
 
 ### <a name="add-a-video-and-text-from-youtube"></a>Adicionar um vídeo e texto do YouTube
 
@@ -38,7 +38,7 @@ Um dos recursos exclusivos dos caminhos de aprendizado é a capacidade de criar 
 7. Selecione o **ícone editar web part** na área Título da página SharePoint e, em seguida, nomee a página "Introdução personalizada da playlist". 
 8. Para **Layout,** selecione **Plain**, em seguida, feche o painel de propriedades **da** Região de Título. A página agora deve ter uma aparência parecida com a seguinte. 
 
-![cg-pagenewfinish.png](media/cg-pagenewfinish.png)
+![Concluir a página](media/cg-pagenewfinish.png)
 
 ### <a name="publish-the-page"></a>Publicar a página
 

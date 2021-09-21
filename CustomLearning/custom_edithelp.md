@@ -3,18 +3,18 @@ author: pkrebs
 ms.author: pkrebs
 title: Personalizar o site de caminhos de aprendizado
 ms.date: 02/15/2019
-description: Saiba mais sobre a variedade de personalizações disponíveis com Microsoft 365 de aprendizado
+description: Saiba mais sobre as várias personalizações disponíveis com Microsoft 365 de aprendizado
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: b892605f5200983c74132f73fe48e2746d2e6b08
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: a9d95faa6eb0cd3f7bf002d707aba1e83b9a7656
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310625"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461089"
 ---
-# <a name="customize-the-site"></a>Personalizar o site
+# <a name="customize-the-learning-pathways-site"></a>Personalizar o site de caminhos de aprendizado
 
 O Microsoft 365 de aprendizado se baseia em um modelo de comunicação SharePoint, portanto, é fácil modificar o site para atender às necessidades da sua organização. Você pode alterar o nome do site, o logotipo, os itens de menu e o conteúdo nas páginas. 
 
@@ -33,7 +33,7 @@ Como administrador do site de caminhos de aprendizado, uma das coisas que você 
 2.  Clique no botão **Editar**.
 3.  Passe o mouse sobre uma imagem de opção de Ajuda e clique em **Editar Web Part**.
 
-![cg-edithelp.png](media/cg-edithelp.png)
+![Editar conteúdo da ajuda](media/cg-edithelp.png)
 
 4.  Na caixa **Link,** insira a URL do recurso interno. 
 5.  Repita as etapas 3 e 4 para as outras duas imagens que não estão vinculadas.
