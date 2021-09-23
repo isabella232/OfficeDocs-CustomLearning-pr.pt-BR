@@ -3,21 +3,21 @@ author: karuanag
 ms.author: karuanag
 title: Personalizar a Experiência de Treinamento
 ms.date: 02/10/2019
-description: Saiba mais sobre a variedade de personalizações disponíveis com o Custom Learning para o Office 365
+description: Saiba mais sobre a variedade de personalizações disponíveis com o Custom Learning para Office 365
 ms.service: sharepoint-online
 manager: alexb
 audience: itpro
 ms.topic: article
-ms.openlocfilehash: ff4b7d25c0600e143208c62fba9987e0b843385b
-ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
+ms.openlocfilehash: 52a83e1f898d80210690f7aa904dec94439bd746
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52334535"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485209"
 ---
 # <a name="customize-the-training-experience"></a>Personalizar a experiência de treinamento
 
-Este é um teste quatro. Por padrão, a experiência do site e a Webpart incluem conteúdo para todos os serviços do Office 365 e do Windows 10.  Se apenas todos ou alguns desses serviços estão disponíveis em sua empresa, você pode ajustar qual conteúdo está disponível para seus usuários.  
+Este é um teste quatro. Por padrão, tanto a experiência do site quanto a Web Part incluem conteúdo para todos os Office 365 e Windows 10 serviços.  Se apenas todos ou alguns desses serviços estão disponíveis em sua empresa, você pode ajustar qual conteúdo está disponível para seus usuários.  
 
 Há vários tipos de personalizações disponíveis para os proprietários deste site. 
 
@@ -32,24 +32,24 @@ Algumas ou todas essas personalizações podem ser concluídas antes de iniciar 
 
 ## <a name="customizing-web-pages"></a>Personalização de páginas da Web
 
-Você pode personalizar totalmente o site de Aprendizagem Personalizada. Se você não estiver familiarizado com a criação de páginas em sites modernos do SharePoint Online, sugerimos que você revise Personalizar seu artigo de site do [SharePoint](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) no support.office.com. 
+Você pode personalizar totalmente o site personalizado Learning site. Se você não estiver familiarizado com a criação de páginas em sites SharePoint online modernos, sugerimos que você revise Personalizar seu artigo SharePoint [site](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) no support.office.com. 
 
-### <a name="customize-the-ask-questions-and-get-help-page"></a>Personalizar a **página Fazer Perguntas e Obter Ajuda**
+### <a name="customize-the-ask-questions-and-get-help-page"></a>Personalizar a **página Fazer Perguntas e** Obter Ajuda
 
-Como ponto de partida para personalizar o site, selecione Fazer perguntas e obter ajuda na barra de menus e clique no botão Editar do SharePoint e altere as imagens e os links. 
+Como ponto de partida para personalizar o site, selecione Fazer perguntas e obter ajuda na barra de menus, clique no botão Editar SharePoint e altere as imagens e os links. 
 
-![Fazer perguntas e obter janela de ajuda](media/custom_ask.png)
+![Perguntas personalizadas](media/custom_ask.png)
 
 ## <a name="customize-available-services"></a>Personalizar serviços disponíveis
 
-1.  Navegue até a página Administração de Aprendizagem Personalizada no site ![ Selecione Administração de Aprendizagem Personalizada](media/custom_admin.png)
+1.  Navegue até a página Administração de Learning personalizada na página administrador ![ personalizado do site](media/custom_admin.png)
 1. Selecione **Tecnologia** para ver a lista completa de serviços incluídos na solução
 1. Selecione uma tecnologia e **clique no símbolo dos olhos** para ocultar esse conteúdo.  Clique no símbolo dos olhos novamente para mostrar o conteúdo dentro da experiência. 
 ![custom](media/custom_techlist.png)
 
 O mesmo processo pode ser repetido para categorias de playlists dentro da experiência.  Basta selecionar a opção Categoria para mostrar/ocultar playlists. 
 
-![Selecionar Categoria](media/custom_cat.png)
+![Categorias personalizadas](media/custom_cat.png)
 
 ### <a name="next-steps"></a>Próximas etapas
 

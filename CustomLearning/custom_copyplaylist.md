@@ -7,12 +7,12 @@ description: Como copiar uma playlist
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: b575a817bb00a29483b31c9f53a60bd3ec55b175
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: f25cf45139bc8f8a1f531b4a52b2a4fba4554e8f
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310665"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485432"
 ---
 # <a name="copy-a-playlist"></a>Copiar uma Lista de Reprodução
 Muitas vezes, as organizações precisam modificar uma playlist fornecida pela Microsoft removendo ou substituindo um ativo por um ativo criado pela organização. Por exemplo, talvez você queira remover uma etapa da lista de reprodução Iniciar com Seis Etapas Simples. Agora você pode usar o recurso Copiar Playlist de caminhos de aprendizagem para copiar facilmente a lista de reprodução Seis Etapas Simples e simplesmente remover um ativo, substituir um ativo ou adicionar novos ativos. 
@@ -24,7 +24,7 @@ Muitas vezes, as organizações precisam modificar uma playlist fornecida pela M
 3. Em **Primeiros Dias**, clique em Seis Etapas Simples - **Bem-vindo Office 365** lista de reprodução e clique em Copiar **Playlist**. 
 4. Clique **em Editar Detalhes** e preencha os campos **Título** e **Descrição,** conforme mostrado no exemplo a seguir, em seguida, clique em **Salvar Detalhes.**  
  
-![cg-copyplaylist5steps.png](media/cg-copyplaylist5steps.png)
+![Copiar as 5 etapas da lista de reprodução](media/cg-copyplaylist5steps.png)
 
 ## <a name="add-or-remove-assets-from-a-playlist"></a>Adicionar ou remover ativos de uma playlist
 Com playlists personalizadas, você pode:

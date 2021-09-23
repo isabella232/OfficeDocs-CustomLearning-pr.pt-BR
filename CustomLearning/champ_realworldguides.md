@@ -1,18 +1,18 @@
 ---
 title: Práticas Recomendadas do Programa Champion - Diretrizes do Mundo Real
-description: Diretrizes do mundo real para seu programa Microsoft 365 Campeões.
+description: Impulsionar a adoção Office 365 com as práticas recomendadas do Programa Champion
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
 manager: alexb
 ms.service: sharepoint-online
-ms.openlocfilehash: c96d9d875ace3f8da147a44a8562556d8557bede
-ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
+ms.openlocfilehash: 566530ab1dda0791a2adf7af1169e69b512a38b7
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52334575"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485492"
 ---
 # <a name="real-world-guidance-for-your-champions-program"></a>Diretrizes do Mundo Real para seu Programa de Campeões
 

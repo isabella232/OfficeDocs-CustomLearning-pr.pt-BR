@@ -1,18 +1,18 @@
 ---
 title: Práticas recomendadas do Programa Champion - Encontrar Campeões
-description: Impulsionar a adoção do Office 365 usando as práticas recomendadas do Programa Champion.
+description: Impulsionar a adoção de Office 365 com as práticas recomendadas de nossos Programas de Campeões
 author: karuanag
 ms.author: karuanag
 manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 34870108b82bf79793a014129dbd45f145f214be
-ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
+ms.openlocfilehash: c950f00218aa4f6dbd24b410e261ad86a5e44412
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52334605"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485502"
 ---
 # <a name="finding-your-champions"></a>Localizar seus Campeões 
 
@@ -31,6 +31,6 @@ Se sua organização não tiver um programa Champion atual ou você quiser reinv
 
 Os programas defensores bem-sucedidos têm um líder e uma agenda regular para atender e discutir problemas atuais.  As reuniões mensais, no mínimo, são uma parte importante da criação de uma cultura positiva na comunidade e do crescimento.  
 
-Você também pode usar o Microsoft Teams para criar um hub para o programa dos Campeões em Equipe.  Um exemplo para essa estrutura de equipe pode ser encontrado [neste artigo](/MicrosoftTeams/teams-adoption-your-first-teams).
+Você também pode usar Microsoft Teams para criar um hub para o programa de Campeões em Equipe.  Um exemplo para essa estrutura de equipe pode ser encontrado [neste artigo](/MicrosoftTeams/teams-adoption-your-first-teams).
 
 ![guias de equipe do campeão do trabalho em equipe](media/teams-adoption-tab-example.png)

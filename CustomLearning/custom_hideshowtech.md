@@ -7,12 +7,12 @@ description: Como ocultar e mostrar a tecnologia
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 7e4b2c6df2784fae592dd2b80dd0c17b437454e7
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 69878e6c8f173034cff653efb2ad73ee2f08fced
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310325"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485192"
 ---
 # <a name="hide-and-show-technology"></a>Mostrar e ocultar Tecnologia
 
@@ -21,16 +21,16 @@ Em alguns casos, você vai querer ocultar o conteúdo de uma tecnologia que não
 ## <a name="hide-a-technology"></a>Ocultar uma tecnologia
 
 1. Na página inicial Microsoft 365 de **aprendizado,** clique no **telha Listas de reprodução** recomendadas.
-2. Na Web Part Aprendizagem Personalizada, selecione o **ícone Aministration.**
+2. Na Web part Learning personalizado, selecione o **ícone** Administração.
 3. Na caixa lista suspenso na seção superior direita da página **Administração,** selecione **Tecnologia**.
 Para este exemplo, clique **Yammer** no painel esquerdo da página e clique no globo ocular ao lado de Yammer.  
 
-![A janela de exemplo mostra uma categoria de tecnologia marcada com o ícone para o esconder.](media/cg-hidetech.png)
+![Ocultar tecnologia](media/cg-hidetech.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>Verificar se a playlist está oculta
 - Para verificar **Yammer** a tecnologia está oculta, selecione a guia navegador com a página Listas de **reprodução recomendadas carregadas** e atualize a página. Você notará que a lista Conexão **sua organização com Yammer** playlist está oculta. 
 
-![A janela de exemplo mostra que a tecnologia oculta não está mais listada.](media/cg-hidetechrefresh.png)
+![Ocultar atualização de tecnologia](media/cg-hidetechrefresh.png)
 
 ## <a name="unhide-a-technology"></a>Unhide a Technology
 

@@ -7,16 +7,16 @@ description: Saiba mais sobre a funcionalidade de SharePoint De aplicativos em M
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 45ec1edd0d59c21c3820e627a660e55a45b7838a
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 16a83682126f62399d5c08ab2821a7b95fc8bd6b
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310425"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485472"
 ---
 # <a name="get-to-know-the-sharepoint-application-pages"></a>Conheça as páginas de Aplicativo do SharePoint
 
-Os caminhos de aprendizagem fornece duas SharePoint de aplicativos que você deve conhecer como administrador. Essas duas páginas não são editáveis e não devem ser excluídas. 
+Learning caminhos fornece duas SharePoint de aplicativos que você deve conhecer como administrador. Essas duas páginas não são editáveis e não devem ser excluídas. 
 
 - CustomLearningAdmin.aspx
 - CustomLearningViewer.aspx
@@ -30,7 +30,7 @@ A página CustomLearningAdmin.aspx fornece recursos administrativos para caminho
 1. Clique no SharePoint **Configurações** e clique em **Páginas de Site de** Conteúdo do  >  **Site.** 
 2. Clique **em CustomLearningAdmin.aspx**. 
 
-![cg-adminapppage.png](media/cg-adminapppage.png)
+![Página do aplicativo de administrador](media/cg-adminapppage.png)
 
 ## <a name="customlearningvieweraspx"></a>CustomLearningViewer.aspx
 A página CustomLearningViewer.aspx fornece um visualizador para exibir o conteúdo dos caminhos de aprendizado na Web Part. Por exemplo, se você copiar um link de Playlist e compartilhá-lo com um colega de trabalho, o link, quando clicado, leva o usuário para a página Visualizador e exibe o conteúdo vinculado. 
@@ -40,5 +40,5 @@ A página CustomLearningViewer.aspx fornece um visualizador para exibir o conte�
 1. Clique no SharePoint **Configurações** e clique em **Páginas de Site de** Conteúdo do  >  **Site.** 
 2. Clique **em CustomLearningViewer.aspx**. 
 
-![cg-viewerapppage.png](media/cg-viewerapppage.png)
+![Página do aplicativo do visualizador](media/cg-viewerapppage.png)
 

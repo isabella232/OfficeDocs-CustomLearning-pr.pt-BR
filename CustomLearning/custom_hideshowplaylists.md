@@ -1,20 +1,20 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Ocultar e mostrar playlists
+title: Ocultar e mostrar as playlists
 ms.date: 10/27/2019
 description: Ocultar e mostrar playlists
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: f4f406824c53484c077a39ee9afdd3a941976682
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 617f87c3cdf76bff55c569d0eb6ba9796c9d3b57
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310565"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485182"
 ---
-# <a name="hide-and-show-playlists"></a>Mostrar e ocultar Listas de Reprodução
+# <a name="hide-and-show-the-playlists"></a>Ocultar e mostrar as Playlists
 
 Para adaptar os caminhos de aprendizado para seu ambiente, você pode ocultar listas de reprodução fornecidas pela Microsoft. 
 
@@ -27,12 +27,12 @@ Para adaptar os caminhos de aprendizado para seu ambiente, você pode ocultar li
 2. Na Web Part caminhos de aprendizado, selecione o **ícone Administrar.** 
 3. No painel esquerdo da página **Administração,** selecione uma subcategoria e selecione o globo ocular de uma playlist para o ocultar. Para este exemplo, clique na **subcategoria Microsoft Teams** e, em seguida, ocultar a playlist **Iniciar chats,** chamadas e reuniões.  
 
-![A janela de exemplo mostra o ícone selecionado para ocultar uma lista de espera.](media/cg-hideplaylist.png)
+![Ocultar playlist](media/cg-hideplaylist.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>Verificar se a playlist está oculta
 - Para verificar se a playlist está oculta, selecione a guia navegador com a Introdução com Office 365 **página** carregada e atualize a página. Selecione Microsoft Teams. Agora você deve ver que a **subcategoria Iniciar chats, chamadas** e reuniões está oculta. 
 
-![A janela de exemplo mostra que uma subcategoria de playlist não é mais exibida.](media/cg-hideplaylistrefresh.png)
+![Ocultar atualização de playlist](media/cg-hideplaylistrefresh.png)
 
 ## <a name="unhide-a-playlist"></a>Desarmá-se de uma playlist
 

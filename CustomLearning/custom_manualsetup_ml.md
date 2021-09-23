@@ -1,21 +1,21 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Configuração manual de caminhos de aprendizagem para ml
+title: Learning configuração manual de caminhos para ml
 ms.date: 02/10/2019
-description: Configuração manual de caminhos de aprendizagem
+description: Learning configuração manual de caminhos
 ROBOTS: NOINDEX, NOFOLLOW
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 386b98a49755a7dd89964446eff9d1c6cd752949
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 89693e3020baa46f86b51b97c54240f12fec2d3a
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310375"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485162"
 ---
-# <a name="learning-pathways-manual-setup-for-multilingual"></a>Configuração manual de caminhos de aprendizagem para multilíngues
+# <a name="learning-pathways-manual-setup-for-multilingual"></a>Learning configuração manual de caminhos para multilíngues
 
 Microsoft 365 de aprendizado oferece uma configuração manual para organizações que precisam de suporte para um dos seguintes cenários:
 
@@ -23,7 +23,7 @@ Microsoft 365 de aprendizado oferece uma configuração manual para organizaçõ
 
 - Você deseja instalar caminhos de aprendizado para suporte multilíngue em um dos sites de comunicação SharePoint da sua organização. O site tem ou terá um idioma padrão que não é inglês e é um dos idiomas suportados pelos caminhos de aprendizado. Aqui estão os idiomas suportados pelos caminhos de aprendizado:
 
-- English
+- Inglês
 - Chinês (simplificado)
 - Francês
 - Alemão
@@ -104,7 +104,7 @@ Verifique se as seguintes permissões estão definidas para o site:
 ## <a name="step-6--execute-powershell-configuration-script"></a>Etapa 6- Executar o Script de Configuração do PowerShell
 Um script do PowerShell está incluído que você precisará executar para criar três propriedades `CustomLearningConfiguration.ps1` [de locatário](/sharepoint/dev/spfx/tenant-properties) que a solução usa. Além disso, o [](/sharepoint/dev/spfx/web-parts/single-part-app-pages) script cria duas páginas de aplicativo de parte única na biblioteca de páginas do site para hospedar as Web Parts do administrador e do usuário em um local conhecido.
 
-1. Se você ainda não baixou o Shell de Gerenciamento SharePoint Online, baixe-o agora. Consulte [SharePoint Download do Shell de Gerenciamento Online](https://go.microsoft.com/fwlink/p/).
+1. Se você ainda não baixou o Shell de Gerenciamento SharePoint Online, baixe-o agora. Consulte [SharePoint Download do Shell de Gerenciamento Online](https://go.microsoft.com/fwlink/p/?LinkId=255251).
 2. Talvez seja necessário definir uma política de execução do PowerShell para executar o script. Para obter mais informações, consulte [About Execution Policies](/powershell/module/microsoft.powershell.core/about/about_execution_policies).
 3. Execute o `CustomLearningConfiguration.ps1` script. Além de suas credenciais de Administrador de Locatários, o script solicitará o nome do locatário e o nome do site. Considerando o exemplo a seguir para a URL do seu `https://contoso.sharepoint.com/sites/O365CL` site, , `contoso` é o nome do locatário e é `O365CL` o nome do site. 
 
@@ -115,9 +115,9 @@ Parte dessa solução inclui a aceitação de rastreamento de telemetria anonimi
 
 Depois que o script do PowerShell for executado com êxito, navegue até o site, inicialize o item de lista **CustomConfig** que configura os caminhos de aprendizado para seu primeiro uso e valide que o site está funcionando.
 
-- Vá para `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Abrir o **CustomLearningAdmin.aspx** inicializa o item de lista **CustomConfig** que configura os caminhos de aprendizado para o primeiro uso. Você deve ver uma página com esta aparência:
+- Saiba mais em `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Abrir o **CustomLearningAdmin.aspx** inicializa o item de lista **CustomConfig** que configura os caminhos de aprendizado para o primeiro uso. Você deve ver uma página com esta aparência:
 
-![cg-adminapppage.png](media/cg-adminapppage.png)
+![Aplicativo de administração page.png](media/cg-adminapppage.png)
 
 ## <a name="add-owners-to-site"></a>Adicionar proprietários ao site
 Como Administrador de Locatários, é improvável que você seja a pessoa que personalização do site, portanto, você precisará atribuir alguns proprietários ao site. Os proprietários têm privilégios administrativos no site para que possam modificar páginas do site e renomear o site. Eles também têm a capacidade de ocultar e mostrar o conteúdo fornecido por meio da Web Part de caminhos de aprendizado. Além disso, eles terão a capacidade de criar playlist personalizada e atribuí-las a subcategorias personalizadas.  
@@ -131,6 +131,6 @@ Como Administrador de Locatários, é improvável que você seja a pessoa que pe
 ## <a name="migrate-custom-content"></a>Migrar conteúdo personalizado
 Depois de restabelecer seu site de caminhos de aprendizado seguindo as etapas acima, você precisará mover o conteúdo da sua lista **CustomPlaylists** e sua **lista CustomAssets.** Você também pode, opcionalmente, mover as páginas personalizadas reais que comem seus ativos personalizados se elas morarem no site de caminhos de aprendizado existentes, e sua intenção é excluí-la. A tarefa pode ser difícil porque, para todos os itens na lista **CustomPlaylists,** a ID do item de lista na lista **CustomAssets** é sepultada no campo JSONData de cada item de lista de playlist. Portanto, simplesmente mover o conteúdo da lista **CustomPlaylists** de um site para o outro não será suficiente. Além disso, **a lista CustomAssets** contém a URL absoluta para a página do ativo personalizado no campo JSONData do item de lista. Se os ativos não são movidos e o site não é renomeado (alterando a URL absoluta para a página do ativo), **CustomAssets** poderá permanecer. Mas você precisará corrigir manualmente as entradas. Dada a complexidade desse tipo de migração, sugerimos que você considere inscrever um de nossos parceiros de caminhos de aprendizado para ajudá-lo a fazer essa transição. 
 
-### <a name="next-steps"></a>Próximas Etapas
+### <a name="next-steps"></a>Próximas etapas
 - Consulte [Personalizar caminhos de aprendizagem.](custom_overview.md) 
 - Consulte [Traduzir páginas de site](custom_translate_page_ml.md).

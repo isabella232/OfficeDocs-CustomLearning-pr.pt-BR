@@ -1,6 +1,6 @@
 ---
-title: Dia da vida com o Office 365 - Colaborar com colegas
-description: Prepare-se para o seu dia anterior com o Office 365
+title: Day in the Life with Office 365 - Colaborando com Colegas
+description: Etapas rápidas para estabelecer a prontidão para o dia em que Office 365
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
@@ -8,18 +8,18 @@ ms.topic: how-to
 manager: alexb
 audience: itpro
 ms.service: sharepoint-online
-ms.openlocfilehash: 8c32e727b09eb7ed7b82e12821c95f18092ea91f
-ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
+ms.openlocfilehash: f13951cc8a5c8f851f7f59023b3af982bca8cca8
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749359"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485202"
 ---
 # <a name="collaborating-with-colleagues"></a>Colaborando com os Colegas
 
 ![Visual de deslocamento](media/ditl_collab.png)
 
-É 14:00 e é hora de colaborar com os colegas. O Office 365 oferece as melhores oportunidades de colaboração, permitindo que as equipes trabalhem juntas de várias maneiras. 
+É 14:00 e é hora de colaborar com os colegas. Office 365 oferece as melhores oportunidades de colaboração, permitindo que as equipes trabalhem juntas de várias maneiras. 
 
 ## <a name="tools"></a>Ferramentas
 - Microsoft Teams
@@ -35,7 +35,7 @@ ms.locfileid: "51749359"
 
 ## <a name="create-or-join-a-microsoft-team-for-collaboration"></a>Crie ou reúna uma equipe no Microsoft Teams para colaboração
 
-É no Microsoft Teams e nos canais que as pessoas podem colaborar ao compartilhar arquivos, acompanhar os itens de ação da equipe e muito mais. Cada Microsoft Teams tem uma integração com um site do SharePoint, um bloco de anotações do OneNote e outros ativos. A melhor utilização desse serviço do Office 365 é por pessoas que trabalhem em conjunto com frequência em projetos ou resultados compartilhados. 
+É no Microsoft Teams e nos canais que as pessoas podem colaborar ao compartilhar arquivos, acompanhar os itens de ação da equipe e muito mais. Cada Microsoft Teams tem uma integração com um site SharePoint, um bloco OneNote bloco de anotações e outros ativos. A melhor utilização desse serviço do Office 365 é por pessoas que trabalhem em conjunto com frequência em projetos ou resultados compartilhados. 
 
 ## <a name="share-files-from-your-onedrive"></a>Compartilhe arquivos do seu OneDrive
 É possível compartilhar os arquivos salvos no OneDrive for Business com todos os navegadores ou aplicativos de área de trabalho do Office 365, como o Word ou o Excel. É possível compartilhar com pessoas que usem um nome, alias ou endereço de email da empresa. 
