@@ -7,12 +7,12 @@ ms.date: 02/10/2019
 description: Informações de perguntas frequentes para Microsoft 365 de aprendizado
 ms.service: sharepoint-online
 ms.topic: article
-ms.openlocfilehash: 30d626416992ef5930563b9001ef1c8b773b949c
-ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
+ms.openlocfilehash: 82a7e777490e13fde6fef5add40beee417050027
+ms.sourcegitcommit: d05381fc4a58cf2949773d73877bacc5ef3a7ca6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "59485522"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60048718"
 ---
 # <a name="frequently-asked-questions"></a>Perguntas frequentes
 
@@ -27,8 +27,7 @@ ms.locfileid: "59485522"
 ## <a name="why-is-microsoft-asking-for-tenant-permissions-when-installing-microsoft-365-learning-pathways"></a>Por que a Microsoft está solicitando permissões de locatário ao instalar Microsoft 365 de aprendizado?
 
 O serviço SharePoint Provisionamento Online usa as permissões para provisionar o site SharePoint do Learning, criar as páginas do site e instalar o aplicativo de caminhos de aprendizagem Microsoft 365 no locatário. Esse é o único motivo pelo qual solicitamos as permissões. Sem as permissões solicitadas, o SharePoint provisionamento não pode executar os comandos que instalam automaticamente o modelo de site e a Web Part de caminhos de aprendizado.
-
-Se você ainda tiver preocupações com esse nível de acesso, poderá conceder as permissões e implantar os modelos de site em que estiver interessado e remover imediatamente as permissões concedidas para o aplicativo no armazenamento de aplicativos [do Azure.](https://myapps.microsoft.com)
+![Captura de tela da solicitação de permissões](media/faqs-permissions-request-screenshot.png "Solicitação de permissões") Se você ainda tiver preocupações com esse nível de acesso, poderá conceder as permissões e implantar os modelos de site em que estiver interessado e remover imediatamente as permissões concedidas para o aplicativo no armazenamento de aplicativos [do Azure.](https://myapps.microsoft.com)
 
 ## <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>Quanto tempo levará para instalar o site em nosso ambiente de locatário?
 
